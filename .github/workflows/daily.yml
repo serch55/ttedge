@@ -2,11 +2,12 @@ name: Actualizar predicciones TT Edge (diario)
 
 on:
   schedule:
+    # 06:00 UTC = 08:00 hora española (verano). Cambia si quieres otra hora.
     - cron: "0 6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:
-  contents: write
+  contents: write          # para poder commitear el JSON actualizado
 
 jobs:
   scrape:
@@ -32,7 +33,7 @@ jobs:
           TTEDGE_TZ_OFFSET: "6"
         run: npm run scrape
 
-      - name: Diagnostico si falla
+      - name: Diagnóstico si falla (captura de pantalla)
         if: failure()
         uses: actions/upload-artifact@v4
         with:
@@ -44,6 +45,6 @@ jobs:
         run: |
           git config user.name  "ttedge-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add public/data/history.json
+          git add public/data/history.json public/data/_debug.json
           git diff --staged --quiet || git commit -m "chore: predicciones $(date -u +%Y-%m-%d)"
           git push
