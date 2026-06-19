@@ -134,7 +134,7 @@ function stats(rows){
     const x=track[d.id]; if(!x) continue;
     if(x.result==='win'){ win++; d.type==='over'?oWin++:uWin++; }
     else if(x.result==='loss'){ loss++; d.type==='over'?oLoss++:uLoss++; }
-    const odd=parseFloat(x.odds);
+    const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
     if((x.result==='win'||x.result==='loss') && odd>1){ staked++; units += x.result==='win'?(odd-1):-1; }
   }
   const graded=win+loss;
@@ -155,8 +155,9 @@ function renderKpis(){
     <div class="kpi"><div class="k">Unidades P/L</div><div class="v ${s.units>0?'pos':s.units<0?'neg':''}">${s.staked?((s.units>=0?'+':'')+s.units.toFixed(2)):'—'}</div></div>`;
 }
 
-function searchURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`${d.home} ${d.away} table tennis over under odds`); }
-function resultURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`${d.home} ${d.away} table tennis result score`); }
+// Enlaces que llevan a betsapi (mismo sitio para resultado y cuotas), buscando por los nombres.
+function searchURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`betsapi ${d.home} ${d.away} cuotas`); }
+function resultURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`betsapi ${d.home} ${d.away} resultado`); }
 
 function render(){
   renderKpis();
@@ -168,7 +169,7 @@ function render(){
   g.innerHTML=rows.map(d=>{
     const isU=d.type==='under', col=isU?'var(--amber)':'#7ee2a2';
     const x=track[d.id]||{result:'pending',odds:''};
-    const odd=parseFloat(x.odds);
+    const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
     let pl='';
     if((x.result==='win'||x.result==='loss')&&odd>1){ const u=x.result==='win'?(odd-1):-1; pl=`<span class="pl ${u>=0?'pos':'neg'}">${u>=0?'+':''}${u.toFixed(2)} u</span>`; }
     return `<div class="card ${isU?'under':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
@@ -178,7 +179,7 @@ function render(){
       </div>
       <div class="players">${d.home}<span class="vs">vs</span>${d.away}</div>
       <div class="pick ${isU?'under':'over'}">
-        <span class="big">${isU?'UNDER':'OVER'}</span>
+        <span class="big">${isU?'UNDER':'OVER'} 73,5</span>
         <div><div class="lbl">Ultra ★★★★</div>
         <div style="font-size:12.5px;color:var(--mut)">${d.pct}% ${isU?'under':'over'}${d.l5!=null?` · L5 ${d.l5}%`:''}</div></div>
       </div>
@@ -190,7 +191,7 @@ function render(){
       <div class="track">
         <div class="oddsrow">
           <span class="lbl">Cuota</span>
-          <input type="number" step="0.01" placeholder="—" value="${x.odds||''}" onchange="setOdds('${d.id}',this.value)">
+          <input type="number" step="0.01" placeholder="1.83" value="${x.odds||'1.83'}" onchange="setOdds('${d.id}',this.value)">
           <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">🔎 buscar cuota</a>
           ${pl}
         </div>
