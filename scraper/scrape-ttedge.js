@@ -85,17 +85,22 @@ function pageExtract(){
 async function applyFilters(page, type){
   // estado por defecto tras recarga: Ultra + High activos, sin tipo
   await page.goto('https://ttedge.ai/edge-finder', { waitUntil:'domcontentloaded', timeout:60000 });
-  await page.waitForTimeout(2500);
+  // ESPERAR a que la SPA cargue las predicciones (en servidor tarda: app + Supabase + datos)
+  try { await page.waitForFunction(()=>{ const t=document.body?document.body.textContent:''; return /H2H/.test(t) && /★/.test(t); }, { timeout:40000 }); }
+  catch(e){ /* seguimos, puede que solo tarde un poco más */ }
+  await page.waitForTimeout(2000);
   const clickExact = async (label) => page.evaluate((lbl)=>{
     const els=[...document.querySelectorAll('button,a,[role="button"],div,span,label')];
     const c=els.filter(e=>(e.textContent||'').trim()===lbl).sort((a,b)=>a.textContent.length-b.textContent.length);
     if(c[0]){ c[0].click(); return true; } return false;
   }, label);
   await clickExact(type === 'over' ? 'Over' : 'Under');   // marca el tipo
-  await page.waitForTimeout(600);
+  await page.waitForTimeout(1000);
   await clickExact('High');                                // quita High -> solo Ultra
-  await page.waitForTimeout(1800);
+  await page.waitForTimeout(2500);
   let rows = await page.evaluate(pageExtract);
+  // reintento si aún no había cargado
+  if(rows.length === 0){ await page.waitForTimeout(5000); rows = await page.evaluate(pageExtract); }
   // por seguridad, solo Ultra (4 estrellas) del tipo pedido
   rows = rows.filter(r => r.stars === 4 && r.type === type);
   return rows;
@@ -108,8 +113,11 @@ async function injectSession(page){
   await page.evaluate(({k,v})=>{ try{ localStorage.setItem(k, v); }catch(e){} }, { k:SUPA_KEY, v:SESSION });
   // 3) entrar ya logueado
   await page.goto('https://ttedge.ai/edge-finder', { waitUntil:'domcontentloaded', timeout:60000 });
-  await page.waitForTimeout(3000);
+  await page.waitForTimeout(4000);
   // comprobar que NO nos ha echado al login
+  if (/\/auth/.test(page.url())) throw new Error('Sesión no válida/expirada. Vuelve a copiar tu token de TT Edge al secret TTEDGE_SESSION.');
+  // esperar a que Supabase valide/refresque y carguen las predicciones
+  try { await page.waitForFunction(()=>{ const t=document.body?document.body.textContent:''; return /H2H/.test(t) || /\/auth/.test(location.pathname); }, { timeout:30000 }); } catch(e){}
   if (/\/auth/.test(page.url())) throw new Error('Sesión no válida/expirada. Vuelve a copiar tu token de TT Edge al secret TTEDGE_SESSION.');
 }
 
