@@ -16,10 +16,12 @@ const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright');
 
-// Sesión de TT Edge (Supabase) — login es con Google, así que NO usamos usuario/contraseña:
-// inyectamos tu sesión guardada. SESSION = valor de localStorage 'sb-...-auth-token'.
-const SESSION = process.env.TTEDGE_SESSION || '';
-const SUPA_KEY = 'sb-oczzfazrwovcthzslurd-auth-token'; // clave de sesión Supabase de ttedge.ai
+// Login automático en TT Edge (Supabase, email+contraseña). Sin caducidad: inicia sesión cada vez.
+const EMAIL = process.env.TTEDGE_EMAIL || '';
+const PASSWORD = process.env.TTEDGE_PASSWORD || '';
+const SUPA_URL = 'https://oczzfazrwovcthzslurd.supabase.co';        // proyecto Supabase de ttedge.ai
+const SUPA_ANON = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9jenpmYXpyd292Y3RoenNsdXJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYxNzY5NjYsImV4cCI6MjA4MTc1Mjk2Nn0.1-5W6TiOgajBoJgBkd1JBxwLG13eXwBAx-_GSLN3tzo'; // clave pública (anon)
+const SUPA_KEY = 'sb-oczzfazrwovcthzslurd-auth-token';             // clave de localStorage donde va la sesión
 const SHOW = process.argv.includes('--show');
 const TZ_OFFSET_H = parseInt(process.env.TTEDGE_TZ_OFFSET || '6', 10); // +6h => hora española
 const OUT = path.join(__dirname, '..', 'public', 'data', 'history.json');
@@ -109,22 +111,29 @@ async function applyFilters(page, type){
 }
 
 async function injectSession(page){
-  // 1) cargar el dominio para tener acceso a su localStorage
+  // 1) LOGIN automático contra Supabase con email+contraseña (sin navegador, sin caducidad)
+  const res = await fetch(`${SUPA_URL}/auth/v1/token?grant_type=password`, {
+    method:'POST',
+    headers:{ 'apikey': SUPA_ANON, 'Content-Type':'application/json' },
+    body: JSON.stringify({ email: EMAIL, password: PASSWORD })
+  });
+  const session = await res.json().catch(()=>({}));
+  if (!res.ok || !session.access_token) {
+    throw new Error('Login falló ('+res.status+'). ¿Email/contraseña correctos en los secrets TTEDGE_EMAIL/TTEDGE_PASSWORD? Detalle: '+JSON.stringify(session).slice(0,160));
+  }
+  // 2) cargar el dominio e inyectar la sesión recién creada en su localStorage
   await page.goto('https://ttedge.ai/', { waitUntil:'domcontentloaded', timeout:60000 });
-  // 2) inyectar la sesión guardada (Supabase la usará y refrescará el token sola)
-  await page.evaluate(({k,v})=>{ try{ localStorage.setItem(k, v); }catch(e){} }, { k:SUPA_KEY, v:SESSION });
+  await page.evaluate(({k,v})=>{ try{ localStorage.setItem(k, v); }catch(e){} }, { k:SUPA_KEY, v: JSON.stringify(session) });
   // 3) entrar ya logueado
   await page.goto('https://ttedge.ai/edge-finder', { waitUntil:'domcontentloaded', timeout:60000 });
   await page.waitForTimeout(4000);
-  // comprobar que NO nos ha echado al login
-  if (/\/auth/.test(page.url())) throw new Error('Sesión no válida/expirada. Vuelve a copiar tu token de TT Edge al secret TTEDGE_SESSION.');
-  // esperar a que Supabase valide/refresque y carguen las predicciones
+  if (/\/auth/.test(page.url())) throw new Error('La sesión creada no fue aceptada por la web (formato).');
   try { await page.waitForFunction(()=>{ const t=document.body?document.body.textContent:''; return /H2H/.test(t) || /\/auth/.test(location.pathname); }, { timeout:30000 }); } catch(e){}
-  if (/\/auth/.test(page.url())) throw new Error('Sesión no válida/expirada. Vuelve a copiar tu token de TT Edge al secret TTEDGE_SESSION.');
+  if (/\/auth/.test(page.url())) throw new Error('Login OK pero la web no cargó las predicciones (¿plan/trial caducado en TT Edge?).');
 }
 
 (async () => {
-  if(!SESSION){ console.error('\n❌ Falta TTEDGE_SESSION (tu token de sesión de TT Edge). Mira el README.\n'); process.exit(1); }
+  if(!EMAIL || !PASSWORD){ console.error('\n❌ Faltan TTEDGE_EMAIL / TTEDGE_PASSWORD (tu acceso a TT Edge). Mira el README.\n'); process.exit(1); }
   const browser = await chromium.launch({ headless: !SHOW, args:['--disable-blink-features=AutomationControlled','--no-sandbox'] });
   const ctx = await browser.newContext({
     userAgent:'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
