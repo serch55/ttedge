@@ -1,10 +1,245 @@
 {
-  "generated": "2026-06-19T12:56:08.148Z",
+  "generated": "2026-06-19T15:59:52.553Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-19",
-  "totalCount": 25,
-  "todayCount": 13,
+  "totalCount": 37,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-06-19_over_martin-drabek_vs_vit-herrmann",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Martin Drabek",
+      "away": "Vit Herrmann",
+      "league": "Setka Cup",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 90,
+      "score": 100,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_pawel-adamus_vs_jakub-michalski",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Pawel Adamus",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "19:55",
+      "timeRaw": "1:55 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_tomas-ogrocki_vs_jiri-matus",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Tomas Ogrocki",
+      "away": "Jiri Matus",
+      "league": "TT Cup",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_vladyslav-mishchenko_vs_artem-yurkov",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Vladyslav Mishchenko",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_alan-wos_vs_jakub-kuzmicz",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Alan Wos",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 6,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_under_robert-szymik_vs_adam-ruszkiewicz",
+      "date": "2026-06-19",
+      "type": "under",
+      "home": "Robert Szymik",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 27,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_stepan-kalensky_vs_filip-kubos",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Stepan Kalensky",
+      "away": "Filip Kubos",
+      "league": "Setka Cup",
+      "time": "19:15",
+      "timeRaw": "1:15 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_dariusz-szlubowski_vs_kuba-golaszewski",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Dariusz Szlubowski",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 92,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_mariusz-adamus_vs_sebastian-juzek",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Mariusz Adamus",
+      "away": "Sebastian Juzek",
+      "league": "TT Elite Series",
+      "time": "18:20",
+      "timeRaw": "12:20 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_jaroslav-neuwirth-jnr_vs_martin-sobota",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Jaroslav Neuwirth Jnr",
+      "away": "Martin Sobota",
+      "league": "TT Cup",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_krystian-kolodziej_vs_jakub-kuzmicz",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Krystian Kolodziej",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_vitalii-levshyn_vs_oleksandr-shkurupii",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Vitalii Levshyn",
+      "away": "Oleksandr Shkurupii",
+      "league": "Setka Cup",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-19_over_miroslav-cervenka_vs_marcel-cmil",
       "date": "2026-06-19",
