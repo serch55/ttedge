@@ -22,7 +22,10 @@
   .stars{color:var(--ball2);letter-spacing:2px}
   .sub{color:var(--mut);font-size:12.5px;margin-top:3px}
   /* KPIs */
-  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:6px 0 18px}
+  .statbar{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin:4px 0 8px}
+  .statbar #statTitle{font-size:14px;font-weight:800;color:var(--txt)}
+  .statbar .statnote{font-size:11.5px;color:var(--mut)}
+  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:0 0 18px}
   @media(max-width:820px){.kpis{grid-template-columns:repeat(3,1fr)}}
   .kpi{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:13px}
   .kpi .k{font-size:10.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.5px}
@@ -88,6 +91,7 @@
     </div>
   </header>
 
+  <div class="statbar"><span id="statTitle">Estadísticas · todas las ligas</span><span class="statnote">apuesta fija 50€ · cuota 1,83 · usa las "Liga"/"Tipo" de abajo para filtrar</span></div>
   <div class="kpis" id="kpis"></div>
 
   <div class="toolbar">
@@ -118,41 +122,60 @@
 
 <script>
 const STORE='ttedge_tracking_v1';
+const STAKE=50;        // apuesta fija por evento (€)
+const DEF_ODDS=1.83;   // cuota por defecto
 const lgClass=l=>l==="TT Elite Series"?"lg-tte":l==="TT Cup"?"lg-cup":l==="Czech Liga Pro"?"lg-cz":"lg-setka";
 let DATA=[], track={}, fType="all", fRes="all", fLeague="all", fDay="all";
 
 function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }catch(e){ track={}; } }
 function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
-function t(id){ return track[id] || (track[id]={result:'pending', odds:''}); }
+function t(id){ return track[id] || (track[id]={result:'pending', odds:'', close:''}); }
 
 function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); saveTrack(); render(); }
-function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); renderKpis(); }
+function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); renderKpis(); render(); }
+function setClose(id,v){ const x=t(id); x.close=v; saveTrack(); renderKpis(); }
 
 function stats(rows){
-  let win=0,loss=0,units=0,oWin=0,oLoss=0,uWin=0,uLoss=0,staked=0;
+  let win=0,loss=0,pend=0,profit=0,clvSum=0,clvN=0,oWin=0,oLoss=0,uWin=0,uLoss=0;
   for(const d of rows){
-    const x=track[d.id]; if(!x) continue;
-    if(x.result==='win'){ win++; d.type==='over'?oWin++:uWin++; }
-    else if(x.result==='loss'){ loss++; d.type==='over'?oLoss++:uLoss++; }
-    const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
-    if((x.result==='win'||x.result==='loss') && odd>1){ staked++; units += x.result==='win'?(odd-1):-1; }
+    const x=track[d.id]||{};
+    const res=x.result||'pending';
+    const odd=parseFloat(x.odds)||DEF_ODDS;
+    if(res==='win'){ win++; profit+=STAKE*(odd-1); d.type==='over'?oWin++:uWin++; }
+    else if(res==='loss'){ loss++; profit-=STAKE; d.type==='over'?oLoss++:uLoss++; }
+    else pend++;
+    const close=parseFloat(x.close);
+    if(close>1 && odd>1){ clvSum+=(odd/close-1)*100; clvN++; }
   }
-  const graded=win+loss;
-  const acc=graded?Math.round(win/graded*100):null;
-  const oAcc=(oWin+oLoss)?Math.round(oWin/(oWin+oLoss)*100):null;
-  const uAcc=(uWin+uLoss)?Math.round(uWin/(uWin+uLoss)*100):null;
-  return {total:rows.length,graded,win,loss,acc,oAcc,uAcc,units,staked,roi:staked?Math.round(units/staked*100):null};
+  const graded=win+loss, staked=STAKE*graded;
+  return {
+    total:rows.length, graded, win, loss, pend,
+    acc: graded?Math.round(win/graded*100):null,
+    oAcc:(oWin+oLoss)?Math.round(oWin/(oWin+oLoss)*100):null,
+    uAcc:(uWin+uLoss)?Math.round(uWin/(uWin+uLoss)*100):null,
+    staked, profit, yield: graded?(profit/staked*100):null,
+    clv: clvN?(clvSum/clvN):null
+  };
 }
 function renderKpis(){
-  const s=stats(DATA);
-  const el=document.getElementById('kpis');
-  el.innerHTML=`
-    <div class="kpi"><div class="k">Registradas</div><div class="v">${s.total}</div></div>
+  const rows=DATA.filter(d=>(fLeague==='all'||d.league===fLeague)&&(fType==='all'||d.type===fType));
+  const s=stats(rows);
+  const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
+  const cls=n=>n>0?'pos':n<0?'neg':'';
+  document.getElementById('statTitle').textContent='Estadísticas · '+(fLeague==='all'?'todas las ligas':fLeague)+(fType==='all'?'':' · solo '+fType);
+  document.getElementById('kpis').innerHTML=`
+    <div class="kpi"><div class="k">Apuestas</div><div class="v">${s.total}</div></div>
     <div class="kpi"><div class="k">Evaluadas</div><div class="v">${s.graded}</div></div>
+    <div class="kpi"><div class="k">Ganadas</div><div class="v pos">${s.win}</div></div>
+    <div class="kpi"><div class="k">Perdidas</div><div class="v neg">${s.loss}</div></div>
+    <div class="kpi"><div class="k">Pendientes</div><div class="v amb">${s.pend}</div></div>
     <div class="kpi"><div class="k">% Acierto</div><div class="v ${s.acc>=50?'pos':s.acc==null?'':'neg'}">${s.acc==null?'—':s.acc+'%'}</div></div>
+    <div class="kpi"><div class="k">Apostado</div><div class="v">${s.graded?('€'+s.staked.toFixed(0)):'—'}</div></div>
+    <div class="kpi"><div class="k">Beneficio</div><div class="v ${cls(s.profit)}">${s.graded?eur(s.profit):'—'}</div></div>
+    <div class="kpi"><div class="k">Yield / ROI</div><div class="v ${s.yield==null?'':cls(s.yield)}">${s.yield==null?'—':(s.yield>=0?'+':'')+s.yield.toFixed(1)+'%'}</div></div>
+    <div class="kpi"><div class="k">CLV medio</div><div class="v ${s.clv==null?'':cls(s.clv)}">${s.clv==null?'—':(s.clv>=0?'+':'')+s.clv.toFixed(1)+'%'}</div></div>
     <div class="kpi"><div class="k">Acierto Over</div><div class="v">${s.oAcc==null?'—':s.oAcc+'%'}</div></div>
-    <div class="kpi"><div class="k">Acierto Under</div><div class="v">${s.uAcc==null?'—':s.uAcc+'%'}</div></div>
-    <div class="kpi"><div class="k">Unidades P/L</div><div class="v ${s.units>0?'pos':s.units<0?'neg':''}">${s.staked?((s.units>=0?'+':'')+s.units.toFixed(2)):'—'}</div></div>`;
+    <div class="kpi"><div class="k">Acierto Under</div><div class="v">${s.uAcc==null?'—':s.uAcc+'%'}</div></div>`;
 }
 
 // Enlaces que llevan a betsapi (mismo sitio para resultado y cuotas), buscando por los nombres.
@@ -168,10 +191,10 @@ function render(){
   if(!rows.length){ g.innerHTML='<div class="empty">No hay partidos con ese filtro.</div>'; return; }
   g.innerHTML=rows.map(d=>{
     const isU=d.type==='under', col=isU?'var(--amber)':'#7ee2a2';
-    const x=track[d.id]||{result:'pending',odds:''};
+    const x=track[d.id]||{result:'pending',odds:'',close:''};
     const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
     let pl='';
-    if((x.result==='win'||x.result==='loss')&&odd>1){ const u=x.result==='win'?(odd-1):-1; pl=`<span class="pl ${u>=0?'pos':'neg'}">${u>=0?'+':''}${u.toFixed(2)} u</span>`; }
+    if(x.result==='win'||x.result==='loss'){ const e=x.result==='win'?STAKE*(odd-1):-STAKE; pl=`<span class="pl ${e>=0?'pos':'neg'}">${e>=0?'+':'−'}€${Math.abs(e).toFixed(2)}</span>`; }
     return `<div class="card ${isU?'under':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
       <div class="row1">
         <span class="league ${lgClass(d.league)}">${d.league||''}</span>
@@ -192,7 +215,9 @@ function render(){
         <div class="oddsrow">
           <span class="lbl">Cuota</span>
           <input type="number" step="0.01" placeholder="1.83" value="${x.odds||'1.83'}" onchange="setOdds('${d.id}',this.value)">
-          <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">🔎 buscar cuota</a>
+          <span class="lbl" title="Cuota de cierre, para el CLV">Cierre</span>
+          <input type="number" step="0.01" placeholder="—" value="${x.close||''}" onchange="setClose('${d.id}',this.value)">
+          <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">🔎 cuota</a>
           ${pl}
         </div>
         <div class="oddsrow" style="justify-content:flex-end">
