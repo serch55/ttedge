@@ -44,13 +44,14 @@ function toES(timeStr){
 // función ejecutada DENTRO de la página: extrae las tarjetas visibles
 function pageExtract(){
   const tokensOf = root => { const out=[]; const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,null); let n; while(n=w.nextNode()){const t=(n.textContent||'').trim(); if(t)out.push(t);} return out; };
+  // un bloque es "tarjeta" si tiene ★ + H2H + vs + (OVER|UNDER); cogemos el mínimo que lo tenga todo
+  const ok = j => /★/.test(j) && /H2H/.test(j) && /\bvs\b/i.test(j) && /\b(OVER|UNDER)\b/i.test(j);
   const all=[...document.querySelectorAll('div')];
   const cards=[];
   for(const el of all){
     const tks=tokensOf(el); const joined=tks.join(' | ');
-    if(!/★/.test(joined) || !/H2H/.test(joined) || !/\bvs\b/i.test(joined)) continue;
-    const childq=[...el.children].some(c=>{const j=tokensOf(c).join(' | ');return /★/.test(j)&&/H2H/.test(j)&&/\bvs\b/i.test(j);});
-    if(childq) continue;
+    if(!ok(joined)) continue;
+    if([...el.children].some(c=>ok(tokensOf(c).join(' | ')))) continue;
     cards.push(tks);
   }
   const out=[];
@@ -63,11 +64,12 @@ function pageExtract(){
     if(vsIdx>0){ home=tks[vsIdx-1]; away=tks[vsIdx+1]||''; }
     const league = tks[0]||'';
     const timeM = joined.match(/(\d{1,2}:\d{2}\s*(AM|PM))/i);
-    const h2h = (joined.match(/(\d+)\s*H2H/)||[])[1] || '';
-    const predM = joined.match(/\b(OVER|UNDER)\b[^\d]*(\d+)%/i);
-    const l5 = (joined.match(/L5:\s*(\d+)%/)||[])[1] || '';
-    const sets3 = (joined.match(/3\+ sets:?\s*\|?\s*(\d+)%/)||[])[1] || '';
-    const score = (joined.match(/Score:\s*(\d+)/)||[])[1] || '';
+    // OJO: número y "%" pueden ser tokens separados (".. | 87 | % | .."), por eso [^\d]* y sin %
+    const h2h = (joined.match(/(\d+)\s*\|?\s*H2H/)||[])[1] || '';
+    const predM = joined.match(/\b(OVER|UNDER)\b[^\d]*(\d+)/i);
+    const l5 = (joined.match(/L5:[^\d]*(\d+)/)||[])[1] || '';
+    const sets3 = (joined.match(/3\+ sets:[^\d]*(\d+)/)||[])[1] || '';
+    const score = (joined.match(/Score:[^\d]*(\d+)/)||[])[1] || '';
     const trend = /rising/i.test(joined) ? 'rising' : (/falling/i.test(joined) ? 'falling' : '');
     const tags = ['Hot Streak','Fatigue','Volatile','Pattern'].filter(t=>new RegExp(t,'i').test(joined));
     if(!home || !away || !predM) continue;
