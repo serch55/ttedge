@@ -132,6 +132,21 @@ async function injectSession(page){
   try {
     console.log('🔐 Inyectando sesión de TT Edge…');
     await injectSession(page);
+    // DIAGNÓSTICO: ¿qué ve el robot tras inyectar la sesión?
+    const diag = await page.evaluate(()=>{
+      const t = document.body ? document.body.textContent : '';
+      return {
+        url: location.href,
+        textoLen: t.length,
+        hayPredicciones: /H2H/.test(t),
+        estrellas: (t.match(/★/g)||[]).length,
+        pareceLogin: /(log\s?in|sign\s?in|continue with google)/i.test(t),
+        botonesFiltro: ['Over','Under','High','Ultra'].filter(w=>new RegExp('(^|\\s)'+w+'(\\s|$)').test(t)),
+        snippet: t.replace(/\s+/g,' ').slice(0,260)
+      };
+    }).catch(e=>({error:e.message}));
+    console.log('🔎 diag:', JSON.stringify(diag));
+
     console.log('📥 Extrayendo OVER (Ultra)…');
     const over = await applyFilters(page, 'over');
     console.log(`   ${over.length} partidos OVER`);
@@ -165,6 +180,8 @@ async function injectSession(page){
     const payload = { generated: new Date().toISOString(), tzNote: `hora española (+${TZ_OFFSET_H}h)`, lastDay: day, totalCount: all.length, todayCount: todays.length, matches: all };
     fs.mkdirSync(path.dirname(OUT), { recursive:true });
     fs.writeFileSync(OUT, JSON.stringify(payload, null, 2));
+    // diagnóstico legible (se commitea para poder revisarlo)
+    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, diag }, null, 2));
     console.log(`💾 ${OUT} · hoy ${todays.length} (${over.length} over, ${under.length} under) · histórico total ${all.length}.`);
   } catch(e){
     try { fs.mkdirSync(path.dirname(OUT),{recursive:true}); fs.writeFileSync(path.join(path.dirname(OUT),'_debug.png'), await page.screenshot()); } catch(_){}
