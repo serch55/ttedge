@@ -29,7 +29,8 @@ jobs:
 
       - name: Ejecutar scraper
         env:
-          TTEDGE_SESSION: ${{ secrets.TTEDGE_SESSION }}
+          TTEDGE_EMAIL: ${{ secrets.TTEDGE_EMAIL }}
+          TTEDGE_PASSWORD: ${{ secrets.TTEDGE_PASSWORD }}
           TTEDGE_TZ_OFFSET: "6"
         run: npm run scrape
 
