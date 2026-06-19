@@ -112,13 +112,16 @@
     <span class="chip rchip" data-res="graded">Evaluadas</span>
     <span style="width:8px"></span>
     <span class="chip schip active" id="score85chip">★ Score ≥ 85</span>
-    <span style="flex:1"></span>
+    <span style="width:8px"></span>
     <select id="day"></select>
-    <select id="league">
-      <option value="all">Todas las ligas</option>
-      <option>TT Elite Series</option><option>TT Cup</option>
-      <option>Czech Liga Pro</option><option>Setka Cup</option>
-    </select>
+  </div>
+  <div class="toolbar" style="margin-top:-8px">
+    <span style="color:var(--mut);font-size:12px;font-weight:700;margin-right:2px">Ligas:</span>
+    <span class="chip lgchip active" data-lg="all">Todas</span>
+    <span class="chip lgchip" data-lg="TT Elite Series">TT Elite</span>
+    <span class="chip lgchip" data-lg="TT Cup">TT Cup</span>
+    <span class="chip lgchip" data-lg="Czech Liga Pro">Czech Liga Pro</span>
+    <span class="chip lgchip" data-lg="Setka Cup">Setka Cup</span>
   </div>
 
   <div class="grid" id="grid"></div>
@@ -135,8 +138,9 @@ const STORE='ttedge_tracking_v1';
 const STAKE=50;        // apuesta fija por evento (€)
 const DEF_ODDS=1.83;   // cuota por defecto
 const lgClass=l=>l==="TT Elite Series"?"lg-tte":l==="TT Cup"?"lg-cup":l==="Czech Liga Pro"?"lg-cz":"lg-setka";
-let DATA=[], track={}, fType="all", fRes="all", fLeague="all", fDay="all", fScore85=true;
+let DATA=[], track={}, fType="all", fRes="all", fLeagues=[], fDay="all", fScore85=true;
 const passScore=d=>!fScore85 || (d.score!=null && d.score>=85);
+const passLeague=d=>fLeagues.length===0 || fLeagues.includes(d.league);
 
 function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }catch(e){ track={}; } }
 function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
@@ -169,11 +173,11 @@ function stats(rows){
   };
 }
 function renderKpis(){
-  const rows=DATA.filter(d=>(fLeague==='all'||d.league===fLeague)&&(fType==='all'||d.type===fType)&&passScore(d));
+  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d));
   const s=stats(rows);
   const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
   const cls=n=>n>0?'pos':n<0?'neg':'';
-  document.getElementById('statTitle').textContent='Estadísticas · '+(fLeague==='all'?'todas las ligas':fLeague)+(fType==='all'?'':' · solo '+fType);
+  document.getElementById('statTitle').textContent='Estadísticas · '+(fLeagues.length===0?'todas las ligas':fLeagues.join(' + '))+(fType==='all'?'':' · solo '+fType);
   document.getElementById('kpis').innerHTML=`
     <div class="kpi"><div class="k">Apuestas</div><div class="v">${s.total}</div></div>
     <div class="kpi"><div class="k">Evaluadas</div><div class="v">${s.graded}</div></div>
@@ -192,7 +196,7 @@ function renderKpis(){
 function drawChart(){
   const c=document.getElementById('chart'); if(!c) return;
   const ctx=c.getContext('2d'); const W=c.width, H=c.height; ctx.clearRect(0,0,W,H);
-  let rows=DATA.filter(d=>(fLeague==='all'||d.league===fLeague)&&(fType==='all'||d.type===fType)&&passScore(d))
+  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d))
     .filter(d=>['win','loss'].includes(track[d.id]&&track[d.id].result))
     .sort((a,b)=>((a.date||'')+(a.time||'')).localeCompare((b.date||'')+(b.time||'')));
   let cum=0; const pts=[0];
@@ -225,7 +229,7 @@ function resultURL(d){ return 'https://www.google.com/search?q='+encodeURICompon
 
 function render(){
   renderKpis();
-  let rows=DATA.filter(d=>(fType==='all'||d.type===fType)&&(fLeague==='all'||d.league===fLeague)&&(fDay==='all'||d.date===fDay)&&passScore(d));
+  let rows=DATA.filter(d=>(fType==='all'||d.type===fType)&&passLeague(d)&&(fDay==='all'||d.date===fDay)&&passScore(d));
   if(fRes==='pending') rows=rows.filter(d=>(track[d.id]?.result||'pending')==='pending');
   if(fRes==='graded') rows=rows.filter(d=>['win','loss'].includes(track[d.id]?.result));
   const g=document.getElementById('grid');
@@ -306,7 +310,13 @@ function importData(e){ const f=e.target.files[0]; if(!f)return; const r=new Fil
 
 document.querySelectorAll('.tchip').forEach(c=>c.onclick=()=>{document.querySelectorAll('.tchip').forEach(x=>x.classList.remove('active'));c.classList.add('active');fType=c.dataset.type;render();});
 document.querySelectorAll('.rchip').forEach(c=>c.onclick=()=>{document.querySelectorAll('.rchip').forEach(x=>x.classList.remove('active'));c.classList.add('active');fRes=c.dataset.res;render();});
-document.getElementById('league').onchange=e=>{fLeague=e.target.value;render();};
+function paintLeagueChips(){ document.querySelectorAll('.lgchip').forEach(c=>{ const lg=c.dataset.lg; const on= lg==='all' ? fLeagues.length===0 : fLeagues.includes(lg); c.classList.toggle('active',on); }); }
+document.querySelectorAll('.lgchip').forEach(c=>c.onclick=()=>{
+  const lg=c.dataset.lg;
+  if(lg==='all'){ fLeagues=[]; }
+  else { const i=fLeagues.indexOf(lg); if(i>=0) fLeagues.splice(i,1); else fLeagues.push(lg); }
+  paintLeagueChips(); render();
+});
 document.getElementById('score85chip').onclick=function(){ fScore85=!fScore85; this.classList.toggle('active',fScore85); render(); };
 document.getElementById('day').onchange=e=>{fDay=e.target.value;render();};
 
