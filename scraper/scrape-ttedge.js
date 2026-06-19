@@ -46,8 +46,8 @@ function toES(timeStr){
 // función ejecutada DENTRO de la página: extrae las tarjetas visibles
 function pageExtract(){
   const tokensOf = root => { const out=[]; const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,null); let n; while(n=w.nextNode()){const t=(n.textContent||'').trim(); if(t)out.push(t);} return out; };
-  // un bloque es "tarjeta" si tiene ★ + H2H + vs + (OVER|UNDER); cogemos el mínimo que lo tenga todo
-  const ok = j => /★/.test(j) && /H2H/.test(j) && /\bvs\b/i.test(j) && /\b(OVER|UNDER)\b/i.test(j);
+  // un bloque es "tarjeta" si tiene ★ + H2H + vs + (OVER|UNDER|SPREAD); cogemos el mínimo que lo tenga todo
+  const ok = j => /★/.test(j) && /H2H/.test(j) && /\bvs\b/i.test(j) && /\b(OVER|UNDER|SPREAD)\b/i.test(j);
   const all=[...document.querySelectorAll('div')];
   const cards=[];
   for(const el of all){
@@ -66,22 +66,29 @@ function pageExtract(){
     if(vsIdx>0){ home=tks[vsIdx-1]; away=tks[vsIdx+1]||''; }
     const league = tks[0]||'';
     const timeM = joined.match(/(\d{1,2}:\d{2}\s*(AM|PM))/i);
-    // OJO: número y "%" pueden ser tokens separados (".. | 87 | % | .."), por eso [^\d]* y sin %
+    const timeRaw = timeM ? timeM[1].replace(/\s+/g,' ') : '';
     const h2h = (joined.match(/(\d+)\s*\|?\s*H2H/)||[])[1] || '';
-    const predM = joined.match(/\b(OVER|UNDER)\b[^\d]*(\d+)/i);
-    const l5 = (joined.match(/L5:[^\d]*(\d+)/)||[])[1] || '';
-    const sets3 = (joined.match(/3\+ sets:[^\d]*(\d+)/)||[])[1] || '';
     const score = (joined.match(/Score:[^\d]*(\d+)/)||[])[1] || '';
     const trend = /rising/i.test(joined) ? 'rising' : (/falling/i.test(joined) ? 'falling' : '');
     const tags = ['Hot Streak','Fatigue','Volatile','Pattern'].filter(t=>new RegExp(t,'i').test(joined));
-    if(!home || !away || !predM) continue;
-    out.push({
-      stars, league, home, away,
-      timeRaw: timeM ? timeM[1].replace(/\s+/g,' ') : '',
-      type: predM[1].toLowerCase(), pct: +predM[2],
-      l5: l5?+l5:null, sets3: sets3?+sets3:null, score: score?+score:null,
-      h2h: h2h?+h2h:null, trend, tags
-    });
+    if(!home || !away) continue;
+    const base = { stars, league, home, away, timeRaw, score: score?+score:null, h2h: h2h?+h2h:null, trend, tags };
+
+    if (/\bSPREAD\b/i.test(joined)) {
+      // SPREAD: jugador favorito + hándicap. Ej: "→ | Denys Kozoriz | SPREAD | - | 14.5 | (L5: | 13.6"
+      const pickM = joined.match(/→\s*\|?\s*([^|]+?)\s*\|\s*SPREAD/i);
+      const spM = joined.match(/SPREAD\s*\|?\s*([+-]?)\s*\|?\s*(\d+\.?\d*)/i);
+      const l5s = (joined.match(/L5:[^\d-]*(\d+\.?\d*)/)||[])[1] || '';
+      const spread = spM ? (spM[1]==='-'?-1:1)*parseFloat(spM[2]) : null;
+      out.push({ ...base, type:'spread', pick: pickM?pickM[1].trim():'', spread, l5: l5s?parseFloat(l5s):null });
+    } else {
+      // OVER/UNDER: número y "%" son tokens separados (".. | 87 | % | .."), por eso [^\d]* y sin %
+      const predM = joined.match(/\b(OVER|UNDER)\b[^\d]*(\d+)/i);
+      const l5 = (joined.match(/L5:[^\d]*(\d+)/)||[])[1] || '';
+      const sets3 = (joined.match(/3\+ sets:[^\d]*(\d+)/)||[])[1] || '';
+      if(!predM) continue;
+      out.push({ ...base, type: predM[1].toLowerCase(), pct:+predM[2], l5: l5?+l5:null, sets3: sets3?+sets3:null });
+    }
   }
   return out;
 }
@@ -98,7 +105,8 @@ async function applyFilters(page, type){
     const c=els.filter(e=>(e.textContent||'').trim()===lbl).sort((a,b)=>a.textContent.length-b.textContent.length);
     if(c[0]){ c[0].click(); return true; } return false;
   }, label);
-  await clickExact(type === 'over' ? 'Over' : 'Under');   // marca el tipo
+  const btnLabel = type==='over'?'Over':type==='under'?'Under':'Spread';
+  await clickExact(btnLabel);                              // marca el tipo
   await page.waitForTimeout(1000);
   await clickExact('High');                                // quita High -> solo Ultra
   await page.waitForTimeout(2500);
@@ -164,14 +172,18 @@ async function injectSession(page){
     console.log('📥 Extrayendo UNDER (Ultra)…');
     const under = await applyFilters(page, 'under');
     console.log(`   ${under.length} partidos UNDER`);
+    console.log('📥 Extrayendo SPREAD (Ultra)…');
+    const spread = await applyFilters(page, 'spread');
+    console.log(`   ${spread.length} partidos SPREAD`);
 
     const day = todayMadrid();
-    const todays = [...over, ...under].map(r => {
+    const todays = [...over, ...under, ...spread].map(r => {
       const id = `${day}_${r.type}_${slug(r.home)}_vs_${slug(r.away)}`;
       return {
         id, date: day, type: r.type, home: r.home, away: r.away, league: r.league,
         time: toES(r.timeRaw), timeRaw: r.timeRaw,
         pct: r.pct, l5: r.l5, sets3: r.sets3, score: r.score,
+        pick: r.pick, spread: r.spread,
         h2h: r.h2h, trend: r.trend, tags: r.tags
       };
     });
@@ -192,8 +204,8 @@ async function injectSession(page){
     fs.mkdirSync(path.dirname(OUT), { recursive:true });
     fs.writeFileSync(OUT, JSON.stringify(payload, null, 2));
     // diagnóstico legible (se commitea para poder revisarlo)
-    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, diag }, null, 2));
-    console.log(`💾 ${OUT} · hoy ${todays.length} (${over.length} over, ${under.length} under) · histórico total ${all.length}.`);
+    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, spreadFound:spread.length, diag }, null, 2));
+    console.log(`💾 ${OUT} · hoy ${todays.length} (${over.length} over, ${under.length} under, ${spread.length} spread) · histórico total ${all.length}.`);
   } catch(e){
     try { fs.mkdirSync(path.dirname(OUT),{recursive:true}); fs.writeFileSync(path.join(path.dirname(OUT),'_debug.png'), await page.screenshot()); } catch(_){}
     console.error('💥 Error:', e.message, '(ver public/data/_debug.png)');
