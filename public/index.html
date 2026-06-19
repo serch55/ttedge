@@ -156,6 +156,7 @@ function renderKpis(){
 }
 
 function searchURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`${d.home} ${d.away} table tennis over under odds`); }
+function resultURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`${d.home} ${d.away} table tennis result score`); }
 
 function render(){
   renderKpis();
@@ -192,6 +193,9 @@ function render(){
           <input type="number" step="0.01" placeholder="—" value="${x.odds||''}" onchange="setOdds('${d.id}',this.value)">
           <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">🔎 buscar cuota</a>
           ${pl}
+        </div>
+        <div class="oddsrow" style="justify-content:flex-end">
+          <a class="searchlink" href="${resultURL(d)}" target="_blank" rel="noopener">🔎 buscar resultado del partido</a>
         </div>
         <div class="results">
           <div class="rbtn win ${x.result==='win'?'on':''}" onclick="setResult('${d.id}','win')">✅ Acertó</div>
