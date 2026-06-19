@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TT Edge · Ultra Over/Under · Registro</title>
+<style>
+  :root{--bg:#0b0f17;--bg2:#111826;--card:#151d2e;--card2:#1b2435;--line:#26304a;--txt:#e8edf7;
+    --mut:#8a97b0;--ball:#ff7a18;--ball2:#ffb347;--green:#22c55e;--red:#ef4444;--amber:#f59e0b;
+    --accent:#6ea8fe;--shadow:0 10px 40px rgba(0,0,0,.45);}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;
+    background:radial-gradient(1200px 600px at 80% -10%,#16233f 0%,transparent 60%),
+               radial-gradient(900px 500px at -10% 10%,#1a1230 0%,transparent 55%),var(--bg);
+    color:var(--txt);line-height:1.5;-webkit-font-smoothing:antialiased;padding-bottom:60px}
+  .wrap{max-width:1140px;margin:0 auto;padding:0 18px}
+  header.hero{padding:30px 0 14px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+  .logo{width:54px;height:54px;border-radius:16px;flex:0 0 auto;
+    background:conic-gradient(from 220deg,var(--ball),var(--ball2),var(--ball));
+    display:grid;place-items:center;font-size:27px;box-shadow:0 8px 24px rgba(255,122,24,.35)}
+  h1{font-size:22px;margin:0;letter-spacing:-.5px}
+  .stars{color:var(--ball2);letter-spacing:2px}
+  .sub{color:var(--mut);font-size:12.5px;margin-top:3px}
+  /* KPIs */
+  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:6px 0 18px}
+  @media(max-width:820px){.kpis{grid-template-columns:repeat(3,1fr)}}
+  .kpi{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:13px}
+  .kpi .k{font-size:10.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.5px}
+  .kpi .v{font-size:22px;font-weight:800;margin-top:3px;font-variant-numeric:tabular-nums}
+  .pos{color:var(--green)}.neg{color:var(--red)}.amb{color:var(--amber)}
+  .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 18px}
+  .chip{padding:6px 12px;border-radius:999px;background:var(--card);border:1px solid var(--line);
+    color:var(--mut);cursor:pointer;font-size:12.5px;font-weight:600;transition:.15s;user-select:none}
+  .chip.active{background:linear-gradient(180deg,var(--ball),#e8650a);color:#fff;border-color:transparent}
+  select,input{background:var(--bg);border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:8px 10px;font-size:12.5px;font-family:inherit;outline:none}
+  .btn{cursor:pointer;border:1px solid var(--line);background:var(--card2);color:var(--txt);border-radius:9px;padding:8px 12px;font-size:12.5px;font-weight:700}
+  .grid{display:grid;gap:15px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+  .card{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);
+    border-radius:16px;padding:16px;box-shadow:var(--shadow);position:relative;overflow:hidden}
+  .card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--green),var(--ball2))}
+  .card.under::before{background:linear-gradient(90deg,var(--amber),var(--ball2))}
+  .card.win{border-color:rgba(34,197,94,.5)}.card.loss{border-color:rgba(239,68,68,.45)}
+  .row1{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+  .league{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;padding:3px 8px;border-radius:7px}
+  .lg-tte{background:rgba(110,168,254,.16);color:#9fc1ff}.lg-cup{background:rgba(255,122,24,.16);color:#ffb37a}
+  .lg-cz{background:rgba(34,197,94,.16);color:#7ee2a2}.lg-setka{background:rgba(245,158,11,.16);color:#f5c869}
+  .date{font-size:11px;color:var(--mut);font-weight:700}
+  .time{font-size:12.5px;color:var(--mut);font-weight:700;font-variant-numeric:tabular-nums}
+  .players{font-size:16px;font-weight:800;letter-spacing:-.3px;line-height:1.3}
+  .players .vs{color:var(--mut);font-weight:600;font-size:12px;margin:0 5px}
+  .pick{display:inline-flex;align-items:center;gap:8px;margin-top:10px;padding:7px 11px;border-radius:10px}
+  .pick.over{background:linear-gradient(180deg,rgba(34,197,94,.16),rgba(34,197,94,.04));border:1px solid rgba(34,197,94,.4)}
+  .pick.under{background:linear-gradient(180deg,rgba(245,158,11,.16),rgba(245,158,11,.04));border:1px solid rgba(245,158,11,.4)}
+  .pick .big{font-size:18px;font-weight:900}.pick.over .big{color:#7ee2a2}.pick.under .big{color:var(--amber)}
+  .lbl{font-size:10.5px;text-transform:uppercase;letter-spacing:.7px;color:var(--mut);font-weight:700}
+  .metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:11px}
+  .m{background:var(--bg);border:1px solid var(--line);border-radius:9px;padding:7px;text-align:center}
+  .m .k{font-size:9.5px;color:var(--mut);text-transform:uppercase}.m .v{font-size:14px;font-weight:800;margin-top:1px}
+  .track{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);display:flex;flex-direction:column;gap:9px}
+  .oddsrow{display:flex;align-items:center;gap:8px}
+  .oddsrow input{width:90px}
+  .searchlink{font-size:11.5px;color:var(--accent);text-decoration:none}
+  .results{display:flex;gap:6px}
+  .rbtn{flex:1;text-align:center;padding:7px 0;border-radius:9px;border:1px solid var(--line);background:var(--card2);
+    color:var(--mut);cursor:pointer;font-size:12px;font-weight:800;user-select:none}
+  .rbtn.win.on{background:rgba(34,197,94,.2);color:#7ee2a2;border-color:rgba(34,197,94,.5)}
+  .rbtn.loss.on{background:rgba(239,68,68,.2);color:#f4a0a0;border-color:rgba(239,68,68,.5)}
+  .rbtn.pend.on{background:var(--card2);color:var(--txt);border-color:var(--mut)}
+  .empty{color:var(--mut);text-align:center;padding:40px;font-size:14px;grid-column:1/-1}
+  .note{color:var(--mut);font-size:11.5px;text-align:center;margin-top:26px;line-height:1.7}
+  .pl{font-size:12px;font-weight:800;font-variant-numeric:tabular-nums}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="hero">
+    <div class="logo">🏓</div>
+    <div style="flex:1;min-width:220px">
+      <h1>Ultra <span class="stars">★★★★</span> · Over/Under · Registro</h1>
+      <div class="sub" id="sub">Cargando…</div>
+    </div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <button class="btn" id="refreshBtn" style="background:linear-gradient(180deg,var(--ball),#e8650a);color:#fff;border-color:transparent" onclick="forceRefresh()">🔄 Forzar actualización</button>
+      <button class="btn" onclick="exportData()">⬇ Backup</button>
+      <button class="btn" onclick="document.getElementById('imp').click()">⬆ Restaurar</button>
+      <input id="imp" type="file" accept="application/json" style="display:none" onchange="importData(event)">
+    </div>
+  </header>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="toolbar">
+    <span class="chip tchip active" data-type="all">Todas</span>
+    <span class="chip tchip" data-type="over">Over</span>
+    <span class="chip tchip" data-type="under">Under</span>
+    <span style="width:8px"></span>
+    <span class="chip rchip active" data-res="all">Todo</span>
+    <span class="chip rchip" data-res="pending">Pendientes</span>
+    <span class="chip rchip" data-res="graded">Evaluadas</span>
+    <span style="flex:1"></span>
+    <select id="day"></select>
+    <select id="league">
+      <option value="all">Todas las ligas</option>
+      <option>TT Elite Series</option><option>TT Cup</option>
+      <option>Czech Liga Pro</option><option>Setka Cup</option>
+    </select>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+  <div class="note">
+    Cada día a las 08:00 (hora España) se guardan aquí los partidos <b>Ultra</b> Over/Under de TT Edge.<br>
+    Marca tú el resultado (✅/❌) y mete la cuota para llevar el registro. Tus marcas se guardan en este navegador (haz Backup de vez en cuando).<br>
+    Análisis informativo, no es consejo de apuesta. Juega con responsabilidad. +18.
+  </div>
+</div>
+
+<script>
+const STORE='ttedge_tracking_v1';
+const lgClass=l=>l==="TT Elite Series"?"lg-tte":l==="TT Cup"?"lg-cup":l==="Czech Liga Pro"?"lg-cz":"lg-setka";
+let DATA=[], track={}, fType="all", fRes="all", fLeague="all", fDay="all";
+
+function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }catch(e){ track={}; } }
+function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
+function t(id){ return track[id] || (track[id]={result:'pending', odds:''}); }
+
+function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); saveTrack(); render(); }
+function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); renderKpis(); }
+
+function stats(rows){
+  let win=0,loss=0,units=0,oWin=0,oLoss=0,uWin=0,uLoss=0,staked=0;
+  for(const d of rows){
+    const x=track[d.id]; if(!x) continue;
+    if(x.result==='win'){ win++; d.type==='over'?oWin++:uWin++; }
+    else if(x.result==='loss'){ loss++; d.type==='over'?oLoss++:uLoss++; }
+    const odd=parseFloat(x.odds);
+    if((x.result==='win'||x.result==='loss') && odd>1){ staked++; units += x.result==='win'?(odd-1):-1; }
+  }
+  const graded=win+loss;
+  const acc=graded?Math.round(win/graded*100):null;
+  const oAcc=(oWin+oLoss)?Math.round(oWin/(oWin+oLoss)*100):null;
+  const uAcc=(uWin+uLoss)?Math.round(uWin/(uWin+uLoss)*100):null;
+  return {total:rows.length,graded,win,loss,acc,oAcc,uAcc,units,staked,roi:staked?Math.round(units/staked*100):null};
+}
+function renderKpis(){
+  const s=stats(DATA);
+  const el=document.getElementById('kpis');
+  el.innerHTML=`
+    <div class="kpi"><div class="k">Registradas</div><div class="v">${s.total}</div></div>
+    <div class="kpi"><div class="k">Evaluadas</div><div class="v">${s.graded}</div></div>
+    <div class="kpi"><div class="k">% Acierto</div><div class="v ${s.acc>=50?'pos':s.acc==null?'':'neg'}">${s.acc==null?'—':s.acc+'%'}</div></div>
+    <div class="kpi"><div class="k">Acierto Over</div><div class="v">${s.oAcc==null?'—':s.oAcc+'%'}</div></div>
+    <div class="kpi"><div class="k">Acierto Under</div><div class="v">${s.uAcc==null?'—':s.uAcc+'%'}</div></div>
+    <div class="kpi"><div class="k">Unidades P/L</div><div class="v ${s.units>0?'pos':s.units<0?'neg':''}">${s.staked?((s.units>=0?'+':'')+s.units.toFixed(2)):'—'}</div></div>`;
+}
+
+function searchURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`${d.home} ${d.away} table tennis over under odds`); }
+
+function render(){
+  renderKpis();
+  let rows=DATA.filter(d=>(fType==='all'||d.type===fType)&&(fLeague==='all'||d.league===fLeague)&&(fDay==='all'||d.date===fDay));
+  if(fRes==='pending') rows=rows.filter(d=>(track[d.id]?.result||'pending')==='pending');
+  if(fRes==='graded') rows=rows.filter(d=>['win','loss'].includes(track[d.id]?.result));
+  const g=document.getElementById('grid');
+  if(!rows.length){ g.innerHTML='<div class="empty">No hay partidos con ese filtro.</div>'; return; }
+  g.innerHTML=rows.map(d=>{
+    const isU=d.type==='under', col=isU?'var(--amber)':'#7ee2a2';
+    const x=track[d.id]||{result:'pending',odds:''};
+    const odd=parseFloat(x.odds);
+    let pl='';
+    if((x.result==='win'||x.result==='loss')&&odd>1){ const u=x.result==='win'?(odd-1):-1; pl=`<span class="pl ${u>=0?'pos':'neg'}">${u>=0?'+':''}${u.toFixed(2)} u</span>`; }
+    return `<div class="card ${isU?'under':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
+      <div class="row1">
+        <span class="league ${lgClass(d.league)}">${d.league||''}</span>
+        <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">🕒 ${d.time||'--:--'}</span></span>
+      </div>
+      <div class="players">${d.home}<span class="vs">vs</span>${d.away}</div>
+      <div class="pick ${isU?'under':'over'}">
+        <span class="big">${isU?'UNDER':'OVER'}</span>
+        <div><div class="lbl">Ultra ★★★★</div>
+        <div style="font-size:12.5px;color:var(--mut)">${d.pct}% ${isU?'under':'over'}${d.l5!=null?` · L5 ${d.l5}%`:''}</div></div>
+      </div>
+      <div class="metrics">
+        <div class="m"><div class="k">% ${isU?'Under':'Over'}</div><div class="v" style="color:${col}">${d.pct}%</div></div>
+        <div class="m"><div class="k">3+ sets</div><div class="v">${d.sets3!=null?d.sets3+'%':'—'}</div></div>
+        <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
+      </div>
+      <div class="track">
+        <div class="oddsrow">
+          <span class="lbl">Cuota</span>
+          <input type="number" step="0.01" placeholder="—" value="${x.odds||''}" onchange="setOdds('${d.id}',this.value)">
+          <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">🔎 buscar cuota</a>
+          ${pl}
+        </div>
+        <div class="results">
+          <div class="rbtn win ${x.result==='win'?'on':''}" onclick="setResult('${d.id}','win')">✅ Acertó</div>
+          <div class="rbtn loss ${x.result==='loss'?'on':''}" onclick="setResult('${d.id}','loss')">❌ Falló</div>
+          <div class="rbtn pend ${(!x.result||x.result==='pending')?'on':''}" onclick="setResult('${d.id}','pending')">⏳</div>
+        </div>
+      </div>
+    </div>`;}).join('');
+}
+
+function fillDays(){
+  const days=[...new Set(DATA.map(d=>d.date))].sort().reverse();
+  const sel=document.getElementById('day');
+  sel.innerHTML='<option value="all">Todas las fechas</option>'+days.map(d=>`<option value="${d}">${d}</option>`).join('');
+}
+let refreshing=false;
+async function forceRefresh(){
+  if(refreshing) return;
+  const btn=document.getElementById('refreshBtn');
+  refreshing=true; const orig=btn.textContent; btn.textContent='⏳ Lanzando…'; btn.style.opacity='.7';
+  try{
+    const r=await fetch('/api/refresh',{method:'POST'});
+    const j=await r.json().catch(()=>({}));
+    if(r.ok && j.ok){
+      btn.textContent='✅ Lanzado';
+      alert('Robot lanzado. Tarda ~2-3 minutos en buscar los partidos y publicarlos.\nEspera un poco y pulsa recargar (F5) para ver las novedades.');
+    } else {
+      btn.textContent='⚠️ Error';
+      alert('No se pudo lanzar: '+(j.error||('HTTP '+r.status))+'\n\nSi acabas de desplegar, revisa que en Vercel están las variables GH_PAT y GH_REPO (ver guía).');
+    }
+  }catch(e){
+    btn.textContent='⚠️ Sin conexión';
+    alert('No se pudo contactar con el servidor. ¿Has añadido la función y las variables en Vercel? (ver guía)');
+  }
+  setTimeout(()=>{ btn.textContent=orig; btn.style.opacity='1'; refreshing=false; }, 8000);
+}
+function exportData(){ const blob=new Blob([JSON.stringify(track,null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='ttedge-registro-'+new Date().toISOString().slice(0,10)+'.json'; a.click(); }
+function importData(e){ const f=e.target.files[0]; if(!f)return; const r=new FileReader();
+  r.onload=()=>{ try{ track=JSON.parse(r.result); saveTrack(); render(); alert('Registro restaurado.'); }catch(_){ alert('Archivo no válido.'); } }; r.readAsText(f); }
+
+document.querySelectorAll('.tchip').forEach(c=>c.onclick=()=>{document.querySelectorAll('.tchip').forEach(x=>x.classList.remove('active'));c.classList.add('active');fType=c.dataset.type;render();});
+document.querySelectorAll('.rchip').forEach(c=>c.onclick=()=>{document.querySelectorAll('.rchip').forEach(x=>x.classList.remove('active'));c.classList.add('active');fRes=c.dataset.res;render();});
+document.getElementById('league').onchange=e=>{fLeague=e.target.value;render();};
+document.getElementById('day').onchange=e=>{fDay=e.target.value;render();};
+
+loadTrack();
+fetch('data/history.json?ts='+Date.now()).then(r=>r.json()).then(j=>{
+  DATA=j.matches||[];
+  const d=j.generated?new Date(j.generated):null;
+  document.getElementById('sub').textContent=`${j.totalCount||DATA.length} predicciones registradas · ${j.tzNote||'hora española'} · actualizado ${d?d.toLocaleString('es-ES'):'—'}`;
+  fillDays(); render();
+}).catch(()=>{ document.getElementById('sub').textContent='Aún sin datos (el robot los generará a las 08:00).'; render(); });
+</script>
+</body>
+</html>

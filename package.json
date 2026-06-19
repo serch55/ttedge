@@ -1,0 +1,12 @@
+{
+  "name": "ttedge-ultra-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard diario de predicciones Ultra (Over/Under) de TT Edge, auto-actualizado y desplegado en Vercel.",
+  "scripts": {
+    "scrape": "node scraper/scrape-ttedge.js"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
