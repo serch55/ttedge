@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-19T10:13:38.381Z",
+  "generated": "2026-06-19T10:35:48.552Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-19",
-  "totalCount": 11,
+  "totalCount": 12,
   "todayCount": 10,
   "matches": [
     {
@@ -37,10 +37,11 @@
       "pct": 79,
       "l5": 80,
       "sets3": 79,
-      "score": 84,
+      "score": 81,
       "h2h": 14,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -155,6 +156,26 @@
       "l5": 60,
       "sets3": 87,
       "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-19_over_jan-skvrna_vs_radek-benes",
+      "date": "2026-06-19",
+      "type": "over",
+      "home": "Jan Skvrna",
+      "away": "Radek Benes",
+      "league": "TT Cup",
+      "time": "12:40",
+      "timeRaw": "6:40 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
