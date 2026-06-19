@@ -2,8 +2,10 @@ name: Actualizar predicciones TT Edge (diario)
 
 on:
   schedule:
-    # 06:00 UTC = 08:00 hora española (verano). Cambia si quieres otra hora.
-    - cron: "0 6 * * *"
+    # Horas en UTC. En verano España = UTC+2, así que:
+    # 06:00 UTC=08:00 ES · 10:00 UTC=12:00 ES · 15:00 UTC=17:00 ES
+    # (en invierno saldrían 1h antes: 07:00, 11:00, 16:00 ES)
+    - cron: "0 6,10,15 * * *"
   workflow_dispatch: {}   # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:
