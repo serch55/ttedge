@@ -46,6 +46,7 @@
     border-radius:16px;padding:16px;box-shadow:var(--shadow);position:relative;overflow:hidden}
   .card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--green),var(--ball2))}
   .card.under::before{background:linear-gradient(90deg,var(--amber),var(--ball2))}
+  .card.spread::before{background:linear-gradient(90deg,#a78bfa,var(--ball2))}
   .card.win{border-color:rgba(34,197,94,.5)}.card.loss{border-color:rgba(239,68,68,.45)}
   .row1{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
   .league{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;padding:3px 8px;border-radius:7px}
@@ -58,6 +59,8 @@
   .pick{display:inline-flex;align-items:center;gap:8px;margin-top:10px;padding:7px 11px;border-radius:10px}
   .pick.over{background:linear-gradient(180deg,rgba(34,197,94,.16),rgba(34,197,94,.04));border:1px solid rgba(34,197,94,.4)}
   .pick.under{background:linear-gradient(180deg,rgba(245,158,11,.16),rgba(245,158,11,.04));border:1px solid rgba(245,158,11,.4)}
+  .pick.spread{background:linear-gradient(180deg,rgba(167,139,250,.16),rgba(167,139,250,.04));border:1px solid rgba(167,139,250,.4)}
+  .pick.spread .big{color:#c4b5fd}
   .pick .big{font-size:18px;font-weight:900}.pick.over .big{color:#7ee2a2}.pick.under .big{color:var(--amber)}
   .lbl{font-size:10.5px;text-transform:uppercase;letter-spacing:.7px;color:var(--mut);font-weight:700}
   .metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:11px}
@@ -106,6 +109,7 @@
     <span class="chip tchip active" data-type="all">Todas</span>
     <span class="chip tchip" data-type="over">Over</span>
     <span class="chip tchip" data-type="under">Under</span>
+    <span class="chip tchip" data-type="spread">Spread</span>
     <span style="width:8px"></span>
     <span class="chip rchip active" data-res="all">Todo</span>
     <span class="chip rchip" data-res="pending">Pendientes</span>
@@ -234,28 +238,44 @@ function render(){
   if(fRes==='graded') rows=rows.filter(d=>['win','loss'].includes(track[d.id]?.result));
   const g=document.getElementById('grid');
   if(!rows.length){ g.innerHTML='<div class="empty">No hay partidos con ese filtro.</div>'; return; }
+  const fmtN=n=>String(n).replace('-','−').replace('.',',');
   g.innerHTML=rows.map(d=>{
-    const isU=d.type==='under', col=isU?'var(--amber)':'#7ee2a2';
+    const isU=d.type==='under', isSp=d.type==='spread', col=isSp?'#c4b5fd':isU?'var(--amber)':'#7ee2a2';
+    const cardCls=isSp?'spread':isU?'under':'', pickCls=isSp?'spread':isU?'under':'over';
     const x=track[d.id]||{result:'pending',odds:'',close:''};
     const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
     let pl='';
     if(x.result==='win'||x.result==='loss'){ const e=x.result==='win'?STAKE*(odd-1):-STAKE; pl=`<span class="pl ${e>=0?'pos':'neg'}">${e>=0?'+':'−'}€${Math.abs(e).toFixed(2)}</span>`; }
-    return `<div class="card ${isU?'under':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
+    const pickBlock = isSp
+      ? `<div class="pick spread">
+           <span class="big" style="font-size:15px">${d.pick||'—'}</span>
+           <div><div class="lbl">SPREAD · Ultra ★★★★</div>
+           <div style="font-size:12.5px;color:var(--mut)">hándicap ${d.spread!=null?fmtN(d.spread):'—'}${d.l5!=null?` · L5 ${fmtN(d.l5)}`:''}</div></div>
+         </div>`
+      : `<div class="pick ${pickCls}">
+           <span class="big">${isU?'UNDER':'OVER'} 73,5</span>
+           <div><div class="lbl">Ultra ★★★★</div>
+           <div style="font-size:12.5px;color:var(--mut)">${d.pct}% ${isU?'under':'over'}${d.l5!=null?` · L5 ${d.l5}%`:''}</div></div>
+         </div>`;
+    const metricsBlock = isSp
+      ? `<div class="metrics">
+           <div class="m"><div class="k">Hándicap</div><div class="v" style="color:${col}">${d.spread!=null?fmtN(d.spread):'—'}</div></div>
+           <div class="m"><div class="k">L5</div><div class="v">${d.l5!=null?fmtN(d.l5):'—'}</div></div>
+           <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
+         </div>`
+      : `<div class="metrics">
+           <div class="m"><div class="k">% ${isU?'Under':'Over'}</div><div class="v" style="color:${col}">${d.pct}%</div></div>
+           <div class="m"><div class="k">3+ sets</div><div class="v">${d.sets3!=null?d.sets3+'%':'—'}</div></div>
+           <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
+         </div>`;
+    return `<div class="card ${cardCls} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
       <div class="row1">
         <span class="league ${lgClass(d.league)}">${d.league||''}</span>
         <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">🕒 ${d.time||'--:--'}</span></span>
       </div>
       <div class="players">${d.home}<span class="vs">vs</span>${d.away}</div>
-      <div class="pick ${isU?'under':'over'}">
-        <span class="big">${isU?'UNDER':'OVER'} 73,5</span>
-        <div><div class="lbl">Ultra ★★★★</div>
-        <div style="font-size:12.5px;color:var(--mut)">${d.pct}% ${isU?'under':'over'}${d.l5!=null?` · L5 ${d.l5}%`:''}</div></div>
-      </div>
-      <div class="metrics">
-        <div class="m"><div class="k">% ${isU?'Under':'Over'}</div><div class="v" style="color:${col}">${d.pct}%</div></div>
-        <div class="m"><div class="k">3+ sets</div><div class="v">${d.sets3!=null?d.sets3+'%':'—'}</div></div>
-        <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
-      </div>
+      ${pickBlock}
+      ${metricsBlock}
       <div class="track">
         <div class="oddsrow">
           <span class="lbl">Cuota</span>
