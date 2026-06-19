@@ -1,10 +1,69 @@
 {
-  "generated": "2026-06-19T15:59:52.553Z",
+  "generated": "2026-06-19T22:17:13.697Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-06-19",
-  "totalCount": 37,
-  "todayCount": 12,
+  "lastDay": "2026-06-20",
+  "totalCount": 40,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-20_over_valerii-vlasenko_vs_orest-hura",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Valerii Vlasenko",
+      "away": "Orest Hura",
+      "league": "Setka Cup",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_adrian-fabis_vs_mikolaj-lukaszewski",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Adrian Fabis",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_under_denys-kozoriz_vs_oleh-lutsyshyn",
+      "date": "2026-06-20",
+      "type": "under",
+      "home": "Denys Kozoriz",
+      "away": "Oleh Lutsyshyn",
+      "league": "Setka Cup",
+      "time": "00:15",
+      "timeRaw": "6:15 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": null,
+      "score": 100,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-06-19_over_martin-drabek_vs_vit-herrmann",
       "date": "2026-06-19",
