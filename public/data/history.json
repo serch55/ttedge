@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-20T07:57:46.958Z",
+  "generated": "2026-06-20T08:18:21.123Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-20",
-  "totalCount": 56,
+  "totalCount": 57,
   "todayCount": 6,
   "matches": [
     {
@@ -62,6 +62,25 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jakub-ruzicka_vs_martin-mastera",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jakub Ruzicka",
+      "away": "Martin Mastera",
+      "league": "TT Cup",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
