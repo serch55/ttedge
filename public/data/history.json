@@ -1,10 +1,243 @@
 {
-  "generated": "2026-06-20T09:01:26.665Z",
+  "generated": "2026-06-20T10:46:06.181Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-20",
-  "totalCount": 57,
-  "todayCount": 4,
+  "totalCount": 69,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-06-20_over_patryk-mecik_vs_oliver-vincenec",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Patryk Mecik",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 91,
+      "l5": 80,
+      "sets3": 91,
+      "score": 82,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jachym-juppa_vs_marek-cizek",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jachym Juppa",
+      "away": "Marek Cizek",
+      "league": "Setka Cup",
+      "time": "15:45",
+      "timeRaw": "9:45 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 88,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_ondrej-chadima_vs_jan-krojidlo",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Ondrej Chadima",
+      "away": "Jan Krojidlo",
+      "league": "Setka Cup",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 87,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jaroslav-brynych_vs_lukas-pour",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jaroslav Brynych",
+      "away": "Lukas Pour",
+      "league": "TT Cup",
+      "time": "14:55",
+      "timeRaw": "8:55 AM",
+      "pct": 77,
+      "l5": 100,
+      "sets3": 85,
+      "score": 82,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_spread_anastasiia-hordynska-sheiko_vs_kateryna-bondarenko",
+      "date": "2026-06-20",
+      "type": "spread",
+      "home": "Anastasiia Hordynska-Sheiko",
+      "away": "Kateryna Bondarenko",
+      "league": "Setka Cup",
+      "time": "14:35",
+      "timeRaw": "8:35 AM",
+      "l5": 14.5,
+      "score": 85,
+      "pick": "Kateryna Bondarenko",
+      "spread": -14.5,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_tadeas-zika_vs_matej-szwarc",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Tadeas Zika",
+      "away": "Matej Szwarc",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jakub-vales_vs_erik-mares",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jakub Vales",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jakub-rolik_vs_lukas-pour",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jakub Rolik",
+      "away": "Lukas Pour",
+      "league": "TT Cup",
+      "time": "14:25",
+      "timeRaw": "8:25 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 95,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_spread_serhii-aristarkhov_vs_oleksandr-ziakun",
+      "date": "2026-06-20",
+      "type": "spread",
+      "home": "Serhii Aristarkhov",
+      "away": "Oleksandr Ziakun",
+      "league": "Setka Cup",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "l5": 9.6,
+      "score": 82,
+      "pick": "Serhii Aristarkhov",
+      "spread": -8.3,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_oleh-savenkov_vs_kyrylo-kuchyna",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Oleh Savenkov",
+      "away": "Kyrylo Kuchyna",
+      "league": "Setka Cup",
+      "time": "13:55",
+      "timeRaw": "7:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_adrian-eliasz_vs_krzysztof-guminski",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Adrian Eliasz",
+      "away": "Krzysztof Guminski",
+      "league": "TT Elite Series",
+      "time": "13:50",
+      "timeRaw": "7:50 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jan-ruzicka_vs_tomas-trnka",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jan Ruzicka",
+      "away": "Tomas Trnka",
+      "league": "TT Cup",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-20_over_jan-szotkowski_vs_tadeas-zika",
       "date": "2026-06-20",
