@@ -92,6 +92,7 @@
     </div>
     <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
       <button class="btn" id="refreshBtn" style="background:linear-gradient(180deg,var(--ball),#e8650a);color:#fff;border-color:transparent" onclick="forceRefresh()">🔄 Forzar actualización</button>
+      <button class="btn" id="syncBtn" onclick="setupSync()" title="Sincroniza tus marcas entre dispositivos">☁ Sincronizar</button>
       <button class="btn" onclick="exportData()">⬇ Backup</button>
       <button class="btn" onclick="document.getElementById('imp').click()">⬆ Restaurar</button>
       <input id="imp" type="file" accept="application/json" style="display:none" onchange="importData(event)">
@@ -152,9 +153,37 @@ function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }c
 function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
 function t(id){ return track[id] || (track[id]={result:'pending', odds:'', close:''}); }
 
-function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); saveTrack(); render(); }
-function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); renderKpis(); render(); }
-function setClose(id,v){ const x=t(id); x.close=v; saveTrack(); renderKpis(); }
+function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); saveTrack(); pushCloud(); render(); }
+function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); pushCloud(); renderKpis(); render(); }
+function setClose(id,v){ const x=t(id); x.close=v; saveTrack(); pushCloud(); renderKpis(); }
+
+/* ---------- SINCRONIZACIÓN EN LA NUBE (marcas entre dispositivos) ---------- */
+let SYNC = localStorage.getItem('ttedge_sync') || '';
+function updateSyncBtn(){ const b=document.getElementById('syncBtn'); if(b) b.textContent = SYNC ? ('☁ '+SYNC) : '☁ Sincronizar'; }
+function setupSync(){
+  const c = prompt('Código de sincronización.\nInvéntate uno (ej: "sergio2026") y usa EL MISMO en el móvil para ver tus marcas en todos lados.', SYNC);
+  if(c===null) return;
+  SYNC = (c||'').trim().replace(/[^a-zA-Z0-9_-]/g,'');
+  localStorage.setItem('ttedge_sync', SYNC);
+  updateSyncBtn();
+  if(SYNC){ pullCloud(); alert('Sincronización activada con el código "'+SYNC+'".\nUsa el mismo código en tus otros dispositivos.'); }
+}
+async function pullCloud(){
+  if(!SYNC) return;
+  try{
+    const r = await fetch('/api/tracking?key='+encodeURIComponent(SYNC), {cache:'no-store'});
+    const j = await r.json();
+    const cloud = j.data || {};
+    if(Object.keys(cloud).length){ track = cloud; saveTrack(); render(); }     // la nube manda
+    else if(Object.keys(track).length){ pushCloud(); }                          // nube vacía: subo lo local
+  }catch(e){}
+}
+let _pushT;
+function pushCloud(){
+  if(!SYNC) return;
+  clearTimeout(_pushT);
+  _pushT = setTimeout(()=>{ fetch('/api/tracking?key='+encodeURIComponent(SYNC),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(track)}).catch(()=>{}); }, 700);
+}
 
 function stats(rows){
   let win=0,loss=0,pend=0,profit=0,clvSum=0,clvN=0,oWin=0,oLoss=0,uWin=0,uLoss=0;
@@ -342,13 +371,13 @@ document.querySelectorAll('.lgchip').forEach(c=>c.onclick=()=>{
 document.getElementById('score85chip').onclick=function(){ fScore85=!fScore85; this.classList.toggle('active',fScore85); render(); };
 document.getElementById('day').onchange=e=>{fDay=e.target.value;render();};
 
-loadTrack();
+loadTrack(); updateSyncBtn();
 fetch('data/history.json?ts='+Date.now()).then(r=>r.json()).then(j=>{
   DATA=j.matches||[];
   const d=j.generated?new Date(j.generated):null;
   document.getElementById('sub').textContent=`${j.totalCount||DATA.length} predicciones registradas · ${j.tzNote||'hora española'} · actualizado ${d?d.toLocaleString('es-ES'):'—'}`;
-  fillDays(); render();
-}).catch(()=>{ document.getElementById('sub').textContent='Aún sin datos (el robot los generará a las 08:00).'; render(); });
+  fillDays(); render(); pullCloud();
+}).catch(()=>{ document.getElementById('sub').textContent='Aún sin datos (el robot los generará a las 08:00).'; render(); pullCloud(); });
 </script>
 </body>
 </html>
