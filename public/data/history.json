@@ -1,10 +1,69 @@
 {
-  "generated": "2026-06-20T07:13:52.632Z",
+  "generated": "2026-06-20T07:50:55.729Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-20",
-  "totalCount": 52,
-  "todayCount": 12,
+  "totalCount": 56,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-20_over_jan-szotkowski_vs_tadeas-zika",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jan Szotkowski",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_oleksandr-kolos_vs_vasyl-laskavyi",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Oleksandr Kolos",
+      "away": "Vasyl Laskavyi",
+      "league": "Setka Cup",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_patryk-gamrot_vs_witold-buczynski",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Patryk Gamrot",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-20_spread_serhii-ponomarenko_vs_serhii-kushnirenko",
       "date": "2026-06-20",
@@ -20,6 +79,26 @@
       "spread": -11.9,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_mateusz-burkacki_vs_szymon-radlo",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Mateusz Burkacki",
+      "away": "Szymon Radlo",
+      "league": "TT Cup",
+      "time": "10:05",
+      "timeRaw": "4:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
