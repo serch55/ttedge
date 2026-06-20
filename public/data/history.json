@@ -1,10 +1,165 @@
 {
-  "generated": "2026-06-20T15:31:16.230Z",
+  "generated": "2026-06-20T18:49:30.782Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-20",
-  "totalCount": 76,
-  "todayCount": 7,
+  "totalCount": 86,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-06-20_over_miroslav-kowolowski_vs_antonin-schneeberger",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Miroslav Kowolowski",
+      "away": "Antonin Schneeberger",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 71,
+      "l5": 60,
+      "sets3": 86,
+      "score": 85,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_michal-blaha_vs_radek-adamczyk",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Michal Blaha",
+      "away": "Radek Adamczyk",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_martin-huk_vs_michal-zahradka",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Martin Huk",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_matej-levicky_vs_alois-kanak",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Matej Levicky",
+      "away": "Alois Kanak",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 77,
+      "l5": 80,
+      "sets3": 85,
+      "score": 95,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_krzysztof-schaniel_vs_sebastian-szostok",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Krzysztof Schaniel",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_krzysztof-zapala_vs_karol-guzy",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Krzysztof Zapala",
+      "away": "Karol Guzy",
+      "league": "TT Cup",
+      "time": "21:05",
+      "timeRaw": "3:05 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_richard-vavricka_vs_martin-chmelicek",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Richard Vavricka",
+      "away": "Martin Chmelicek",
+      "league": "TT Cup",
+      "time": "20:35",
+      "timeRaw": "2:35 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 88,
+      "score": 88,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_krzysztof-schaniel_vs_grzegorz-sawicki",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Krzysztof Schaniel",
+      "away": "Grzegorz Sawicki",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-20_over_filip-zurek_vs_miroslav-kowolowski",
       "date": "2026-06-20",
@@ -709,26 +864,6 @@
       ]
     },
     {
-      "id": "2026-06-20_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "04:00",
-      "timeRaw": "10:00 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-20_over_adrian-fabis_vs_mikolaj-lukaszewski",
       "date": "2026-06-20",
       "type": "over",
@@ -741,6 +876,26 @@
       "l5": 80,
       "sets3": 93,
       "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_valerii-vlasenko_vs_orest-hura",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Valerii Vlasenko",
+      "away": "Orest Hura",
+      "league": "Setka Cup",
+      "time": "00:45",
+      "timeRaw": "6:45 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 89,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -765,6 +920,45 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_oleksandr-melashenko_vs_yan-krol",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Oleksandr Melashenko",
+      "away": "Yan Krol",
+      "league": "Setka Cup",
+      "time": "00:05",
+      "timeRaw": "6:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-20_over_jiri-ruzicka_vs_tomas-franek",
+      "date": "2026-06-20",
+      "type": "over",
+      "home": "Jiri Ruzicka",
+      "away": "Tomas Franek",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 92,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
       ]
     },
     {
