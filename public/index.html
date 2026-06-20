@@ -145,6 +145,7 @@ const lgClass=l=>l==="TT Elite Series"?"lg-tte":l==="TT Cup"?"lg-cup":l==="Czech
 let DATA=[], track={}, fType="all", fRes="all", fLeagues=[], fDay="all", fScore85=true;
 const passScore=d=>!fScore85 || (d.score!=null && d.score>=85);
 const passLeague=d=>fLeagues.length===0 || fLeagues.includes(d.league);
+const passExcl=d=>!(d.type==='spread' && d.league==='Setka Cup');   // ignorar spreads de Setka Cup
 
 function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }catch(e){ track={}; } }
 function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
@@ -177,7 +178,7 @@ function stats(rows){
   };
 }
 function renderKpis(){
-  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d));
+  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d));
   const s=stats(rows);
   const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
   const cls=n=>n>0?'pos':n<0?'neg':'';
@@ -200,7 +201,7 @@ function renderKpis(){
 function drawChart(){
   const c=document.getElementById('chart'); if(!c) return;
   const ctx=c.getContext('2d'); const W=c.width, H=c.height; ctx.clearRect(0,0,W,H);
-  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d))
+  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d))
     .filter(d=>['win','loss'].includes(track[d.id]&&track[d.id].result))
     .sort((a,b)=>((a.date||'')+(a.time||'')).localeCompare((b.date||'')+(b.time||'')));
   let cum=0; const pts=[0];
@@ -233,7 +234,7 @@ function resultURL(d){ return 'https://www.google.com/search?q='+encodeURICompon
 
 function render(){
   renderKpis();
-  let rows=DATA.filter(d=>(fType==='all'||d.type===fType)&&passLeague(d)&&(fDay==='all'||d.date===fDay)&&passScore(d));
+  let rows=DATA.filter(d=>(fType==='all'||d.type===fType)&&passLeague(d)&&(fDay==='all'||d.date===fDay)&&passScore(d)&&passExcl(d));
   if(fRes==='pending') rows=rows.filter(d=>(track[d.id]?.result||'pending')==='pending');
   if(fRes==='graded') rows=rows.filter(d=>['win','loss'].includes(track[d.id]?.result));
   const g=document.getElementById('grid');
