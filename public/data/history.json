@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T18:37:04.267Z",
+  "generated": "2026-06-21T19:35:25.342Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 144,
-  "todayCount": 9,
+  "totalCount": 148,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -22,6 +22,25 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_lukas-vich_vs_tomas-cerveny-jr",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Lukas Vich",
+      "away": "Tomas Cerveny Jr",
+      "league": "TT Cup",
+      "time": "22:55",
+      "timeRaw": "4:55 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
@@ -76,10 +95,12 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 95,
       "h2h": 15,
       "trend": "",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-21_over_jaroslaw-badura_vs_rafal-ogon",
@@ -132,10 +153,11 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 97,
+      "score": 82,
       "h2h": 6,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1057,6 +1079,46 @@
       ]
     },
     {
+      "id": "2026-06-21_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Serhii Chelpanov",
+      "away": "Oleksii Hrymovskyi",
+      "league": "Setka Cup",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_rafal-ogon_vs_jaroslaw-badura",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Rafal Ogon",
+      "away": "Jaroslaw Badura",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-21_over_krzysztof-juszczyk_vs_grzegorz-sawicki",
       "date": "2026-06-21",
       "type": "over",
@@ -1093,6 +1155,25 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_hryhorii-kulishov_vs_serhii-chuliukov",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Hryhorii Kulishov",
+      "away": "Serhii Chuliukov",
+      "league": "Setka Cup",
+      "time": "00:05",
+      "timeRaw": "6:05 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 80,
+      "score": 89,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
