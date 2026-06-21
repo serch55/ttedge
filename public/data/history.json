@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T17:05:01.972Z",
+  "generated": "2026-06-21T17:35:08.052Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 137,
-  "todayCount": 6,
+  "totalCount": 139,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -23,6 +23,25 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_jakub-kuzmicz_vs_lukasz-pietraszko",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jakub Kuzmicz",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 99,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -176,6 +195,46 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_jan-szotkowski_vs_tadeas-zika",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jan Szotkowski",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_vladimir-cermak_vs_ales-bayer",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Vladimir Cermak",
+      "away": "Ales Bayer",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 90,
+      "score": 85,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -408,26 +467,6 @@
       "sets3": 100,
       "score": 85,
       "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_jan-szotkowski_vs_tadeas-zika",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Jan Szotkowski",
-      "away": "Tadeas Zika",
-      "league": "Czech Liga Pro",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 85,
-      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
