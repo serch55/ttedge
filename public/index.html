@@ -77,6 +77,11 @@
   .rbtn.win.on{background:rgba(34,197,94,.2);color:#7ee2a2;border-color:rgba(34,197,94,.5)}
   .rbtn.loss.on{background:rgba(239,68,68,.2);color:#f4a0a0;border-color:rgba(239,68,68,.5)}
   .rbtn.pend.on{background:var(--card2);color:var(--txt);border-color:var(--mut)}
+  .rbtn.restore{background:rgba(110,168,254,.14);color:#9fc1ff;border-color:rgba(110,168,254,.4)}
+  .delrow{display:flex;justify-content:center;margin-top:2px}
+  .dellink{font-size:11px;color:var(--mut);cursor:pointer;opacity:.7;transition:.15s;user-select:none}
+  .dellink:hover{opacity:1;color:var(--red)}
+  .card.deleted{opacity:.6}
   .empty{color:var(--mut);text-align:center;padding:40px;font-size:14px;grid-column:1/-1}
   .note{color:var(--mut);font-size:11.5px;text-align:center;margin-top:26px;line-height:1.7}
   .pl{font-size:12px;font-weight:800;font-variant-numeric:tabular-nums}
@@ -116,6 +121,7 @@
     <span class="chip rchip active" data-res="all">Todo</span>
     <span class="chip rchip" data-res="pending">Pendientes</span>
     <span class="chip rchip" data-res="graded">Evaluadas</span>
+    <span class="chip rchip" data-res="deleted">🗑 Eliminadas</span>
     <span style="width:8px"></span>
     <span class="chip schip active" id="score85chip">★ Score ≥ 85</span>
     <span style="width:8px"></span>
@@ -148,6 +154,7 @@ let DATA=[], track={}, fType="all", fRes="all", fLeagues=[], fDay="all", fScore8
 const passScore=d=>!fScore85 || (d.score!=null && d.score>=85);
 const passLeague=d=>fLeagues.length===0 || fLeagues.includes(d.league);
 const passExcl=d=>!(d.type==='spread' && d.league==='Setka Cup');   // ignorar spreads de Setka Cup
+const notDeleted=d=>!(track[d.id] && track[d.id].deleted);          // ocultar picks eliminados
 
 function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }catch(e){ track={}; } }
 function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
@@ -156,6 +163,8 @@ function t(id){ return track[id] || (track[id]={result:'pending', odds:'', close
 function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); saveTrack(); pushCloud(); render(); }
 function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); pushCloud(); renderKpis(); render(); }
 function setClose(id,v){ const x=t(id); x.close=v; saveTrack(); pushCloud(); renderKpis(); }
+function delPick(id){ const x=t(id); x.deleted=true; saveTrack(); pushCloud(); render(); }
+function restorePick(id){ const x=t(id); x.deleted=false; saveTrack(); pushCloud(); render(); }
 
 /* ---------- SINCRONIZACIÓN EN LA NUBE (marcas entre dispositivos) ---------- */
 let SYNC = localStorage.getItem('ttedge_sync') || '';
@@ -208,7 +217,7 @@ function stats(rows){
   };
 }
 function renderKpis(){
-  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d));
+  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d));
   const s=stats(rows);
   const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
   const cls=n=>n>0?'pos':n<0?'neg':'';
@@ -231,7 +240,7 @@ function renderKpis(){
 function drawChart(){
   const c=document.getElementById('chart'); if(!c) return;
   const ctx=c.getContext('2d'); const W=c.width, H=c.height; ctx.clearRect(0,0,W,H);
-  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d))
+  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d))
     .filter(d=>['win','loss'].includes(track[d.id]&&track[d.id].result))
     .sort((a,b)=>((a.date||'')+(a.time||'')).localeCompare((b.date||'')+(b.time||'')));
   let cum=0; const pts=[0];
@@ -265,10 +274,12 @@ function resultURL(d){ return 'https://www.google.com/search?q='+encodeURICompon
 function render(){
   renderKpis();
   let rows=DATA.filter(d=>(fType==='all'||d.type===fType)&&passLeague(d)&&(fDay==='all'||d.date===fDay)&&passScore(d)&&passExcl(d));
+  if(fRes==='deleted'){ rows=rows.filter(d=>track[d.id]&&track[d.id].deleted); }
+  else { rows=rows.filter(d=>notDeleted(d)); }
   if(fRes==='pending') rows=rows.filter(d=>(track[d.id]?.result||'pending')==='pending');
   if(fRes==='graded') rows=rows.filter(d=>['win','loss'].includes(track[d.id]?.result));
   const g=document.getElementById('grid');
-  if(!rows.length){ g.innerHTML='<div class="empty">No hay partidos con ese filtro.</div>'; return; }
+  if(!rows.length){ g.innerHTML='<div class="empty">'+(fRes==='deleted'?'No hay picks eliminados.':'No hay partidos con ese filtro.')+'</div>'; return; }
   const fmtN=n=>String(n).replace('-','−').replace('.',',');
   g.innerHTML=rows.map(d=>{
     const isU=d.type==='under', isSp=d.type==='spread', col=isSp?'#c4b5fd':isU?'var(--amber)':'#7ee2a2';
@@ -299,7 +310,7 @@ function render(){
            <div class="m"><div class="k">3+ sets</div><div class="v">${d.sets3!=null?d.sets3+'%':'—'}</div></div>
            <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
          </div>`;
-    return `<div class="card ${cardCls} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
+    return `<div class="card ${cardCls} ${x.deleted?'deleted':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
       <div class="row1">
         <span class="league ${lgClass(d.league)}">${d.league||''}</span>
         <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">🕒 ${d.time||'--:--'}</span></span>
@@ -319,11 +330,14 @@ function render(){
         <div class="oddsrow" style="justify-content:flex-end">
           <a class="searchlink" href="${resultURL(d)}" target="_blank" rel="noopener">🔎 buscar resultado del partido</a>
         </div>
-        <div class="results">
+        ${x.deleted
+          ? `<div class="results"><div class="rbtn restore on" onclick="restorePick('${d.id}')">♻ Restaurar pick</div></div>`
+          : `<div class="results">
           <div class="rbtn win ${x.result==='win'?'on':''}" onclick="setResult('${d.id}','win')">✅ Acertó</div>
           <div class="rbtn loss ${x.result==='loss'?'on':''}" onclick="setResult('${d.id}','loss')">❌ Falló</div>
           <div class="rbtn pend ${(!x.result||x.result==='pending')?'on':''}" onclick="setResult('${d.id}','pending')">⏳</div>
         </div>
+        <div class="delrow"><span class="dellink" onclick="if(confirm('¿Eliminar este pick? No contará en las estadísticas. Podrás recuperarlo en el filtro \\'Eliminadas\\'.'))delPick('${d.id}')">🗑 Eliminar pick</span></div>`}
       </div>
     </div>`;}).join('');
 }
