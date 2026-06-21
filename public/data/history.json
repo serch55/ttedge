@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-21T17:35:08.052Z",
+  "generated": "2026-06-21T18:37:04.267Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 139,
+  "totalCount": 144,
   "todayCount": 9,
   "matches": [
     {
@@ -19,6 +19,82 @@
       "sets3": 100,
       "score": 86,
       "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_myroslav-loboda_vs_vitalii-krokhmal",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Myroslav Loboda",
+      "away": "Vitalii Krokhmal",
+      "league": "Setka Cup",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 92,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_filip-kujawa_vs_arkadiusz-mugowski",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Filip Kujawa",
+      "away": "Arkadiusz Mugowski",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_marcel-heczko_vs_dominik-oborny",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Marcel Heczko",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 15,
+      "trend": "",
+      "tags": []
+    },
+    {
+      "id": "2026-06-21_over_jaroslaw-badura_vs_rafal-ogon",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jaroslaw Badura",
+      "away": "Rafal Ogon",
+      "league": "TT Elite Series",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 86,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -96,6 +172,25 @@
       "sets3": 87,
       "score": 88,
       "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_lukas-krupnik-jr_vs_jan-oleksik",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Lukas Krupnik Jr",
+      "away": "Jan Oleksik",
+      "league": "TT Cup",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 91,
+      "score": 93,
+      "h2h": 11,
       "trend": "falling",
       "tags": [
         "Volatile"
