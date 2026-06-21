@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T06:50:28.147Z",
+  "generated": "2026-06-21T07:31:06.385Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 104,
-  "todayCount": 5,
+  "totalCount": 105,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -20,6 +20,26 @@
       "score": 86,
       "h2h": 4,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_dawid-poloszczanski_vs_kuba-golaszewski",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Dawid Poloszczanski",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 5,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
