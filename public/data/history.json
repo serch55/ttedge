@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-20T22:17:17.317Z",
+  "generated": "2026-06-21T06:50:28.147Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 99,
-  "todayCount": 13,
+  "totalCount": 104,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -19,6 +19,103 @@
       "sets3": 100,
       "score": 86,
       "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_oleh-savenkov_vs_kyrylo-kuchyna",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Oleh Savenkov",
+      "away": "Kyrylo Kuchyna",
+      "league": "Setka Cup",
+      "time": "10:25",
+      "timeRaw": "4:25 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_daniel-vojna_vs_dominik-pasek",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Daniel Vojna",
+      "away": "Dominik Pasek",
+      "league": "TT Cup",
+      "time": "09:55",
+      "timeRaw": "3:55 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 97,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_under_oleh-lutsyshyn_vs_denys-kozoriz",
+      "date": "2026-06-21",
+      "type": "under",
+      "home": "Oleh Lutsyshyn",
+      "away": "Denys Kozoriz",
+      "league": "Setka Cup",
+      "time": "09:55",
+      "timeRaw": "3:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": null,
+      "score": 100,
+      "h2h": 7,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-21_spread_oleksandr-blashkun_vs_andrii-droshchynskyi",
+      "date": "2026-06-21",
+      "type": "spread",
+      "home": "Oleksandr Blashkun",
+      "away": "Andrii Droshchynskyi",
+      "league": "Setka Cup",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "l5": 10.2,
+      "score": 81,
+      "pick": "Andrii Droshchynskyi",
+      "spread": -10.2,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_david-stusek_vs_kamil-kleprlik",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "David Stusek",
+      "away": "Kamil Kleprlik",
+      "league": "TT Cup",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 86,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
