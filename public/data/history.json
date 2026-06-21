@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T20:36:14.293Z",
+  "generated": "2026-06-21T21:33:09.503Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 151,
-  "todayCount": 8,
+  "totalCount": 153,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -60,26 +60,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_filip-kujawa_vs_arkadiusz-mugowski",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Filip Kujawa",
-      "away": "Arkadiusz Mugowski",
-      "league": "TT Elite Series",
-      "time": "22:30",
-      "timeRaw": "4:30 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 93,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1001,6 +981,25 @@
       ]
     },
     {
+      "id": "2026-06-21_over_mykola-polysynskyi_vs_yevhenii-sokoltsov",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Mykola Polysynskyi",
+      "away": "Yevhenii Sokoltsov",
+      "league": "Setka Cup",
+      "time": "03:05",
+      "timeRaw": "9:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-21_over_michal-krutak_vs_lukasz-pyda",
       "date": "2026-06-21",
       "type": "over",
@@ -1032,10 +1031,11 @@
       "pct": 86,
       "l5": 80,
       "sets3": 86,
-      "score": 97,
+      "score": 82,
       "h2h": 7,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1055,6 +1055,26 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_mariusz-baron_vs_wojciech-urban",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Mariusz Baron",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 91,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1117,6 +1137,26 @@
       ]
     },
     {
+      "id": "2026-06-21_over_filip-kujawa_vs_arkadiusz-mugowski",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Filip Kujawa",
+      "away": "Arkadiusz Mugowski",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-21_over_oleg-vitrovyj_vs_jaroslav-strnad-1964",
       "date": "2026-06-21",
       "type": "over",
@@ -1164,9 +1204,9 @@
       "league": "TT Elite Series",
       "time": "00:25",
       "timeRaw": "6:25 PM",
-      "pct": 80,
+      "pct": 87,
       "l5": 100,
-      "sets3": 93,
+      "sets3": 100,
       "score": 86,
       "h2h": 15,
       "trend": "falling",
