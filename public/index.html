@@ -85,6 +85,21 @@
   .empty{color:var(--mut);text-align:center;padding:40px;font-size:14px;grid-column:1/-1}
   .note{color:var(--mut);font-size:11.5px;text-align:center;margin-top:26px;line-height:1.7}
   .pl{font-size:12px;font-weight:800;font-variant-numeric:tabular-nums}
+  /* Panel semana vs finde */
+  .wkpanel{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 18px}
+  @media(max-width:560px){.wkpanel{grid-template-columns:1fr}}
+  .wkcard{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:14px 16px;position:relative;overflow:hidden}
+  .wkcard::before{content:"";position:absolute;top:0;left:0;right:0;height:3px}
+  .wkcard.week::before{background:linear-gradient(90deg,var(--accent),#9fc1ff)}
+  .wkcard.wend::before{background:linear-gradient(90deg,var(--ball),var(--ball2))}
+  .wkhead{display:flex;align-items:center;gap:8px;margin-bottom:11px}
+  .wkhead .ico{font-size:17px}
+  .wkhead .ttl{font-size:13px;font-weight:800;letter-spacing:-.2px}
+  .wkhead .cnt{margin-left:auto;font-size:11px;color:var(--mut);font-weight:700}
+  .wkgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:9px}
+  .wkm{text-align:center}
+  .wkm .k{font-size:9.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.4px}
+  .wkm .v{font-size:17px;font-weight:800;margin-top:2px;font-variant-numeric:tabular-nums}
 </style>
 </head>
 <body>
@@ -111,6 +126,9 @@
     <div class="charttitle">Evolución del beneficio (€)</div>
     <canvas id="chart" width="1100" height="220"></canvas>
   </div>
+
+  <div class="statbar"><span id="statTitle2">Entre semana vs. fin de semana</span><span class="statnote">según los filtros de liga/tipo/score de abajo</span></div>
+  <div class="wkpanel" id="wkpanel"></div>
 
   <div class="toolbar">
     <span class="chip tchip active" data-type="all">Todas</span>
@@ -236,6 +254,26 @@ function renderKpis(){
     <div class="kpi"><div class="k">Acierto Over</div><div class="v">${s.oAcc==null?'—':s.oAcc+'%'}</div></div>
     <div class="kpi"><div class="k">Acierto Under</div><div class="v">${s.uAcc==null?'—':s.uAcc+'%'}</div></div>`;
   drawChart();
+  renderWeek();
+}
+const isWeekend=d=>{ const g=new Date((d.date||'')+'T12:00:00').getDay(); return g===0||g===6; };
+function renderWeek(){
+  const base=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d));
+  const week=base.filter(d=>!isWeekend(d)), wend=base.filter(d=>isWeekend(d));
+  const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
+  const cls=n=>n>0?'pos':n<0?'neg':'';
+  const block=rows=>{ const s=stats(rows);
+    return `<div class="wkgrid">
+      <div class="wkm"><div class="k">Apuestas</div><div class="v">${s.total}</div></div>
+      <div class="wkm"><div class="k">% Acierto</div><div class="v ${s.acc==null?'':s.acc>=50?'pos':'neg'}">${s.acc==null?'—':s.acc+'%'}</div></div>
+      <div class="wkm"><div class="k">Beneficio</div><div class="v ${cls(s.profit)}" style="font-size:15px">${s.graded?eur(s.profit):'—'}</div></div>
+      <div class="wkm"><div class="k">Yield</div><div class="v ${s.yield==null?'':cls(s.yield)}">${s.yield==null?'—':(s.yield>=0?'+':'')+s.yield.toFixed(1)+'%'}</div></div>
+    </div>
+    <div style="font-size:10.5px;color:var(--mut);margin-top:8px">Evaluadas ${s.graded} · ✅ ${s.win} · ❌ ${s.loss} · ⏳ ${s.pend}</div>`;
+  };
+  document.getElementById('wkpanel').innerHTML=`
+    <div class="wkcard week"><div class="wkhead"><span class="ico">📅</span><span class="ttl">Entre semana</span><span class="cnt">Lun – Vie</span></div>${block(week)}</div>
+    <div class="wkcard wend"><div class="wkhead"><span class="ico">🏖️</span><span class="ttl">Fin de semana</span><span class="cnt">Sáb – Dom</span></div>${block(wend)}</div>`;
 }
 function drawChart(){
   const c=document.getElementById('chart'); if(!c) return;
