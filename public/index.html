@@ -338,8 +338,8 @@ function renderWeek(){
     <div class="wknote">Evaluadas ${s.graded} · ✓ ${s.win} · ✗ ${s.loss} · ⏳ ${s.pend}</div>`;
   };
   document.getElementById('wkpanel').innerHTML=`
-    <div class="wkcard week"><div class="wkhead"><span class="ico">▢</span><span class="ttl">Entre semana</span><span class="cnt">Lun – Vie</span></div>${block(week)}</div>
-    <div class="wkcard wend"><div class="wkhead"><span class="ico">▣</span><span class="ttl">Fin de semana</span><span class="cnt">Sáb – Dom</span></div>${block(wend)}</div>`;
+    <div class="wkcard week"><div class="wkhead"><span class="ttl">Entre semana</span><span class="cnt">Lun – Vie</span></div>${block(week)}</div>
+    <div class="wkcard wend"><div class="wkhead"><span class="ttl">Fin de semana</span><span class="cnt">Sáb – Dom</span></div>${block(wend)}</div>`;
 }
 function cssVar(name){ return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
 function hexA(hex,a){ hex=hex.replace('#',''); if(hex.length===3) hex=hex.split('').map(c=>c+c).join('');
