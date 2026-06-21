@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T07:31:06.385Z",
+  "generated": "2026-06-21T11:01:22.344Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 105,
-  "todayCount": 4,
+  "totalCount": 114,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -20,6 +20,180 @@
       "score": 86,
       "h2h": 4,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_serhii-balabei_vs_vadim-komar",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Serhii Balabei",
+      "away": "Vadim Komar",
+      "league": "Setka Cup",
+      "time": "15:00",
+      "timeRaw": "9:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_spread_ihor-serdiuk_vs_roman-boklah",
+      "date": "2026-06-21",
+      "type": "spread",
+      "home": "Ihor Serdiuk",
+      "away": "Roman Boklah",
+      "league": "Setka Cup",
+      "time": "15:00",
+      "timeRaw": "9:00 AM",
+      "l5": 8.6,
+      "score": 92,
+      "pick": "Ihor Serdiuk",
+      "spread": -9.4,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_oleksandr-maslovskyi_vs_vasil-salivonchyk",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Oleksandr Maslovskyi",
+      "away": "Vasil Salivonchyk",
+      "league": "Setka Cup",
+      "time": "14:55",
+      "timeRaw": "8:55 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_tadeas-zika_vs_matej-szwarc",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Tadeas Zika",
+      "away": "Matej Szwarc",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 82,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_viktor-ziakun_vs_ihor-torhachov",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Viktor Ziakun",
+      "away": "Ihor Torhachov",
+      "league": "Setka Cup",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_serhii-kushnirenko_vs_dmytro-yurkov",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Serhii Kushnirenko",
+      "away": "Dmytro Yurkov",
+      "league": "Setka Cup",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_jan-cernik_vs_lukas-boruvka",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jan Cernik",
+      "away": "Lukas Boruvka",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 82,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_michal-nemec_vs_pavel-cibik",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Michal Nemec",
+      "away": "Pavel Cibik",
+      "league": "TT Cup",
+      "time": "13:20",
+      "timeRaw": "7:20 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_michal-macurak_vs_erik-precek",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Michal Macurak",
+      "away": "Erik Precek",
+      "league": "TT Cup",
+      "time": "13:10",
+      "timeRaw": "7:10 AM",
+      "pct": 91,
+      "l5": 80,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 11,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
