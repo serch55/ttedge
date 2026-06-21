@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T19:35:25.342Z",
+  "generated": "2026-06-21T20:36:14.293Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 148,
-  "todayCount": 10,
+  "totalCount": 151,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -1021,6 +1021,25 @@
       ]
     },
     {
+      "id": "2026-06-21_over_myroslav-loboda_vs_oleksandr-pohonov",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Myroslav Loboda",
+      "away": "Oleksandr Pohonov",
+      "league": "Setka Cup",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 86,
+      "score": 97,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-21_over_milan-kolar_vs_milan-smrcek",
       "date": "2026-06-21",
       "type": "over",
@@ -1059,6 +1078,25 @@
       ]
     },
     {
+      "id": "2026-06-21_over_milan-cetner_vs_vaclav-dolezal",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Milan Cetner",
+      "away": "Vaclav Dolezal",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-21_over_valerii-vlasenko_vs_orest-hura",
       "date": "2026-06-21",
       "type": "over",
@@ -1075,6 +1113,25 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_oleg-vitrovyj_vs_jaroslav-strnad-1964",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Oleg Vitrovyj",
+      "away": "Jaroslav Strnad 1964",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
