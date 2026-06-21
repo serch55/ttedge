@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T13:10:26.494Z",
+  "generated": "2026-06-21T13:28:09.525Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 119,
-  "todayCount": 9,
+  "totalCount": 122,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -22,6 +22,25 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_under_tomas-hucko_vs_petr-semrad",
+      "date": "2026-06-21",
+      "type": "under",
+      "home": "Tomas Hucko",
+      "away": "Petr Semrad",
+      "league": "Setka Cup",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 53,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
@@ -57,6 +76,26 @@
       "score": 89,
       "h2h": 7,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_mateusz-misiak_vs_milosz-kukawka",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Mateusz Misiak",
+      "away": "Milosz Kukawka",
+      "league": "TT Elite Series",
+      "time": "16:15",
+      "timeRaw": "10:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 5,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -119,6 +158,25 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_jaroslav-sindler_vs_martin-sobota",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jaroslav Sindler",
+      "away": "Martin Sobota",
+      "league": "TT Cup",
+      "time": "15:45",
+      "timeRaw": "9:45 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
