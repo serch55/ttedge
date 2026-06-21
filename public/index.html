@@ -3,123 +3,180 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TT Edge · Ultra Over/Under · Registro</title>
+<title>TT Edge · Registro Over/Under</title>
+<script>(function(){var t=localStorage.getItem('ttedge_theme')||((window.matchMedia&&matchMedia('(prefers-color-scheme: light)').matches)?'light':'dark');document.documentElement.setAttribute('data-theme',t);})();</script>
 <style>
-  :root{--bg:#0b0f17;--bg2:#111826;--card:#151d2e;--card2:#1b2435;--line:#26304a;--txt:#e8edf7;
-    --mut:#8a97b0;--ball:#ff7a18;--ball2:#ffb347;--green:#22c55e;--red:#ef4444;--amber:#f59e0b;
-    --accent:#6ea8fe;--shadow:0 10px 40px rgba(0,0,0,.45);}
+  :root{
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;
+    --mono:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    --radius:14px;
+  }
+  /* ---------- TEMA OSCURO (por defecto) ---------- */
+  [data-theme="dark"]{
+    --bg:#0a0d14; --panel:#10141e; --panel2:#141925; --line:#222a3a; --line2:#2c3548;
+    --txt:#e6eaf2; --txt2:#c2c9d6; --mut:#7e8aa0;
+    --primary:#5878aa; --primary-soft:rgba(88,120,170,.16);
+    --pos:#54a884; --neg:#cc6a6a; --warn:#b89653; --score:#c2a35e;
+    --c-blue:#5a82c4; --c-green:#54a884; --c-gold:#b89653; --c-purple:#9a8bd0; --c-coral:#c2785c;
+    --shadow:0 8px 30px rgba(0,0,0,.40);
+    --bgglow1:rgba(40,58,92,.22); --bgglow2:rgba(30,40,64,.18);
+  }
+  /* ---------- TEMA CLARO ---------- */
+  [data-theme="light"]{
+    --bg:#f2efe8; --panel:#ffffff; --panel2:#faf8f3; --line:#e3ded3; --line2:#d6cfc0;
+    --txt:#1b2230; --txt2:#3a4254; --mut:#717a8c;
+    --primary:#3f5e95; --primary-soft:rgba(63,94,149,.10);
+    --pos:#3f8c66; --neg:#b85656; --warn:#9a7c39; --score:#8f7430;
+    --c-blue:#3f5e95; --c-green:#3f8c66; --c-gold:#9a7c39; --c-purple:#6f5fb0; --c-coral:#b06243;
+    --shadow:0 6px 22px rgba(35,40,55,.08);
+    --bgglow1:rgba(63,94,149,.05); --bgglow2:rgba(154,124,57,.04);
+  }
   *{box-sizing:border-box}
-  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;
-    background:radial-gradient(1200px 600px at 80% -10%,#16233f 0%,transparent 60%),
-               radial-gradient(900px 500px at -10% 10%,#1a1230 0%,transparent 55%),var(--bg);
-    color:var(--txt);line-height:1.5;-webkit-font-smoothing:antialiased;padding-bottom:60px}
-  .wrap{max-width:1140px;margin:0 auto;padding:0 18px}
-  header.hero{padding:30px 0 14px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
-  .logo{width:54px;height:54px;border-radius:16px;flex:0 0 auto;
-    background:conic-gradient(from 220deg,var(--ball),var(--ball2),var(--ball));
-    display:grid;place-items:center;font-size:27px;box-shadow:0 8px 24px rgba(255,122,24,.35)}
-  h1{font-size:22px;margin:0;letter-spacing:-.5px}
-  .stars{color:var(--ball2);letter-spacing:2px}
-  .sub{color:var(--mut);font-size:12.5px;margin-top:3px}
-  /* KPIs */
-  .statbar{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin:4px 0 8px}
-  .statbar #statTitle{font-size:14px;font-weight:800;color:var(--txt)}
-  .statbar .statnote{font-size:11.5px;color:var(--mut)}
-  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:0 0 14px}
-  .chartcard{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:14px 14px 6px;margin:0 0 18px;box-shadow:var(--shadow)}
-  .charttitle{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:.6px;font-weight:700;margin-bottom:6px}
-  #chart{width:100%;height:auto;display:block}
+  body{margin:0;font-family:var(--sans);
+    background:radial-gradient(1100px 560px at 82% -12%,var(--bgglow1) 0%,transparent 60%),
+               radial-gradient(820px 480px at -8% 8%,var(--bgglow2) 0%,transparent 55%),var(--bg);
+    color:var(--txt);line-height:1.5;-webkit-font-smoothing:antialiased;padding-bottom:64px;
+    transition:background-color .25s ease,color .25s ease}
+  .wrap{max-width:1160px;margin:0 auto;padding:0 20px}
+
+  /* ---------- HEADER ---------- */
+  header.hero{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;flex-wrap:wrap;
+    padding:32px 0 20px;border-bottom:1px solid var(--line);margin-bottom:24px}
+  .kicker{font-family:var(--mono);font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--mut);margin-bottom:8px}
+  h1{font-size:23px;margin:0;letter-spacing:-.4px;font-weight:700}
+  .stars{color:var(--score);letter-spacing:2px;font-size:15px;vertical-align:middle}
+  .sub{color:var(--mut);font-size:12px;margin-top:6px;font-family:var(--mono);letter-spacing:.3px}
+  .actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .btn{cursor:pointer;font-family:var(--mono);font-size:11.5px;letter-spacing:.5px;text-transform:uppercase;
+    font-weight:600;border-radius:9px;padding:9px 14px;border:1px solid transparent;
+    background:var(--primary);color:#fff;transition:.15s}
+  .btn:hover{filter:brightness(1.08)}
+  .btn.ghost{background:transparent;color:var(--txt2);border-color:var(--line2)}
+  .btn.ghost:hover{background:var(--primary-soft);color:var(--txt);filter:none}
+  .btn.icon{padding:9px 11px;background:transparent;color:var(--txt2);border-color:var(--line2);font-size:14px}
+  .btn.icon:hover{background:var(--primary-soft)}
+
+  /* ---------- SECCIONES ---------- */
+  .statbar{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin:0 0 12px}
+  .statbar #statTitle,.statbar #statTitle2{font-family:var(--mono);font-size:11.5px;font-weight:600;
+    letter-spacing:1.4px;text-transform:uppercase;color:var(--txt2)}
+  .statbar .statnote{font-family:var(--mono);font-size:11px;color:var(--mut);letter-spacing:.3px}
+
+  /* ---------- KPIs ---------- */
+  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:0 0 18px}
   @media(max-width:820px){.kpis{grid-template-columns:repeat(3,1fr)}}
-  .kpi{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:13px}
-  .kpi .k{font-size:10.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.5px}
-  .kpi .v{font-size:22px;font-weight:800;margin-top:3px;font-variant-numeric:tabular-nums}
-  .pos{color:var(--green)}.neg{color:var(--red)}.amb{color:var(--amber)}
-  .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 18px}
-  .chip{padding:6px 12px;border-radius:999px;background:var(--card);border:1px solid var(--line);
-    color:var(--mut);cursor:pointer;font-size:12.5px;font-weight:600;transition:.15s;user-select:none}
-  .chip.active{background:linear-gradient(180deg,var(--ball),#e8650a);color:#fff;border-color:transparent}
-  select,input{background:var(--bg);border:1px solid var(--line);color:var(--txt);border-radius:9px;
-    padding:8px 10px;font-size:12.5px;font-family:inherit;outline:none}
-  .btn{cursor:pointer;border:1px solid var(--line);background:var(--card2);color:var(--txt);border-radius:9px;padding:8px 12px;font-size:12.5px;font-weight:700}
-  .grid{display:grid;gap:15px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
-  .card{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);
-    border-radius:16px;padding:16px;box-shadow:var(--shadow);position:relative;overflow:hidden}
-  .card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--green),var(--ball2))}
-  .card.under::before{background:linear-gradient(90deg,var(--amber),var(--ball2))}
-  .card.spread::before{background:linear-gradient(90deg,#a78bfa,var(--ball2))}
-  .card.win{border-color:rgba(34,197,94,.5)}.card.loss{border-color:rgba(239,68,68,.45)}
-  .row1{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
-  .league{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.6px;padding:3px 8px;border-radius:7px}
-  .lg-tte{background:rgba(110,168,254,.16);color:#9fc1ff}.lg-cup{background:rgba(255,122,24,.16);color:#ffb37a}
-  .lg-cz{background:rgba(34,197,94,.16);color:#7ee2a2}.lg-setka{background:rgba(245,158,11,.16);color:#f5c869}
-  .date{font-size:11px;color:var(--mut);font-weight:700}
-  .time{font-size:12.5px;color:var(--mut);font-weight:700;font-variant-numeric:tabular-nums}
-  .players{font-size:16px;font-weight:800;letter-spacing:-.3px;line-height:1.3}
-  .players .vs{color:var(--mut);font-weight:600;font-size:12px;margin:0 5px}
-  .pick{display:inline-flex;align-items:center;gap:8px;margin-top:10px;padding:7px 11px;border-radius:10px}
-  .pick.over{background:linear-gradient(180deg,rgba(34,197,94,.16),rgba(34,197,94,.04));border:1px solid rgba(34,197,94,.4)}
-  .pick.under{background:linear-gradient(180deg,rgba(245,158,11,.16),rgba(245,158,11,.04));border:1px solid rgba(245,158,11,.4)}
-  .pick.spread{background:linear-gradient(180deg,rgba(167,139,250,.16),rgba(167,139,250,.04));border:1px solid rgba(167,139,250,.4)}
-  .pick.spread .big{color:#c4b5fd}
-  .pick .big{font-size:18px;font-weight:900}.pick.over .big{color:#7ee2a2}.pick.under .big{color:var(--amber)}
-  .lbl{font-size:10.5px;text-transform:uppercase;letter-spacing:.7px;color:var(--mut);font-weight:700}
-  .metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:11px}
-  .m{background:var(--bg);border:1px solid var(--line);border-radius:9px;padding:7px;text-align:center}
-  .m .k{font-size:9.5px;color:var(--mut);text-transform:uppercase}.m .v{font-size:14px;font-weight:800;margin-top:1px}
-  .track{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);display:flex;flex-direction:column;gap:9px}
-  .oddsrow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-  .oddsrow input{width:72px;min-width:0}
-  .oddsrow .pl{margin-left:auto}
-  .searchlink{font-size:11.5px;color:var(--accent);text-decoration:none}
-  .results{display:flex;gap:6px}
-  .rbtn{flex:1;text-align:center;padding:7px 0;border-radius:9px;border:1px solid var(--line);background:var(--card2);
-    color:var(--mut);cursor:pointer;font-size:12px;font-weight:800;user-select:none}
-  .rbtn.win.on{background:rgba(34,197,94,.2);color:#7ee2a2;border-color:rgba(34,197,94,.5)}
-  .rbtn.loss.on{background:rgba(239,68,68,.2);color:#f4a0a0;border-color:rgba(239,68,68,.5)}
-  .rbtn.pend.on{background:var(--card2);color:var(--txt);border-color:var(--mut)}
-  .rbtn.restore{background:rgba(110,168,254,.14);color:#9fc1ff;border-color:rgba(110,168,254,.4)}
-  .delrow{display:flex;justify-content:center;margin-top:2px}
-  .dellink{font-size:11px;color:var(--mut);cursor:pointer;opacity:.7;transition:.15s;user-select:none}
-  .dellink:hover{opacity:1;color:var(--red)}
-  .card.deleted{opacity:.6}
-  .empty{color:var(--mut);text-align:center;padding:40px;font-size:14px;grid-column:1/-1}
-  .note{color:var(--mut);font-size:11.5px;text-align:center;margin-top:26px;line-height:1.7}
-  .pl{font-size:12px;font-weight:800;font-variant-numeric:tabular-nums}
-  /* Panel semana vs finde */
-  .wkpanel{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 18px}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 14px 13px}
+  .kpi .k{font-family:var(--mono);font-size:9.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.8px}
+  .kpi .v{font-family:var(--serif);font-size:25px;font-weight:600;margin-top:5px;font-variant-numeric:tabular-nums;letter-spacing:-.3px}
+  .pos{color:var(--pos)}.neg{color:var(--neg)}.amb{color:var(--warn)}
+
+  /* ---------- GRÁFICO ---------- */
+  .chartcard{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:16px 16px 8px;margin:0 0 22px}
+  .charttitle{font-family:var(--mono);font-size:10.5px;color:var(--mut);text-transform:uppercase;letter-spacing:1px;font-weight:600;margin-bottom:8px}
+  #chart{width:100%;height:auto;display:block}
+
+  /* ---------- PANEL SEMANA / FINDE ---------- */
+  .wkpanel{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 24px}
   @media(max-width:560px){.wkpanel{grid-template-columns:1fr}}
-  .wkcard{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:14px;padding:14px 16px;position:relative;overflow:hidden}
-  .wkcard::before{content:"";position:absolute;top:0;left:0;right:0;height:3px}
-  .wkcard.week::before{background:linear-gradient(90deg,var(--accent),#9fc1ff)}
-  .wkcard.wend::before{background:linear-gradient(90deg,var(--ball),var(--ball2))}
-  .wkhead{display:flex;align-items:center;gap:8px;margin-bottom:11px}
-  .wkhead .ico{font-size:17px}
-  .wkhead .ttl{font-size:13px;font-weight:800;letter-spacing:-.2px}
-  .wkhead .cnt{margin-left:auto;font-size:11px;color:var(--mut);font-weight:700}
-  .wkgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:9px}
-  .wkm{text-align:center}
-  .wkm .k{font-size:9.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.4px}
-  .wkm .v{font-size:17px;font-weight:800;margin-top:2px;font-variant-numeric:tabular-nums}
+  .wkcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;position:relative;overflow:hidden}
+  .wkcard::before{content:"";position:absolute;top:0;left:0;width:3px;height:100%}
+  .wkcard.week::before{background:var(--primary)}
+  .wkcard.wend::before{background:var(--c-gold)}
+  .wkhead{display:flex;align-items:center;gap:9px;margin-bottom:13px}
+  .wkhead .ico{font-size:14px;opacity:.85}
+  .wkhead .ttl{font-size:13px;font-weight:700;letter-spacing:-.2px}
+  .wkhead .cnt{margin-left:auto;font-family:var(--mono);font-size:10px;color:var(--mut);letter-spacing:.5px;text-transform:uppercase}
+  .wkgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .wkm .k{font-family:var(--mono);font-size:9px;color:var(--mut);text-transform:uppercase;letter-spacing:.6px}
+  .wkm .v{font-family:var(--serif);font-size:19px;font-weight:600;margin-top:3px;font-variant-numeric:tabular-nums}
+  .wknote{font-family:var(--mono);font-size:10px;color:var(--mut);margin-top:10px;letter-spacing:.3px}
+
+  /* ---------- TOOLBAR / CHIPS ---------- */
+  .toolbar{display:flex;gap:7px;flex-wrap:wrap;align-items:center;margin:0 0 16px}
+  .toolbar .lbl-inline{font-family:var(--mono);font-size:10.5px;text-transform:uppercase;letter-spacing:.6px;color:var(--mut);margin-right:4px}
+  .chip{padding:6px 13px;border-radius:8px;background:var(--panel);border:1px solid var(--line);
+    color:var(--mut);cursor:pointer;font-size:12px;font-weight:600;transition:.15s;user-select:none}
+  .chip:hover{border-color:var(--line2);color:var(--txt2)}
+  .chip.active{background:var(--primary);color:#fff;border-color:transparent}
+  select{background:var(--panel);border:1px solid var(--line);color:var(--txt);border-radius:8px;
+    padding:7px 11px;font-size:12px;font-family:var(--sans);outline:none;cursor:pointer}
+
+  /* ---------- TARJETAS DE PARTIDO ---------- */
+  .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:17px;
+    box-shadow:var(--shadow);position:relative;overflow:hidden;transition:border-color .15s}
+  .card::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:var(--pos)}
+  .card.under::before{background:var(--warn)}
+  .card.spread::before{background:var(--c-purple)}
+  .card.win{border-color:color-mix(in srgb,var(--pos) 45%,var(--line))}
+  .card.loss{border-color:color-mix(in srgb,var(--neg) 40%,var(--line))}
+  .row1{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:10px}
+  .league{font-family:var(--mono);font-size:9.5px;font-weight:600;text-transform:uppercase;letter-spacing:.7px;padding:3px 8px;border-radius:6px}
+  .lg-tte{color:var(--c-blue);background:color-mix(in srgb,var(--c-blue) 13%,transparent)}
+  .lg-cup{color:var(--c-coral);background:color-mix(in srgb,var(--c-coral) 13%,transparent)}
+  .lg-cz{color:var(--c-green);background:color-mix(in srgb,var(--c-green) 14%,transparent)}
+  .lg-setka{color:var(--c-gold);background:color-mix(in srgb,var(--c-gold) 15%,transparent)}
+  .date{font-family:var(--mono);font-size:10.5px;color:var(--mut)}
+  .time{font-family:var(--mono);font-size:11px;color:var(--mut);font-variant-numeric:tabular-nums}
+  .players{font-size:16px;font-weight:700;letter-spacing:-.3px;line-height:1.3}
+  .players .vs{color:var(--mut);font-weight:500;font-size:12px;margin:0 5px}
+  .pick{display:inline-flex;align-items:center;gap:9px;margin-top:11px;padding:8px 12px;border-radius:9px}
+  .pick.over{background:color-mix(in srgb,var(--pos) 10%,transparent);border:1px solid color-mix(in srgb,var(--pos) 32%,transparent)}
+  .pick.under{background:color-mix(in srgb,var(--warn) 11%,transparent);border:1px solid color-mix(in srgb,var(--warn) 34%,transparent)}
+  .pick.spread{background:color-mix(in srgb,var(--c-purple) 11%,transparent);border:1px solid color-mix(in srgb,var(--c-purple) 32%,transparent)}
+  .pick .big{font-family:var(--serif);font-size:19px;font-weight:600;letter-spacing:-.2px}
+  .pick.over .big{color:var(--pos)}.pick.under .big{color:var(--warn)}.pick.spread .big{color:var(--c-purple)}
+  .lbl{font-family:var(--mono);font-size:9.5px;text-transform:uppercase;letter-spacing:.7px;color:var(--mut);font-weight:600}
+  .metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
+  .m{background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:8px 6px;text-align:center}
+  .m .k{font-family:var(--mono);font-size:8.5px;color:var(--mut);text-transform:uppercase;letter-spacing:.4px}
+  .m .v{font-family:var(--serif);font-size:15px;font-weight:600;margin-top:2px}
+  .track{margin-top:13px;padding-top:13px;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:9px}
+  .oddsrow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .oddsrow input{width:74px;min-width:0;background:var(--panel2);border:1px solid var(--line);color:var(--txt);
+    border-radius:8px;padding:7px 9px;font-size:12px;font-family:var(--mono);outline:none}
+  .oddsrow input:focus{border-color:var(--primary)}
+  .oddsrow .pl{margin-left:auto}
+  .searchlink{font-family:var(--mono);font-size:10.5px;color:var(--primary);text-decoration:none;letter-spacing:.3px}
+  .searchlink:hover{text-decoration:underline}
+  .results{display:flex;gap:7px}
+  .rbtn{flex:1;text-align:center;padding:8px 0;border-radius:8px;border:1px solid var(--line);background:var(--panel2);
+    color:var(--mut);cursor:pointer;font-size:12px;font-weight:700;user-select:none;transition:.15s}
+  .rbtn:hover{border-color:var(--line2)}
+  .rbtn.win.on{background:color-mix(in srgb,var(--pos) 18%,transparent);color:var(--pos);border-color:color-mix(in srgb,var(--pos) 45%,transparent)}
+  .rbtn.loss.on{background:color-mix(in srgb,var(--neg) 16%,transparent);color:var(--neg);border-color:color-mix(in srgb,var(--neg) 42%,transparent)}
+  .rbtn.pend.on{background:var(--panel2);color:var(--txt);border-color:var(--mut)}
+  .rbtn.restore{background:var(--primary-soft);color:var(--primary);border-color:color-mix(in srgb,var(--primary) 40%,transparent)}
+  .delrow{display:flex;justify-content:center;margin-top:1px}
+  .dellink{font-family:var(--mono);font-size:10px;color:var(--mut);cursor:pointer;opacity:.7;transition:.15s;user-select:none;letter-spacing:.3px;text-transform:uppercase}
+  .dellink:hover{opacity:1;color:var(--neg)}
+  .card.deleted{opacity:.55}
+  .pl{font-family:var(--mono);font-size:12px;font-weight:700;font-variant-numeric:tabular-nums}
+  .empty{color:var(--mut);text-align:center;padding:44px;font-size:13px;grid-column:1/-1;font-family:var(--mono)}
+  .note{color:var(--mut);font-size:11px;text-align:center;margin-top:30px;line-height:1.8;font-family:var(--mono);letter-spacing:.2px}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header class="hero">
-    <div class="logo">🏓</div>
-    <div style="flex:1;min-width:220px">
-      <h1>Ultra <span class="stars">★★★★</span> · Over/Under · Registro</h1>
+    <div class="brand">
+      <div class="kicker">TT Edge · Registro</div>
+      <h1>Ultra <span class="stars">★★★★</span> · Over / Under</h1>
       <div class="sub" id="sub">Cargando…</div>
     </div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
-      <button class="btn" id="refreshBtn" style="background:linear-gradient(180deg,var(--ball),#e8650a);color:#fff;border-color:transparent" onclick="forceRefresh()">🔄 Forzar actualización</button>
-      <button class="btn" id="syncBtn" onclick="setupSync()" title="Sincroniza tus marcas entre dispositivos">☁ Sincronizar</button>
-      <button class="btn" onclick="exportData()">⬇ Backup</button>
-      <button class="btn" onclick="document.getElementById('imp').click()">⬆ Restaurar</button>
+    <div class="actions">
+      <button class="btn" id="refreshBtn" onclick="forceRefresh()">Actualizar</button>
+      <button class="btn ghost" id="syncBtn" onclick="setupSync()" title="Sincroniza tus marcas entre dispositivos">Sincronizar</button>
+      <button class="btn ghost" onclick="exportData()">Backup</button>
+      <button class="btn ghost" onclick="document.getElementById('imp').click()">Restaurar</button>
+      <button class="btn icon" id="themeBtn" onclick="toggleTheme()" title="Cambiar tema claro / oscuro">◐</button>
       <input id="imp" type="file" accept="application/json" style="display:none" onchange="importData(event)">
     </div>
   </header>
 
-  <div class="statbar"><span id="statTitle">Estadísticas · todas las ligas</span><span class="statnote">apuesta fija 50€ · cuota 1,83 · usa las "Liga"/"Tipo" de abajo para filtrar</span></div>
+  <div class="statbar"><span id="statTitle">Estadísticas · todas las ligas</span><span class="statnote">apuesta fija 50€ · cuota 1,83 · filtra por liga / tipo abajo</span></div>
   <div class="kpis" id="kpis"></div>
 
   <div class="chartcard">
@@ -127,7 +184,7 @@
     <canvas id="chart" width="1100" height="220"></canvas>
   </div>
 
-  <div class="statbar"><span id="statTitle2">Entre semana vs. fin de semana</span><span class="statnote">según los filtros de liga/tipo/score de abajo</span></div>
+  <div class="statbar"><span id="statTitle2">Entre semana vs. fin de semana</span><span class="statnote">según los filtros de liga / tipo / score</span></div>
   <div class="wkpanel" id="wkpanel"></div>
 
   <div class="toolbar">
@@ -135,18 +192,18 @@
     <span class="chip tchip" data-type="over">Over</span>
     <span class="chip tchip" data-type="under">Under</span>
     <span class="chip tchip" data-type="spread">Spread</span>
-    <span style="width:8px"></span>
+    <span style="width:6px"></span>
     <span class="chip rchip active" data-res="all">Todo</span>
     <span class="chip rchip" data-res="pending">Pendientes</span>
     <span class="chip rchip" data-res="graded">Evaluadas</span>
-    <span class="chip rchip" data-res="deleted">🗑 Eliminadas</span>
-    <span style="width:8px"></span>
-    <span class="chip schip active" id="score85chip">★ Score ≥ 85</span>
-    <span style="width:8px"></span>
+    <span class="chip rchip" data-res="deleted">Eliminadas</span>
+    <span style="width:6px"></span>
+    <span class="chip schip active" id="score85chip">Score ≥ 85</span>
+    <span style="width:6px"></span>
     <select id="day"></select>
   </div>
-  <div class="toolbar" style="margin-top:-8px">
-    <span style="color:var(--mut);font-size:12px;font-weight:700;margin-right:2px">Ligas:</span>
+  <div class="toolbar">
+    <span class="lbl-inline">Ligas</span>
     <span class="chip lgchip active" data-lg="all">Todas</span>
     <span class="chip lgchip" data-lg="TT Elite Series">TT Elite</span>
     <span class="chip lgchip" data-lg="TT Cup">TT Cup</span>
@@ -157,8 +214,8 @@
   <div class="grid" id="grid"></div>
 
   <div class="note">
-    Cada día a las 08:00 (hora España) se guardan aquí los partidos <b>Ultra</b> Over/Under de TT Edge.<br>
-    Marca tú el resultado (✅/❌) y mete la cuota para llevar el registro. Tus marcas se guardan en este navegador (haz Backup de vez en cuando).<br>
+    Cada hora se guardan aquí los partidos Ultra Over/Under de TT Edge (hora española).<br>
+    Marca el resultado y mete la cuota para llevar el registro. Tus marcas se guardan en este navegador — haz Backup de vez en cuando.<br>
     Análisis informativo, no es consejo de apuesta. Juega con responsabilidad. +18.
   </div>
 </div>
@@ -174,6 +231,15 @@ const passLeague=d=>fLeagues.length===0 || fLeagues.includes(d.league);
 const passExcl=d=>!(d.type==='spread' && d.league==='Setka Cup');   // ignorar spreads de Setka Cup
 const notDeleted=d=>!(track[d.id] && track[d.id].deleted);          // ocultar picks eliminados
 
+/* ---------- TEMA CLARO / OSCURO ---------- */
+function applyTheme(t){
+  document.documentElement.setAttribute('data-theme',t);
+  try{ localStorage.setItem('ttedge_theme',t); }catch(e){}
+  const b=document.getElementById('themeBtn'); if(b) b.textContent = (t==='light'?'☾':'☀');
+  if(typeof drawChart==='function') drawChart();
+}
+function toggleTheme(){ const cur=document.documentElement.getAttribute('data-theme')||'dark'; applyTheme(cur==='dark'?'light':'dark'); }
+
 function loadTrack(){ try{ track=JSON.parse(localStorage.getItem(STORE))||{}; }catch(e){ track={}; } }
 function saveTrack(){ localStorage.setItem(STORE, JSON.stringify(track)); }
 function t(id){ return track[id] || (track[id]={result:'pending', odds:'', close:''}); }
@@ -186,7 +252,7 @@ function restorePick(id){ const x=t(id); x.deleted=false; saveTrack(); pushCloud
 
 /* ---------- SINCRONIZACIÓN EN LA NUBE (marcas entre dispositivos) ---------- */
 let SYNC = localStorage.getItem('ttedge_sync') || '';
-function updateSyncBtn(){ const b=document.getElementById('syncBtn'); if(b) b.textContent = SYNC ? ('☁ '+SYNC) : '☁ Sincronizar'; }
+function updateSyncBtn(){ const b=document.getElementById('syncBtn'); if(b) b.textContent = SYNC ? SYNC : 'Sincronizar'; }
 function setupSync(){
   const c = prompt('Código de sincronización.\nInvéntate uno (ej: "sergio2026") y usa EL MISMO en el móvil para ver tus marcas en todos lados.', SYNC);
   if(c===null) return;
@@ -266,18 +332,23 @@ function renderWeek(){
     return `<div class="wkgrid">
       <div class="wkm"><div class="k">Apuestas</div><div class="v">${s.total}</div></div>
       <div class="wkm"><div class="k">% Acierto</div><div class="v ${s.acc==null?'':s.acc>=50?'pos':'neg'}">${s.acc==null?'—':s.acc+'%'}</div></div>
-      <div class="wkm"><div class="k">Beneficio</div><div class="v ${cls(s.profit)}" style="font-size:15px">${s.graded?eur(s.profit):'—'}</div></div>
+      <div class="wkm"><div class="k">Beneficio</div><div class="v ${cls(s.profit)}" style="font-size:16px">${s.graded?eur(s.profit):'—'}</div></div>
       <div class="wkm"><div class="k">Yield</div><div class="v ${s.yield==null?'':cls(s.yield)}">${s.yield==null?'—':(s.yield>=0?'+':'')+s.yield.toFixed(1)+'%'}</div></div>
     </div>
-    <div style="font-size:10.5px;color:var(--mut);margin-top:8px">Evaluadas ${s.graded} · ✅ ${s.win} · ❌ ${s.loss} · ⏳ ${s.pend}</div>`;
+    <div class="wknote">Evaluadas ${s.graded} · ✓ ${s.win} · ✗ ${s.loss} · ⏳ ${s.pend}</div>`;
   };
   document.getElementById('wkpanel').innerHTML=`
-    <div class="wkcard week"><div class="wkhead"><span class="ico">📅</span><span class="ttl">Entre semana</span><span class="cnt">Lun – Vie</span></div>${block(week)}</div>
-    <div class="wkcard wend"><div class="wkhead"><span class="ico">🏖️</span><span class="ttl">Fin de semana</span><span class="cnt">Sáb – Dom</span></div>${block(wend)}</div>`;
+    <div class="wkcard week"><div class="wkhead"><span class="ico">▢</span><span class="ttl">Entre semana</span><span class="cnt">Lun – Vie</span></div>${block(week)}</div>
+    <div class="wkcard wend"><div class="wkhead"><span class="ico">▣</span><span class="ttl">Fin de semana</span><span class="cnt">Sáb – Dom</span></div>${block(wend)}</div>`;
 }
+function cssVar(name){ return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
+function hexA(hex,a){ hex=hex.replace('#',''); if(hex.length===3) hex=hex.split('').map(c=>c+c).join('');
+  const n=parseInt(hex,16); return `rgba(${(n>>16)&255},${(n>>8)&255},${n&255},${a})`; }
 function drawChart(){
   const c=document.getElementById('chart'); if(!c) return;
   const ctx=c.getContext('2d'); const W=c.width, H=c.height; ctx.clearRect(0,0,W,H);
+  const cPos=cssVar('--pos')||'#54a884', cNeg=cssVar('--neg')||'#cc6a6a',
+        cLine=cssVar('--line')||'#222a3a', cMut=cssVar('--mut')||'#7e8aa0';
   let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d))
     .filter(d=>['win','loss'].includes(track[d.id]&&track[d.id].result))
     .sort((a,b)=>((a.date||'')+(a.time||'')).localeCompare((b.date||'')+(b.time||'')));
@@ -286,26 +357,24 @@ function drawChart(){
   const pad=30, min=Math.min(0,...pts), max=Math.max(0,...pts), rng=(max-min)||1;
   const X=i=>pad+i*(W-2*pad)/Math.max(1,pts.length-1);
   const Y=v=>H-pad-(v-min)/rng*(H-2*pad);
-  // línea base en 0
-  ctx.strokeStyle='#26304a'; ctx.lineWidth=1; ctx.setLineDash([4,4]);
+  ctx.strokeStyle=cLine; ctx.lineWidth=1; ctx.setLineDash([4,4]);
   ctx.beginPath(); ctx.moveTo(pad,Y(0)); ctx.lineTo(W-pad,Y(0)); ctx.stroke(); ctx.setLineDash([]);
-  if(pts.length<2){ ctx.fillStyle='#8a97b0'; ctx.font='13px sans-serif'; ctx.fillText('Marca resultados (✅/❌) para ver la evolución.', pad, H/2); return; }
-  const up=cum>=0;
+  if(pts.length<2){ ctx.fillStyle=cMut; ctx.font='13px ui-monospace,monospace'; ctx.fillText('Marca resultados para ver la evolución.', pad, H/2); return; }
+  const up=cum>=0, lineCol=up?cPos:cNeg;
   const grad=ctx.createLinearGradient(0,0,0,H);
-  grad.addColorStop(0, up?'rgba(34,197,94,.30)':'rgba(239,68,68,.28)'); grad.addColorStop(1,'rgba(0,0,0,0)');
+  grad.addColorStop(0, hexA(lineCol,.28)); grad.addColorStop(1, hexA(lineCol,0));
   ctx.beginPath(); ctx.moveTo(X(0),Y(pts[0])); pts.forEach((v,i)=>ctx.lineTo(X(i),Y(v)));
   ctx.lineTo(X(pts.length-1),H-pad); ctx.lineTo(X(0),H-pad); ctx.closePath(); ctx.fillStyle=grad; ctx.fill();
   ctx.beginPath(); ctx.moveTo(X(0),Y(pts[0])); pts.forEach((v,i)=>ctx.lineTo(X(i),Y(v)));
-  ctx.strokeStyle=up?'#22c55e':'#ef4444'; ctx.lineWidth=2.5; ctx.stroke();
-  // puntos
-  pts.forEach((v,i)=>{ ctx.beginPath(); ctx.arc(X(i),Y(v),2.2,0,7); ctx.fillStyle=up?'#22c55e':'#ef4444'; ctx.fill(); });
-  ctx.fillStyle='#8a97b0'; ctx.font='11px sans-serif';
+  ctx.strokeStyle=lineCol; ctx.lineWidth=2.5; ctx.stroke();
+  pts.forEach((v,i)=>{ ctx.beginPath(); ctx.arc(X(i),Y(v),2.2,0,7); ctx.fillStyle=lineCol; ctx.fill(); });
+  ctx.fillStyle=cMut; ctx.font='11px ui-monospace,monospace';
   ctx.fillText('€'+max.toFixed(0),4,Y(max)+10); ctx.fillText('€'+min.toFixed(0),4,Y(min)-2);
-  ctx.fillStyle=up?'#7ee2a2':'#f4a0a0'; ctx.font='bold 14px sans-serif';
-  ctx.fillText((cum>=0?'+':'−')+'€'+Math.abs(cum).toFixed(2), W-pad-90, Math.max(16,Y(pts[pts.length-1])-8));
+  ctx.fillStyle=lineCol; ctx.font='bold 14px ui-monospace,monospace';
+  ctx.fillText((cum>=0?'+':'−')+'€'+Math.abs(cum).toFixed(2), W-pad-92, Math.max(16,Y(pts[pts.length-1])-8));
 }
 
-// Enlaces que llevan a betsapi (mismo sitio para resultado y cuotas), buscando por los nombres.
+// Enlaces de búsqueda (resultado y cuotas) por los nombres de los jugadores.
 function searchURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`betsapi ${d.home} ${d.away} cuotas`); }
 function resultURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`betsapi ${d.home} ${d.away} resultado`); }
 
@@ -320,7 +389,7 @@ function render(){
   if(!rows.length){ g.innerHTML='<div class="empty">'+(fRes==='deleted'?'No hay picks eliminados.':'No hay partidos con ese filtro.')+'</div>'; return; }
   const fmtN=n=>String(n).replace('-','−').replace('.',',');
   g.innerHTML=rows.map(d=>{
-    const isU=d.type==='under', isSp=d.type==='spread', col=isSp?'#c4b5fd':isU?'var(--amber)':'#7ee2a2';
+    const isU=d.type==='under', isSp=d.type==='spread', col=isSp?'var(--c-purple)':isU?'var(--warn)':'var(--pos)';
     const cardCls=isSp?'spread':isU?'under':'', pickCls=isSp?'spread':isU?'under':'over';
     const x=track[d.id]||{result:'pending',odds:'',close:''};
     const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
@@ -330,28 +399,28 @@ function render(){
       ? `<div class="pick spread">
            <span class="big" style="font-size:15px">${d.pick||'—'}</span>
            <div><div class="lbl">SPREAD · Ultra ★★★★</div>
-           <div style="font-size:12.5px;color:var(--mut)">hándicap ${d.spread!=null?fmtN(d.spread):'—'}${d.l5!=null?` · L5 ${fmtN(d.l5)}`:''}</div></div>
+           <div style="font-size:12px;color:var(--mut)">hándicap ${d.spread!=null?fmtN(d.spread):'—'}${d.l5!=null?` · L5 ${fmtN(d.l5)}`:''}</div></div>
          </div>`
       : `<div class="pick ${pickCls}">
            <span class="big">${isU?'UNDER 71,5':'OVER 77,5'}</span>
            <div><div class="lbl">Ultra ★★★★</div>
-           <div style="font-size:12.5px;color:var(--mut)">${d.pct}% ${isU?'under':'over'}${d.l5!=null?` · L5 ${d.l5}%`:''}</div></div>
+           <div style="font-size:12px;color:var(--mut)">${d.pct}% ${isU?'under':'over'}${d.l5!=null?` · L5 ${d.l5}%`:''}</div></div>
          </div>`;
     const metricsBlock = isSp
       ? `<div class="metrics">
            <div class="m"><div class="k">Hándicap</div><div class="v" style="color:${col}">${d.spread!=null?fmtN(d.spread):'—'}</div></div>
            <div class="m"><div class="k">L5</div><div class="v">${d.l5!=null?fmtN(d.l5):'—'}</div></div>
-           <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
+           <div class="m"><div class="k">Score</div><div class="v" style="color:var(--score)">${d.score!=null?d.score:'—'}</div></div>
          </div>`
       : `<div class="metrics">
            <div class="m"><div class="k">% ${isU?'Under':'Over'}</div><div class="v" style="color:${col}">${d.pct}%</div></div>
            <div class="m"><div class="k">3+ sets</div><div class="v">${d.sets3!=null?d.sets3+'%':'—'}</div></div>
-           <div class="m"><div class="k">Score</div><div class="v" style="color:var(--ball2)">${d.score!=null?d.score:'—'}</div></div>
+           <div class="m"><div class="k">Score</div><div class="v" style="color:var(--score)">${d.score!=null?d.score:'—'}</div></div>
          </div>`;
     return `<div class="card ${cardCls} ${x.deleted?'deleted':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
       <div class="row1">
         <span class="league ${lgClass(d.league)}">${d.league||''}</span>
-        <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">🕒 ${d.time||'--:--'}</span></span>
+        <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">${d.time||'--:--'}</span></span>
       </div>
       <div class="players">${d.home}<span class="vs">vs</span>${d.away}</div>
       ${pickBlock}
@@ -362,20 +431,20 @@ function render(){
           <input type="number" step="0.01" placeholder="1.83" value="${x.odds||'1.83'}" onchange="setOdds('${d.id}',this.value)">
           <span class="lbl" title="Cuota de cierre, para el CLV">Cierre</span>
           <input type="number" step="0.01" placeholder="1.83" value="${x.close||'1.83'}" onchange="setClose('${d.id}',this.value)">
-          <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">🔎 cuota</a>
+          <a class="searchlink" href="${searchURL(d)}" target="_blank" rel="noopener">cuota ↗</a>
           ${pl}
         </div>
         <div class="oddsrow" style="justify-content:flex-end">
-          <a class="searchlink" href="${resultURL(d)}" target="_blank" rel="noopener">🔎 buscar resultado del partido</a>
+          <a class="searchlink" href="${resultURL(d)}" target="_blank" rel="noopener">buscar resultado ↗</a>
         </div>
         ${x.deleted
-          ? `<div class="results"><div class="rbtn restore on" onclick="restorePick('${d.id}')">♻ Restaurar pick</div></div>`
+          ? `<div class="results"><div class="rbtn restore on" onclick="restorePick('${d.id}')">↺ Restaurar pick</div></div>`
           : `<div class="results">
-          <div class="rbtn win ${x.result==='win'?'on':''}" onclick="setResult('${d.id}','win')">✅ Acertó</div>
-          <div class="rbtn loss ${x.result==='loss'?'on':''}" onclick="setResult('${d.id}','loss')">❌ Falló</div>
+          <div class="rbtn win ${x.result==='win'?'on':''}" onclick="setResult('${d.id}','win')">✓ Acertó</div>
+          <div class="rbtn loss ${x.result==='loss'?'on':''}" onclick="setResult('${d.id}','loss')">✗ Falló</div>
           <div class="rbtn pend ${(!x.result||x.result==='pending')?'on':''}" onclick="setResult('${d.id}','pending')">⏳</div>
         </div>
-        <div class="delrow"><span class="dellink" onclick="if(confirm('¿Eliminar este pick? No contará en las estadísticas. Podrás recuperarlo en el filtro \\'Eliminadas\\'.'))delPick('${d.id}')">🗑 Eliminar pick</span></div>`}
+        <div class="delrow"><span class="dellink" onclick="if(confirm('¿Eliminar este pick? No contará en las estadísticas. Podrás recuperarlo en el filtro \\'Eliminadas\\'.'))delPick('${d.id}')">Eliminar pick</span></div>`}
       </div>
     </div>`;}).join('');
 }
@@ -389,19 +458,19 @@ let refreshing=false;
 async function forceRefresh(){
   if(refreshing) return;
   const btn=document.getElementById('refreshBtn');
-  refreshing=true; const orig=btn.textContent; btn.textContent='⏳ Lanzando…'; btn.style.opacity='.7';
+  refreshing=true; const orig=btn.textContent; btn.textContent='Lanzando…'; btn.style.opacity='.7';
   try{
     const r=await fetch('/api/refresh',{method:'POST'});
     const j=await r.json().catch(()=>({}));
     if(r.ok && j.ok){
-      btn.textContent='✅ Lanzado';
-      alert('Robot lanzado. Tarda ~2-3 minutos en buscar los partidos y publicarlos.\nEspera un poco y pulsa recargar (F5) para ver las novedades.');
+      btn.textContent='Lanzado ✓';
+      alert('Robot lanzado. Tarda ~2-3 minutos en buscar los partidos y publicarlos.\nEspera un poco y recarga (F5) para ver las novedades.');
     } else {
-      btn.textContent='⚠️ Error';
+      btn.textContent='Error';
       alert('No se pudo lanzar: '+(j.error||('HTTP '+r.status))+'\n\nSi acabas de desplegar, revisa que en Vercel están las variables GH_PAT y GH_REPO (ver guía).');
     }
   }catch(e){
-    btn.textContent='⚠️ Sin conexión';
+    btn.textContent='Sin conexión';
     alert('No se pudo contactar con el servidor. ¿Has añadido la función y las variables en Vercel? (ver guía)');
   }
   setTimeout(()=>{ btn.textContent=orig; btn.style.opacity='1'; refreshing=false; }, 8000);
@@ -423,13 +492,16 @@ document.querySelectorAll('.lgchip').forEach(c=>c.onclick=()=>{
 document.getElementById('score85chip').onclick=function(){ fScore85=!fScore85; this.classList.toggle('active',fScore85); render(); };
 document.getElementById('day').onchange=e=>{fDay=e.target.value;render();};
 
+// inicializar icono del botón de tema según el tema actual
+applyTheme(document.documentElement.getAttribute('data-theme')||'dark');
+
 loadTrack(); updateSyncBtn();
 fetch('data/history.json?ts='+Date.now()).then(r=>r.json()).then(j=>{
   DATA=j.matches||[];
   const d=j.generated?new Date(j.generated):null;
-  document.getElementById('sub').textContent=`${j.totalCount||DATA.length} predicciones registradas · ${j.tzNote||'hora española'} · actualizado ${d?d.toLocaleString('es-ES'):'—'}`;
+  document.getElementById('sub').textContent=`${j.totalCount||DATA.length} predicciones · ${j.tzNote||'hora española'} · act. ${d?d.toLocaleString('es-ES'):'—'}`;
   fillDays(); render(); pullCloud();
-}).catch(()=>{ document.getElementById('sub').textContent='Aún sin datos (el robot los generará a las 08:00).'; render(); pullCloud(); });
+}).catch(()=>{ document.getElementById('sub').textContent='Aún sin datos (el robot los generará en breve).'; render(); pullCloud(); });
 </script>
 </body>
 </html>
