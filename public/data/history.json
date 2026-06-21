@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T15:38:33.344Z",
+  "generated": "2026-06-21T16:37:31.024Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-21",
-  "totalCount": 129,
-  "todayCount": 7,
+  "totalCount": 135,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -26,6 +26,103 @@
       ]
     },
     {
+      "id": "2026-06-21_over_lukas-vich_vs_zdenek-dusek",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Lukas Vich",
+      "away": "Zdenek Dusek",
+      "league": "TT Cup",
+      "time": "20:55",
+      "timeRaw": "2:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_michal-raska_vs_jan-przybyla",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Michal Raska",
+      "away": "Jan Przybyla",
+      "league": "TT Cup",
+      "time": "20:40",
+      "timeRaw": "2:40 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 93,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_jakub-kuzmicz_vs_krystian-kolodziej",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jakub Kuzmicz",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_spread_jacek-oracz_vs_kazimierz-rybak",
+      "date": "2026-06-21",
+      "type": "spread",
+      "home": "Jacek Oracz",
+      "away": "Kazimierz Rybak",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "l5": 9.2,
+      "score": 85,
+      "pick": "Jacek Oracz",
+      "spread": -9.2,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_jakub-simecek_vs_dalimil-machander",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Jakub Simecek",
+      "away": "Dalimil Machander",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 80,
+      "score": 100,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-21_over_mariusz-baron_vs_piotr-gumulinski",
       "date": "2026-06-21",
       "type": "over",
@@ -41,6 +138,26 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-21_over_michal-lysakowski_vs_sylwester-wloszek",
+      "date": "2026-06-21",
+      "type": "over",
+      "home": "Michal Lysakowski",
+      "away": "Sylwester Wloszek",
+      "league": "TT Cup",
+      "time": "19:05",
+      "timeRaw": "1:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -76,10 +193,11 @@
       "pct": 90,
       "l5": 80,
       "sets3": 90,
-      "score": 100,
+      "score": 92,
       "h2h": 10,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
