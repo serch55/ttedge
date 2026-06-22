@@ -1,10 +1,300 @@
 {
-  "generated": "2026-06-22T10:59:50.954Z",
+  "generated": "2026-06-22T13:04:57.102Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 197,
-  "todayCount": 13,
+  "totalCount": 212,
+  "todayCount": 15,
   "matches": [
+    {
+      "id": "2026-06-22_over_dalimil-machander_vs_richard-skacelik",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Dalimil Machander",
+      "away": "Richard Skacelik",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_roman-opralka_vs_michal-chalupa",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Roman Opralka",
+      "away": "Michal Chalupa",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 97,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_martin-bruk_vs_filip-kubos",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Martin Bruk",
+      "away": "Filip Kubos",
+      "league": "Setka Cup",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 88,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_valentyn-chumak_vs_ruslan-serhyenko",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Valentyn Chumak",
+      "away": "Ruslan Serhyenko",
+      "league": "Setka Cup",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_michal-chalupa_vs_marek-holub",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Michal Chalupa",
+      "away": "Marek Holub",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_oleh-bindas_vs_serhii-rak",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Oleh Bindas",
+      "away": "Serhii Rak",
+      "league": "Setka Cup",
+      "time": "16:25",
+      "timeRaw": "10:25 AM",
+      "l5": 14.2,
+      "score": 85,
+      "pick": "Oleh Bindas",
+      "spread": -10.8,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_viktor-vejvoda_vs_vaclav-nohejl-2005",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Viktor Vejvoda",
+      "away": "Vaclav Nohejl 2005",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 88,
+      "score": 100,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_zdenek-babinec_vs_roman-opralka",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Zdenek Babinec",
+      "away": "Roman Opralka",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_jan-stoch_vs_dalimil-machander",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Jan Stoch",
+      "away": "Dalimil Machander",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_dmytro-kryshtal_vs_serhii-ponomarenko",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Dmytro Kryshtal",
+      "away": "Serhii Ponomarenko",
+      "league": "Setka Cup",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "l5": 9.6,
+      "score": 83,
+      "pick": "Serhii Ponomarenko",
+      "spread": -11.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_pavlo-ishchyk_vs_serhii-pitsyk",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Pavlo Ishchyk",
+      "away": "Serhii Pitsyk",
+      "league": "Setka Cup",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 88,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_kamil-rudomina_vs_adam-linek",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Kamil Rudomina",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_evzen-ondracek_vs_filip-kubos",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Evzen Ondracek",
+      "away": "Filip Kubos",
+      "league": "Setka Cup",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 10,
+      "trend": "",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22_over_serhii-kushnirenko_vs_dmytro-yurkov",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Serhii Kushnirenko",
+      "away": "Dmytro Yurkov",
+      "league": "Setka Cup",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_artur-sobel_vs_adam-linek",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Artur Sobel",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "15:05",
+      "timeRaw": "9:05 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-22_under_dmytro-yurkov_vs_serhii-ponomarenko",
       "date": "2026-06-22",
