@@ -93,7 +93,7 @@ function pageExtract(){
   return out;
 }
 
-async function applyFilters(page, type){
+async function applyFilters(page, type, conf='ultra'){
   // estado por defecto tras recarga: Ultra + High activos, sin tipo
   await page.goto('https://ttedge.ai/edge-finder', { waitUntil:'domcontentloaded', timeout:60000 });
   // ESPERAR a que la SPA cargue las predicciones (en servidor tarda: app + Supabase + datos)
@@ -108,14 +108,16 @@ async function applyFilters(page, type){
   const btnLabel = type==='over'?'Over':type==='under'?'Under':'Spread';
   await clickExact(btnLabel);                              // marca el tipo
   await page.waitForTimeout(1000);
-  await clickExact('High');                                // quita High -> solo Ultra
+  // dejar SOLO la confianza pedida (por defecto vienen Ultra + High activos)
+  await clickExact(conf==='high' ? 'Ultra' : 'High');      // quita la otra confianza
   await page.waitForTimeout(2500);
   let rows = await page.evaluate(pageExtract);
   // reintento si aún no había cargado
   if(rows.length === 0){ await page.waitForTimeout(5000); rows = await page.evaluate(pageExtract); }
-  // por seguridad, solo Ultra (4 estrellas) del tipo pedido
-  rows = rows.filter(r => r.stars === 4 && r.type === type);
-  return rows;
+  // por seguridad, solo la confianza pedida (4★ Ultra / 3★ High) del tipo pedido
+  const wantStars = conf==='high' ? 3 : 4;
+  rows = rows.filter(r => r.stars === wantStars && r.type === type);
+  return rows.map(r => ({ ...r, conf }));
 }
 
 async function injectSession(page){
@@ -175,12 +177,16 @@ async function injectSession(page){
     console.log('📥 Extrayendo SPREAD (Ultra)…');
     const spread = await applyFilters(page, 'spread');
     console.log(`   ${spread.length} partidos SPREAD`);
+    console.log('📥 Extrayendo SPREAD (High)…');
+    const spreadHigh = await applyFilters(page, 'spread', 'high');
+    console.log(`   ${spreadHigh.length} partidos SPREAD High`);
 
     const day = todayMadrid();
-    const todays = [...over, ...under, ...spread].map(r => {
-      const id = `${day}_${r.type}_${slug(r.home)}_vs_${slug(r.away)}`;
+    const todays = [...over, ...under, ...spread, ...spreadHigh].map(r => {
+      const conf = r.conf || 'ultra';
+      const id = `${day}_${r.type}${conf==='high'?'_high':''}_${slug(r.home)}_vs_${slug(r.away)}`;
       return {
-        id, date: day, type: r.type, home: r.home, away: r.away, league: r.league,
+        id, date: day, type: r.type, conf, home: r.home, away: r.away, league: r.league,
         time: toES(r.timeRaw), timeRaw: r.timeRaw,
         pct: r.pct, l5: r.l5, sets3: r.sets3, score: r.score,
         pick: r.pick, spread: r.spread,
@@ -204,8 +210,8 @@ async function injectSession(page){
     fs.mkdirSync(path.dirname(OUT), { recursive:true });
     fs.writeFileSync(OUT, JSON.stringify(payload, null, 2));
     // diagnóstico legible (se commitea para poder revisarlo)
-    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, spreadFound:spread.length, diag }, null, 2));
-    console.log(`💾 ${OUT} · hoy ${todays.length} (${over.length} over, ${under.length} under, ${spread.length} spread) · histórico total ${all.length}.`);
+    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, spreadFound:spread.length, spreadHighFound:spreadHigh.length, diag }, null, 2));
+    console.log(`💾 ${OUT} · hoy ${todays.length} (${over.length} over, ${under.length} under, ${spread.length} spread, ${spreadHigh.length} spread-high) · histórico total ${all.length}.`);
   } catch(e){
     try { fs.mkdirSync(path.dirname(OUT),{recursive:true}); fs.writeFileSync(path.join(path.dirname(OUT),'_debug.png'), await page.screenshot()); } catch(_){}
     console.error('💥 Error:', e.message, '(ver public/data/_debug.png)');
