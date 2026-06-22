@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-22T00:59:52.204Z",
+  "generated": "2026-06-22T01:59:40.847Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 166,
-  "todayCount": 3,
+  "totalCount": 170,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-22_spread_krzysztof-hetnar_vs_jakub-kaczmarek",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Krzysztof Hetnar",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "l5": 17.2,
+      "score": 85,
+      "pick": "Krzysztof Hetnar",
+      "spread": -13.8,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-22_under_ihor-emets_vs_oleh-karpenko",
       "date": "2026-06-22",
@@ -44,6 +64,63 @@
       ]
     },
     {
+      "id": "2026-06-22_spread_andriej-fomin_vs_dariusz-maszczynski",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Andriej Fomin",
+      "away": "Dariusz Maszczynski",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "l5": 8.8,
+      "score": 98,
+      "pick": "Andriej Fomin",
+      "spread": -8.8,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_bartosz-czerwinski_vs_grzegorz-poliniewicz",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Bartosz Czerwinski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "l5": 11.4,
+      "score": 89,
+      "pick": "Grzegorz Poliniewicz",
+      "spread": -9.7,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_slawomir-janus_vs_witold-stechly",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Slawomir Janus",
+      "away": "Witold Stechly",
+      "league": "TT Elite Series",
+      "time": "05:35",
+      "timeRaw": "11:35 PM",
+      "l5": 11.8,
+      "score": 82,
+      "pick": "Slawomir Janus",
+      "spread": -8.8,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_over_krzysztof-wloczko_vs_marcin-balcerzak",
       "date": "2026-06-22",
       "type": "over",
@@ -58,6 +135,26 @@
       "score": 84,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_mariusz-baron_vs_wojciech-urban",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Mariusz Baron",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -117,26 +214,6 @@
       "sets3": 80,
       "score": 89,
       "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_mariusz-baron_vs_wojciech-urban",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Mariusz Baron",
-      "away": "Wojciech Urban",
-      "league": "TT Elite Series",
-      "time": "01:05",
-      "timeRaw": "7:05 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 91,
-      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
