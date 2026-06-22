@@ -1,10 +1,48 @@
 {
-  "generated": "2026-06-21T23:33:39.095Z",
+  "generated": "2026-06-22T00:59:52.204Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 164,
-  "todayCount": 4,
+  "totalCount": 166,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-22_under_ihor-emets_vs_oleh-karpenko",
+      "date": "2026-06-22",
+      "type": "under",
+      "home": "Ihor Emets",
+      "away": "Oleh Karpenko",
+      "league": "Setka Cup",
+      "time": "07:00",
+      "timeRaw": "1:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 47,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_kacper-glazowski_vs_marcin-balcerzak",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Kacper Glazowski",
+      "away": "Marcin Balcerzak",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-22_over_krzysztof-wloczko_vs_marcin-balcerzak",
       "date": "2026-06-22",
