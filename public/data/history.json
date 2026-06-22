@@ -1,10 +1,125 @@
 {
-  "generated": "2026-06-22T13:04:57.102Z",
+  "generated": "2026-06-22T15:22:32.527Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 212,
-  "todayCount": 15,
+  "totalCount": 218,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-06-22_over_michal-nemec_vs_pavel-cibik",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Michal Nemec",
+      "away": "Pavel Cibik",
+      "league": "TT Cup",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_yehor-riadynskyi_vs_oleksandr-strutinskiy",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Yehor Riadynskyi",
+      "away": "Oleksandr Strutinskiy",
+      "league": "Setka Cup",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_piotr-strus_vs_kuba-golaszewski",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Piotr Strus",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 94,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_roman-opralka_vs_marek-holub",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Roman Opralka",
+      "away": "Marek Holub",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_pavlo-ishchyk_vs_vitalii-kobets",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Pavlo Ishchyk",
+      "away": "Vitalii Kobets",
+      "league": "Setka Cup",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 83,
+      "score": 88,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_ladislav-vosyka_vs_martin-jirasek",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Ladislav Vosyka",
+      "away": "Martin Jirasek",
+      "league": "TT Cup",
+      "time": "17:05",
+      "timeRaw": "11:05 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-22_over_dalimil-machander_vs_richard-skacelik",
       "date": "2026-06-22",
