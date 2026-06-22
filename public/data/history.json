@@ -1,10 +1,164 @@
 {
-  "generated": "2026-06-22T03:25:54.424Z",
+  "generated": "2026-06-22T05:55:00.218Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 173,
-  "todayCount": 10,
+  "totalCount": 180,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-22_over_oleksandr-ziakun_vs_oleksandr-syksa",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Oleksandr Ziakun",
+      "away": "Oleksandr Syksa",
+      "league": "Setka Cup",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_dmytro-khairov_vs_oleh-karpenko",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Dmytro Khairov",
+      "away": "Oleh Karpenko",
+      "league": "Setka Cup",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 88,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_artur-akopyan_vs_martin-holub",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Artur Akopyan",
+      "away": "Martin Holub",
+      "league": "Setka Cup",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_anatoliy-lysyi_vs_yurii-urezchenko",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Anatoliy Lysyi",
+      "away": "Yurii Urezchenko",
+      "league": "Setka Cup",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 79,
+      "score": 88,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_samuel-byrtus_vs_josef-cabak",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Samuel Byrtus",
+      "away": "Josef Cabak",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 99,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_pavel-wawrosz_vs_radomir-revay",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Pavel Wawrosz",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_dmytro-prylepa_vs_oleksandr-ziakun",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Dmytro Prylepa",
+      "away": "Oleksandr Ziakun",
+      "league": "Setka Cup",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 86,
+      "l5": 100,
+      "sets3": 86,
+      "score": 85,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-22_spread_krzysztof-hetnar_vs_jakub-kaczmarek",
       "date": "2026-06-22",
@@ -97,25 +251,6 @@
       "spread": -13.1,
       "h2h": 7,
       "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_kamil-rudomina_vs_michal-minda",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Kamil Rudomina",
-      "away": "Michal Minda",
-      "league": "TT Elite Series",
-      "time": "06:10",
-      "timeRaw": "12:10 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Volatile"
       ]
