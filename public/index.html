@@ -118,6 +118,7 @@
   .lg-cup{color:var(--c-coral);background:color-mix(in srgb,var(--c-coral) 13%,transparent)}
   .lg-cz{color:var(--c-green);background:color-mix(in srgb,var(--c-green) 14%,transparent)}
   .lg-setka{color:var(--c-gold);background:color-mix(in srgb,var(--c-gold) 15%,transparent)}
+  .confbadge{font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.7px;padding:3px 7px;border-radius:6px;color:var(--warn);background:color-mix(in srgb,var(--warn) 16%,transparent)}
   .date{font-family:var(--mono);font-size:10.5px;color:var(--mut)}
   .time{font-family:var(--mono);font-size:11px;color:var(--mut);font-variant-numeric:tabular-nums}
   .players{font-size:16px;font-weight:700;letter-spacing:-.3px;line-height:1.3}
@@ -224,7 +225,7 @@ const lgClass=l=>l==="TT Elite Series"?"lg-tte":l==="TT Cup"?"lg-cup":l==="Czech
 let DATA=[], track={}, fType="all", fRes="all", fLeagues=[], fDay="all", fScore85=true, fPeriod="all";
 const passScore=d=>!fScore85 || (d.score!=null && d.score>=85);
 const passLeague=d=>fLeagues.length===0 || fLeagues.includes(d.league);
-const passExcl=d=>!(d.type==='spread' && d.league==='Setka Cup');   // ignorar spreads de Setka Cup
+const passExcl=d=>!(d.type==='spread' && d.league==='Setka Cup' && (d.conf||'ultra')!=='high');   // ocultar spreads Ultra de Setka; los High sí se muestran
 const notDeleted=d=>!(track[d.id] && track[d.id].deleted);          // ocultar picks eliminados
 const isWeekend=d=>{ const g=new Date((d.date||'')+'T12:00:00').getDay(); return g===0||g===6; };
 const passPeriod=d=>fPeriod==='all'||(fPeriod==='week'?!isWeekend(d):isWeekend(d));  // Todo / Entre semana / Finde
@@ -412,7 +413,7 @@ function render(){
          </div>`;
     return `<div class="card ${cardCls} ${x.deleted?'deleted':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
       <div class="row1">
-        <span class="league ${lgClass(d.league)}">${d.league||''}</span>
+        <span style="display:flex;align-items:center;gap:6px"><span class="league ${lgClass(d.league)}">${d.league||''}</span>${d.conf==='high'?'<span class="confbadge">HIGH</span>':''}</span>
         <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">${d.time||'--:--'}</span></span>
       </div>
       <div class="players">${d.home}<span class="vs">vs</span>${d.away}</div>
