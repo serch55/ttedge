@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-22T01:59:40.847Z",
+  "generated": "2026-06-22T03:25:54.424Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 170,
-  "todayCount": 8,
+  "totalCount": 173,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-06-22_spread_krzysztof-hetnar_vs_jakub-kaczmarek",
@@ -45,6 +45,25 @@
       ]
     },
     {
+      "id": "2026-06-22_over_artur-sobel_vs_kamil-rudomina",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Artur Sobel",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_over_kacper-glazowski_vs_marcin-balcerzak",
       "date": "2026-06-22",
       "type": "over",
@@ -64,6 +83,44 @@
       ]
     },
     {
+      "id": "2026-06-22_spread_aleksander-barton_vs_slawomir-janus",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Aleksander Barton",
+      "away": "Slawomir Janus",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "l5": 13.8,
+      "score": 89,
+      "pick": "Slawomir Janus",
+      "spread": -13.1,
+      "h2h": 7,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_spread_andriej-fomin_vs_dariusz-maszczynski",
       "date": "2026-06-22",
       "type": "spread",
@@ -73,14 +130,12 @@
       "time": "06:00",
       "timeRaw": "12:00 AM",
       "l5": 8.8,
-      "score": 98,
+      "score": 100,
       "pick": "Andriej Fomin",
       "spread": -8.8,
       "h2h": 5,
       "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
+      "tags": []
     },
     {
       "id": "2026-06-22_spread_bartosz-czerwinski_vs_grzegorz-poliniewicz",
