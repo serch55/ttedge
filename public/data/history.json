@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-22T19:11:38.975Z",
+  "generated": "2026-06-22T21:05:05.227Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 241,
-  "todayCount": 14,
+  "totalCount": 251,
+  "todayCount": 15,
   "matches": [
     {
       "id": "2026-06-22_over_maksym-mrykh_vs_yevhenii-holoborodko",
@@ -1579,6 +1579,46 @@
       ]
     },
     {
+      "id": "2026-06-22_over_roman-gnoevoy_vs_spartak-abalmaz",
+      "date": "2026-06-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Roman Gnoevoy",
+      "away": "Spartak Abalmaz",
+      "league": "Setka Cup",
+      "time": "02:55",
+      "timeRaw": "8:55 PM",
+      "pct": 80,
+      "l5": 40,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_anatolii-lievshin_vs_maksym-mrykh",
+      "date": "2026-06-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Anatolii Lievshin",
+      "away": "Maksym Mrykh",
+      "league": "Setka Cup",
+      "time": "02:40",
+      "timeRaw": "8:40 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_over_myroslav-loboda_vs_oleksandr-pohonov",
       "date": "2026-06-22",
       "type": "over",
@@ -1593,6 +1633,27 @@
       "score": 82,
       "h2h": 7,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_high_jakub-zochniak_vs_krystian-kolodziej",
+      "date": "2026-06-22",
+      "type": "spread",
+      "conf": "high",
+      "home": "Jakub Zochniak",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "l5": 17.4,
+      "score": 71,
+      "pick": "Krystian Kolodziej",
+      "spread": -14.1,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1619,6 +1680,26 @@
       ]
     },
     {
+      "id": "2026-06-22_over_yaroslav-tebenko_vs_yurii-parahailo",
+      "date": "2026-06-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yaroslav Tebenko",
+      "away": "Yurii Parahailo",
+      "league": "Setka Cup",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 71,
+      "l5": 60,
+      "sets3": 93,
+      "score": 86,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_over_milan-cetner_vs_vaclav-dolezal",
       "date": "2026-06-22",
       "type": "over",
@@ -1633,6 +1714,46 @@
       "score": 84,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_valerii-vlasenko_vs_orest-hura",
+      "date": "2026-06-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Valerii Vlasenko",
+      "away": "Orest Hura",
+      "league": "Setka Cup",
+      "time": "00:45",
+      "timeRaw": "6:45 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_volodymir-maksuta_vs_maksym-mrykh",
+      "date": "2026-06-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Volodymir Maksuta",
+      "away": "Maksym Mrykh",
+      "league": "Setka Cup",
+      "time": "00:40",
+      "timeRaw": "6:40 PM",
+      "l5": 8.2,
+      "score": 92,
+      "pick": "Volodymir Maksuta",
+      "spread": -8.9,
+      "h2h": 7,
+      "trend": "",
       "tags": [
         "Volatile"
       ]
@@ -1677,6 +1798,47 @@
       ]
     },
     {
+      "id": "2026-06-22_over_ales-bayer_vs_karel-schopf",
+      "date": "2026-06-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Karel Schopf",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 100,
+      "score": 94,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_high_vladimir-postelt_vs_kyryl-darin",
+      "date": "2026-06-22",
+      "type": "spread",
+      "conf": "high",
+      "home": "Vladimir Postelt",
+      "away": "Kyryl Darin",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "l5": 11.8,
+      "score": 77,
+      "pick": "Vladimir Postelt",
+      "spread": -10.4,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_over_rafal-ogon_vs_jaroslaw-badura",
       "date": "2026-06-22",
       "type": "over",
@@ -1717,6 +1879,26 @@
       ]
     },
     {
+      "id": "2026-06-22_over_roman-gnoevoy_vs_dmytro-derevynskyi",
+      "date": "2026-06-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Roman Gnoevoy",
+      "away": "Dmytro Derevynskyi",
+      "league": "Setka Cup",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 95,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-22_over_hryhorii-kulishov_vs_serhii-chuliukov",
       "date": "2026-06-22",
       "type": "over",
@@ -1731,6 +1913,26 @@
       "score": 89,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_under_denys-maltsev_vs_oleksii-rodin",
+      "date": "2026-06-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Denys Maltsev",
+      "away": "Oleksii Rodin",
+      "league": "Setka Cup",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 86,
+      "l5": 100,
+      "sets3": 14,
+      "score": 88,
+      "h2h": 7,
+      "trend": "falling",
       "tags": [
         "Volatile"
       ]
