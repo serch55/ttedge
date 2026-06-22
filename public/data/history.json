@@ -1,10 +1,88 @@
 {
-  "generated": "2026-06-22T05:55:00.218Z",
+  "generated": "2026-06-22T08:15:18.808Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-22",
-  "totalCount": 180,
-  "todayCount": 8,
+  "totalCount": 184,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-22_over_tomas-kindl_vs_michal-raska",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Tomas Kindl",
+      "away": "Michal Raska",
+      "league": "TT Cup",
+      "time": "12:10",
+      "timeRaw": "6:10 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_over_artur-gromek_vs_karol-wisniewski",
+      "date": "2026-06-22",
+      "type": "over",
+      "home": "Artur Gromek",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 86,
+      "score": 85,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-22_under_ivan-pokydin_vs_yurii-urezchenko",
+      "date": "2026-06-22",
+      "type": "under",
+      "home": "Ivan Pokydin",
+      "away": "Yurii Urezchenko",
+      "league": "Setka Cup",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 40,
+      "score": 86,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-22_spread_ivan-pokydin_vs_yurii-urezchenko",
+      "date": "2026-06-22",
+      "type": "spread",
+      "home": "Ivan Pokydin",
+      "away": "Yurii Urezchenko",
+      "league": "Setka Cup",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "l5": 14.8,
+      "score": 83,
+      "pick": "Yurii Urezchenko",
+      "spread": -14.8,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-06-22_over_oleksandr-ziakun_vs_oleksandr-syksa",
       "date": "2026-06-22",
@@ -17,10 +95,11 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 93,
+      "score": 82,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
