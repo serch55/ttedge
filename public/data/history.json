@@ -1,10 +1,93 @@
 {
-  "generated": "2026-06-23T22:31:22.998Z",
+  "generated": "2026-06-23T23:28:09.413Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 337,
-  "todayCount": 5,
+  "totalCount": 342,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-24_over_karol-sulkowski_vs_aleksander-lilien",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Aleksander Lilien",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_high_jakub-pruszkowski_vs_pawel-slosarczyk",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "high",
+      "home": "Jakub Pruszkowski",
+      "away": "Pawel Slosarczyk",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "l5": 12.5,
+      "score": 74,
+      "pick": "Jakub Pruszkowski",
+      "spread": -12.5,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_high_jakub-folwarski_vs_jan-zandecki",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "high",
+      "home": "Jakub Folwarski",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "l5": 10.2,
+      "score": 77,
+      "pick": "Jakub Folwarski",
+      "spread": -8.2,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_kostiantyn-klymenko_vs_oleksandr-mytsyk",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kostiantyn Klymenko",
+      "away": "Oleksandr Mytsyk",
+      "league": "Setka Cup",
+      "time": "04:40",
+      "timeRaw": "10:40 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_spread_high_eduard-rubtsov_vs_oleksii-hrymovskyi",
       "date": "2026-06-24",
@@ -38,7 +121,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 87,
+      "score": 83,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -80,10 +163,32 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 87,
+      "score": 80,
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_jaroslaw-rolak_vs_krzysztof-kotyl",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
