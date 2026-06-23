@@ -1,10 +1,93 @@
 {
-  "generated": "2026-06-23T13:04:34.039Z",
+  "generated": "2026-06-23T15:05:37.751Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 305,
+  "totalCount": 310,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-23_spread_high_krzysztof-juszczyk_vs_milosz-cesarz",
+      "date": "2026-06-23",
+      "type": "spread",
+      "conf": "high",
+      "home": "Krzysztof Juszczyk",
+      "away": "Milosz Cesarz",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "l5": 8.2,
+      "score": 75,
+      "pick": "Krzysztof Juszczyk",
+      "spread": -8.2,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_serhii-kushnirenko_vs_dmytro-yurkov",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Serhii Kushnirenko",
+      "away": "Dmytro Yurkov",
+      "league": "Setka Cup",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_krystian-kolodziej_vs_karol-strowski",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_ivan-elfemov_vs_volodymyr-hainiuk",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ivan Elfemov",
+      "away": "Volodymyr Hainiuk",
+      "league": "Setka Cup",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_over_zdenek-babinec_vs_libor-prikasky",
       "date": "2026-06-23",
@@ -39,11 +122,10 @@
       "pct": 80,
       "l5": 80,
       "sets3": 20,
-      "score": 81,
+      "score": 84,
       "h2h": 5,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -69,6 +151,26 @@
       ]
     },
     {
+      "id": "2026-06-23_spread_wojciech-urban_vs_milosz-cesarz",
+      "date": "2026-06-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Milosz Cesarz",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": 11.8,
+      "score": 81,
+      "pick": "Wojciech Urban",
+      "spread": -11.8,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-23_over_andriy-didyk_vs_oleh-maksymkiv",
       "date": "2026-06-23",
       "type": "over",
@@ -84,6 +186,27 @@
       "score": 84,
       "h2h": 6,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_kacper-adamus_vs_grzegorz-jurowicz",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "16:45",
+      "timeRaw": "10:45 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -289,27 +412,6 @@
       "spread": -9.3,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_kacper-adamus_vs_grzegorz-jurowicz",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kacper Adamus",
-      "away": "Grzegorz Jurowicz",
-      "league": "TT Elite Series",
-      "time": "13:05",
-      "timeRaw": "7:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
