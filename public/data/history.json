@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-23T16:53:59.204Z",
+  "generated": "2026-06-23T17:39:15.298Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 318,
+  "totalCount": 319,
   "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-06-23_spread_high_pawel-adamus_vs_milosz-cesarz",
+      "date": "2026-06-23",
+      "type": "spread",
+      "conf": "high",
+      "home": "Pawel Adamus",
+      "away": "Milosz Cesarz",
+      "league": "TT Elite Series",
+      "time": "21:20",
+      "timeRaw": "3:20 PM",
+      "l5": 11.4,
+      "score": 74,
+      "pick": "Pawel Adamus",
+      "spread": -11.4,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_spread_high_mariusz-koczyba_vs_tomasz-wrzalik",
       "date": "2026-06-23",
