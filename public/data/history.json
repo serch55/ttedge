@@ -1,10 +1,90 @@
 {
-  "generated": "2026-06-23T09:13:49.202Z",
+  "generated": "2026-06-23T11:07:19.287Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 293,
-  "todayCount": 11,
+  "totalCount": 298,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-06-23_under_oleksandr-osadchyi_vs_vasiliy-smyk",
+      "date": "2026-06-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oleksandr Osadchyi",
+      "away": "Vasiliy Smyk",
+      "league": "Setka Cup",
+      "time": "15:10",
+      "timeRaw": "9:10 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 50,
+      "score": 90,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23_spread_high_kyrylo-tkachenko_vs_oleh-maksymkiv",
+      "date": "2026-06-23",
+      "type": "spread",
+      "conf": "high",
+      "home": "Kyrylo Tkachenko",
+      "away": "Oleh Maksymkiv",
+      "league": "Setka Cup",
+      "time": "14:55",
+      "timeRaw": "8:55 AM",
+      "l5": 11.6,
+      "score": 73,
+      "pick": "Kyrylo Tkachenko",
+      "spread": -10,
+      "h2h": 7,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_rafal-skotniczny_vs_kacper-adamus",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Skotniczny",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_dmytro-kryshtal_vs_dmytro-yurkov",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dmytro Kryshtal",
+      "away": "Dmytro Yurkov",
+      "league": "Setka Cup",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 81,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_over_tadeas-zika_vs_michael-sedlacek",
       "date": "2026-06-23",
@@ -18,7 +98,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 85,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -63,6 +143,27 @@
       "spread": -9.3,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_kacper-adamus_vs_grzegorz-jurowicz",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "13:05",
+      "timeRaw": "7:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
