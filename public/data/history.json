@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-23T03:12:32.008Z",
+  "generated": "2026-06-23T05:26:16.186Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 274,
-  "todayCount": 11,
+  "totalCount": 278,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-06-23_over_mykhailo-sokur_vs_ivan-nitchenko",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mykhailo Sokur",
+      "away": "Ivan Nitchenko",
+      "league": "Setka Cup",
+      "time": "09:50",
+      "timeRaw": "3:50 AM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 100,
+      "score": 94,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_oleksandr-syksa_vs_oleh-kurylenko",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Syksa",
+      "away": "Oleh Kurylenko",
+      "league": "Setka Cup",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_over_andrii-derevianko_vs_mykhailo-sokur",
       "date": "2026-06-23",
@@ -130,6 +171,26 @@
       ]
     },
     {
+      "id": "2026-06-23_spread_high_dawid-jedrysik_vs_jakub-kaczmarek",
+      "date": "2026-06-23",
+      "type": "spread",
+      "conf": "high",
+      "home": "Dawid Jedrysik",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "l5": 8.2,
+      "score": 71,
+      "pick": "Dawid Jedrysik",
+      "spread": -8.3,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
       "id": "2026-06-23_over_kacper-adamus_vs_oliver-vincenec",
       "date": "2026-06-23",
       "type": "over",
@@ -167,6 +228,27 @@
       "h2h": 13,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_kamil-rudomina_vs_filip-kujawa",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Filip Kujawa",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
