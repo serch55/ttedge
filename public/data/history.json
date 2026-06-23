@@ -1,10 +1,92 @@
 {
-  "generated": "2026-06-22T23:34:11.049Z",
+  "generated": "2026-06-23T00:52:35.092Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 263,
-  "todayCount": 5,
+  "totalCount": 267,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-23_over_kacper-adamus_vs_oliver-vincenec",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_sylwester-wloszek_vs_mateusz-burkacki",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sylwester Wloszek",
+      "away": "Mateusz Burkacki",
+      "league": "TT Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 85,
+      "score": 98,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_dariusz-drozdz_vs_szymon-radlo",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dariusz Drozdz",
+      "away": "Szymon Radlo",
+      "league": "TT Cup",
+      "time": "07:00",
+      "timeRaw": "1:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_kacper-glazowski_vs_maciej-nowalinski",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Glazowski",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 91,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_over_rotislav-hasmanda_vs_mihail-trinta",
       "date": "2026-06-23",
@@ -18,7 +100,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
