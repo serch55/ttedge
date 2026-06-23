@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-23T20:48:16.754Z",
+  "generated": "2026-06-23T21:36:59.018Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 331,
+  "totalCount": 332,
   "todayCount": 9,
   "matches": [
     {
@@ -1351,6 +1351,27 @@
       ]
     },
     {
+      "id": "2026-06-23_over_jakub-tazler_vs_martin-sychra",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Tazler",
+      "away": "Martin Sychra",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-23_over_roman-gnoevoy_vs_spartak-abalmaz",
       "date": "2026-06-23",
       "type": "over",
@@ -1487,10 +1508,11 @@
       "pct": 80,
       "l5": 60,
       "sets3": 93,
-      "score": 90,
+      "score": 86,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
