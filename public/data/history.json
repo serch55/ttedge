@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-23T18:47:41.345Z",
+  "generated": "2026-06-23T19:40:04.350Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 325,
-  "todayCount": 9,
+  "totalCount": 327,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-23_over_eduard-rubtsov_vs_oleksandr-mishchenko",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Eduard Rubtsov",
+      "away": "Oleksandr Mishchenko",
+      "league": "Setka Cup",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_over_ales-brandtl-jr_vs_zbynek-vyskocil",
       "date": "2026-06-23",
@@ -39,7 +59,7 @@
       "pct": 90,
       "l5": 100,
       "sets3": 90,
-      "score": 96,
+      "score": 89,
       "h2h": 10,
       "trend": "rising",
       "tags": [
@@ -60,7 +80,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 93,
-      "score": 93,
+      "score": 86,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -102,7 +122,7 @@
       "pct": 73,
       "l5": 80,
       "sets3": 93,
-      "score": 88,
+      "score": 80,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -1533,6 +1553,26 @@
       "score": 95,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_ondrej-svacha_vs_tomas-franek",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Svacha",
+      "away": "Tomas Franek",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 83,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Volatile"
       ]
