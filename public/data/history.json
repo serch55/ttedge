@@ -1,10 +1,94 @@
 {
-  "generated": "2026-06-23T18:13:27.902Z",
+  "generated": "2026-06-23T18:47:41.345Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 320,
-  "todayCount": 10,
+  "totalCount": 325,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-06-23_over_ales-brandtl-jr_vs_zbynek-vyskocil",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ales Brandtl Jr",
+      "away": "Zbynek Vyskocil",
+      "league": "TT Cup",
+      "time": "23:25",
+      "timeRaw": "5:25 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_oleksii-mitla_vs_artem-yurkov",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksii Mitla",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 90,
+      "score": 96,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_pavel-fojt_vs_tomas-dousa",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_zbynek-vyskocil_vs_lukas-vich",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Zbynek Vyskocil",
+      "away": "Lukas Vich",
+      "league": "TT Cup",
+      "time": "22:25",
+      "timeRaw": "4:25 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-23_over_matyas-navedla_vs_michal-wollny",
       "date": "2026-06-23",
@@ -42,6 +126,27 @@
       "spread": -11.4,
       "h2h": 5,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_yurii-shmyndra_vs_artem-yurkov",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yurii Shmyndra",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "20:50",
+      "timeRaw": "2:50 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 6,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
