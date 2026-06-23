@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-23T19:40:04.350Z",
+  "generated": "2026-06-23T20:48:16.754Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-23",
-  "totalCount": 327,
-  "todayCount": 8,
+  "totalCount": 331,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-06-23_over_eduard-rubtsov_vs_oleksandr-mishchenko",
@@ -38,7 +38,7 @@
       "pct": 87,
       "l5": 100,
       "sets3": 87,
-      "score": 93,
+      "score": 86,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -1371,6 +1371,47 @@
       ]
     },
     {
+      "id": "2026-06-23_over_tomas-franek_vs_martin-huk",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Franek",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Serhii Chelpanov",
+      "away": "Oleksii Hrymovskyi",
+      "league": "Setka Cup",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-23_spread_high_jakub-zochniak_vs_krystian-kolodziej",
       "date": "2026-06-23",
       "type": "spread",
@@ -1426,6 +1467,47 @@
       "l5": 80,
       "sets3": 80,
       "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_sergii-skhabitskiy_vs_volodymyr-melnykov",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sergii Skhabitskiy",
+      "away": "Volodymyr Melnykov",
+      "league": "Setka Cup",
+      "time": "01:10",
+      "timeRaw": "7:10 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 93,
+      "score": 90,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-23_over_karel-schopf_vs_michal-regner",
+      "date": "2026-06-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karel Schopf",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 84,
       "h2h": 15,
       "trend": "rising",
       "tags": [
