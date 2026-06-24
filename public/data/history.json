@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-24T20:38:43.570Z",
+  "generated": "2026-06-24T21:34:22.478Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 406,
-  "todayCount": 8,
+  "totalCount": 411,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-06-24_over_martin-stefek_vs_josef-pelikan",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Josef Pelikan",
+      "league": "Czech Liga Pro",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-06-24_over_iurii-hrekh_vs_vitalii-krokhmal",
       "date": "2026-06-24",
@@ -125,26 +145,6 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_martin-stefek_vs_josef-pelikan",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Martin Stefek",
-      "away": "Josef Pelikan",
-      "league": "Czech Liga Pro",
-      "time": "20:00",
-      "timeRaw": "2:00 PM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
       ]
     },
     {
@@ -1327,6 +1327,68 @@
       ]
     },
     {
+      "id": "2026-06-24_over_michal-kratochvil_vs_erik-mares",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Kratochvil",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_viacheslav-kovalenko_vs_oleksandr-v-kovalchuk",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Viacheslav Kovalenko",
+      "away": "Oleksandr V Kovalchuk",
+      "league": "Setka Cup",
+      "time": "02:55",
+      "timeRaw": "8:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_serhii-chuliukov_vs_andrii-peretiatko",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Serhii Chuliukov",
+      "away": "Andrii Peretiatko",
+      "league": "Setka Cup",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-24_over_tomas-franek_vs_martin-huk",
       "date": "2026-06-24",
       "type": "over",
@@ -1344,6 +1406,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_mihail-trinta_vs_rotislav-hasmanda",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Rotislav Hasmanda",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
@@ -1467,6 +1549,27 @@
       "score": 84,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_milosz-kukawka_vs_mikolaj-lukaszewski",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milosz Kukawka",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
