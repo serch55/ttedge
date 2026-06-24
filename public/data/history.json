@@ -1,10 +1,114 @@
 {
-  "generated": "2026-06-24T15:01:21.989Z",
+  "generated": "2026-06-24T16:32:24.464Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 391,
+  "totalCount": 396,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-24_over_karol-strowski_vs_krystian-kolodziej",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_martin-stefek_vs_josef-pelikan",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Josef Pelikan",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_vitalii-sydorenko_vs_ivan-elfemov",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vitalii Sydorenko",
+      "away": "Ivan Elfemov",
+      "league": "Setka Cup",
+      "time": "19:35",
+      "timeRaw": "1:35 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_andriej-fomin_vs_zbigniew-nocun",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Andriej Fomin",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_sebastian-krupa_vs_mariusz-adamus",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Mariusz Adamus",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 95,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_kostiantyn-klymenko_vs_andrii-kotiash",
       "date": "2026-06-24",
