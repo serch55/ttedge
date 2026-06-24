@@ -1,10 +1,115 @@
 {
-  "generated": "2026-06-24T05:24:50.261Z",
+  "generated": "2026-06-24T07:17:37.531Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 359,
-  "todayCount": 13,
+  "totalCount": 364,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-24_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "11:25",
+      "timeRaw": "5:25 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_vasyl-moshovskyi_vs_yaroslav-tebenko",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vasyl Moshovskyi",
+      "away": "Yaroslav Tebenko",
+      "league": "Setka Cup",
+      "time": "11:05",
+      "timeRaw": "5:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_jakub-kaczmarek_vs_piotr-gumulinski",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Piotr Gumulinski",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_cesta-havrda_vs_milan-smesny",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cesta Havrda",
+      "away": "Milan Smesny",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_oleh-kurylenko_vs_oleksandr-syksa",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleh Kurylenko",
+      "away": "Oleksandr Syksa",
+      "league": "Setka Cup",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_david-heczko_vs_jakub-simecek",
       "date": "2026-06-24",
@@ -18,7 +123,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 88,
+      "score": 80,
       "h2h": 4,
       "trend": "rising",
       "tags": [
