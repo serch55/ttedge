@@ -1,10 +1,134 @@
 {
-  "generated": "2026-06-24T01:43:12.339Z",
+  "generated": "2026-06-24T03:12:51.278Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 348,
-  "todayCount": 10,
+  "totalCount": 354,
+  "todayCount": 15,
   "matches": [
+    {
+      "id": "2026-06-24_spread_anastasiia-telykh_vs_alina-ovriakh",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Anastasiia Telykh",
+      "away": "Alina Ovriakh",
+      "league": "Setka Cup",
+      "time": "08:35",
+      "timeRaw": "2:35 AM",
+      "l5": 9.8,
+      "score": 89,
+      "pick": "Alina Ovriakh",
+      "spread": -9.8,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_lukas-adam_vs_michal-makara",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Adam",
+      "away": "Michal Makara",
+      "league": "Setka Cup",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_adrian-walek_vs_david-heczko",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "David Heczko",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_ondrej-mezera_vs_jakub-senk",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Mezera",
+      "away": "Jakub Senk",
+      "league": "Setka Cup",
+      "time": "08:15",
+      "timeRaw": "2:15 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 94,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_under_marcin-jadczyk_vs_dmitrij-prokopcov",
+      "date": "2026-06-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Dmitrij Prokopcov",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 89,
+      "l5": 100,
+      "sets3": 44,
+      "score": 85,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_high_marcin-jadczyk_vs_dmitrij-prokopcov",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "high",
+      "home": "Marcin Jadczyk",
+      "away": "Dmitrij Prokopcov",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "l5": 13.4,
+      "score": 75,
+      "pick": "Marcin Jadczyk",
+      "spread": -10.4,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_jiri-grohsgott_vs_ludek-madle",
       "date": "2026-06-24",
