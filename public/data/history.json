@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-24T18:40:30.290Z",
+  "generated": "2026-06-24T19:36:23.180Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 399,
-  "todayCount": 4,
+  "totalCount": 403,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-24_over_iurii-hrekh_vs_vitalii-krokhmal",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Iurii Hrekh",
+      "away": "Vitalii Krokhmal",
+      "league": "Setka Cup",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_valerii-vlasenko_vs_ruslan-lazebny",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Valerii Vlasenko",
+      "away": "Ruslan Lazebny",
+      "league": "Setka Cup",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_jakub-levicky_vs_dominik-oborny",
       "date": "2026-06-24",
@@ -1383,6 +1424,47 @@
       "l5": 80,
       "sets3": 93,
       "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_dmytro-shchegelskyi_vs_vitalii-krokhmal",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dmytro Shchegelskyi",
+      "away": "Vitalii Krokhmal",
+      "league": "Setka Cup",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_mykyta-smyrnov_vs_nazar-kovalchuk",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mykyta Smyrnov",
+      "away": "Nazar Kovalchuk",
+      "league": "Setka Cup",
+      "time": "00:15",
+      "timeRaw": "6:15 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 89,
       "h2h": 15,
       "trend": "rising",
       "tags": [
