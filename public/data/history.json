@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T20:18:13.385Z",
+  "generated": "2026-06-24T20:26:07.440Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
   "totalCount": 406,
@@ -1532,7 +1532,8 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_eduard-rubtsov_vs_oleksandr-mishchenko",
