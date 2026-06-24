@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-24T19:36:23.180Z",
+  "generated": "2026-06-24T20:18:13.385Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 403,
-  "todayCount": 5,
+  "totalCount": 406,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-06-24_over_iurii-hrekh_vs_vitalii-krokhmal",
@@ -182,27 +182,6 @@
       "l5": 100,
       "sets3": 87,
       "score": 84,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_sebastian-krupa_vs_mariusz-adamus",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Sebastian Krupa",
-      "away": "Mariusz Adamus",
-      "league": "TT Elite Series",
-      "time": "19:10",
-      "timeRaw": "1:10 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 87,
-      "score": 87,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -1390,6 +1369,26 @@
       ]
     },
     {
+      "id": "2026-06-24_over_bohdan-chaikovskyi_vs_vitalii-krokhmal",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bohdan Chaikovskyi",
+      "away": "Vitalii Krokhmal",
+      "league": "Setka Cup",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 75,
+      "score": 81,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-24_over_jaroslaw-rolak_vs_krzysztof-kotyl",
       "date": "2026-06-24",
       "type": "over",
@@ -1411,6 +1410,27 @@
       ]
     },
     {
+      "id": "2026-06-24_over_erik-mares_vs_jakub-kycelt",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Jakub Kycelt",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 86,
+      "score": 81,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-24_over_karel-schopf_vs_michal-regner",
       "date": "2026-06-24",
       "type": "over",
@@ -1426,6 +1446,27 @@
       "score": 84,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_valerii-vlasenko_vs_orest-hura",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Valerii Vlasenko",
+      "away": "Orest Hura",
+      "league": "Setka Cup",
+      "time": "00:45",
+      "timeRaw": "6:45 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1467,6 +1508,27 @@
       "score": 89,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_sebastian-krupa_vs_mariusz-adamus",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Mariusz Adamus",
+      "league": "TT Elite Series",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
