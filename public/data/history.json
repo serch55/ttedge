@@ -1,10 +1,50 @@
 {
-  "generated": "2026-06-24T17:40:55.093Z",
+  "generated": "2026-06-24T18:40:30.290Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 397,
-  "todayCount": 5,
+  "totalCount": 399,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-24_over_jakub-levicky_vs_dominik-oborny",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Levicky",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_myroslav-loboda_vs_vitalii-krokhmal",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Myroslav Loboda",
+      "away": "Vitalii Krokhmal",
+      "league": "Setka Cup",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 100,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_tomas-milota_vs_dominik-oborny",
       "date": "2026-06-24",
