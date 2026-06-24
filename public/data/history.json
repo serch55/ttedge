@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-24T13:46:34.790Z",
+  "generated": "2026-06-24T14:36:40.409Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 389,
-  "todayCount": 5,
+  "totalCount": 390,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-24_over_rafal-gajda_vs_oliver-vincenec",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_miroslaw-lewczuk_vs_kazimierz-rybak",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Kazimierz Rybak",
+      "league": "TT Elite Series",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "l5": 8.2,
+      "score": 81,
+      "pick": "Miroslaw Lewczuk",
+      "spread": -11.1,
+      "h2h": 8,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_jachym-juppa_vs_leon-kolman",
       "date": "2026-06-24",
@@ -495,27 +537,6 @@
       "score": 84,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_rafal-gajda_vs_oliver-vincenec",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Rafal Gajda",
-      "away": "Oliver Vincenec",
-      "league": "TT Elite Series",
-      "time": "11:55",
-      "timeRaw": "5:55 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 8,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
