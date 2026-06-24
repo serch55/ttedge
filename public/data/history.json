@@ -1,10 +1,114 @@
 {
-  "generated": "2026-06-24T03:12:51.278Z",
+  "generated": "2026-06-24T05:19:17.472Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 354,
-  "todayCount": 15,
+  "totalCount": 359,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-06-24_over_david-heczko_vs_jakub-simecek",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "David Heczko",
+      "away": "Jakub Simecek",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 88,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_yurii-shmyndra_vs_artem-yurkov",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yurii Shmyndra",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_ondrej-mezera_vs_tomas-hucko",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Mezera",
+      "away": "Tomas Hucko",
+      "league": "Setka Cup",
+      "time": "09:15",
+      "timeRaw": "3:15 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_radomir-revay_vs_radovan-polasek",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radomir Revay",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_high_dawid-jedrysik_vs_marian-lebek",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "high",
+      "home": "Dawid Jedrysik",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "l5": 11.8,
+      "score": 74,
+      "pick": "Marian Lebek",
+      "spread": -13.1,
+      "h2h": 8,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_spread_anastasiia-telykh_vs_alina-ovriakh",
       "date": "2026-06-24",
@@ -223,7 +327,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 91,
+      "score": 83,
       "h2h": 5,
       "trend": "rising",
       "tags": [
