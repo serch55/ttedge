@@ -26,6 +26,31 @@ const SHOW = process.argv.includes('--show');
 const TZ_OFFSET_H = parseInt(process.env.TTEDGE_TZ_OFFSET || '6', 10); // +6h => hora española
 const OUT = path.join(__dirname, '..', 'public', 'data', 'history.json');
 
+// Telegram (opcional): avisos de apuestas. Secrets en GitHub.
+const TG_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '';
+const TG_CHAT  = process.env.TELEGRAM_CHAT_ID  || '';
+function tgText(m){
+  const t = m.time || '--:--';
+  let bet;
+  if (m.type === 'spread') {
+    const h = (m.spread!=null) ? String(m.spread).replace('.',',') : '';
+    bet = `SPREAD · ${m.pick||''} ${h}`.trim();
+  } else {
+    const linea = m.type === 'under' ? 'UNDER 71,5' : 'OVER 77,5';
+    const extra = (m.pct!=null) ? ` (${m.pct}%${m.l5!=null?` · L5 ${m.l5}%`:''})` : '';
+    bet = linea + extra;
+  }
+  return `🏓 TT Elite · ${t}\n${m.home} vs ${m.away}\n${bet}\n⭐ Score ${m.score}`;
+}
+async function sendTelegram(text){
+  const r = await fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ chat_id: TG_CHAT, text, disable_web_page_preview: true })
+  });
+  return r.ok;
+}
+
 // fecha de HOY en zona España (YYYY-MM-DD)
 function todayMadrid(){
   const f = new Intl.DateTimeFormat('en-CA', { timeZone:'Europe/Madrid', year:'numeric', month:'2-digit', day:'2-digit' });
@@ -203,6 +228,23 @@ async function injectSession(page){
     try { hist = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch(e){}
     const byId = {}; (hist.matches||[]).forEach(m => { byId[m.id] = m; });
     for (const m of todays) byId[m.id] = { ...(byId[m.id]||{}), ...m }; // conserva nada extra, actualiza datos
+
+    // ---- TELEGRAM: avisar de apuestas TT Elite con Score>=85, solo lunes-viernes (una vez por apuesta) ----
+    if (TG_TOKEN && TG_CHAT) {
+      let enviadas = 0;
+      for (const m of todays) {
+        const c = byId[m.id];
+        const esLV = (()=>{ const g=new Date((c.date||'')+'T12:00:00').getDay(); return g>=1 && g<=5; })();
+        if (c && c.league === 'TT Elite Series' && c.score != null && c.score >= 85 && esLV && !c.tgSent) {
+          try { if (await sendTelegram(tgText(c))) { c.tgSent = true; enviadas++; await page.waitForTimeout(400); } }
+          catch(e){ console.error('Telegram error:', e.message); }
+        }
+      }
+      console.log(`📨 Telegram: ${enviadas} apuestas enviadas (TT Elite · Score≥85 · L-V).`);
+    } else {
+      console.log('📨 Telegram desactivado (faltan TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID).');
+    }
+
     const all = Object.values(byId).sort((a,b)=> (b.date+ (b.time||'')).localeCompare(a.date+(a.time||'')));
 
     const payload = { generated: new Date().toISOString(), tzNote: `hora española (+${TZ_OFFSET_H}h)`, lastDay: day, totalCount: all.length, todayCount: todays.length, matches: all };
