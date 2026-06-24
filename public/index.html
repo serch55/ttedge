@@ -230,6 +230,7 @@ const passExcl=d=> !(d.type==='spread' && d.league==='Setka Cup')   // ocultar s
 const notDeleted=d=>!(track[d.id] && track[d.id].deleted);          // ocultar picks eliminados
 const isWeekend=d=>{ const g=new Date((d.date||'')+'T12:00:00').getDay(); return g===0||g===6; };
 const passPeriod=d=>fPeriod==='all'||(fPeriod==='week'?!isWeekend(d):isWeekend(d));  // Todo / Entre semana / Finde
+const passDay=d=>fDay==='all'||d.date===fDay;                                        // filtro de fecha
 
 /* ---------- TEMA CLARO / OSCURO ---------- */
 function applyTheme(t){
@@ -301,12 +302,13 @@ function stats(rows){
   };
 }
 function renderKpis(){
-  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d)&&passPeriod(d));
+  const rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d)&&passPeriod(d)&&passDay(d));
   const s=stats(rows);
   const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
   const cls=n=>n>0?'pos':n<0?'neg':'';
   const perTxt=fPeriod==='week'?' · entre semana':fPeriod==='wend'?' · fin de semana':'';
-  document.getElementById('statTitle').textContent='Estadísticas · '+(fLeagues.length===0?'todas las ligas':fLeagues.join(' + '))+(fType==='all'?'':' · solo '+fType)+perTxt;
+  const dayTxt=fDay==='all'?'':' · '+fDay;
+  document.getElementById('statTitle').textContent='Estadísticas · '+(fLeagues.length===0?'todas las ligas':fLeagues.join(' + '))+(fType==='all'?'':' · solo '+fType)+perTxt+dayTxt;
   document.getElementById('kpis').innerHTML=`
     <div class="kpi"><div class="k">Apuestas</div><div class="v">${s.total}</div></div>
     <div class="kpi"><div class="k">Evaluadas</div><div class="v">${s.graded}</div></div>
@@ -324,7 +326,7 @@ function renderKpis(){
   renderWeek();
 }
 function renderWeek(){
-  const base=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d));
+  const base=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d)&&passDay(d));
   const week=base.filter(d=>!isWeekend(d)), wend=base.filter(d=>isWeekend(d));
   const eur=n=>(n>=0?'+':'−')+'€'+Math.abs(n).toFixed(2);
   const cls=n=>n>0?'pos':n<0?'neg':'';
@@ -349,7 +351,7 @@ function drawChart(){
   const ctx=c.getContext('2d'); const W=c.width, H=c.height; ctx.clearRect(0,0,W,H);
   const cPos=cssVar('--pos')||'#54a884', cNeg=cssVar('--neg')||'#cc6a6a',
         cLine=cssVar('--line')||'#222a3a', cMut=cssVar('--mut')||'#7e8aa0', cWarn=cssVar('--warn')||'#b89653';
-  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d)&&passPeriod(d))
+  let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d)&&passPeriod(d)&&passDay(d))
     .filter(d=>['win','loss'].includes(track[d.id]&&track[d.id].result))
     .sort((a,b)=>((a.date||'')+(a.time||'')).localeCompare((b.date||'')+(b.time||'')));
   let cum=0; const pts=[0];
