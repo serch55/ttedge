@@ -1,0 +1,47 @@
+name: Recordatorios TT Edge (30 min antes)
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # cada 10 minutos (GitHub puede retrasarlo algo)
+  workflow_dispatch: {}
+
+# Misma cola que el scraper: nunca corren a la vez (evita choques de git push)
+concurrency:
+  group: scrape-ttedge
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Enviar recordatorios
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scraper/remind.js
+
+      - name: Commit del resultado
+        run: |
+          git config user.name  "ttedge-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/data/history.json
+          git diff --staged --quiet && { echo "Sin cambios."; exit 0; }
+          git commit -m "chore: recordatorios $(date -u +%Y-%m-%dT%H:%M)"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rechazado (intento $i), rebaseando…"
+            git pull --rebase --autostash origin main || true
+            sleep 3
+          done
+          echo "No se pudo hacer push tras varios intentos." && exit 1
