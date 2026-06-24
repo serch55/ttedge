@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-24T00:48:42.542Z",
+  "generated": "2026-06-24T01:43:12.339Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 347,
-  "todayCount": 11,
+  "totalCount": 348,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-06-24_over_jiri-grohsgott_vs_ludek-madle",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Ludek Madle",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_jakub-folwarski_vs_piotr-cyrnek",
       "date": "2026-06-24",
