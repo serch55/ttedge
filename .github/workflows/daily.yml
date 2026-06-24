@@ -37,6 +37,8 @@ jobs:
           TTEDGE_EMAIL: ${{ secrets.TTEDGE_EMAIL }}
           TTEDGE_PASSWORD: ${{ secrets.TTEDGE_PASSWORD }}
           TTEDGE_TZ_OFFSET: "6"
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: npm run scrape
 
       - name: Diagnóstico si falla (captura de pantalla)
