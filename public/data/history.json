@@ -1,10 +1,110 @@
 {
-  "generated": "2026-06-24T11:05:23.691Z",
+  "generated": "2026-06-24T12:38:39.050Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 380,
-  "todayCount": 12,
+  "totalCount": 386,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-06-24_under_dmytro-yurkov_vs_serhii-ponomarenko",
+      "date": "2026-06-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dmytro Yurkov",
+      "away": "Serhii Ponomarenko",
+      "league": "Setka Cup",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 20,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-24_under_oleksii-korobov_vs_yevhen-bielokon",
+      "date": "2026-06-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oleksii Korobov",
+      "away": "Yevhen Bielokon",
+      "league": "Setka Cup",
+      "time": "16:05",
+      "timeRaw": "10:05 AM",
+      "pct": 78,
+      "l5": 100,
+      "sets3": 44,
+      "score": 83,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_maksym-baday_vs_andrii-vasylets",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maksym Baday",
+      "away": "Andrii Vasylets",
+      "league": "Setka Cup",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 86,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_maksym-baday_vs_andrii-vasylets",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Maksym Baday",
+      "away": "Andrii Vasylets",
+      "league": "Setka Cup",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "l5": 8.6,
+      "score": 80,
+      "pick": "Maksym Baday",
+      "spread": -7,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_jachym-juppa_vs_filip-kubos",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jachym Juppa",
+      "away": "Filip Kubos",
+      "league": "Setka Cup",
+      "time": "15:15",
+      "timeRaw": "9:15 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 83,
+      "score": 87,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_oleksii-mitla_vs_artem-yurkov",
       "date": "2026-06-24",
@@ -81,11 +181,31 @@
       "pct": 83,
       "l5": 80,
       "sets3": 100,
-      "score": 92,
+      "score": 85,
       "h2h": 6,
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_yuriy-melnyk_vs_viktor-ivanytskyi",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yuriy Melnyk",
+      "away": "Viktor Ivanytskyi",
+      "league": "Setka Cup",
+      "time": "14:25",
+      "timeRaw": "8:25 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 97,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
