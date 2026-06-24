@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-24T16:32:24.464Z",
+  "generated": "2026-06-24T16:48:46.905Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 396,
-  "todayCount": 6,
+  "totalCount": 397,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-24_over_tomas-milota_vs_dominik-oborny",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Milota",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_karol-strowski_vs_krystian-kolodziej",
       "date": "2026-06-24",
@@ -101,7 +121,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 87,
-      "score": 95,
+      "score": 87,
       "h2h": 15,
       "trend": "rising",
       "tags": [
