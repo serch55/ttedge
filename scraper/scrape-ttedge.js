@@ -177,14 +177,13 @@ async function injectSession(page){
     console.log('📥 Extrayendo SPREAD (Ultra)…');
     const spread = await applyFilters(page, 'spread');
     console.log(`   ${spread.length} partidos SPREAD`);
-    console.log('📥 Extrayendo SPREAD (High)…');
-    const spreadHigh = await applyFilters(page, 'spread', 'high');
-    console.log(`   ${spreadHigh.length} partidos SPREAD High`);
 
     const day = todayMadrid();
-    const todays = [...over, ...under, ...spread, ...spreadHigh].map(r => {
+    const todays = [...over, ...under, ...spread]
+      .filter(r => r.league !== 'TT Cup')        // no cargar la liga TT Cup
+      .map(r => {
       const conf = r.conf || 'ultra';
-      const id = `${day}_${r.type}${conf==='high'?'_high':''}_${slug(r.home)}_vs_${slug(r.away)}`;
+      const id = `${day}_${r.type}_${slug(r.home)}_vs_${slug(r.away)}`;
       return {
         id, date: day, type: r.type, conf, home: r.home, away: r.away, league: r.league,
         time: toES(r.timeRaw), timeRaw: r.timeRaw,
@@ -210,8 +209,8 @@ async function injectSession(page){
     fs.mkdirSync(path.dirname(OUT), { recursive:true });
     fs.writeFileSync(OUT, JSON.stringify(payload, null, 2));
     // diagnóstico legible (se commitea para poder revisarlo)
-    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, spreadFound:spread.length, spreadHighFound:spreadHigh.length, diag }, null, 2));
-    console.log(`💾 ${OUT} · hoy ${todays.length} (${over.length} over, ${under.length} under, ${spread.length} spread, ${spreadHigh.length} spread-high) · histórico total ${all.length}.`);
+    fs.writeFileSync(path.join(path.dirname(OUT),'_debug.json'), JSON.stringify({ when:new Date().toISOString(), overFound:over.length, underFound:under.length, spreadFound:spread.length, diag }, null, 2));
+    console.log(`💾 ${OUT} · hoy ${todays.length} (sin TT Cup) · histórico total ${all.length}.`);
   } catch(e){
     try { fs.mkdirSync(path.dirname(OUT),{recursive:true}); fs.writeFileSync(path.join(path.dirname(OUT),'_debug.png'), await page.screenshot()); } catch(_){}
     console.error('💥 Error:', e.message, '(ver public/data/_debug.png)');
