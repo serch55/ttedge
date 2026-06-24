@@ -1,10 +1,113 @@
 {
-  "generated": "2026-06-23T23:28:09.413Z",
+  "generated": "2026-06-24T00:48:42.542Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 342,
-  "todayCount": 8,
+  "totalCount": 347,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-06-24_over_jakub-folwarski_vs_piotr-cyrnek",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Folwarski",
+      "away": "Piotr Cyrnek",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 75,
+      "score": 85,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_spread_high_sergii-sideltsev_vs_vasyl-matviichuk",
+      "date": "2026-06-24",
+      "type": "spread",
+      "conf": "high",
+      "home": "Sergii Sideltsev",
+      "away": "Vasyl Matviichuk",
+      "league": "Setka Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "l5": 10.6,
+      "score": 78,
+      "pick": "Sergii Sideltsev",
+      "spread": -12,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_ondrej-mezera_vs_dominik-horak",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Mezera",
+      "away": "Dominik Horak",
+      "league": "Setka Cup",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_miroslav-sklensky_vs_jan-zandecki",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 91,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_piotr-cyrnek_vs_marcin-jadczyk",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "05:45",
+      "timeRaw": "11:45 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 92,
+      "score": 84,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_karol-sulkowski_vs_aleksander-lilien",
       "date": "2026-06-24",
