@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-24T12:50:50.856Z",
+  "generated": "2026-06-24T13:46:34.790Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-24",
-  "totalCount": 388,
-  "todayCount": 12,
+  "totalCount": 389,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-24_over_jachym-juppa_vs_leon-kolman",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jachym Juppa",
+      "away": "Leon Kolman",
+      "league": "Setka Cup",
+      "time": "17:15",
+      "timeRaw": "11:15 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-24_over_matej-grundel_vs_martin-skotnica",
       "date": "2026-06-24",
@@ -38,10 +59,32 @@
       "pct": 80,
       "l5": 100,
       "sets3": 87,
-      "score": 93,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-24_over_kacper-adamus_vs_rafal-gajda",
+      "date": "2026-06-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Rafal Gajda",
+      "league": "TT Elite Series",
+      "time": "16:45",
+      "timeRaw": "10:45 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -58,7 +101,7 @@
       "pct": 93,
       "l5": 80,
       "sets3": 20,
-      "score": 86,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -392,27 +435,6 @@
       "h2h": 7,
       "trend": "rising",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_kacper-adamus_vs_rafal-gajda",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kacper Adamus",
-      "away": "Rafal Gajda",
-      "league": "TT Elite Series",
-      "time": "13:05",
-      "timeRaw": "7:05 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
