@@ -1,10 +1,113 @@
 {
-  "generated": "2026-06-24T23:29:42.537Z",
+  "generated": "2026-06-25T00:53:10.580Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 428,
-  "todayCount": 13,
+  "totalCount": 433,
+  "todayCount": 17,
   "matches": [
+    {
+      "id": "2026-06-25_over_michal-cabis_vs_pavel-wawrosz",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Cabis",
+      "away": "Pavel Wawrosz",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_milan-chalupnicek_vs_ladislav-havel-1956",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milan Chalupnicek",
+      "away": "Ladislav Havel 1956",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 91,
+      "score": 97,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_alina-kurtenko_vs_svitlana-yureneva",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Alina Kurtenko",
+      "away": "Svitlana Yureneva",
+      "league": "Setka Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 86,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_spread_oleksandr-syksa_vs_artem-kasyanov",
+      "date": "2026-06-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Oleksandr Syksa",
+      "away": "Artem Kasyanov",
+      "league": "Setka Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "l5": 11,
+      "score": 81,
+      "pick": "Artem Kasyanov",
+      "spread": -11.3,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_serhii-hovorunets_vs_mykhailo-khalenko",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Serhii Hovorunets",
+      "away": "Mykhailo Khalenko",
+      "league": "Setka Cup",
+      "time": "07:05",
+      "timeRaw": "1:05 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 97,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_over_maciej-kolek_vs_bartosz-czerwinski",
       "date": "2026-06-25",
@@ -273,7 +376,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 87,
-      "score": 84,
+      "score": 80,
       "h2h": 15,
       "trend": "falling",
       "tags": [
