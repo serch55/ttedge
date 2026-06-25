@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25T20:43:44.480Z",
+  "generated": "2026-06-25T21:36:17.103Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 481,
+  "totalCount": 483,
   "todayCount": 6,
   "matches": [
     {
@@ -1240,6 +1240,27 @@
       "tgSent": true
     },
     {
+      "id": "2026-06-25_over_denys-pesternikov_vs_andrii-kotyk",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denys Pesternikov",
+      "away": "Andrii Kotyk",
+      "league": "Setka Cup",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-25_over_viacheslav-kovalenko_vs_oleksandr-v-kovalchuk",
       "date": "2026-06-25",
       "type": "over",
@@ -1409,6 +1430,27 @@
       ]
     },
     {
+      "id": "2026-06-25_over_rafal-stapor_vs_jaroslaw-rolak",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 93,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-25_over_denys-pesternikov_vs_volodymyr-plishylo",
       "date": "2026-06-25",
       "type": "over",
@@ -1421,10 +1463,11 @@
       "pct": 80,
       "l5": 100,
       "sets3": 93,
-      "score": 96,
+      "score": 81,
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
