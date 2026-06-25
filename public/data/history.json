@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-25T12:52:29.569Z",
+  "generated": "2026-06-25T13:45:37.429Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 466,
-  "todayCount": 14,
+  "totalCount": 468,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-06-25_over_volodymyr-hainiuk_vs_ivan-elfemov",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Volodymyr Hainiuk",
+      "away": "Ivan Elfemov",
+      "league": "Setka Cup",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_anatolii-nazarov_vs_andrii-derevianko",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Anatolii Nazarov",
+      "away": "Andrii Derevianko",
+      "league": "Setka Cup",
+      "time": "17:20",
+      "timeRaw": "11:20 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_over_ales-barton_vs_martin-huk",
       "date": "2026-06-25",
@@ -39,10 +80,12 @@
       "pct": 100,
       "l5": 100,
       "sets3": 75,
-      "score": 100,
+      "score": 98,
       "h2h": 4,
       "trend": "falling",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-25_spread_serhii-priadko_vs_valerii-romanenko",
@@ -55,12 +98,14 @@
       "time": "17:00",
       "timeRaw": "11:00 AM",
       "l5": 12.3,
-      "score": 100,
+      "score": 95,
       "pick": "Serhii Priadko",
       "spread": -12.3,
       "h2h": 4,
       "trend": "",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-25_over_jan-szotkowski_vs_tadeas-zika",
@@ -96,10 +141,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 100,
+      "score": 87,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -197,10 +243,11 @@
       "pct": 80,
       "l5": 100,
       "sets3": 93,
-      "score": 100,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
