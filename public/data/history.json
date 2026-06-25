@@ -1,10 +1,133 @@
 {
-  "generated": "2026-06-25T03:12:36.970Z",
+  "generated": "2026-06-25T05:25:45.332Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 435,
+  "totalCount": 440,
   "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-06-25_over_michal-vavrecka_vs_michal-cabis",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Vavrecka",
+      "away": "Michal Cabis",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 92,
+      "l5": 80,
+      "sets3": 92,
+      "score": 85,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_zbynek-zientek_vs_filip-zurek",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Zbynek Zientek",
+      "away": "Filip Zurek",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25_over_oleksandr-ziakun_vs_artem-kasyanov",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Ziakun",
+      "away": "Artem Kasyanov",
+      "league": "Setka Cup",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 86,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_adam-linek_vs_filip-kujawa",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Filip Kujawa",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
+    },
+    {
+      "id": "2026-06-25_over_boguslaw-madej_vs_grzegorz-jurowicz",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Boguslaw Madej",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "09:10",
+      "timeRaw": "3:10 AM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 79,
+      "score": 84,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_spread_serhii-ponomarenko_vs_serhii-kushnirenko",
+      "date": "2026-06-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Serhii Ponomarenko",
+      "away": "Serhii Kushnirenko",
+      "league": "Setka Cup",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "l5": 12.6,
+      "score": 81,
+      "pick": "Serhii Ponomarenko",
+      "spread": -12.9,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_over_michal-cabis_vs_pavel-wawrosz",
       "date": "2026-06-25",
@@ -45,6 +168,28 @@
       "tags": [
         "Volatile"
       ]
+    },
+    {
+      "id": "2026-06-25_over_kamil-rudomina_vs_adam-linek",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_alina-kurtenko_vs_svitlana-yureneva",
@@ -109,27 +254,6 @@
       ]
     },
     {
-      "id": "2026-06-25_over_adam-linek_vs_filip-kujawa",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Adam Linek",
-      "away": "Filip Kujawa",
-      "league": "TT Elite Series",
-      "time": "06:55",
-      "timeRaw": "12:55 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 96,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ],
-      "tgSent": true
-    },
-    {
       "id": "2026-06-25_over_filip-kujawa_vs_kamil-rudomina",
       "date": "2026-06-25",
       "type": "over",
@@ -192,28 +316,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ],
-      "tgSent": true
-    },
-    {
-      "id": "2026-06-25_over_kamil-rudomina_vs_adam-linek",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kamil Rudomina",
-      "away": "Adam Linek",
-      "league": "TT Elite Series",
-      "time": "05:25",
-      "timeRaw": "11:25 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 92,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ],
       "tgSent": true
     },
