@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-25T16:50:09.949Z",
+  "generated": "2026-06-25T17:51:15.088Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 474,
-  "todayCount": 5,
+  "totalCount": 476,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-25_over_radim-urbaniec_vs_zdenek-babinec",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Zdenek Babinec",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_martin-huk_vs_jan-mecl-jr",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Jan Mecl Jr",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_spread_dariusz-molenda_vs_zbigniew-nocun",
       "date": "2026-06-25",
