@@ -1,10 +1,272 @@
 {
-  "generated": "2026-06-25T11:01:00.708Z",
+  "generated": "2026-06-25T12:52:29.569Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 455,
-  "todayCount": 10,
+  "totalCount": 466,
+  "todayCount": 14,
   "matches": [
+    {
+      "id": "2026-06-25_over_ales-barton_vs_martin-huk",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ales Barton",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 86,
+      "l5": 100,
+      "sets3": 86,
+      "score": 92,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_under_serhii-priadko_vs_valerii-romanenko",
+      "date": "2026-06-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Serhii Priadko",
+      "away": "Valerii Romanenko",
+      "league": "Setka Cup",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 75,
+      "score": 100,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25_spread_serhii-priadko_vs_valerii-romanenko",
+      "date": "2026-06-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Serhii Priadko",
+      "away": "Valerii Romanenko",
+      "league": "Setka Cup",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": 12.3,
+      "score": 100,
+      "pick": "Serhii Priadko",
+      "spread": -12.3,
+      "h2h": 4,
+      "trend": "",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25_over_jan-szotkowski_vs_tadeas-zika",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Szotkowski",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_vitalii-ananiev_vs_roman-boklah",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vitalii Ananiev",
+      "away": "Roman Boklah",
+      "league": "Setka Cup",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_oleg-varlamov_vs_andrii-droshchynskyi",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleg Varlamov",
+      "away": "Andrii Droshchynskyi",
+      "league": "Setka Cup",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_tomas-vinter_vs_dmitro-parhomenko",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Vinter",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_vitalii-ananiev_vs_ihor-torhachov",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vitalii Ananiev",
+      "away": "Ihor Torhachov",
+      "league": "Setka Cup",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_mykola-pohorilyi_vs_roman-hryhoriev",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mykola Pohorilyi",
+      "away": "Roman Hryhoriev",
+      "league": "Setka Cup",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 83,
+      "score": 91,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_nazar-danyliuk_vs_anton-molochko",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Nazar Danyliuk",
+      "away": "Anton Molochko",
+      "league": "Setka Cup",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_piotr-cyrnek_vs_jan-zandecki",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "15:45",
+      "timeRaw": "9:45 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ],
+      "tgSent": true
+    },
+    {
+      "id": "2026-06-25_over_iurii-hrekh_vs_vladyslav-sheremeta",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Iurii Hrekh",
+      "away": "Vladyslav Sheremeta",
+      "league": "Setka Cup",
+      "time": "15:35",
+      "timeRaw": "9:35 AM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 70,
+      "score": 83,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_krzysztof-wloczko_vs_marcin-balcerzak",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Marcin Balcerzak",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_over_jaroslav-strnad-1964_vs_pavel-drazan",
       "date": "2026-06-25",
@@ -229,27 +491,6 @@
         "Volatile"
       ],
       "tgSent": true
-    },
-    {
-      "id": "2026-06-25_over_jan-szotkowski_vs_tadeas-zika",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jan Szotkowski",
-      "away": "Tadeas Zika",
-      "league": "Czech Liga Pro",
-      "time": "12:00",
-      "timeRaw": "6:00 AM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 93,
-      "score": 88,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-25_over_michal-minda_vs_adam-linek",
@@ -627,27 +868,6 @@
       "score": 96,
       "h2h": 5,
       "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ],
-      "tgSent": true
-    },
-    {
-      "id": "2026-06-25_over_piotr-cyrnek_vs_jan-zandecki",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Piotr Cyrnek",
-      "away": "Jan Zandecki",
-      "league": "TT Elite Series",
-      "time": "05:00",
-      "timeRaw": "11:00 PM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 6,
-      "trend": "rising",
       "tags": [
         "Fatigue"
       ],
