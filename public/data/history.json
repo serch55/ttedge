@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-25T19:37:59.650Z",
+  "generated": "2026-06-25T20:43:44.480Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 480,
-  "todayCount": 7,
+  "totalCount": 481,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-06-25_over_serhii-rak_vs_ivan-romaniak",
@@ -1364,6 +1364,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_mykhailo-potapov_vs_ivan-fashchevskyi",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mykhailo Potapov",
+      "away": "Ivan Fashchevskyi",
+      "league": "Setka Cup",
+      "time": "00:45",
+      "timeRaw": "6:45 PM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 89,
+      "score": 100,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
