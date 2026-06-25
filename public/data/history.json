@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-25T17:51:15.088Z",
+  "generated": "2026-06-25T18:49:50.785Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 476,
-  "todayCount": 4,
+  "totalCount": 478,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-25_over_serhii-rak_vs_ivan-romaniak",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Serhii Rak",
+      "away": "Ivan Romaniak",
+      "league": "Setka Cup",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 92,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_over_radim-urbaniec_vs_zdenek-babinec",
       "date": "2026-06-25",
@@ -1364,6 +1384,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_jiri-grohsgott_vs_ludek-madle",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Ludek Madle",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
