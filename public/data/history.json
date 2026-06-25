@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-25T01:46:08.433Z",
+  "generated": "2026-06-25T03:12:36.970Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 434,
-  "todayCount": 14,
+  "totalCount": 435,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-06-25_over_michal-cabis_vs_pavel-wawrosz",
@@ -107,6 +107,27 @@
       "tags": [
         "Volatile"
       ]
+    },
+    {
+      "id": "2026-06-25_over_adam-linek_vs_filip-kujawa",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Filip Kujawa",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 96,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_filip-kujawa_vs_kamil-rudomina",
