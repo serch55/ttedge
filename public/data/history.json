@@ -1,10 +1,137 @@
 {
-  "generated": "2026-06-25T21:36:17.103Z",
+  "generated": "2026-06-25T22:35:04.918Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-06-25",
-  "totalCount": 483,
+  "lastDay": "2026-06-26",
+  "totalCount": 489,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-26_over_marcin-balcerzak_vs_krzysztof-wloczko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_witold-stechly_vs_jerzy-michalik",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
+    },
+    {
+      "id": "2026-06-26_over_denys-pesternikov_vs_andrii-kotyk",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denys Pesternikov",
+      "away": "Andrii Kotyk",
+      "league": "Setka Cup",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_mykhailo-potapov_vs_ivan-fashchevskyi",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mykhailo Potapov",
+      "away": "Ivan Fashchevskyi",
+      "league": "Setka Cup",
+      "time": "00:45",
+      "timeRaw": "6:45 PM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 89,
+      "score": 89,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_rafal-stapor_vs_jaroslaw-rolak",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 93,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_denys-pesternikov_vs_volodymyr-plishylo",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denys Pesternikov",
+      "away": "Volodymyr Plishylo",
+      "league": "Setka Cup",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 81,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-25_over_serhii-rak_vs_ivan-romaniak",
       "date": "2026-06-25",
