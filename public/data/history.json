@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-25T18:49:50.785Z",
+  "generated": "2026-06-25T19:37:59.650Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 478,
-  "todayCount": 6,
+  "totalCount": 480,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-06-25_over_serhii-rak_vs_ivan-romaniak",
@@ -38,10 +38,11 @@
       "pct": 93,
       "l5": 80,
       "sets3": 93,
-      "score": 100,
+      "score": 96,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1363,6 +1364,47 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_yaroslav-stepanchuk_vs_dmitriy-kim",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yaroslav Stepanchuk",
+      "away": "Dmitriy Kim",
+      "league": "Setka Cup",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_denys-pesternikov_vs_volodymyr-plishylo",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denys Pesternikov",
+      "away": "Volodymyr Plishylo",
+      "league": "Setka Cup",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 96,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
