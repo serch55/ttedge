@@ -1,10 +1,73 @@
 {
-  "generated": "2026-06-25T05:25:45.332Z",
+  "generated": "2026-06-25T07:18:27.065Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 440,
-  "todayCount": 12,
+  "totalCount": 443,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-25_over_michal-minda_vs_adam-linek",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "11:25",
+      "timeRaw": "5:25 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_karol-sulkowski_vs_bartosz-sulkowski",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Bartosz Sulkowski",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-25_over_yurij-fomin_vs_marian-lebek",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yurij Fomin",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ],
+      "tgSent": true
+    },
     {
       "id": "2026-06-25_over_michal-vavrecka_vs_michal-cabis",
       "date": "2026-06-25",
@@ -18,7 +81,7 @@
       "pct": 92,
       "l5": 80,
       "sets3": 92,
-      "score": 85,
+      "score": 82,
       "h2h": 12,
       "trend": "rising",
       "tags": [
@@ -39,10 +102,12 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 96,
       "h2h": 15,
       "trend": "rising",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-25_over_oleksandr-ziakun_vs_artem-kasyanov",
@@ -76,7 +141,7 @@
       "time": "09:20",
       "timeRaw": "3:20 AM",
       "pct": 87,
-      "l5": 80,
+      "l5": 100,
       "sets3": 87,
       "score": 82,
       "h2h": 15,
@@ -100,10 +165,11 @@
       "pct": 79,
       "l5": 80,
       "sets3": 79,
-      "score": 84,
+      "score": 81,
       "h2h": 14,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
