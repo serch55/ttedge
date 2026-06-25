@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-25T00:53:10.580Z",
+  "generated": "2026-06-25T01:46:08.433Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-25",
-  "totalCount": 433,
-  "todayCount": 17,
+  "totalCount": 434,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-06-25_over_michal-cabis_vs_pavel-wawrosz",
@@ -109,6 +109,28 @@
       ]
     },
     {
+      "id": "2026-06-25_over_filip-kujawa_vs_kamil-rudomina",
+      "date": "2026-06-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Filip Kujawa",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
+    },
+    {
       "id": "2026-06-25_over_maciej-kolek_vs_bartosz-czerwinski",
       "date": "2026-06-25",
       "type": "over",
@@ -121,13 +143,14 @@
       "pct": 92,
       "l5": 100,
       "sets3": 100,
-      "score": 82,
+      "score": 85,
       "h2h": 13,
       "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_piotr-przewlocki_vs_oliwier-sokolowski",
