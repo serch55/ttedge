@@ -171,7 +171,8 @@
         "Fatigue",
         "Volatile"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-25_over_piotr-przewlocki_vs_oliwier-sokolowski",
