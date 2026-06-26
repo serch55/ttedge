@@ -1,10 +1,71 @@
 {
-  "generated": "2026-06-26T07:24:20.275Z",
+  "generated": "2026-06-26T09:06:19.057Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 502,
-  "todayCount": 2,
+  "totalCount": 505,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-26_over_oleksandr-kolbasenko_vs_artem-yurkov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Kolbasenko",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "13:10",
+      "timeRaw": "7:10 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 94,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_lukas-krutina_vs_patrik-muller",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Krutina",
+      "away": "Patrik Muller",
+      "league": "Setka Cup",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 88,
+      "score": 96,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_filip-zurek_vs_alexandr-virag",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Filip Zurek",
+      "away": "Alexandr Virag",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_mariusz-adamus_vs_patryk-mecik",
       "date": "2026-06-26",
