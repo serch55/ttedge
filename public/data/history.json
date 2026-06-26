@@ -1378,7 +1378,8 @@
         "Fatigue",
         "Volatile"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-25_over_maciej-kolek_vs_bartosz-czerwinski",
