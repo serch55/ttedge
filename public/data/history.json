@@ -45,7 +45,8 @@
         "Fatigue",
         "Volatile"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-26_over_vladimir-voronenko_vs_artem-yurkov",
