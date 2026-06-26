@@ -1,51 +1,10 @@
 {
-  "generated": "2026-06-26T21:33:10.321Z",
+  "generated": "2026-06-26T21:39:31.848Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 546,
-  "todayCount": 12,
+  "totalCount": 305,
+  "todayCount": 1,
   "matches": [
-    {
-      "id": "2026-06-26_over_yevhen-masko_vs_roman-cherevko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yevhen Masko",
-      "away": "Roman Cherevko",
-      "league": "Setka Cup",
-      "time": "23:55",
-      "timeRaw": "5:55 PM",
-      "pct": 60,
-      "l5": 80,
-      "sets3": 60,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_dmytro-neborak_vs_oleksandr-bondarchuk",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dmytro Neborak",
-      "away": "Oleksandr Bondarchuk",
-      "league": "Setka Cup",
-      "time": "22:50",
-      "timeRaw": "4:50 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-06-26_over_marek-holub_vs_roman-hudeczek",
       "date": "2026-06-26",
@@ -88,26 +47,6 @@
       ]
     },
     {
-      "id": "2026-06-26_over_volodymyr-dobrovolskyi_vs_oleh-savenkov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Volodymyr Dobrovolskyi",
-      "away": "Oleh Savenkov",
-      "league": "Setka Cup",
-      "time": "22:15",
-      "timeRaw": "4:15 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-26_over_zbynek-pagac_vs_michal-chalupa",
       "date": "2026-06-26",
       "type": "over",
@@ -123,27 +62,6 @@
       "score": 80,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_spread_oleksandr-bondarchuk_vs_oleksandr-zhurba",
-      "date": "2026-06-26",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Oleksandr Bondarchuk",
-      "away": "Oleksandr Zhurba",
-      "league": "Setka Cup",
-      "time": "21:20",
-      "timeRaw": "3:20 PM",
-      "l5": 8,
-      "score": 81,
-      "pick": "Oleksandr Zhurba",
-      "spread": -9.7,
-      "h2h": 12,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -211,26 +129,6 @@
       ]
     },
     {
-      "id": "2026-06-26_spread_dmytro-neborak_vs_oleksandr-zhurba",
-      "date": "2026-06-26",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Dmytro Neborak",
-      "away": "Oleksandr Zhurba",
-      "league": "Setka Cup",
-      "time": "20:20",
-      "timeRaw": "2:20 PM",
-      "l5": 13.4,
-      "score": 86,
-      "pick": "Oleksandr Zhurba",
-      "spread": -8,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-26_over_piotr-strus_vs_kuba-golaszewski",
       "date": "2026-06-26",
       "type": "over",
@@ -248,46 +146,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_yevhenii-kryvorotko_vs_serhii-chelpanov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yevhenii Kryvorotko",
-      "away": "Serhii Chelpanov",
-      "league": "Setka Cup",
-      "time": "18:55",
-      "timeRaw": "12:55 PM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 87,
-      "score": 88,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_vitalii-levshyn_vs_oleksandr-zhurba",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vitalii Levshyn",
-      "away": "Oleksandr Zhurba",
-      "league": "Setka Cup",
-      "time": "18:50",
-      "timeRaw": "12:50 PM",
-      "pct": 60,
-      "l5": 80,
-      "sets3": 87,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -333,48 +191,6 @@
       ],
       "tgSent": true,
       "tgReminded": true
-    },
-    {
-      "id": "2026-06-26_over_dmytro-kryshtal_vs_serhii-kushnirenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dmytro Kryshtal",
-      "away": "Serhii Kushnirenko",
-      "league": "Setka Cup",
-      "time": "17:30",
-      "timeRaw": "11:30 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 93,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_denys-pesternikov_vs_andrii-kotyk",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Denys Pesternikov",
-      "away": "Andrii Kotyk",
-      "league": "Setka Cup",
-      "time": "17:05",
-      "timeRaw": "11:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 93,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-26_over_mariusz-adamus_vs_patryk-mecik",
@@ -441,169 +257,6 @@
       ]
     },
     {
-      "id": "2026-06-26_over_mykhailo-potapov_vs_ivan-fashchevskyi",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykhailo Potapov",
-      "away": "Ivan Fashchevskyi",
-      "league": "Setka Cup",
-      "time": "16:25",
-      "timeRaw": "10:25 AM",
-      "pct": 90,
-      "l5": 100,
-      "sets3": 90,
-      "score": 80,
-      "h2h": 10,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_vladyslav-mishchenko_vs_artem-yurkov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vladyslav Mishchenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "16:10",
-      "timeRaw": "10:10 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_maksym-baday_vs_serhii-aristarkhov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Maksym Baday",
-      "away": "Serhii Aristarkhov",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 83,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_under_serhii-chelpanov_vs_oleksandr-dukhovenko",
-      "date": "2026-06-26",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Serhii Chelpanov",
-      "away": "Oleksandr Dukhovenko",
-      "league": "Setka Cup",
-      "time": "15:55",
-      "timeRaw": "9:55 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 20,
-      "score": 89,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_radovan-debnar_vs_ladislav-dobias",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Radovan Debnar",
-      "away": "Ladislav Dobias",
-      "league": "Setka Cup",
-      "time": "15:30",
-      "timeRaw": "9:30 AM",
-      "pct": 75,
-      "l5": 80,
-      "sets3": 88,
-      "score": 87,
-      "h2h": 8,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_ondrej-mezera_vs_marek-vyskocil",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ondrej Mezera",
-      "away": "Marek Vyskocil",
-      "league": "Setka Cup",
-      "time": "15:15",
-      "timeRaw": "9:15 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 92,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_spread_maksym-baday_vs_maksym-hubenko",
-      "date": "2026-06-26",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Maksym Baday",
-      "away": "Maksym Hubenko",
-      "league": "Setka Cup",
-      "time": "15:00",
-      "timeRaw": "9:00 AM",
-      "l5": 8.2,
-      "score": 80,
-      "pick": "Maksym Baday",
-      "spread": -6.8,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_ivan-nitchenko_vs_oleksandr-seliuchenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ivan Nitchenko",
-      "away": "Oleksandr Seliuchenko",
-      "league": "Setka Cup",
-      "time": "14:20",
-      "timeRaw": "8:20 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-06-26_over_michal-minda_vs_adam-linek",
       "date": "2026-06-26",
       "type": "over",
@@ -627,27 +280,6 @@
       "tgReminded": true
     },
     {
-      "id": "2026-06-26_over_vladimir-voronenko_vs_artem-yurkov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vladimir Voronenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "14:10",
-      "timeRaw": "8:10 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 93,
-      "score": 89,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-26_over_filip-zurek_vs_miroslav-kowolowski",
       "date": "2026-06-26",
       "type": "over",
@@ -664,47 +296,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": []
-    },
-    {
-      "id": "2026-06-26_over_oleksandr-kolbasenko_vs_artem-yurkov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Kolbasenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "13:10",
-      "timeRaw": "7:10 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 100,
-      "score": 94,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_lukas-krutina_vs_patrik-muller",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Lukas Krutina",
-      "away": "Patrik Muller",
-      "league": "Setka Cup",
-      "time": "13:00",
-      "timeRaw": "7:00 AM",
-      "pct": 88,
-      "l5": 80,
-      "sets3": 88,
-      "score": 85,
-      "h2h": 8,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-26_over_filip-zurek_vs_alexandr-virag",
@@ -749,47 +340,6 @@
       ]
     },
     {
-      "id": "2026-06-26_over_martin-vorel_vs_zdenek-kuksa",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Martin Vorel",
-      "away": "Zdenek Kuksa",
-      "league": "Setka Cup",
-      "time": "09:00",
-      "timeRaw": "3:00 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_vitalii-kryvenko_vs_yurii-volkov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vitalii Kryvenko",
-      "away": "Yurii Volkov",
-      "league": "Setka Cup",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 97,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-26_over_pawel-kurek_vs_krzysztof-hetnar",
       "date": "2026-06-26",
       "type": "over",
@@ -826,108 +376,6 @@
       "score": 80,
       "h2h": 7,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_yaroslav-kovshun_vs_valerii-kolesnykov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yaroslav Kovshun",
-      "away": "Valerii Kolesnykov",
-      "league": "Setka Cup",
-      "time": "07:35",
-      "timeRaw": "1:35 AM",
-      "pct": 71,
-      "l5": 80,
-      "sets3": 71,
-      "score": 85,
-      "h2h": 7,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_viktor-ziakun_vs_oleksandr-ziakun",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Viktor Ziakun",
-      "away": "Oleksandr Ziakun",
-      "league": "Setka Cup",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 89,
-      "h2h": 7,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_under_sergii-sideltsev_vs_vasyl-matviichuk",
-      "date": "2026-06-26",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Sergii Sideltsev",
-      "away": "Vasyl Matviichuk",
-      "league": "Setka Cup",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 33,
-      "score": 82,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_spread_sergii-sideltsev_vs_vasyl-matviichuk",
-      "date": "2026-06-26",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Sergii Sideltsev",
-      "away": "Vasyl Matviichuk",
-      "league": "Setka Cup",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "l5": 12.6,
-      "score": 84,
-      "pick": "Sergii Sideltsev",
-      "spread": -11.8,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_spread_anna-rzhevska_vs_olha-kolbasenko",
-      "date": "2026-06-26",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Anna Rzhevska",
-      "away": "Olha Kolbasenko",
-      "league": "Setka Cup",
-      "time": "07:00",
-      "timeRaw": "1:00 AM",
-      "l5": 13,
-      "score": 85,
-      "pick": "Anna Rzhevska",
-      "spread": -8.1,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1020,167 +468,6 @@
       "tgSent": true
     },
     {
-      "id": "2026-06-26_over_yan-krol_vs_oleksandr-melashenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yan Krol",
-      "away": "Oleksandr Melashenko",
-      "league": "Setka Cup",
-      "time": "03:35",
-      "timeRaw": "9:35 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 73,
-      "score": 85,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_oleksandr-gomilko_vs_tymur-ponomarenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Gomilko",
-      "away": "Tymur Ponomarenko",
-      "league": "Setka Cup",
-      "time": "03:05",
-      "timeRaw": "9:05 PM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 75,
-      "score": 83,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_oleksandr-sydorchuk_vs_oleh-savenkov",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Sydorchuk",
-      "away": "Oleh Savenkov",
-      "league": "Setka Cup",
-      "time": "02:15",
-      "timeRaw": "8:15 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 80,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_roman-cherevko_vs_roman-reznychenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Roman Cherevko",
-      "away": "Roman Reznychenko",
-      "league": "Setka Cup",
-      "time": "01:55",
-      "timeRaw": "7:55 PM",
-      "pct": 60,
-      "l5": 80,
-      "sets3": 73,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_under_denys-kozoriz_vs_oleh-lutsyshyn",
-      "date": "2026-06-26",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Denys Kozoriz",
-      "away": "Oleh Lutsyshyn",
-      "league": "Setka Cup",
-      "time": "01:45",
-      "timeRaw": "7:45 PM",
-      "pct": 88,
-      "l5": 80,
-      "sets3": 13,
-      "score": 93,
-      "h2h": 8,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_spread_denys-kozoriz_vs_oleh-lutsyshyn",
-      "date": "2026-06-26",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Denys Kozoriz",
-      "away": "Oleh Lutsyshyn",
-      "league": "Setka Cup",
-      "time": "01:45",
-      "timeRaw": "7:45 PM",
-      "l5": 12.2,
-      "score": 80,
-      "pick": "Denys Kozoriz",
-      "spread": -13.3,
-      "h2h": 8,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_oleksandr-gomilko_vs_oleksandr-melashenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Gomilko",
-      "away": "Oleksandr Melashenko",
-      "league": "Setka Cup",
-      "time": "01:35",
-      "timeRaw": "7:35 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 100,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_yurii-shmyndra_vs_oleksii-mitla",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yurii Shmyndra",
-      "away": "Oleksii Mitla",
-      "league": "Setka Cup",
-      "time": "01:30",
-      "timeRaw": "7:30 PM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 75,
-      "score": 84,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-26_over_erik-mares_vs_jakub-vales",
       "date": "2026-06-26",
       "type": "over",
@@ -1219,108 +506,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_denys-pesternikov_vs_volodymyr-plishylo",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Denys Pesternikov",
-      "away": "Volodymyr Plishylo",
-      "league": "Setka Cup",
-      "time": "00:30",
-      "timeRaw": "6:30 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 81,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_oleh-napirko_vs_yurii-shmyndra",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleh Napirko",
-      "away": "Yurii Shmyndra",
-      "league": "Setka Cup",
-      "time": "00:30",
-      "timeRaw": "6:30 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 93,
-      "h2h": 5,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_oleksandr-melashenko_vs_kostiantyn-hrynenko",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Melashenko",
-      "away": "Kostiantyn Hrynenko",
-      "league": "Setka Cup",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 93,
-      "score": 96,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_nazar-kovalchuk_vs_serhii-kalenyk",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Nazar Kovalchuk",
-      "away": "Serhii Kalenyk",
-      "league": "Setka Cup",
-      "time": "00:00",
-      "timeRaw": "6:00 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 91,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_serhii-rak_vs_ivan-romaniak",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Rak",
-      "away": "Ivan Romaniak",
-      "league": "Setka Cup",
-      "time": "23:30",
-      "timeRaw": "5:30 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 92,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
@@ -1387,27 +572,6 @@
         "Volatile"
       ],
       "tgSent": true
-    },
-    {
-      "id": "2026-06-25_over_valentyn-chumak_vs_volodymyr-hainiuk",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Valentyn Chumak",
-      "away": "Volodymyr Hainiuk",
-      "league": "Setka Cup",
-      "time": "20:25",
-      "timeRaw": "2:25 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-25_over_artur-daniel_vs_krzysztof-kapik",
@@ -1496,47 +660,6 @@
       ]
     },
     {
-      "id": "2026-06-25_over_volodymyr-hainiuk_vs_ivan-elfemov",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Volodymyr Hainiuk",
-      "away": "Ivan Elfemov",
-      "league": "Setka Cup",
-      "time": "17:25",
-      "timeRaw": "11:25 AM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 6,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_anatolii-nazarov_vs_andrii-derevianko",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Anatolii Nazarov",
-      "away": "Andrii Derevianko",
-      "league": "Setka Cup",
-      "time": "17:20",
-      "timeRaw": "11:20 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 100,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-25_over_ales-barton_vs_martin-huk",
       "date": "2026-06-25",
       "type": "over",
@@ -1558,46 +681,6 @@
       ]
     },
     {
-      "id": "2026-06-25_under_serhii-priadko_vs_valerii-romanenko",
-      "date": "2026-06-25",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Serhii Priadko",
-      "away": "Valerii Romanenko",
-      "league": "Setka Cup",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 75,
-      "score": 98,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-25_spread_serhii-priadko_vs_valerii-romanenko",
-      "date": "2026-06-25",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Serhii Priadko",
-      "away": "Valerii Romanenko",
-      "league": "Setka Cup",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "l5": 12.3,
-      "score": 95,
-      "pick": "Serhii Priadko",
-      "spread": -12.3,
-      "h2h": 4,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-06-25_over_jan-szotkowski_vs_tadeas-zika",
       "date": "2026-06-25",
       "type": "over",
@@ -1613,48 +696,6 @@
       "score": 80,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_vitalii-ananiev_vs_roman-boklah",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vitalii Ananiev",
-      "away": "Roman Boklah",
-      "league": "Setka Cup",
-      "time": "16:30",
-      "timeRaw": "10:30 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_oleg-varlamov_vs_andrii-droshchynskyi",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleg Varlamov",
-      "away": "Andrii Droshchynskyi",
-      "league": "Setka Cup",
-      "time": "16:10",
-      "timeRaw": "10:10 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 5,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1681,67 +722,6 @@
       ]
     },
     {
-      "id": "2026-06-25_over_vitalii-ananiev_vs_ihor-torhachov",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vitalii Ananiev",
-      "away": "Ihor Torhachov",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_mykola-pohorilyi_vs_roman-hryhoriev",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykola Pohorilyi",
-      "away": "Roman Hryhoriev",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 75,
-      "l5": 80,
-      "sets3": 83,
-      "score": 91,
-      "h2h": 12,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_nazar-danyliuk_vs_anton-molochko",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Nazar Danyliuk",
-      "away": "Anton Molochko",
-      "league": "Setka Cup",
-      "time": "15:55",
-      "timeRaw": "9:55 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-25_over_piotr-cyrnek_vs_jan-zandecki",
       "date": "2026-06-25",
       "type": "over",
@@ -1762,27 +742,6 @@
       ],
       "tgSent": true,
       "tgReminded": true
-    },
-    {
-      "id": "2026-06-25_over_iurii-hrekh_vs_vladyslav-sheremeta",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Iurii Hrekh",
-      "away": "Vladyslav Sheremeta",
-      "league": "Setka Cup",
-      "time": "15:35",
-      "timeRaw": "9:35 AM",
-      "pct": 70,
-      "l5": 80,
-      "sets3": 70,
-      "score": 83,
-      "h2h": 10,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-25_over_krzysztof-wloczko_vs_marcin-balcerzak",
@@ -1847,26 +806,6 @@
       ]
     },
     {
-      "id": "2026-06-25_spread_viktor-ziakun_vs_roman-boklah",
-      "date": "2026-06-25",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Viktor Ziakun",
-      "away": "Roman Boklah",
-      "league": "Setka Cup",
-      "time": "14:00",
-      "timeRaw": "8:00 AM",
-      "l5": 9,
-      "score": 86,
-      "pick": "Viktor Ziakun",
-      "spread": -11.5,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-25_over_lukasz-bernacki_vs_pawel-kurek",
       "date": "2026-06-25",
       "type": "over",
@@ -1884,26 +823,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_oleg-varlamov_vs_yevhenii-holoborodko",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleg Varlamov",
-      "away": "Yevhenii Holoborodko",
-      "league": "Setka Cup",
-      "time": "13:40",
-      "timeRaw": "7:40 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 91,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -1927,65 +846,6 @@
         "Fatigue"
       ],
       "tgSent": true
-    },
-    {
-      "id": "2026-06-25_under_maksym-tiutiunnyk_vs_andrii-droshchynskyi",
-      "date": "2026-06-25",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Maksym Tiutiunnyk",
-      "away": "Andrii Droshchynskyi",
-      "league": "Setka Cup",
-      "time": "13:10",
-      "timeRaw": "7:10 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 33,
-      "score": 86,
-      "h2h": 6,
-      "trend": "",
-      "tags": []
-    },
-    {
-      "id": "2026-06-25_over_andrii-romanenko_vs_oleksandr-pohonov",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Andrii Romanenko",
-      "away": "Oleksandr Pohonov",
-      "league": "Setka Cup",
-      "time": "13:05",
-      "timeRaw": "7:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_antonin-skyba_vs_tomas-holomek",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Antonin Skyba",
-      "away": "Tomas Holomek",
-      "league": "Setka Cup",
-      "time": "12:45",
-      "timeRaw": "6:45 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-25_over_krzysztof-kotyl_vs_bartosz-sulkowski",
@@ -2136,27 +996,6 @@
       ]
     },
     {
-      "id": "2026-06-25_over_oleksandr-ziakun_vs_artem-kasyanov",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Ziakun",
-      "away": "Artem Kasyanov",
-      "league": "Setka Cup",
-      "time": "09:30",
-      "timeRaw": "3:30 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 86,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-25_over_adam-linek_vs_filip-kujawa",
       "date": "2026-06-25",
       "type": "over",
@@ -2195,27 +1034,6 @@
       "score": 81,
       "h2h": 14,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_spread_serhii-ponomarenko_vs_serhii-kushnirenko",
-      "date": "2026-06-25",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Serhii Ponomarenko",
-      "away": "Serhii Kushnirenko",
-      "league": "Setka Cup",
-      "time": "09:00",
-      "timeRaw": "3:00 AM",
-      "l5": 12.6,
-      "score": 81,
-      "pick": "Serhii Ponomarenko",
-      "spread": -12.9,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -2284,68 +1102,6 @@
       ],
       "tgSent": true,
       "tgReminded": true
-    },
-    {
-      "id": "2026-06-25_over_alina-kurtenko_vs_svitlana-yureneva",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Alina Kurtenko",
-      "away": "Svitlana Yureneva",
-      "league": "Setka Cup",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 73,
-      "score": 86,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_spread_oleksandr-syksa_vs_artem-kasyanov",
-      "date": "2026-06-25",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Oleksandr Syksa",
-      "away": "Artem Kasyanov",
-      "league": "Setka Cup",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "l5": 11,
-      "score": 81,
-      "pick": "Artem Kasyanov",
-      "spread": -11.3,
-      "h2h": 14,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_serhii-hovorunets_vs_mykhailo-khalenko",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Hovorunets",
-      "away": "Mykhailo Khalenko",
-      "league": "Setka Cup",
-      "time": "07:05",
-      "timeRaw": "1:05 AM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 83,
-      "score": 97,
-      "h2h": 6,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-25_over_filip-kujawa_vs_kamil-rudomina",
@@ -2459,48 +1215,6 @@
       ]
     },
     {
-      "id": "2026-06-25_over_ruslan-lazebny_vs_nazar-kovalchuk",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ruslan Lazebny",
-      "away": "Nazar Kovalchuk",
-      "league": "Setka Cup",
-      "time": "03:45",
-      "timeRaw": "9:45 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_mykola-polysynskyi_vs_serhii-chuliukov",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykola Polysynskyi",
-      "away": "Serhii Chuliukov",
-      "league": "Setka Cup",
-      "time": "03:35",
-      "timeRaw": "9:35 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-25_over_michal-kratochvil_vs_erik-mares",
       "date": "2026-06-25",
       "type": "over",
@@ -2542,69 +1256,6 @@
         "Volatile"
       ],
       "tgSent": true
-    },
-    {
-      "id": "2026-06-25_over_denys-pesternikov_vs_andrii-kotyk",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Denys Pesternikov",
-      "away": "Andrii Kotyk",
-      "league": "Setka Cup",
-      "time": "03:00",
-      "timeRaw": "9:00 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_viacheslav-kovalenko_vs_oleksandr-v-kovalchuk",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Viacheslav Kovalenko",
-      "away": "Oleksandr V Kovalchuk",
-      "league": "Setka Cup",
-      "time": "02:55",
-      "timeRaw": "8:55 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 80,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_serhii-chuliukov_vs_andrii-peretiatko",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chuliukov",
-      "away": "Andrii Peretiatko",
-      "league": "Setka Cup",
-      "time": "02:35",
-      "timeRaw": "8:35 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-25_over_mihail-trinta_vs_rotislav-hasmanda",
@@ -2672,68 +1323,6 @@
       ]
     },
     {
-      "id": "2026-06-25_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 81,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_mykhailo-potapov_vs_ivan-fashchevskyi",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykhailo Potapov",
-      "away": "Ivan Fashchevskyi",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 89,
-      "l5": 80,
-      "sets3": 89,
-      "score": 100,
-      "h2h": 9,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_yaroslav-stepanchuk_vs_dmitriy-kim",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yaroslav Stepanchuk",
-      "away": "Dmitriy Kim",
-      "league": "Setka Cup",
-      "time": "00:35",
-      "timeRaw": "6:35 PM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 87,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-25_over_rafal-stapor_vs_jaroslaw-rolak",
       "date": "2026-06-25",
       "type": "over",
@@ -2747,48 +1336,6 @@
       "l5": 60,
       "sets3": 93,
       "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_denys-pesternikov_vs_volodymyr-plishylo",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Denys Pesternikov",
-      "away": "Volodymyr Plishylo",
-      "league": "Setka Cup",
-      "time": "00:30",
-      "timeRaw": "6:30 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 81,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-25_over_mykyta-smyrnov_vs_nazar-kovalchuk",
-      "date": "2026-06-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykyta Smyrnov",
-      "away": "Nazar Kovalchuk",
-      "league": "Setka Cup",
-      "time": "00:15",
-      "timeRaw": "6:15 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 89,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -2837,47 +1384,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_iurii-hrekh_vs_vitalii-krokhmal",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Iurii Hrekh",
-      "away": "Vitalii Krokhmal",
-      "league": "Setka Cup",
-      "time": "23:00",
-      "timeRaw": "5:00 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 80,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_valerii-vlasenko_vs_ruslan-lazebny",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Valerii Vlasenko",
-      "away": "Ruslan Lazebny",
-      "league": "Setka Cup",
-      "time": "22:45",
-      "timeRaw": "4:45 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 73,
-      "score": 80,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_jakub-levicky_vs_dominik-oborny",
       "date": "2026-06-24",
       "type": "over",
@@ -2891,26 +1397,6 @@
       "l5": 80,
       "sets3": 80,
       "score": 85,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_myroslav-loboda_vs_vitalii-krokhmal",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Myroslav Loboda",
-      "away": "Vitalii Krokhmal",
-      "league": "Setka Cup",
-      "time": "22:00",
-      "timeRaw": "4:00 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 100,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -2959,27 +1445,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_vitalii-sydorenko_vs_ivan-elfemov",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vitalii Sydorenko",
-      "away": "Ivan Elfemov",
-      "league": "Setka Cup",
-      "time": "19:35",
-      "timeRaw": "1:35 PM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_andriej-fomin_vs_zbigniew-nocun",
       "date": "2026-06-24",
       "type": "over",
@@ -2995,27 +1460,6 @@
       "score": 84,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_kostiantyn-klymenko_vs_andrii-kotiash",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kostiantyn Klymenko",
-      "away": "Andrii Kotiash",
-      "league": "Setka Cup",
-      "time": "18:20",
-      "timeRaw": "12:20 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -3064,27 +1508,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_jachym-juppa_vs_leon-kolman",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jachym Juppa",
-      "away": "Leon Kolman",
-      "league": "Setka Cup",
-      "time": "17:15",
-      "timeRaw": "11:15 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 84,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_matej-grundel_vs_martin-skotnica",
       "date": "2026-06-24",
       "type": "over",
@@ -3105,27 +1528,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_serhii-chuhai_vs_andrii-vasylets",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chuhai",
-      "away": "Andrii Vasylets",
-      "league": "Setka Cup",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 87,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_kacper-adamus_vs_rafal-gajda",
       "date": "2026-06-24",
       "type": "over",
@@ -3140,127 +1542,6 @@
       "sets3": 87,
       "score": 82,
       "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_under_dmytro-yurkov_vs_serhii-ponomarenko",
-      "date": "2026-06-24",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Dmytro Yurkov",
-      "away": "Serhii Ponomarenko",
-      "league": "Setka Cup",
-      "time": "16:30",
-      "timeRaw": "10:30 AM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 20,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-24_under_oleksii-korobov_vs_yevhen-bielokon",
-      "date": "2026-06-24",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Oleksii Korobov",
-      "away": "Yevhen Bielokon",
-      "league": "Setka Cup",
-      "time": "16:05",
-      "timeRaw": "10:05 AM",
-      "pct": 78,
-      "l5": 100,
-      "sets3": 44,
-      "score": 83,
-      "h2h": 9,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_maksym-baday_vs_andrii-vasylets",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Maksym Baday",
-      "away": "Andrii Vasylets",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 86,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_spread_maksym-baday_vs_andrii-vasylets",
-      "date": "2026-06-24",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Maksym Baday",
-      "away": "Andrii Vasylets",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "l5": 8.6,
-      "score": 80,
-      "pick": "Maksym Baday",
-      "spread": -7,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_jachym-juppa_vs_filip-kubos",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jachym Juppa",
-      "away": "Filip Kubos",
-      "league": "Setka Cup",
-      "time": "15:15",
-      "timeRaw": "9:15 AM",
-      "pct": 75,
-      "l5": 80,
-      "sets3": 83,
-      "score": 87,
-      "h2h": 12,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_oleksii-mitla_vs_artem-yurkov",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksii Mitla",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "14:50",
-      "timeRaw": "8:50 AM",
-      "pct": 91,
-      "l5": 100,
-      "sets3": 91,
-      "score": 82,
-      "h2h": 11,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -3331,26 +1612,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_yuriy-melnyk_vs_viktor-ivanytskyi",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yuriy Melnyk",
-      "away": "Viktor Ivanytskyi",
-      "league": "Setka Cup",
-      "time": "14:25",
-      "timeRaw": "8:25 AM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 100,
-      "score": 97,
-      "h2h": 6,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_rafal-skotniczny_vs_kacper-adamus",
       "date": "2026-06-24",
       "type": "over",
@@ -3366,27 +1627,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_serhii-chuhai_vs_anton-tur",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chuhai",
-      "away": "Anton Tur",
-      "league": "Setka Cup",
-      "time": "14:00",
-      "timeRaw": "8:00 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 91,
-      "h2h": 4,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -3435,27 +1675,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_jakub-mejzlik_vs_marian-melisek",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Mejzlik",
-      "away": "Marian Melisek",
-      "league": "Setka Cup",
-      "time": "13:30",
-      "timeRaw": "7:30 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_jiri-stary_vs_pavel-petr",
       "date": "2026-06-24",
       "type": "over",
@@ -3473,26 +1692,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_oleh-miklukha_vs_daniil-novakov",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleh Miklukha",
-      "away": "Daniil Novakov",
-      "league": "Setka Cup",
-      "time": "13:10",
-      "timeRaw": "7:10 AM",
-      "pct": 71,
-      "l5": 80,
-      "sets3": 86,
-      "score": 91,
-      "h2h": 7,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -3580,27 +1779,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_vasyl-moshovskyi_vs_yaroslav-tebenko",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Vasyl Moshovskyi",
-      "away": "Yaroslav Tebenko",
-      "league": "Setka Cup",
-      "time": "11:05",
-      "timeRaw": "5:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 82,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_piotr-cyrnek_vs_jan-zandecki",
       "date": "2026-06-24",
       "type": "over",
@@ -3663,68 +1841,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_oleh-kurylenko_vs_oleksandr-syksa",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleh Kurylenko",
-      "away": "Oleksandr Syksa",
-      "league": "Setka Cup",
-      "time": "10:30",
-      "timeRaw": "4:30 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 84,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_yurii-shmyndra_vs_artem-yurkov",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yurii Shmyndra",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "09:20",
-      "timeRaw": "3:20 AM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 7,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_ondrej-mezera_vs_tomas-hucko",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ondrej Mezera",
-      "away": "Tomas Hucko",
-      "league": "Setka Cup",
-      "time": "09:15",
-      "timeRaw": "3:15 AM",
-      "pct": 87,
-      "l5": 60,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_radomir-revay_vs_radovan-polasek",
       "date": "2026-06-24",
       "type": "over",
@@ -3767,47 +1883,6 @@
       ]
     },
     {
-      "id": "2026-06-24_spread_anastasiia-telykh_vs_alina-ovriakh",
-      "date": "2026-06-24",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Anastasiia Telykh",
-      "away": "Alina Ovriakh",
-      "league": "Setka Cup",
-      "time": "08:35",
-      "timeRaw": "2:35 AM",
-      "l5": 9.8,
-      "score": 89,
-      "pick": "Alina Ovriakh",
-      "spread": -9.8,
-      "h2h": 4,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_lukas-adam_vs_michal-makara",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Lukas Adam",
-      "away": "Michal Makara",
-      "league": "Setka Cup",
-      "time": "08:30",
-      "timeRaw": "2:30 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_adrian-walek_vs_david-heczko",
       "date": "2026-06-24",
       "type": "over",
@@ -3825,26 +1900,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_ondrej-mezera_vs_jakub-senk",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ondrej Mezera",
-      "away": "Jakub Senk",
-      "league": "Setka Cup",
-      "time": "08:15",
-      "timeRaw": "2:15 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 100,
-      "score": 94,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
@@ -3926,47 +1981,6 @@
       "score": 85,
       "h2h": 12,
       "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_spread_high_sergii-sideltsev_vs_vasyl-matviichuk",
-      "date": "2026-06-24",
-      "type": "spread",
-      "conf": "high",
-      "home": "Sergii Sideltsev",
-      "away": "Vasyl Matviichuk",
-      "league": "Setka Cup",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "l5": 10.6,
-      "score": 78,
-      "pick": "Sergii Sideltsev",
-      "spread": -12,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_ondrej-mezera_vs_dominik-horak",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ondrej Mezera",
-      "away": "Dominik Horak",
-      "league": "Setka Cup",
-      "time": "07:15",
-      "timeRaw": "1:15 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 100,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Volatile"
       ]
@@ -4076,47 +2090,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_kostiantyn-klymenko_vs_oleksandr-mytsyk",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kostiantyn Klymenko",
-      "away": "Oleksandr Mytsyk",
-      "league": "Setka Cup",
-      "time": "04:40",
-      "timeRaw": "10:40 PM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 7,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_spread_high_eduard-rubtsov_vs_oleksii-hrymovskyi",
-      "date": "2026-06-24",
-      "type": "spread",
-      "conf": "high",
-      "home": "Eduard Rubtsov",
-      "away": "Oleksii Hrymovskyi",
-      "league": "Setka Cup",
-      "time": "04:25",
-      "timeRaw": "10:25 PM",
-      "l5": 13.4,
-      "score": 77,
-      "pick": "Oleksii Hrymovskyi",
-      "spread": -13.6,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_jakub-tazler_vs_martin-sychra",
       "date": "2026-06-24",
       "type": "over",
@@ -4159,47 +2132,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_viacheslav-kovalenko_vs_oleksandr-v-kovalchuk",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Viacheslav Kovalenko",
-      "away": "Oleksandr V Kovalchuk",
-      "league": "Setka Cup",
-      "time": "02:55",
-      "timeRaw": "8:55 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 80,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_serhii-chuliukov_vs_andrii-peretiatko",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chuliukov",
-      "away": "Andrii Peretiatko",
-      "league": "Setka Cup",
-      "time": "02:35",
-      "timeRaw": "8:35 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 92,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_tomas-franek_vs_martin-huk",
       "date": "2026-06-24",
       "type": "over",
@@ -4236,47 +2168,6 @@
       "score": 87,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chelpanov",
-      "away": "Oleksii Hrymovskyi",
-      "league": "Setka Cup",
-      "time": "02:25",
-      "timeRaw": "8:25 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_bohdan-chaikovskyi_vs_vitalii-krokhmal",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Bohdan Chaikovskyi",
-      "away": "Vitalii Krokhmal",
-      "league": "Setka Cup",
-      "time": "02:00",
-      "timeRaw": "8:00 PM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 75,
-      "score": 81,
-      "h2h": 4,
-      "trend": "rising",
       "tags": [
         "Volatile"
       ]
@@ -4345,27 +2236,6 @@
       ]
     },
     {
-      "id": "2026-06-24_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 84,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-24_over_milosz-kukawka_vs_mikolaj-lukaszewski",
       "date": "2026-06-24",
       "type": "over",
@@ -4381,47 +2251,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_dmytro-shchegelskyi_vs_vitalii-krokhmal",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dmytro Shchegelskyi",
-      "away": "Vitalii Krokhmal",
-      "league": "Setka Cup",
-      "time": "00:30",
-      "timeRaw": "6:30 PM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 100,
-      "score": 87,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-24_over_mykyta-smyrnov_vs_nazar-kovalchuk",
-      "date": "2026-06-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykyta Smyrnov",
-      "away": "Nazar Kovalchuk",
-      "league": "Setka Cup",
-      "time": "00:15",
-      "timeRaw": "6:15 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -4450,26 +2279,6 @@
       "tgSent": true
     },
     {
-      "id": "2026-06-23_over_eduard-rubtsov_vs_oleksandr-mishchenko",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Eduard Rubtsov",
-      "away": "Oleksandr Mishchenko",
-      "league": "Setka Cup",
-      "time": "23:55",
-      "timeRaw": "5:55 PM",
-      "pct": 60,
-      "l5": 80,
-      "sets3": 67,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_ales-brandtl-jr_vs_zbynek-vyskocil",
       "date": "2026-06-23",
       "type": "over",
@@ -4485,27 +2294,6 @@
       "score": 86,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_oleksii-mitla_vs_artem-yurkov",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksii Mitla",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "23:20",
-      "timeRaw": "5:20 PM",
-      "pct": 90,
-      "l5": 100,
-      "sets3": 90,
-      "score": 89,
-      "h2h": 10,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -4596,27 +2384,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_yurii-shmyndra_vs_artem-yurkov",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yurii Shmyndra",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "20:50",
-      "timeRaw": "2:50 PM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 6,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_spread_high_mariusz-koczyba_vs_tomasz-wrzalik",
       "date": "2026-06-23",
       "type": "spread",
@@ -4632,27 +2399,6 @@
       "spread": -10.6,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_oleksii-mitla_vs_andrii-hrabskyi",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksii Mitla",
-      "away": "Andrii Hrabskyi",
-      "league": "Setka Cup",
-      "time": "20:20",
-      "timeRaw": "2:20 PM",
-      "pct": 91,
-      "l5": 80,
-      "sets3": 91,
-      "score": 89,
-      "h2h": 11,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -4680,24 +2426,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_ludek-stoces_vs_petr-provaznik",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ludek Stoces",
-      "away": "Petr Provaznik",
-      "league": "Setka Cup",
-      "time": "20:00",
-      "timeRaw": "2:00 PM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 7,
-      "trend": "rising",
-      "tags": []
-    },
-    {
       "id": "2026-06-23_over_matyas-navedla_vs_vitezslav-burdik",
       "date": "2026-06-23",
       "type": "over",
@@ -4713,48 +2441,6 @@
       "score": 84,
       "h2h": 11,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_spread_high_pavlo-ishchyk_vs_oleksii-shyndel",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Pavlo Ishchyk",
-      "away": "Oleksii Shyndel",
-      "league": "Setka Cup",
-      "time": "19:55",
-      "timeRaw": "1:55 PM",
-      "l5": 8.6,
-      "score": 70,
-      "pick": "Oleksii Shyndel",
-      "spread": -10.8,
-      "h2h": 11,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_spread_high_oleksandr-ivchuk_vs_vitalii-s-marushchak",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Oleksandr Ivchuk",
-      "away": "Vitalii S Marushchak",
-      "league": "Setka Cup",
-      "time": "19:50",
-      "timeRaw": "1:50 PM",
-      "l5": 13.4,
-      "score": 77,
-      "pick": "Oleksandr Ivchuk",
-      "spread": -9.5,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -4803,27 +2489,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_serhii-kushnirenko_vs_dmytro-yurkov",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Kushnirenko",
-      "away": "Dmytro Yurkov",
-      "league": "Setka Cup",
-      "time": "18:00",
-      "timeRaw": "12:00 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_krystian-kolodziej_vs_karol-strowski",
       "date": "2026-06-23",
       "type": "over",
@@ -4839,27 +2504,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_ivan-elfemov_vs_volodymyr-hainiuk",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ivan Elfemov",
-      "away": "Volodymyr Hainiuk",
-      "league": "Setka Cup",
-      "time": "17:35",
-      "timeRaw": "11:35 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 5,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -4948,27 +2592,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_andriy-didyk_vs_oleh-maksymkiv",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Andriy Didyk",
-      "away": "Oleh Maksymkiv",
-      "league": "Setka Cup",
-      "time": "16:55",
-      "timeRaw": "10:55 AM",
-      "pct": 83,
-      "l5": 100,
-      "sets3": 83,
-      "score": 84,
-      "h2h": 6,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_kacper-adamus_vs_grzegorz-jurowicz",
       "date": "2026-06-23",
       "type": "over",
@@ -4986,26 +2609,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_leon-kolman_vs_tomas-hanke",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Leon Kolman",
-      "away": "Tomas Hanke",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 82,
-      "score": 83,
-      "h2h": 11,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -5052,44 +2655,6 @@
       ]
     },
     {
-      "id": "2026-06-23_under_oleksandr-osadchyi_vs_vasiliy-smyk",
-      "date": "2026-06-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Oleksandr Osadchyi",
-      "away": "Vasiliy Smyk",
-      "league": "Setka Cup",
-      "time": "15:10",
-      "timeRaw": "9:10 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 50,
-      "score": 90,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": []
-    },
-    {
-      "id": "2026-06-23_spread_high_kyrylo-tkachenko_vs_oleh-maksymkiv",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Kyrylo Tkachenko",
-      "away": "Oleh Maksymkiv",
-      "league": "Setka Cup",
-      "time": "14:55",
-      "timeRaw": "8:55 AM",
-      "l5": 11.6,
-      "score": 73,
-      "pick": "Kyrylo Tkachenko",
-      "spread": -10,
-      "h2h": 7,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_rafal-skotniczny_vs_kacper-adamus",
       "date": "2026-06-23",
       "type": "over",
@@ -5103,27 +2668,6 @@
       "l5": 80,
       "sets3": 87,
       "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_dmytro-kryshtal_vs_dmytro-yurkov",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dmytro Kryshtal",
-      "away": "Dmytro Yurkov",
-      "league": "Setka Cup",
-      "time": "14:00",
-      "timeRaw": "8:00 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 81,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -5174,89 +2718,6 @@
       ]
     },
     {
-      "id": "2026-06-23_spread_high_maksym-hubenko_vs_serhii-miroshnychenko",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Maksym Hubenko",
-      "away": "Serhii Miroshnychenko",
-      "league": "Setka Cup",
-      "time": "13:30",
-      "timeRaw": "7:30 AM",
-      "l5": 10,
-      "score": 77,
-      "pick": "Maksym Hubenko",
-      "spread": -9.3,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_under_jan-blazek_vs_michael-hasman",
-      "date": "2026-06-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jan Blazek",
-      "away": "Michael Hasman",
-      "league": "Setka Cup",
-      "time": "12:45",
-      "timeRaw": "6:45 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 20,
-      "score": 80,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_andrii-kotiash_vs_fedir-voinarovskyi",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Andrii Kotiash",
-      "away": "Fedir Voinarovskyi",
-      "league": "Setka Cup",
-      "time": "12:40",
-      "timeRaw": "6:40 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 94,
-      "h2h": 5,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_oleksandr-ziakun_vs_oleksandr-syksa",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Ziakun",
-      "away": "Oleksandr Syksa",
-      "league": "Setka Cup",
-      "time": "12:30",
-      "timeRaw": "6:30 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_kacper-glazowski_vs_karol-wisniewski",
       "date": "2026-06-23",
       "type": "over",
@@ -5299,47 +2760,6 @@
       ]
     },
     {
-      "id": "2026-06-23_spread_high_lukas-adam_vs_petr-wasik",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Lukas Adam",
-      "away": "Petr Wasik",
-      "league": "Setka Cup",
-      "time": "12:30",
-      "timeRaw": "6:30 AM",
-      "l5": 8.8,
-      "score": 80,
-      "pick": "Petr Wasik",
-      "spread": -8.8,
-      "h2h": 5,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_spread_high_lukas-heinzl_vs_petr-wasik",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Lukas Heinzl",
-      "away": "Petr Wasik",
-      "league": "Setka Cup",
-      "time": "12:00",
-      "timeRaw": "6:00 AM",
-      "l5": 8.8,
-      "score": 72,
-      "pick": "Petr Wasik",
-      "spread": -8.8,
-      "h2h": 4,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_filip-marat_vs_adam-kral",
       "date": "2026-06-23",
       "type": "over",
@@ -5355,27 +2775,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_spread_high_oleksandr-syksa_vs_serhii-chuhai",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Oleksandr Syksa",
-      "away": "Serhii Chuhai",
-      "league": "Setka Cup",
-      "time": "10:30",
-      "timeRaw": "4:30 AM",
-      "l5": 10.6,
-      "score": 71,
-      "pick": "Serhii Chuhai",
-      "spread": -9.2,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -5402,27 +2801,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_mykhailo-sokur_vs_ivan-nitchenko",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykhailo Sokur",
-      "away": "Ivan Nitchenko",
-      "league": "Setka Cup",
-      "time": "09:50",
-      "timeRaw": "3:50 AM",
-      "pct": 83,
-      "l5": 100,
-      "sets3": 100,
-      "score": 86,
-      "h2h": 12,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_bartosz-czerwinski_vs_rafal-stapor",
       "date": "2026-06-23",
       "type": "over",
@@ -5440,27 +2818,6 @@
       "trend": "",
       "tags": [
         "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_oleksandr-syksa_vs_oleh-kurylenko",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oleksandr Syksa",
-      "away": "Oleh Kurylenko",
-      "league": "Setka Cup",
-      "time": "09:00",
-      "timeRaw": "3:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 80,
-      "score": 80,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ]
     },
     {
@@ -5506,27 +2863,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_andrii-derevianko_vs_mykhailo-sokur",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Andrii Derevianko",
-      "away": "Mykhailo Sokur",
-      "league": "Setka Cup",
-      "time": "08:50",
-      "timeRaw": "2:50 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_jakub-vales_vs_erik-mares",
       "date": "2026-06-23",
       "type": "over",
@@ -5548,26 +2884,6 @@
       ]
     },
     {
-      "id": "2026-06-23_spread_high_olha-kolbasenko_vs_polina-pashchenko",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Olha Kolbasenko",
-      "away": "Polina Pashchenko",
-      "league": "Setka Cup",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "l5": 11.2,
-      "score": 78,
-      "pick": "Polina Pashchenko",
-      "spread": -8.3,
-      "h2h": 7,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_david-heczko_vs_samuel-byrtus",
       "date": "2026-06-23",
       "type": "over",
@@ -5583,27 +2899,6 @@
       "score": 82,
       "h2h": 9,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_spread_high_oleksandr-ziakun_vs_serhii-miroshnychenko",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Oleksandr Ziakun",
-      "away": "Serhii Miroshnychenko",
-      "league": "Setka Cup",
-      "time": "08:00",
-      "timeRaw": "2:00 AM",
-      "l5": 6.2,
-      "score": 76,
-      "pick": "Oleksandr Ziakun",
-      "spread": -5.7,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -5774,27 +3069,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_yaroslav-makovka_vs_andrii-droshchynskyi",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yaroslav Makovka",
-      "away": "Andrii Droshchynskyi",
-      "league": "Setka Cup",
-      "time": "03:40",
-      "timeRaw": "9:40 PM",
-      "pct": 86,
-      "l5": 100,
-      "sets3": 86,
-      "score": 85,
-      "h2h": 7,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_jakub-tazler_vs_martin-sychra",
       "date": "2026-06-23",
       "type": "over",
@@ -5816,26 +3090,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_roman-gnoevoy_vs_spartak-abalmaz",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Roman Gnoevoy",
-      "away": "Spartak Abalmaz",
-      "league": "Setka Cup",
-      "time": "02:55",
-      "timeRaw": "8:55 PM",
-      "pct": 80,
-      "l5": 40,
-      "sets3": 93,
-      "score": 84,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_tomas-franek_vs_martin-huk",
       "date": "2026-06-23",
       "type": "over",
@@ -5853,26 +3107,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chelpanov",
-      "away": "Oleksii Hrymovskyi",
-      "league": "Setka Cup",
-      "time": "02:25",
-      "timeRaw": "8:25 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 87,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
@@ -5940,27 +3174,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_sergii-skhabitskiy_vs_volodymyr-melnykov",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Sergii Skhabitskiy",
-      "away": "Volodymyr Melnykov",
-      "league": "Setka Cup",
-      "time": "01:10",
-      "timeRaw": "7:10 PM",
-      "pct": 80,
-      "l5": 60,
-      "sets3": 93,
-      "score": 86,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_karel-schopf_vs_michal-regner",
       "date": "2026-06-23",
       "type": "over",
@@ -5996,48 +3209,6 @@
       "pick": "Henryk Tkaczyk",
       "spread": -10.6,
       "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-23_spread_high_volodymir-maksuta_vs_maksym-mrykh",
-      "date": "2026-06-23",
-      "type": "spread",
-      "conf": "high",
-      "home": "Volodymir Maksuta",
-      "away": "Maksym Mrykh",
-      "league": "Setka Cup",
-      "time": "00:40",
-      "timeRaw": "6:40 PM",
-      "l5": 8.2,
-      "score": 77,
-      "pick": "Volodymir Maksuta",
-      "spread": -8.9,
-      "h2h": 7,
       "trend": "",
       "tags": [
         "Fatigue",
@@ -6086,26 +3257,6 @@
       ]
     },
     {
-      "id": "2026-06-23_over_roman-gnoevoy_vs_dmytro-derevynskyi",
-      "date": "2026-06-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Roman Gnoevoy",
-      "away": "Dmytro Derevynskyi",
-      "league": "Setka Cup",
-      "time": "00:25",
-      "timeRaw": "6:25 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 95,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-23_over_ondrej-svacha_vs_tomas-franek",
       "date": "2026-06-23",
       "type": "over",
@@ -6121,87 +3272,6 @@
       "score": 83,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_maksym-mrykh_vs_yevhenii-holoborodko",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Maksym Mrykh",
-      "away": "Yevhenii Holoborodko",
-      "league": "Setka Cup",
-      "time": "23:10",
-      "timeRaw": "5:10 PM",
-      "pct": 63,
-      "l5": 80,
-      "sets3": 75,
-      "score": 81,
-      "h2h": 8,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_serhii-chuliukov_vs_andrii-peretiatko",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Serhii Chuliukov",
-      "away": "Andrii Peretiatko",
-      "league": "Setka Cup",
-      "time": "23:05",
-      "timeRaw": "5:05 PM",
-      "pct": 80,
-      "l5": 60,
-      "sets3": 87,
-      "score": 90,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_yaroslav-tebenko_vs_denys-maltsev",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yaroslav Tebenko",
-      "away": "Denys Maltsev",
-      "league": "Setka Cup",
-      "time": "23:00",
-      "timeRaw": "5:00 PM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 87,
-      "score": 98,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_volodymir-maksuta_vs_yaroslav-makovka",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Volodymir Maksuta",
-      "away": "Yaroslav Makovka",
-      "league": "Setka Cup",
-      "time": "22:40",
-      "timeRaw": "4:40 PM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 100,
-      "score": 87,
-      "h2h": 4,
-      "trend": "rising",
       "tags": [
         "Volatile"
       ]
@@ -6224,26 +3294,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_nazar-kovalchuk_vs_ruslan-lazebny",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Nazar Kovalchuk",
-      "away": "Ruslan Lazebny",
-      "league": "Setka Cup",
-      "time": "22:15",
-      "timeRaw": "4:15 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 100,
-      "score": 88,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
         "Volatile"
       ]
     },
@@ -6290,26 +3340,6 @@
       ]
     },
     {
-      "id": "2026-06-22_spread_high_oleksandr-storozhenko_vs_oleksii-rodin",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "high",
-      "home": "Oleksandr Storozhenko",
-      "away": "Oleksii Rodin",
-      "league": "Setka Cup",
-      "time": "22:00",
-      "timeRaw": "4:00 PM",
-      "l5": 12.2,
-      "score": 71,
-      "pick": "Oleksii Rodin",
-      "spread": -7.9,
-      "h2h": 9,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_martin-stusek_vs_jaromir-zlamal",
       "date": "2026-06-22",
       "type": "over",
@@ -6346,27 +3376,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_andrii-derevianko_vs_anatolii-nazarov",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Andrii Derevianko",
-      "away": "Anatolii Nazarov",
-      "league": "Setka Cup",
-      "time": "21:20",
-      "timeRaw": "3:20 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -6412,27 +3421,6 @@
       ]
     },
     {
-      "id": "2026-06-22_spread_high_pavlo-ishchyk_vs_oleksii-shyndel",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "high",
-      "home": "Pavlo Ishchyk",
-      "away": "Oleksii Shyndel",
-      "league": "Setka Cup",
-      "time": "20:25",
-      "timeRaw": "2:25 PM",
-      "l5": 11,
-      "score": 71,
-      "pick": "Oleksii Shyndel",
-      "spread": -11.9,
-      "h2h": 10,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_piotr-strus_vs_blazej-warpas",
       "date": "2026-06-22",
       "type": "over",
@@ -6450,26 +3438,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_lukas-veigl_vs_roman-durovic",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Lukas Veigl",
-      "away": "Roman Durovic",
-      "league": "Setka Cup",
-      "time": "19:15",
-      "timeRaw": "1:15 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 87,
-      "score": 93,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
@@ -6493,25 +3461,6 @@
         "Volatile"
       ],
       "conf": "ultra"
-    },
-    {
-      "id": "2026-06-22_over_yehor-riadynskyi_vs_oleksandr-strutinskiy",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Yehor Riadynskyi",
-      "away": "Oleksandr Strutinskiy",
-      "league": "Setka Cup",
-      "time": "18:50",
-      "timeRaw": "12:50 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
     },
     {
       "id": "2026-06-22_over_piotr-strus_vs_kuba-golaszewski",
@@ -6547,25 +3496,6 @@
       "score": 100,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_pavlo-ishchyk_vs_vitalii-kobets",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Pavlo Ishchyk",
-      "away": "Vitalii Kobets",
-      "league": "Setka Cup",
-      "time": "17:55",
-      "timeRaw": "11:55 AM",
-      "pct": 75,
-      "l5": 80,
-      "sets3": 83,
-      "score": 88,
-      "h2h": 12,
-      "trend": "falling",
       "tags": [
         "Volatile"
       ]
@@ -6630,45 +3560,6 @@
       ]
     },
     {
-      "id": "2026-06-22_over_martin-bruk_vs_filip-kubos",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Martin Bruk",
-      "away": "Filip Kubos",
-      "league": "Setka Cup",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 88,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_valentyn-chumak_vs_ruslan-serhyenko",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Valentyn Chumak",
-      "away": "Ruslan Serhyenko",
-      "league": "Setka Cup",
-      "time": "16:35",
-      "timeRaw": "10:35 AM",
-      "pct": 67,
-      "l5": 100,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_michal-chalupa_vs_marek-holub",
       "date": "2026-06-22",
       "type": "over",
@@ -6686,46 +3577,6 @@
       "tags": [
         "Volatile"
       ]
-    },
-    {
-      "id": "2026-06-22_spread_oleh-bindas_vs_serhii-rak",
-      "date": "2026-06-22",
-      "type": "spread",
-      "home": "Oleh Bindas",
-      "away": "Serhii Rak",
-      "league": "Setka Cup",
-      "time": "16:25",
-      "timeRaw": "10:25 AM",
-      "l5": 14.2,
-      "score": 85,
-      "pick": "Oleh Bindas",
-      "spread": -10.8,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_spread_high_dmytro-kryshtal_vs_serhii-ponomarenko",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "high",
-      "home": "Dmytro Kryshtal",
-      "away": "Serhii Ponomarenko",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": null,
-      "l5": 8.2,
-      "sets3": null,
-      "score": 77,
-      "pick": "Serhii Ponomarenko",
-      "spread": -10.4,
-      "h2h": 15,
-      "trend": "",
-      "tags": []
     },
     {
       "id": "2026-06-22_over_viktor-vejvoda_vs_vaclav-nohejl-2005",
@@ -6785,45 +3636,6 @@
       ]
     },
     {
-      "id": "2026-06-22_spread_dmytro-kryshtal_vs_serhii-ponomarenko",
-      "date": "2026-06-22",
-      "type": "spread",
-      "home": "Dmytro Kryshtal",
-      "away": "Serhii Ponomarenko",
-      "league": "Setka Cup",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "l5": 9.6,
-      "score": 83,
-      "pick": "Serhii Ponomarenko",
-      "spread": -11.5,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_pavlo-ishchyk_vs_serhii-pitsyk",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Pavlo Ishchyk",
-      "away": "Serhii Pitsyk",
-      "league": "Setka Cup",
-      "time": "15:55",
-      "timeRaw": "9:55 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 88,
-      "h2h": 5,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_kamil-rudomina_vs_adam-linek",
       "date": "2026-06-22",
       "type": "over",
@@ -6838,43 +3650,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_evzen-ondracek_vs_filip-kubos",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Evzen Ondracek",
-      "away": "Filip Kubos",
-      "league": "Setka Cup",
-      "time": "15:30",
-      "timeRaw": "9:30 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 10,
-      "trend": "",
-      "tags": []
-    },
-    {
-      "id": "2026-06-22_over_serhii-kushnirenko_vs_dmytro-yurkov",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Serhii Kushnirenko",
-      "away": "Dmytro Yurkov",
-      "league": "Setka Cup",
-      "time": "15:30",
-      "timeRaw": "9:30 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -6901,103 +3676,6 @@
       ]
     },
     {
-      "id": "2026-06-22_under_dmytro-yurkov_vs_serhii-ponomarenko",
-      "date": "2026-06-22",
-      "type": "under",
-      "home": "Dmytro Yurkov",
-      "away": "Serhii Ponomarenko",
-      "league": "Setka Cup",
-      "time": "14:30",
-      "timeRaw": "8:30 AM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 20,
-      "score": 89,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-22_spread_dmytro-yurkov_vs_serhii-ponomarenko",
-      "date": "2026-06-22",
-      "type": "spread",
-      "home": "Dmytro Yurkov",
-      "away": "Serhii Ponomarenko",
-      "league": "Setka Cup",
-      "time": "14:30",
-      "timeRaw": "8:30 AM",
-      "l5": 10.8,
-      "score": 85,
-      "pick": "Serhii Ponomarenko",
-      "spread": -11.9,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_oleh-bindas_vs_ivan-romaniak",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Oleh Bindas",
-      "away": "Ivan Romaniak",
-      "league": "Setka Cup",
-      "time": "14:25",
-      "timeRaw": "8:25 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 92,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_vladimir-voronenko_vs_artem-yurkov",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Vladimir Voronenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "14:10",
-      "timeRaw": "8:10 AM",
-      "pct": 80,
-      "l5": 60,
-      "sets3": 87,
-      "score": 91,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_lukas-krutina_vs_patrik-muller",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Lukas Krutina",
-      "away": "Patrik Muller",
-      "league": "Setka Cup",
-      "time": "14:00",
-      "timeRaw": "8:00 AM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 86,
-      "score": 80,
-      "h2h": 7,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_dmytro-opanasiuk_vs_tadeas-zika",
       "date": "2026-06-22",
       "type": "over",
@@ -7018,65 +3696,6 @@
       ]
     },
     {
-      "id": "2026-06-22_under_oleksandr-zhurba_vs_oleksandr-shkurupii",
-      "date": "2026-06-22",
-      "type": "under",
-      "home": "Oleksandr Zhurba",
-      "away": "Oleksandr Shkurupii",
-      "league": "Setka Cup",
-      "time": "14:00",
-      "timeRaw": "8:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 33,
-      "score": 81,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_adam-dvoracek_vs_jan-blazek",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Adam Dvoracek",
-      "away": "Jan Blazek",
-      "league": "Setka Cup",
-      "time": "13:45",
-      "timeRaw": "7:45 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_spread_high_oleksandr-maslovskyi_vs_anatolii-nikolenko",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "high",
-      "home": "Oleksandr Maslovskyi",
-      "away": "Anatolii Nikolenko",
-      "league": "Setka Cup",
-      "time": "13:25",
-      "timeRaw": "7:25 AM",
-      "pct": null,
-      "l5": 8.2,
-      "sets3": null,
-      "score": 72,
-      "pick": "Oleksandr Maslovskyi",
-      "spread": -6.7,
-      "h2h": 15,
-      "trend": "",
-      "tags": []
-    },
-    {
       "id": "2026-06-22_over_tomas-krenek_vs_radek-benes",
       "date": "2026-06-22",
       "type": "over",
@@ -7095,45 +3714,6 @@
         "Fatigue",
         "Volatile"
       ]
-    },
-    {
-      "id": "2026-06-22_over_vladyslav-mishchenko_vs_artem-yurkov",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Vladyslav Mishchenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "13:10",
-      "timeRaw": "7:10 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 97,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_spread_high_oleksandr-ziakun_vs_maksym-hubenko",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "high",
-      "home": "Oleksandr Ziakun",
-      "away": "Maksym Hubenko",
-      "league": "Setka Cup",
-      "time": "13:00",
-      "timeRaw": "7:00 AM",
-      "pct": null,
-      "l5": 3.8,
-      "sets3": null,
-      "score": 71,
-      "pick": "Maksym Hubenko",
-      "spread": -6.1,
-      "h2h": 15,
-      "trend": "",
-      "tags": []
     },
     {
       "id": "2026-06-22_over_michal-regner_vs_denis-hofman",
@@ -7235,26 +3815,6 @@
       ]
     },
     {
-      "id": "2026-06-22_spread_high_serhii-honcharenko_vs_oleksandr-badanin",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "high",
-      "home": "Serhii Honcharenko",
-      "away": "Oleksandr Badanin",
-      "league": "Setka Cup",
-      "time": "11:30",
-      "timeRaw": "5:30 AM",
-      "pct": null,
-      "l5": 7.6,
-      "sets3": null,
-      "score": 71,
-      "pick": "Oleksandr Badanin",
-      "spread": -9.2,
-      "h2h": 15,
-      "trend": "",
-      "tags": []
-    },
-    {
       "id": "2026-06-22_spread_high_miroslav-sklensky_vs_grzegorz-felkel",
       "date": "2026-06-22",
       "type": "spread",
@@ -7291,122 +3851,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_under_ivan-pokydin_vs_yurii-urezchenko",
-      "date": "2026-06-22",
-      "type": "under",
-      "home": "Ivan Pokydin",
-      "away": "Yurii Urezchenko",
-      "league": "Setka Cup",
-      "time": "11:00",
-      "timeRaw": "5:00 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 40,
-      "score": 86,
-      "h2h": 5,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-22_spread_ivan-pokydin_vs_yurii-urezchenko",
-      "date": "2026-06-22",
-      "type": "spread",
-      "home": "Ivan Pokydin",
-      "away": "Yurii Urezchenko",
-      "league": "Setka Cup",
-      "time": "11:00",
-      "timeRaw": "5:00 AM",
-      "l5": 14.8,
-      "score": 83,
-      "pick": "Yurii Urezchenko",
-      "spread": -14.8,
-      "h2h": 5,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_oleksandr-ziakun_vs_oleksandr-syksa",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Oleksandr Ziakun",
-      "away": "Oleksandr Syksa",
-      "league": "Setka Cup",
-      "time": "10:00",
-      "timeRaw": "4:00 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_dmytro-khairov_vs_oleh-karpenko",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Dmytro Khairov",
-      "away": "Oleh Karpenko",
-      "league": "Setka Cup",
-      "time": "10:00",
-      "timeRaw": "4:00 AM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 83,
-      "score": 88,
-      "h2h": 6,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_artur-akopyan_vs_martin-holub",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Artur Akopyan",
-      "away": "Martin Holub",
-      "league": "Setka Cup",
-      "time": "10:00",
-      "timeRaw": "4:00 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_anatoliy-lysyi_vs_yurii-urezchenko",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Anatoliy Lysyi",
-      "away": "Yurii Urezchenko",
-      "league": "Setka Cup",
-      "time": "09:30",
-      "timeRaw": "3:30 AM",
-      "pct": 71,
-      "l5": 80,
-      "sets3": 79,
-      "score": 88,
-      "h2h": 14,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -7449,25 +3893,6 @@
       ]
     },
     {
-      "id": "2026-06-22_over_dmytro-prylepa_vs_oleksandr-ziakun",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Dmytro Prylepa",
-      "away": "Oleksandr Ziakun",
-      "league": "Setka Cup",
-      "time": "09:00",
-      "timeRaw": "3:00 AM",
-      "pct": 86,
-      "l5": 100,
-      "sets3": 86,
-      "score": 85,
-      "h2h": 14,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_kamil-rudomina_vs_michal-minda",
       "date": "2026-06-22",
       "type": "over",
@@ -7504,25 +3929,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_under_ihor-emets_vs_oleh-karpenko",
-      "date": "2026-06-22",
-      "type": "under",
-      "home": "Ihor Emets",
-      "away": "Oleh Karpenko",
-      "league": "Setka Cup",
-      "time": "07:00",
-      "timeRaw": "1:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 47,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -7679,86 +4085,6 @@
       ]
     },
     {
-      "id": "2026-06-22_over_pavel-plakushchyi_vs_serhii-chelpanov",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Pavel Plakushchyi",
-      "away": "Serhii Chelpanov",
-      "league": "Setka Cup",
-      "time": "03:55",
-      "timeRaw": "9:55 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_roman-gnoevoy_vs_spartak-abalmaz",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Roman Gnoevoy",
-      "away": "Spartak Abalmaz",
-      "league": "Setka Cup",
-      "time": "02:55",
-      "timeRaw": "8:55 PM",
-      "pct": 80,
-      "l5": 40,
-      "sets3": 93,
-      "score": 84,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_anatolii-lievshin_vs_maksym-mrykh",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Anatolii Lievshin",
-      "away": "Maksym Mrykh",
-      "league": "Setka Cup",
-      "time": "02:40",
-      "timeRaw": "8:40 PM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 100,
-      "score": 83,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_myroslav-loboda_vs_oleksandr-pohonov",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Myroslav Loboda",
-      "away": "Oleksandr Pohonov",
-      "league": "Setka Cup",
-      "time": "02:00",
-      "timeRaw": "8:00 PM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 86,
-      "score": 82,
-      "h2h": 7,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_spread_high_jakub-zochniak_vs_krystian-kolodziej",
       "date": "2026-06-22",
       "type": "spread",
@@ -7800,26 +4126,6 @@
       ]
     },
     {
-      "id": "2026-06-22_over_yaroslav-tebenko_vs_yurii-parahailo",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Yaroslav Tebenko",
-      "away": "Yurii Parahailo",
-      "league": "Setka Cup",
-      "time": "01:30",
-      "timeRaw": "7:30 PM",
-      "pct": 71,
-      "l5": 60,
-      "sets3": 93,
-      "score": 86,
-      "h2h": 14,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-22_over_milan-cetner_vs_vaclav-dolezal",
       "date": "2026-06-22",
       "type": "over",
@@ -7834,46 +4140,6 @@
       "score": 84,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 93,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_spread_volodymir-maksuta_vs_maksym-mrykh",
-      "date": "2026-06-22",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Volodymir Maksuta",
-      "away": "Maksym Mrykh",
-      "league": "Setka Cup",
-      "time": "00:40",
-      "timeRaw": "6:40 PM",
-      "l5": 8.2,
-      "score": 92,
-      "pick": "Volodymir Maksuta",
-      "spread": -8.9,
-      "h2h": 7,
-      "trend": "",
       "tags": [
         "Volatile"
       ]
@@ -7979,85 +4245,6 @@
       ]
     },
     {
-      "id": "2026-06-22_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Serhii Chelpanov",
-      "away": "Oleksii Hrymovskyi",
-      "league": "Setka Cup",
-      "time": "00:25",
-      "timeRaw": "6:25 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 92,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_roman-gnoevoy_vs_dmytro-derevynskyi",
-      "date": "2026-06-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Roman Gnoevoy",
-      "away": "Dmytro Derevynskyi",
-      "league": "Setka Cup",
-      "time": "00:25",
-      "timeRaw": "6:25 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 95,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_over_hryhorii-kulishov_vs_serhii-chuliukov",
-      "date": "2026-06-22",
-      "type": "over",
-      "home": "Hryhorii Kulishov",
-      "away": "Serhii Chuliukov",
-      "league": "Setka Cup",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 80,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-22_under_denys-maltsev_vs_oleksii-rodin",
-      "date": "2026-06-22",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Denys Maltsev",
-      "away": "Oleksii Rodin",
-      "league": "Setka Cup",
-      "time": "00:00",
-      "timeRaw": "6:00 PM",
-      "pct": 86,
-      "l5": 100,
-      "sets3": 14,
-      "score": 88,
-      "h2h": 7,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
       "date": "2026-06-21",
       "type": "over",
@@ -8090,25 +4277,6 @@
       "l5": 60,
       "sets3": 80,
       "score": 80,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_myroslav-loboda_vs_vitalii-krokhmal",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Myroslav Loboda",
-      "away": "Vitalii Krokhmal",
-      "league": "Setka Cup",
-      "time": "22:30",
-      "timeRaw": "4:30 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 92,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -8468,26 +4636,6 @@
       ]
     },
     {
-      "id": "2026-06-21_over_eduard-populovskyi_vs_andrii-kurtenko",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Eduard Populovskyi",
-      "away": "Andrii Kurtenko",
-      "league": "Setka Cup",
-      "time": "18:20",
-      "timeRaw": "12:20 PM",
-      "pct": 71,
-      "l5": 80,
-      "sets3": 86,
-      "score": 80,
-      "h2h": 7,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_jean-baptiste-cousin_vs_christian-kratochvil",
       "date": "2026-06-21",
       "type": "over",
@@ -8521,25 +4669,6 @@
       "spread": -11.4,
       "h2h": 5,
       "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_under_tomas-hucko_vs_petr-semrad",
-      "date": "2026-06-21",
-      "type": "under",
-      "home": "Tomas Hucko",
-      "away": "Petr Semrad",
-      "league": "Setka Cup",
-      "time": "17:30",
-      "timeRaw": "11:30 AM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 53,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Volatile"
       ]
@@ -8643,26 +4772,6 @@
       ]
     },
     {
-      "id": "2026-06-21_over_vit-herrmann_vs_jan-krojidlo",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Vit Herrmann",
-      "away": "Jan Krojidlo",
-      "league": "Setka Cup",
-      "time": "15:45",
-      "timeRaw": "9:45 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 85,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_jaroslav-sindler_vs_martin-sobota",
       "date": "2026-06-21",
       "type": "over",
@@ -8702,64 +4811,6 @@
       ]
     },
     {
-      "id": "2026-06-21_over_serhii-balabei_vs_vadim-komar",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Serhii Balabei",
-      "away": "Vadim Komar",
-      "league": "Setka Cup",
-      "time": "15:00",
-      "timeRaw": "9:00 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 100,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_spread_ihor-serdiuk_vs_roman-boklah",
-      "date": "2026-06-21",
-      "type": "spread",
-      "home": "Ihor Serdiuk",
-      "away": "Roman Boklah",
-      "league": "Setka Cup",
-      "time": "15:00",
-      "timeRaw": "9:00 AM",
-      "l5": 8.6,
-      "score": 85,
-      "pick": "Ihor Serdiuk",
-      "spread": -9.4,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_oleksandr-maslovskyi_vs_vasil-salivonchyk",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Oleksandr Maslovskyi",
-      "away": "Vasil Salivonchyk",
-      "league": "Setka Cup",
-      "time": "14:55",
-      "timeRaw": "8:55 AM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_tadeas-zika_vs_matej-szwarc",
       "date": "2026-06-21",
       "type": "over",
@@ -8776,44 +4827,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_viktor-ziakun_vs_ihor-torhachov",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Viktor Ziakun",
-      "away": "Ihor Torhachov",
-      "league": "Setka Cup",
-      "time": "14:30",
-      "timeRaw": "8:30 AM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 80,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_serhii-kushnirenko_vs_dmytro-yurkov",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Serhii Kushnirenko",
-      "away": "Dmytro Yurkov",
-      "league": "Setka Cup",
-      "time": "14:30",
-      "timeRaw": "8:30 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 84,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
         "Volatile"
       ]
     },
@@ -8857,25 +4870,6 @@
       ]
     },
     {
-      "id": "2026-06-21_over_oleh-savenkov_vs_kyrylo-kuchyna",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Oleh Savenkov",
-      "away": "Kyrylo Kuchyna",
-      "league": "Setka Cup",
-      "time": "10:25",
-      "timeRaw": "4:25 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 93,
-      "h2h": 5,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-06-21_over_daniel-vojna_vs_dominik-pasek",
       "date": "2026-06-21",
       "type": "over",
@@ -8895,45 +4889,6 @@
       ]
     },
     {
-      "id": "2026-06-21_under_oleh-lutsyshyn_vs_denys-kozoriz",
-      "date": "2026-06-21",
-      "type": "under",
-      "home": "Oleh Lutsyshyn",
-      "away": "Denys Kozoriz",
-      "league": "Setka Cup",
-      "time": "09:55",
-      "timeRaw": "3:55 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": null,
-      "score": 100,
-      "h2h": 7,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-21_spread_oleksandr-blashkun_vs_andrii-droshchynskyi",
-      "date": "2026-06-21",
-      "type": "spread",
-      "home": "Oleksandr Blashkun",
-      "away": "Andrii Droshchynskyi",
-      "league": "Setka Cup",
-      "time": "09:00",
-      "timeRaw": "3:00 AM",
-      "l5": 10.2,
-      "score": 81,
-      "pick": "Andrii Droshchynskyi",
-      "spread": -10.2,
-      "h2h": 5,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_david-stusek_vs_kamil-kleprlik",
       "date": "2026-06-21",
       "type": "over",
@@ -8946,65 +4901,6 @@
       "l5": 80,
       "sets3": 87,
       "score": 86,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_oleksandr-melashenko_vs_maxim-marchuk",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Oleksandr Melashenko",
-      "away": "Maxim Marchuk",
-      "league": "Setka Cup",
-      "time": "05:35",
-      "timeRaw": "11:35 PM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 87,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_nazar-kovalchuk_vs_ruslan-lazebny",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Nazar Kovalchuk",
-      "away": "Ruslan Lazebny",
-      "league": "Setka Cup",
-      "time": "05:15",
-      "timeRaw": "11:15 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 93,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_oleksandr-gomilko_vs_oleksandr-melashenko",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Oleksandr Gomilko",
-      "away": "Oleksandr Melashenko",
-      "league": "Setka Cup",
-      "time": "03:35",
-      "timeRaw": "9:35 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 89,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -9033,25 +4929,6 @@
       ]
     },
     {
-      "id": "2026-06-21_over_mykola-polysynskyi_vs_yevhenii-sokoltsov",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Mykola Polysynskyi",
-      "away": "Yevhenii Sokoltsov",
-      "league": "Setka Cup",
-      "time": "03:05",
-      "timeRaw": "9:05 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_michal-krutak_vs_lukasz-pyda",
       "date": "2026-06-21",
       "type": "over",
@@ -9066,26 +4943,6 @@
       "score": 87,
       "h2h": 11,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_myroslav-loboda_vs_oleksandr-pohonov",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Myroslav Loboda",
-      "away": "Oleksandr Pohonov",
-      "league": "Setka Cup",
-      "time": "02:00",
-      "timeRaw": "8:00 PM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 86,
-      "score": 82,
-      "h2h": 7,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -9169,26 +5026,6 @@
       ]
     },
     {
-      "id": "2026-06-21_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-21_over_filip-kujawa_vs_arkadiusz-mugowski",
       "date": "2026-06-21",
       "type": "over",
@@ -9224,26 +5061,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Serhii Chelpanov",
-      "away": "Oleksii Hrymovskyi",
-      "league": "Setka Cup",
-      "time": "00:25",
-      "timeRaw": "6:25 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 92,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -9284,45 +5101,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_oleksandr-melashenko_vs_yan-krol",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Oleksandr Melashenko",
-      "away": "Yan Krol",
-      "league": "Setka Cup",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 73,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-21_over_hryhorii-kulishov_vs_serhii-chuliukov",
-      "date": "2026-06-21",
-      "type": "over",
-      "home": "Hryhorii Kulishov",
-      "away": "Serhii Chuliukov",
-      "league": "Setka Cup",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 80,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -9558,25 +5336,6 @@
       ]
     },
     {
-      "id": "2026-06-20_over_anton-shypilov_vs_andrii-kotyk",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Anton Shypilov",
-      "away": "Andrii Kotyk",
-      "league": "Setka Cup",
-      "time": "19:05",
-      "timeRaw": "1:05 PM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 90,
-      "h2h": 4,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-06-20_over_erik-mares_vs_jakub-vales",
       "date": "2026-06-20",
       "type": "over",
@@ -9611,26 +5370,6 @@
       "score": 80,
       "h2h": 11,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_over_oleksandr-lyman_vs_oleksandr-ziakun",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Oleksandr Lyman",
-      "away": "Oleksandr Ziakun",
-      "league": "Setka Cup",
-      "time": "18:00",
-      "timeRaw": "12:00 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -9677,44 +5416,6 @@
       ]
     },
     {
-      "id": "2026-06-20_over_jachym-juppa_vs_marek-cizek",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Jachym Juppa",
-      "away": "Marek Cizek",
-      "league": "Setka Cup",
-      "time": "15:45",
-      "timeRaw": "9:45 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 93,
-      "score": 88,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_over_ondrej-chadima_vs_jan-krojidlo",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Ondrej Chadima",
-      "away": "Jan Krojidlo",
-      "league": "Setka Cup",
-      "time": "15:30",
-      "timeRaw": "9:30 AM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 87,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-20_over_jaroslav-brynych_vs_lukas-pour",
       "date": "2026-06-20",
       "type": "over",
@@ -9728,25 +5429,6 @@
       "sets3": 85,
       "score": 82,
       "h2h": 13,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_spread_anastasiia-hordynska-sheiko_vs_kateryna-bondarenko",
-      "date": "2026-06-20",
-      "type": "spread",
-      "home": "Anastasiia Hordynska-Sheiko",
-      "away": "Kateryna Bondarenko",
-      "league": "Setka Cup",
-      "time": "14:35",
-      "timeRaw": "8:35 AM",
-      "l5": 14.5,
-      "score": 85,
-      "pick": "Kateryna Bondarenko",
-      "spread": -14.5,
-      "h2h": 4,
       "trend": "",
       "tags": [
         "Volatile"
@@ -9813,44 +5495,6 @@
       ]
     },
     {
-      "id": "2026-06-20_spread_serhii-aristarkhov_vs_oleksandr-ziakun",
-      "date": "2026-06-20",
-      "type": "spread",
-      "home": "Serhii Aristarkhov",
-      "away": "Oleksandr Ziakun",
-      "league": "Setka Cup",
-      "time": "14:00",
-      "timeRaw": "8:00 AM",
-      "l5": 9.6,
-      "score": 82,
-      "pick": "Serhii Aristarkhov",
-      "spread": -8.3,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_over_oleh-savenkov_vs_kyrylo-kuchyna",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Oleh Savenkov",
-      "away": "Kyrylo Kuchyna",
-      "league": "Setka Cup",
-      "time": "13:55",
-      "timeRaw": "7:55 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 4,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-06-20_over_adrian-eliasz_vs_krzysztof-guminski",
       "date": "2026-06-20",
       "type": "over",
@@ -9909,26 +5553,6 @@
       ]
     },
     {
-      "id": "2026-06-20_over_oleksandr-kolos_vs_vasyl-laskavyi",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Oleksandr Kolos",
-      "away": "Vasyl Laskavyi",
-      "league": "Setka Cup",
-      "time": "11:30",
-      "timeRaw": "5:30 AM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 100,
-      "score": 84,
-      "h2h": 6,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-20_over_patryk-gamrot_vs_witold-buczynski",
       "date": "2026-06-20",
       "type": "over",
@@ -9965,26 +5589,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-20_spread_serhii-ponomarenko_vs_serhii-kushnirenko",
-      "date": "2026-06-20",
-      "type": "spread",
-      "home": "Serhii Ponomarenko",
-      "away": "Serhii Kushnirenko",
-      "league": "Setka Cup",
-      "time": "10:30",
-      "timeRaw": "4:30 AM",
-      "l5": 13,
-      "score": 81,
-      "pick": "Serhii Ponomarenko",
-      "spread": -11.9,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ]
     },
     {
@@ -10027,46 +5631,6 @@
       ]
     },
     {
-      "id": "2026-06-20_over_dmytro-neborak_vs_oleksandr-bondarchuk",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Dmytro Neborak",
-      "away": "Oleksandr Bondarchuk",
-      "league": "Setka Cup",
-      "time": "09:50",
-      "timeRaw": "3:50 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 87,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_over_volodymyr-plishylo_vs_denys-pesternikov",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Volodymyr Plishylo",
-      "away": "Denys Pesternikov",
-      "league": "Setka Cup",
-      "time": "09:35",
-      "timeRaw": "3:35 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-20_over_ales-brandtl-jr_vs_jan-osmera",
       "date": "2026-06-20",
       "type": "over",
@@ -10082,26 +5646,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_over_mykyta-zavada_vs_nazar-petukh",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Mykyta Zavada",
-      "away": "Nazar Petukh",
-      "league": "Setka Cup",
-      "time": "09:20",
-      "timeRaw": "3:20 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 93,
-      "score": 81,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -10184,26 +5728,6 @@
       ]
     },
     {
-      "id": "2026-06-20_spread_serhii-ponomarenko_vs_igor-shyndel",
-      "date": "2026-06-20",
-      "type": "spread",
-      "home": "Serhii Ponomarenko",
-      "away": "Igor Shyndel",
-      "league": "Setka Cup",
-      "time": "09:00",
-      "timeRaw": "3:00 AM",
-      "l5": 11.6,
-      "score": 81,
-      "pick": "Serhii Ponomarenko",
-      "spread": -12.1,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-20_over_borek-moravec_vs_kamil-kleprlik",
       "date": "2026-06-20",
       "type": "over",
@@ -10244,65 +5768,6 @@
       ]
     },
     {
-      "id": "2026-06-20_over_valerii-vlasenko_vs_orest-hura",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Valerii Vlasenko",
-      "away": "Orest Hura",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-20_under_denys-kozoriz_vs_oleh-lutsyshyn",
-      "date": "2026-06-20",
-      "type": "under",
-      "home": "Denys Kozoriz",
-      "away": "Oleh Lutsyshyn",
-      "league": "Setka Cup",
-      "time": "00:15",
-      "timeRaw": "6:15 PM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": null,
-      "score": 100,
-      "h2h": 6,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-06-20_over_oleksandr-melashenko_vs_yan-krol",
-      "date": "2026-06-20",
-      "type": "over",
-      "home": "Oleksandr Melashenko",
-      "away": "Yan Krol",
-      "league": "Setka Cup",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 73,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-20_over_jiri-ruzicka_vs_tomas-franek",
       "date": "2026-06-20",
       "type": "over",
@@ -10317,25 +5782,6 @@
       "score": 92,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_martin-drabek_vs_vit-herrmann",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Martin Drabek",
-      "away": "Vit Herrmann",
-      "league": "Setka Cup",
-      "time": "20:00",
-      "timeRaw": "2:00 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 90,
-      "score": 100,
-      "h2h": 10,
-      "trend": "rising",
       "tags": [
         "Volatile"
       ]
@@ -10380,26 +5826,6 @@
       ]
     },
     {
-      "id": "2026-06-19_over_vladyslav-mishchenko_vs_artem-yurkov",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Vladyslav Mishchenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "19:40",
-      "timeRaw": "1:40 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-19_over_alan-wos_vs_jakub-kuzmicz",
       "date": "2026-06-19",
       "type": "over",
@@ -10434,25 +5860,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_stepan-kalensky_vs_filip-kubos",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Stepan Kalensky",
-      "away": "Filip Kubos",
-      "league": "Setka Cup",
-      "time": "19:15",
-      "timeRaw": "1:15 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 93,
-      "score": 92,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Volatile"
       ]
@@ -10538,44 +5945,6 @@
       ]
     },
     {
-      "id": "2026-06-19_over_vitalii-levshyn_vs_oleksandr-shkurupii",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Vitalii Levshyn",
-      "away": "Oleksandr Shkurupii",
-      "league": "Setka Cup",
-      "time": "17:50",
-      "timeRaw": "11:50 AM",
-      "pct": 80,
-      "l5": 60,
-      "sets3": 80,
-      "score": 82,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_miroslav-cervenka_vs_marcel-cmil",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Miroslav Cervenka",
-      "away": "Marcel Cmil",
-      "league": "Setka Cup",
-      "time": "17:15",
-      "timeRaw": "11:15 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 90,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-19_over_petr-vicherek_vs_jonas-rak",
       "date": "2026-06-19",
       "type": "over",
@@ -10609,25 +5978,6 @@
       "score": 86,
       "h2h": 4,
       "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_serhii-balabei_vs_vadim-komar",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Serhii Balabei",
-      "away": "Vadim Komar",
-      "league": "Setka Cup",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 100,
-      "score": 88,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Volatile"
       ]
@@ -10669,83 +6019,6 @@
       ]
     },
     {
-      "id": "2026-06-19_over_oleh-bindas_vs_yaroslav-kravets",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Oleh Bindas",
-      "away": "Yaroslav Kravets",
-      "league": "Setka Cup",
-      "time": "16:35",
-      "timeRaw": "10:35 AM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 80,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_oleksandr-kolbasenko_vs_artem-yurkov",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Oleksandr Kolbasenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "16:10",
-      "timeRaw": "10:10 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_serhii-chelpanov_vs_oleksii-hrymovskyi",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Serhii Chelpanov",
-      "away": "Oleksii Hrymovskyi",
-      "league": "Setka Cup",
-      "time": "15:55",
-      "timeRaw": "9:55 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 93,
-      "score": 84,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_ivan-elfemov_vs_volodymyr-hainiuk",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Ivan Elfemov",
-      "away": "Volodymyr Hainiuk",
-      "league": "Setka Cup",
-      "time": "15:35",
-      "timeRaw": "9:35 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-06-19_over_filip-kujawa_vs_adam-linek",
       "date": "2026-06-19",
       "type": "over",
@@ -10762,25 +6035,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_dmytro-yurkov_vs_serhii-kushnirenko",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Dmytro Yurkov",
-      "away": "Serhii Kushnirenko",
-      "league": "Setka Cup",
-      "time": "15:00",
-      "timeRaw": "9:00 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 84,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
         "Volatile"
       ]
     },
@@ -10805,46 +6059,6 @@
       ]
     },
     {
-      "id": "2026-06-19_over_mykhailo-sokur_vs_andrii-derevianko",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Mykhailo Sokur",
-      "away": "Andrii Derevianko",
-      "league": "Setka Cup",
-      "time": "13:50",
-      "timeRaw": "7:50 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 93,
-      "score": 83,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_martin-bruk_vs_adam-radkovsky",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Martin Bruk",
-      "away": "Adam Radkovsky",
-      "league": "Setka Cup",
-      "time": "13:45",
-      "timeRaw": "7:45 AM",
-      "pct": 79,
-      "l5": 80,
-      "sets3": 79,
-      "score": 81,
-      "h2h": 14,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-06-19_over_ondrej-paril_vs_michael-sedlacek",
       "date": "2026-06-19",
       "type": "over",
@@ -10861,44 +6075,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_vladimir-voronenko_vs_artem-yurkov",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Vladimir Voronenko",
-      "away": "Artem Yurkov",
-      "league": "Setka Cup",
-      "time": "13:10",
-      "timeRaw": "7:10 AM",
-      "pct": 80,
-      "l5": 60,
-      "sets3": 87,
-      "score": 83,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_over_jan-blazek_vs_adam-dvoracek",
-      "date": "2026-06-19",
-      "type": "over",
-      "home": "Jan Blazek",
-      "away": "Adam Dvoracek",
-      "league": "Setka Cup",
-      "time": "13:00",
-      "timeRaw": "7:00 AM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 100,
-      "score": 96,
-      "h2h": 14,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -11019,25 +6195,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-19_under_radek-slunecko_vs_adam-dvoracek",
-      "date": "2026-06-19",
-      "type": "under",
-      "home": "Radek Slunecko",
-      "away": "Adam Dvoracek",
-      "league": "Setka Cup",
-      "time": "11:30",
-      "timeRaw": "5:30 AM",
-      "pct": 75,
-      "l5": 75,
-      "sets3": 50,
-      "score": 80,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     }
