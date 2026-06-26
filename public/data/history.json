@@ -24,7 +24,8 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-27_over_jakub-jesiek_vs_sebastian-szostok",
@@ -44,7 +45,8 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-27_over_erik-mares_vs_jakub-vales",
