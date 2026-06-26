@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-26T19:36:39.349Z",
+  "generated": "2026-06-26T20:38:21.730Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 537,
-  "todayCount": 8,
+  "totalCount": 544,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-06-26_over_yevhen-masko_vs_roman-cherevko",
@@ -1018,6 +1018,147 @@
         "Volatile"
       ],
       "tgSent": true
+    },
+    {
+      "id": "2026-06-26_over_oleksandr-sydorchuk_vs_oleh-savenkov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Sydorchuk",
+      "away": "Oleh Savenkov",
+      "league": "Setka Cup",
+      "time": "02:15",
+      "timeRaw": "8:15 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_roman-cherevko_vs_roman-reznychenko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Roman Cherevko",
+      "away": "Roman Reznychenko",
+      "league": "Setka Cup",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_under_denys-kozoriz_vs_oleh-lutsyshyn",
+      "date": "2026-06-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Denys Kozoriz",
+      "away": "Oleh Lutsyshyn",
+      "league": "Setka Cup",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 13,
+      "score": 93,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_spread_denys-kozoriz_vs_oleh-lutsyshyn",
+      "date": "2026-06-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Denys Kozoriz",
+      "away": "Oleh Lutsyshyn",
+      "league": "Setka Cup",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "l5": 12.2,
+      "score": 80,
+      "pick": "Denys Kozoriz",
+      "spread": -13.3,
+      "h2h": 8,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_oleksandr-gomilko_vs_oleksandr-melashenko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Gomilko",
+      "away": "Oleksandr Melashenko",
+      "league": "Setka Cup",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 100,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_yurii-shmyndra_vs_oleksii-mitla",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yurii Shmyndra",
+      "away": "Oleksii Mitla",
+      "league": "Setka Cup",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 75,
+      "score": 84,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_erik-mares_vs_jakub-vales",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 92,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
     },
     {
       "id": "2026-06-26_over_rafal-stapor_vs_jaroslaw-rolak",
