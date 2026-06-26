@@ -1252,7 +1252,8 @@
         "Fatigue",
         "Volatile"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-25_over_boguslaw-madej_vs_grzegorz-jurowicz",
