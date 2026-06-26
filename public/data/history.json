@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-26T00:54:55.785Z",
+  "generated": "2026-06-26T01:48:13.235Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 496,
-  "todayCount": 10,
+  "totalCount": 498,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-06-26_over_vitalii-kryvenko_vs_yurii-volkov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vitalii Kryvenko",
+      "away": "Yurii Volkov",
+      "league": "Setka Cup",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 97,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_under_marcin-balcerzak_vs_josef-braun",
       "date": "2026-06-26",
@@ -148,6 +168,28 @@
         "Fatigue",
         "Volatile"
       ]
+    },
+    {
+      "id": "2026-06-26_over_krzysztof-kotyl_vs_karol-sulkowski",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Karol Sulkowski",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_marcin-balcerzak_vs_krzysztof-wloczko",
