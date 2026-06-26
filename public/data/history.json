@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-26T20:38:21.730Z",
+  "generated": "2026-06-26T21:23:59.335Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 544,
-  "todayCount": 14,
+  "totalCount": 546,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-06-26_over_yevhen-masko_vs_roman-cherevko",
@@ -1020,6 +1020,46 @@
       "tgSent": true
     },
     {
+      "id": "2026-06-26_over_yan-krol_vs_oleksandr-melashenko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yan Krol",
+      "away": "Oleksandr Melashenko",
+      "league": "Setka Cup",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_oleksandr-gomilko_vs_tymur-ponomarenko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Gomilko",
+      "away": "Tymur Ponomarenko",
+      "league": "Setka Cup",
+      "time": "03:05",
+      "timeRaw": "9:05 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 75,
+      "score": 83,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-26_over_oleksandr-sydorchuk_vs_oleh-savenkov",
       "date": "2026-06-26",
       "type": "over",
@@ -1032,10 +1072,11 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 88,
+      "score": 80,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1215,10 +1256,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 100,
+      "score": 93,
       "h2h": 5,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
