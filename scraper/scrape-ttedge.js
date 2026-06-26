@@ -205,7 +205,7 @@ async function injectSession(page){
 
     const day = todayMadrid();
     const todays = [...over, ...under, ...spread]
-      .filter(r => r.league !== 'TT Cup')        // no cargar la liga TT Cup
+      .filter(r => r.league !== 'TT Cup' && r.league !== 'Setka Cup')   // no cargar TT Cup ni Setka Cup
       .map(r => {
       const conf = r.conf || 'ultra';
       const id = `${day}_${r.type}_${slug(r.home)}_vs_${slug(r.away)}`;
@@ -245,7 +245,10 @@ async function injectSession(page){
       console.log('📨 Telegram desactivado (faltan TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID).');
     }
 
-    const all = Object.values(byId).sort((a,b)=> (b.date+ (b.time||'')).localeCompare(a.date+(a.time||'')));
+    // Purga del histórico: elimina por completo la liga Setka Cup (ya no se quiere)
+    const all = Object.values(byId)
+      .filter(m => m.league !== 'Setka Cup')
+      .sort((a,b)=> (b.date+ (b.time||'')).localeCompare(a.date+(a.time||'')));
 
     const payload = { generated: new Date().toISOString(), tzNote: `hora española (+${TZ_OFFSET_H}h)`, lastDay: day, totalCount: all.length, todayCount: todays.length, matches: all };
     fs.mkdirSync(path.dirname(OUT), { recursive:true });
