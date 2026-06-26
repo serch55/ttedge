@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-26T12:49:25.214Z",
+  "generated": "2026-06-26T13:44:18.057Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 516,
+  "totalCount": 517,
   "todayCount": 10,
   "matches": [
     {
@@ -27,6 +27,28 @@
       ]
     },
     {
+      "id": "2026-06-26_over_mariusz-adamus_vs_patryk-mecik",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Patryk Mecik",
+      "league": "TT Elite Series",
+      "time": "17:05",
+      "timeRaw": "11:05 AM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
+    },
+    {
       "id": "2026-06-26_over_marcin-balcerzak_vs_adrian-spychala",
       "date": "2026-06-26",
       "type": "over",
@@ -42,6 +64,27 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_jakub-zochniak_vs_adam-linek",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -329,27 +372,6 @@
       "score": 81,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_mariusz-adamus_vs_patryk-mecik",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mariusz Adamus",
-      "away": "Patryk Mecik",
-      "league": "TT Elite Series",
-      "time": "11:05",
-      "timeRaw": "5:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 82,
-      "h2h": 5,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
