@@ -1,10 +1,50 @@
 {
-  "generated": "2026-06-26T14:58:45.769Z",
+  "generated": "2026-06-26T15:52:57.237Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 522,
-  "todayCount": 9,
+  "totalCount": 524,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-26_over_michal-chalupa_vs_roman-hudeczek",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Chalupa",
+      "away": "Roman Hudeczek",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_spread_dmytro-neborak_vs_oleksandr-zhurba",
+      "date": "2026-06-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dmytro Neborak",
+      "away": "Oleksandr Zhurba",
+      "league": "Setka Cup",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "l5": 13.4,
+      "score": 86,
+      "pick": "Oleksandr Zhurba",
+      "spread": -8,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_yevhenii-kryvorotko_vs_serhii-chelpanov",
       "date": "2026-06-26",
@@ -58,7 +98,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 87,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
