@@ -1,10 +1,154 @@
 {
-  "generated": "2026-06-26T11:04:41.374Z",
+  "generated": "2026-06-26T12:39:22.484Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 509,
-  "todayCount": 6,
+  "totalCount": 515,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-06-26_over_mykhailo-potapov_vs_ivan-fashchevskyi",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mykhailo Potapov",
+      "away": "Ivan Fashchevskyi",
+      "league": "Setka Cup",
+      "time": "16:25",
+      "timeRaw": "10:25 AM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 90,
+      "score": 80,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_vladyslav-mishchenko_vs_artem-yurkov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vladyslav Mishchenko",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_maksym-baday_vs_serhii-aristarkhov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maksym Baday",
+      "away": "Serhii Aristarkhov",
+      "league": "Setka Cup",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 83,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_under_serhii-chelpanov_vs_oleksandr-dukhovenko",
+      "date": "2026-06-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Serhii Chelpanov",
+      "away": "Oleksandr Dukhovenko",
+      "league": "Setka Cup",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 20,
+      "score": 89,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_radovan-debnar_vs_ladislav-dobias",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radovan Debnar",
+      "away": "Ladislav Dobias",
+      "league": "Setka Cup",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 88,
+      "score": 84,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_ondrej-mezera_vs_marek-vyskocil",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Mezera",
+      "away": "Marek Vyskocil",
+      "league": "Setka Cup",
+      "time": "15:15",
+      "timeRaw": "9:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_spread_maksym-baday_vs_maksym-hubenko",
+      "date": "2026-06-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Maksym Baday",
+      "away": "Maksym Hubenko",
+      "league": "Setka Cup",
+      "time": "15:00",
+      "timeRaw": "9:00 AM",
+      "l5": 8.2,
+      "score": 80,
+      "pick": "Maksym Baday",
+      "spread": -6.8,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_ivan-nitchenko_vs_oleksandr-seliuchenko",
       "date": "2026-06-26",
@@ -61,10 +205,11 @@
       "pct": 87,
       "l5": 80,
       "sets3": 93,
-      "score": 93,
+      "score": 89,
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -476,27 +621,6 @@
       "sets3": 100,
       "score": 85,
       "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-26_over_mykhailo-potapov_vs_ivan-fashchevskyi",
-      "date": "2026-06-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mykhailo Potapov",
-      "away": "Ivan Fashchevskyi",
-      "league": "Setka Cup",
-      "time": "00:45",
-      "timeRaw": "6:45 PM",
-      "pct": 89,
-      "l5": 80,
-      "sets3": 89,
-      "score": 89,
-      "h2h": 9,
       "trend": "rising",
       "tags": [
         "Fatigue",
