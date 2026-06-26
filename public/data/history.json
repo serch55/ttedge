@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-26T22:30:07.046Z",
+  "generated": "2026-06-26T23:30:07.565Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 306,
-  "todayCount": 1,
+  "totalCount": 308,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-27_over_krzysztof-kotyl_vs_jaroslaw-rolak",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_jakub-jesiek_vs_sebastian-szostok",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Jesiek",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 100,
+      "score": 88,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_erik-mares_vs_jakub-vales",
       "date": "2026-06-27",
@@ -18,7 +59,7 @@
       "pct": 87,
       "l5": 80,
       "sets3": 87,
-      "score": 92,
+      "score": 88,
       "h2h": 15,
       "trend": "falling",
       "tags": [
