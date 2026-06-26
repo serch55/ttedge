@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-26T18:41:47.401Z",
+  "generated": "2026-06-26T19:36:39.349Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 533,
+  "totalCount": 537,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-26_over_yevhen-masko_vs_roman-cherevko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yevhen Masko",
+      "away": "Roman Cherevko",
+      "league": "Setka Cup",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_dmytro-neborak_vs_oleksandr-bondarchuk",
       "date": "2026-06-26",
@@ -100,10 +120,11 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 91,
+      "score": 80,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1037,6 +1058,66 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_oleh-napirko_vs_yurii-shmyndra",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleh Napirko",
+      "away": "Yurii Shmyndra",
+      "league": "Setka Cup",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_oleksandr-melashenko_vs_kostiantyn-hrynenko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Melashenko",
+      "away": "Kostiantyn Hrynenko",
+      "league": "Setka Cup",
+      "time": "00:05",
+      "timeRaw": "6:05 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 96,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_nazar-kovalchuk_vs_serhii-kalenyk",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Nazar Kovalchuk",
+      "away": "Serhii Kalenyk",
+      "league": "Setka Cup",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 91,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
