@@ -125,7 +125,8 @@
       "tags": [
         "Volatile"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-26_over_dmytro-kryshtal_vs_serhii-kushnirenko",
