@@ -23,7 +23,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_vlastimil-kolar_vs_martin-sychra",
@@ -44,7 +46,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_zbynek-pagac_vs_michal-chalupa",
@@ -65,7 +69,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_tomas-kraninger_vs_marek-blejchar",
@@ -85,7 +91,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_kamil-klocek_vs_piotr-strus",
@@ -106,7 +114,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_michal-chalupa_vs_roman-hudeczek",
@@ -126,7 +136,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_piotr-strus_vs_kuba-golaszewski",
@@ -147,7 +159,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_denis-hofman_vs_martin-sychra",
@@ -168,7 +182,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_jacek-oracz_vs_cezary-pawlik",
@@ -233,7 +249,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_jakub-zochniak_vs_adam-linek",
@@ -254,7 +272,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_michal-minda_vs_adam-linek",
@@ -295,7 +315,9 @@
       "score": 100,
       "h2h": 15,
       "trend": "rising",
-      "tags": []
+      "tags": [],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_filip-zurek_vs_alexandr-virag",
@@ -316,7 +338,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_pavel-wawrosz_vs_radovan-polasek",
@@ -337,7 +361,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_pawel-kurek_vs_krzysztof-hetnar",
@@ -379,7 +405,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_krzysztof-hetnar_vs_marian-lebek",
@@ -400,7 +428,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_krzysztof-kotyl_vs_karol-sulkowski",
@@ -443,7 +473,8 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_witold-stechly_vs_jerzy-michalik",
@@ -486,7 +517,8 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-26_over_rafal-stapor_vs_jaroslaw-rolak",
@@ -507,7 +539,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-25_over_radim-urbaniec_vs_zdenek-babinec",
@@ -528,7 +562,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_martin-huk_vs_jan-mecl-jr",
@@ -549,7 +585,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_spread_dariusz-molenda_vs_zbigniew-nocun",
@@ -592,7 +630,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_spread_andriej-fomin_vs_jakub-skorupa",
@@ -636,7 +676,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_dalimil-machander_vs_adrian-walek",
@@ -657,7 +699,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_ales-barton_vs_martin-huk",
@@ -678,7 +722,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_jan-szotkowski_vs_tadeas-zika",
@@ -699,7 +745,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_tomas-vinter_vs_dmitro-parhomenko",
@@ -719,7 +767,9 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_piotr-cyrnek_vs_jan-zandecki",
@@ -762,7 +812,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_jaroslav-strnad-1964_vs_pavel-drazan",
@@ -782,7 +834,9 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_jan-szotkowski_vs_tomas-dousek",
@@ -803,7 +857,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_lukasz-bernacki_vs_pawel-kurek",
@@ -824,7 +880,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_piotr-przewlocki_vs_pawel-adamus",
@@ -866,7 +924,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_karol-sulkowski_vs_michal-minda",
@@ -909,7 +969,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_karol-sulkowski_vs_bartosz-sulkowski",
@@ -930,7 +992,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_yurij-fomin_vs_marian-lebek",
@@ -973,7 +1037,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_zbynek-zientek_vs_filip-zurek",
@@ -993,7 +1059,9 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_adam-linek_vs_filip-kujawa",
@@ -1037,7 +1105,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_michal-cabis_vs_pavel-wawrosz",
@@ -1058,7 +1128,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_milan-chalupnicek_vs_ladislav-havel-1956",
@@ -1078,7 +1150,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_kamil-rudomina_vs_adam-linek",
@@ -1212,7 +1286,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_michal-kratochvil_vs_erik-mares",
@@ -1233,7 +1309,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_milosz-kukawka_vs_mikolaj-lukaszewski",
@@ -1276,7 +1354,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_mariusz-baron_vs_sebastian-krupa",
@@ -1320,7 +1400,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_rafal-stapor_vs_jaroslaw-rolak",
@@ -1341,7 +1423,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-25_over_jiri-grohsgott_vs_ludek-madle",
@@ -1361,7 +1445,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_martin-stefek_vs_josef-pelikan",
@@ -1381,7 +1467,9 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_jakub-levicky_vs_dominik-oborny",
@@ -1401,7 +1489,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_tomas-milota_vs_dominik-oborny",
@@ -1421,7 +1511,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_karol-strowski_vs_krystian-kolodziej",
@@ -1442,7 +1534,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_andriej-fomin_vs_zbigniew-nocun",
@@ -1463,7 +1557,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_rafal-gajda_vs_oliver-vincenec",
@@ -1484,7 +1580,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_spread_miroslaw-lewczuk_vs_kazimierz-rybak",
@@ -1505,7 +1603,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_matej-grundel_vs_martin-skotnica",
@@ -1525,7 +1625,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_kacper-adamus_vs_rafal-gajda",
@@ -1546,7 +1648,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_kamil-rudomina_vs_dawid-kosmal",
@@ -1567,7 +1671,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_david-heczko_vs_jakub-simecek",
@@ -1588,7 +1694,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_petr-serak_vs_jiri-stary",
@@ -1609,7 +1717,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_rafal-skotniczny_vs_kacper-adamus",
@@ -1630,7 +1740,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_dmytro-opanasiuk_vs_michael-sedlacek",
@@ -1651,7 +1763,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_tadeas-zika_vs_dmytro-opanasiuk",
@@ -1672,7 +1786,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_jiri-stary_vs_pavel-petr",
@@ -1693,7 +1809,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_vladimir-cermak_vs_ales-bayer",
@@ -1713,7 +1831,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_michael-sedlacek_vs_tadeas-zika",
@@ -1734,7 +1854,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_milosz-piecowski_vs_kamil-rudomina",
@@ -1755,7 +1877,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_kamil-rudomina_vs_michal-minda",
@@ -1776,7 +1900,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_piotr-cyrnek_vs_jan-zandecki",
@@ -1796,7 +1922,9 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_jakub-kaczmarek_vs_piotr-gumulinski",
@@ -1817,7 +1945,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_cesta-havrda_vs_milan-smesny",
@@ -1838,7 +1968,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_radomir-revay_vs_radovan-polasek",
@@ -1859,7 +1991,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_spread_high_dawid-jedrysik_vs_marian-lebek",
@@ -1901,7 +2035,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_under_marcin-jadczyk_vs_dmitrij-prokopcov",
@@ -1922,7 +2058,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_spread_high_marcin-jadczyk_vs_dmitrij-prokopcov",
@@ -1963,7 +2101,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_jakub-folwarski_vs_piotr-cyrnek",
@@ -1983,7 +2123,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_miroslav-sklensky_vs_jan-zandecki",
@@ -2004,7 +2146,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_piotr-cyrnek_vs_marcin-jadczyk",
@@ -2025,7 +2169,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_karol-sulkowski_vs_aleksander-lilien",
@@ -2046,7 +2192,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_spread_high_jakub-pruszkowski_vs_pawel-slosarczyk",
@@ -2108,7 +2256,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_michal-kratochvil_vs_erik-mares",
@@ -2129,7 +2279,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_tomas-franek_vs_martin-huk",
@@ -2150,7 +2302,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_mihail-trinta_vs_rotislav-hasmanda",
@@ -2170,7 +2324,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_jaroslaw-rolak_vs_krzysztof-kotyl",
@@ -2191,7 +2347,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_erik-mares_vs_jakub-kycelt",
@@ -2212,7 +2370,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_karel-schopf_vs_michal-regner",
@@ -2233,7 +2393,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_milosz-kukawka_vs_mikolaj-lukaszewski",
@@ -2254,7 +2416,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-24_over_sebastian-krupa_vs_mariusz-adamus",
@@ -2318,7 +2482,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_zbynek-vyskocil_vs_lukas-vich",
@@ -2360,7 +2526,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_pawel-adamus_vs_milosz-cesarz",
@@ -2423,7 +2591,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_matyas-navedla_vs_vitezslav-burdik",
@@ -2444,7 +2614,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_kamil-klocek_vs_dariusz-szlubowski",
@@ -2465,7 +2637,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_krzysztof-juszczyk_vs_milosz-cesarz",
@@ -2507,7 +2681,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_zdenek-babinec_vs_libor-prikasky",
@@ -2528,7 +2704,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_under_wojciech-urban_vs_milosz-cesarz",
@@ -2548,7 +2726,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_wojciech-urban_vs_milosz-cesarz",
@@ -2589,7 +2769,9 @@
       "trend": "",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_kacper-adamus_vs_grzegorz-jurowicz",
@@ -2610,7 +2792,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_radim-urbaniec_vs_zdenek-babinec",
@@ -2631,7 +2815,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_tomas-andrle_vs_radek-bartunek",
@@ -2652,7 +2838,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_rafal-skotniczny_vs_kacper-adamus",
@@ -2673,7 +2861,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_tadeas-zika_vs_michael-sedlacek",
@@ -2694,7 +2884,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_matyas-navedla_vs_pavel-wawrosz",
@@ -2715,7 +2907,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_kacper-glazowski_vs_karol-wisniewski",
@@ -2736,7 +2930,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_jan-szotkowski_vs_tadeas-zika",
@@ -2757,7 +2953,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_filip-marat_vs_adam-kral",
@@ -2818,7 +3016,9 @@
       "trend": "",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_under_kamil-rudomina_vs_mateusz-ufnal",
@@ -2839,7 +3039,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_kamil-rudomina_vs_mateusz-ufnal",
@@ -2881,7 +3083,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_david-heczko_vs_samuel-byrtus",
@@ -2902,7 +3106,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_milan-kolar_vs_vladimir-havlicek",
@@ -2922,7 +3128,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_dawid-jedrysik_vs_jakub-kaczmarek",
@@ -2963,7 +3171,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_sylwester-wloszek_vs_mateusz-burkacki",
@@ -3004,7 +3214,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_dariusz-drozdz_vs_szymon-radlo",
@@ -3045,7 +3257,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_rotislav-hasmanda_vs_mihail-trinta",
@@ -3066,7 +3280,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_jakub-tazler_vs_martin-sychra",
@@ -3087,7 +3303,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_tomas-franek_vs_martin-huk",
@@ -3108,7 +3326,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_jakub-zochniak_vs_krystian-kolodziej",
@@ -3150,7 +3370,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_grzegorz-marud_vs_piotr-gumulinski",
@@ -3171,7 +3393,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_over_karel-schopf_vs_michal-regner",
@@ -3192,7 +3416,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_henryk-tkaczyk_vs_adam-staniczek",
@@ -3233,7 +3459,9 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-23_spread_high_vladimir-postelt_vs_kyryl-darin",
@@ -3274,7 +3502,9 @@
       "trend": "",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_michal-kratochvil_vs_radovan-polasek",
@@ -3295,7 +3525,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_patrik-sturma_vs_jakub-lysek",
@@ -3377,7 +3609,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_karel-zeman_vs_tomas-ogrocki",
@@ -3439,7 +3673,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_michal-nemec_vs_pavel-cibik",
@@ -3479,7 +3715,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_roman-opralka_vs_marek-holub",
@@ -3498,7 +3736,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_ladislav-vosyka_vs_martin-jirasek",
@@ -3538,7 +3778,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_roman-opralka_vs_michal-chalupa",
@@ -3557,7 +3799,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_michal-chalupa_vs_marek-holub",
@@ -3576,7 +3820,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_viktor-vejvoda_vs_vaclav-nohejl-2005",
@@ -3595,7 +3841,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_zdenek-babinec_vs_roman-opralka",
@@ -3614,7 +3862,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_jan-stoch_vs_dalimil-machander",
@@ -3633,7 +3883,9 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_kamil-rudomina_vs_adam-linek",
@@ -3653,7 +3905,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_artur-sobel_vs_adam-linek",
@@ -3673,7 +3927,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_dmytro-opanasiuk_vs_tadeas-zika",
@@ -3693,7 +3949,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_tomas-krenek_vs_radek-benes",
@@ -3733,7 +3991,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_jan-krupnik_vs_michal-raska",
@@ -3772,7 +4032,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_high_krzysztof-hetnar_vs_milosz-cesarz",
@@ -3852,7 +4114,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_samuel-byrtus_vs_josef-cabak",
@@ -3871,7 +4135,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_pavel-wawrosz_vs_radomir-revay",
@@ -3890,7 +4156,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_kamil-rudomina_vs_michal-minda",
@@ -3910,7 +4178,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_krzysztof-hetnar_vs_jakub-kaczmarek",
@@ -3930,7 +4200,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_artur-sobel_vs_kamil-rudomina",
@@ -3949,7 +4221,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_kacper-glazowski_vs_marcin-balcerzak",
@@ -3968,7 +4242,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_aleksander-barton_vs_slawomir-janus",
@@ -3987,7 +4263,9 @@
       "trend": "",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_andriej-fomin_vs_dariusz-maszczynski",
@@ -4004,7 +4282,9 @@
       "spread": -8.8,
       "h2h": 5,
       "trend": "",
-      "tags": []
+      "tags": [],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_bartosz-czerwinski_vs_grzegorz-poliniewicz",
@@ -4023,7 +4303,9 @@
       "trend": "",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_slawomir-janus_vs_witold-stechly",
@@ -4042,7 +4324,9 @@
       "trend": "",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_krzysztof-wloczko_vs_marcin-balcerzak",
@@ -4062,7 +4346,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_mariusz-baron_vs_wojciech-urban",
@@ -4082,7 +4368,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_high_jakub-zochniak_vs_krystian-kolodziej",
@@ -4123,7 +4411,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_milan-cetner_vs_vaclav-dolezal",
@@ -4142,7 +4432,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_filip-kujawa_vs_arkadiusz-mugowski",
@@ -4162,7 +4454,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_oleg-vitrovyj_vs_jaroslav-strnad-1964",
@@ -4181,7 +4475,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_over_ales-bayer_vs_karel-schopf",
@@ -4201,7 +4497,9 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-22_spread_high_vladimir-postelt_vs_kyryl-darin",
@@ -4242,7 +4540,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_sebastian-szostok_vs_piotr-przewlocki",
@@ -4262,7 +4562,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_lukas-vich_vs_tomas-cerveny-jr",
@@ -4300,7 +4602,9 @@
       "trend": "",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jaroslaw-badura_vs_rafal-ogon",
@@ -4320,7 +4624,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jakub-kuzmicz_vs_lukasz-pietraszko",
@@ -4339,7 +4645,9 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_lukas-velicka_vs_marcel-heczko",
@@ -4359,7 +4667,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_dalimil-machander_vs_adrian-walek",
@@ -4378,7 +4688,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_lukas-vich_vs_zdenek-dusek",
@@ -4455,7 +4767,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_spread_jacek-oracz_vs_kazimierz-rybak",
@@ -4475,7 +4789,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jakub-simecek_vs_dalimil-machander",
@@ -4494,7 +4810,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_mariusz-baron_vs_piotr-gumulinski",
@@ -4513,7 +4831,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jan-szotkowski_vs_tadeas-zika",
@@ -4533,7 +4853,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_vladimir-cermak_vs_ales-bayer",
@@ -4553,7 +4875,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_michal-lysakowski_vs_sylwester-wloszek",
@@ -4593,7 +4917,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_lukasz-pietraszko_vs_mateusz-rutkowski",
@@ -4613,7 +4939,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jaroslav-dohnal_vs_christian-kratochvil",
@@ -4671,7 +4999,9 @@
       "trend": "",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_vojtech-molin_vs_petr-chlad",
@@ -4729,7 +5059,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_mateusz-misiak_vs_milosz-kukawka",
@@ -4749,7 +5081,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_dawid-poloszczanski_vs_kuba-golaszewski",
@@ -4769,7 +5103,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jaroslav-sindler_vs_martin-sobota",
@@ -4828,7 +5164,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_michal-nemec_vs_pavel-cibik",
@@ -4926,7 +5264,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_michal-krutak_vs_lukasz-pyda",
@@ -4946,7 +5286,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_milan-kolar_vs_milan-smrcek",
@@ -4965,7 +5307,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_mariusz-baron_vs_wojciech-urban",
@@ -4985,7 +5329,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_frantisek-briza_vs_pavel-fojt",
@@ -5004,7 +5350,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_milan-cetner_vs_vaclav-dolezal",
@@ -5023,7 +5371,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_filip-kujawa_vs_arkadiusz-mugowski",
@@ -5043,7 +5393,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_oleg-vitrovyj_vs_jaroslav-strnad-1964",
@@ -5062,7 +5414,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_rafal-ogon_vs_jaroslaw-badura",
@@ -5082,7 +5436,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_krzysztof-juszczyk_vs_grzegorz-sawicki",
@@ -5102,7 +5458,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_jiri-ruzicka_vs_tomas-franek",
@@ -5121,7 +5479,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-21_over_cezary-pawlik_vs_michal-krutak",
@@ -5141,7 +5501,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_miroslav-kowolowski_vs_antonin-schneeberger",
@@ -5160,7 +5522,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_michal-blaha_vs_radek-adamczyk",
@@ -5179,7 +5543,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_martin-huk_vs_michal-zahradka",
@@ -5198,7 +5564,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_matej-levicky_vs_alois-kanak",
@@ -5217,7 +5585,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_krzysztof-schaniel_vs_sebastian-szostok",
@@ -5237,7 +5607,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_krzysztof-zapala_vs_karol-guzy",
@@ -5296,7 +5668,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_filip-zurek_vs_miroslav-kowolowski",
@@ -5313,7 +5687,9 @@
       "score": 98,
       "h2h": 15,
       "trend": "",
-      "tags": []
+      "tags": [],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_matej-beran_vs_martin-sulc",
@@ -5353,7 +5729,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_rafal-wojcik_vs_oskar-jadach",
@@ -5373,7 +5751,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_witold-buczynski_vs_jakub-jesiek",
@@ -5393,7 +5773,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_patryk-mecik_vs_oliver-vincenec",
@@ -5413,7 +5795,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jaroslav-brynych_vs_lukas-pour",
@@ -5452,7 +5836,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jakub-vales_vs_erik-mares",
@@ -5472,7 +5858,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jakub-rolik_vs_lukas-pour",
@@ -5512,7 +5900,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jan-ruzicka_vs_tomas-trnka",
@@ -5550,7 +5940,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_patryk-gamrot_vs_witold-buczynski",
@@ -5570,7 +5962,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jakub-ruzicka_vs_martin-mastera",
@@ -5628,7 +6022,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_ales-brandtl-jr_vs_jan-osmera",
@@ -5667,7 +6063,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jiri-skalicky_vs_jan-skvrna",
@@ -5706,7 +6104,9 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_spread_kacper-adamus_vs_oliwier-sokolowski",
@@ -5725,7 +6125,9 @@
       "trend": "",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_borek-moravec_vs_kamil-kleprlik",
@@ -5765,7 +6167,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-20_over_jiri-ruzicka_vs_tomas-franek",
@@ -5784,7 +6188,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_pawel-adamus_vs_jakub-michalski",
@@ -5803,7 +6209,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_tomas-ogrocki_vs_jiri-matus",
@@ -5843,7 +6251,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_under_robert-szymik_vs_adam-ruszkiewicz",
@@ -5862,7 +6272,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_dariusz-szlubowski_vs_kuba-golaszewski",
@@ -5882,7 +6294,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_mariusz-adamus_vs_sebastian-juzek",
@@ -5902,7 +6316,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_jaroslav-neuwirth-jnr_vs_martin-sobota",
@@ -5942,7 +6358,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_petr-vicherek_vs_jonas-rak",
@@ -5980,7 +6398,9 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_milan-cetner_vs_mihail-trinta",
@@ -5997,7 +6417,9 @@
       "score": 100,
       "h2h": 5,
       "trend": "rising",
-      "tags": []
+      "tags": [],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_tomas-milota_vs_radim-adam",
@@ -6016,7 +6438,9 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_filip-kujawa_vs_adam-linek",
@@ -6036,7 +6460,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_michal-nemec_vs_pavel-cibik",
@@ -6076,7 +6502,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_radomir-revay_vs_radovan-polasek",
@@ -6096,7 +6524,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_oleksandr-kolisnyk_vs_jan-mecl-jr",
@@ -6116,7 +6546,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_jakub-rolik_vs_michal-nemec",
@@ -6176,7 +6608,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-19_over_maciej-kolek_vs_grzegorz-poliniewicz",
@@ -6196,7 +6630,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     }
   ]
 }
