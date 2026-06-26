@@ -1,4 +1,4 @@
-name: Recordatorios TT Edge (30 min antes)
+name: Avisos TT Edge (nuevas + 30 min antes)
 
 on:
   schedule:
@@ -25,11 +25,11 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Enviar recordatorios
+      - name: Enviar avisos (nuevas apuestas + recordatorios)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: node scraper/remind.js
+        run: node scraper/notify.js
 
       - name: Commit del resultado
         run: |
