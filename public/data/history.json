@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-26T05:30:35.856Z",
+  "generated": "2026-06-26T07:24:20.275Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 501,
-  "todayCount": 8,
+  "totalCount": 502,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-26_over_mariusz-adamus_vs_patryk-mecik",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Patryk Mecik",
+      "league": "TT Elite Series",
+      "time": "11:05",
+      "timeRaw": "5:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_pavel-wawrosz_vs_radovan-polasek",
       "date": "2026-06-26",
