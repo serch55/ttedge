@@ -123,6 +123,11 @@
   .lg-cz{color:var(--c-green);background:color-mix(in srgb,var(--c-green) 14%,transparent)}
   .lg-setka{color:var(--c-gold);background:color-mix(in srgb,var(--c-gold) 15%,transparent)}
   .confbadge{font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.7px;padding:3px 7px;border-radius:6px;color:var(--warn);background:color-mix(in srgb,var(--warn) 16%,transparent)}
+  .donebadge{font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.6px;padding:3px 7px;border-radius:6px;color:var(--primary);background:var(--primary-soft)}
+  .donechk{display:flex;align-items:center;gap:8px;cursor:pointer;font-family:var(--mono);font-size:11px;letter-spacing:.4px;color:var(--mut);user-select:none;padding:2px 0}
+  .donechk input{width:16px;height:16px;accent-color:var(--primary);cursor:pointer;margin:0}
+  .donechk.on{color:var(--primary);font-weight:600}
+  .card.done{border-color:color-mix(in srgb,var(--primary) 50%,var(--line))}
   .date{font-family:var(--mono);font-size:10.5px;color:var(--mut)}
   .time{font-family:var(--mono);font-size:11px;color:var(--mut);font-variant-numeric:tabular-nums}
   .players{font-size:16px;font-weight:700;letter-spacing:-.3px;line-height:1.3}
@@ -252,6 +257,7 @@ function t(id){ return track[id] || (track[id]={result:'pending', odds:'', close
 function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); saveTrack(); pushCloud(); render(); }
 function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); pushCloud(); renderKpis(); render(); }
 function setClose(id,v){ const x=t(id); x.close=v; saveTrack(); pushCloud(); renderKpis(); }
+function setPlaced(id,v){ const x=t(id); x.placed=v; saveTrack(); pushCloud(); render(); }
 function delPick(id){ const x=t(id); x.deleted=true; saveTrack(); pushCloud(); render(); }
 function restorePick(id){ const x=t(id); x.deleted=false; saveTrack(); pushCloud(); render(); }
 
@@ -451,9 +457,9 @@ function render(){
            <div class="m"><div class="k">3+ sets</div><div class="v">${d.sets3!=null?d.sets3+'%':'—'}</div></div>
            <div class="m"><div class="k">Score</div><div class="v" style="color:var(--score)">${d.score!=null?d.score:'—'}</div></div>
          </div>`;
-    return `<div class="card ${cardCls} ${x.deleted?'deleted':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
+    return `<div class="card ${cardCls} ${x.placed?'done':''} ${x.deleted?'deleted':''} ${x.result==='win'?'win':x.result==='loss'?'loss':''}">
       <div class="row1">
-        <span style="display:flex;align-items:center;gap:6px"><span class="league ${lgClass(d.league)}">${d.league||''}</span>${d.conf==='high'?'<span class="confbadge">HIGH</span>':''}</span>
+        <span style="display:flex;align-items:center;gap:6px"><span class="league ${lgClass(d.league)}">${d.league||''}</span>${d.conf==='high'?'<span class="confbadge">HIGH</span>':''}${x.placed?'<span class="donebadge">✓ Realizada</span>':''}</span>
         <span><span class="date">${d.date||''}</span> &nbsp;<span class="time">${d.time||'--:--'}</span></span>
       </div>
       <div class="players">${d.home}<span class="vs">vs</span>${d.away}</div>
@@ -470,6 +476,7 @@ function render(){
         <div class="oddsrow" style="justify-content:flex-end">
           <a class="searchlink" href="${resultURL(d)}" target="_blank" rel="noopener">buscar resultado ↗</a>
         </div>
+        ${x.deleted ? '' : `<label class="donechk ${x.placed?'on':''}"><input type="checkbox" ${x.placed?'checked':''} onchange="setPlaced('${d.id}',this.checked)"><span>Apuesta realizada</span></label>`}
         ${x.deleted
           ? `<div class="results"><div class="rbtn restore on" onclick="restorePick('${d.id}')">↺ Restaurar pick</div></div>`
           : `<div class="results">
