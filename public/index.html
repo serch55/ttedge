@@ -210,7 +210,6 @@
     <span class="chip lgchip active" data-lg="all">Todas</span>
     <span class="chip lgchip" data-lg="TT Elite Series">TT Elite</span>
     <span class="chip lgchip" data-lg="Czech Liga Pro">Czech Liga Pro</span>
-    <span class="chip lgchip" data-lg="Setka Cup">Setka Cup</span>
   </div>
 
   <div class="grid" id="grid"></div>
@@ -224,7 +223,7 @@ const lgClass=l=>l==="TT Elite Series"?"lg-tte":l==="TT Cup"?"lg-cup":l==="Czech
 let DATA=[], track={}, fType="all", fRes="all", fLeagues=[], fDay="all", fScore85=true, fPeriod="all";
 const passScore=d=>!fScore85 || (d.score!=null && d.score>=85);
 const passLeague=d=>fLeagues.length===0 || fLeagues.includes(d.league);
-const passExcl=d=> !(d.type==='spread' && d.league==='Setka Cup')   // ocultar spreads de Setka Cup
+const passExcl=d=> d.league!=='Setka Cup'                           // ocultar TODA la liga Setka Cup
   && d.league!=='TT Cup'                                            // ocultar toda la liga TT Cup
   && !(d.type==='spread' && (d.conf||'ultra')==='high');           // ocultar todos los spreads High
 const notDeleted=d=>!(track[d.id] && track[d.id].deleted);          // ocultar picks eliminados
