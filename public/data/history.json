@@ -1,10 +1,90 @@
 {
-  "generated": "2026-06-26T09:11:35.273Z",
+  "generated": "2026-06-26T11:01:19.220Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 505,
-  "todayCount": 4,
+  "totalCount": 509,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-26_over_ivan-nitchenko_vs_oleksandr-seliuchenko",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ivan Nitchenko",
+      "away": "Oleksandr Seliuchenko",
+      "league": "Setka Cup",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_michal-minda_vs_adam-linek",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
+    },
+    {
+      "id": "2026-06-26_over_vladimir-voronenko_vs_artem-yurkov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vladimir Voronenko",
+      "away": "Artem Yurkov",
+      "league": "Setka Cup",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_filip-zurek_vs_miroslav-kowolowski",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Filip Zurek",
+      "away": "Miroslav Kowolowski",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": []
+    },
     {
       "id": "2026-06-26_over_oleksandr-kolbasenko_vs_artem-yurkov",
       "date": "2026-06-26",
@@ -38,10 +118,11 @@
       "pct": 88,
       "l5": 80,
       "sets3": 88,
-      "score": 96,
+      "score": 85,
       "h2h": 8,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
