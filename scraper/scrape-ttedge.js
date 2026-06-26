@@ -228,22 +228,7 @@ async function injectSession(page){
     try { hist = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch(e){}
     const byId = {}; (hist.matches||[]).forEach(m => { byId[m.id] = m; });
     for (const m of todays) byId[m.id] = { ...(byId[m.id]||{}), ...m }; // conserva nada extra, actualiza datos
-
-    // ---- TELEGRAM: avisar de apuestas TT Elite con Score>=85, solo lunes-viernes (una vez por apuesta) ----
-    if (TG_TOKEN && TG_CHAT) {
-      let enviadas = 0;
-      for (const m of todays) {
-        const c = byId[m.id];
-        const esLV = (()=>{ const g=new Date((c.date||'')+'T12:00:00').getDay(); return g>=1 && g<=5; })();
-        if (c && c.league === 'TT Elite Series' && c.score != null && c.score >= 85 && esLV && !c.tgSent) {
-          try { if (await sendTelegram(tgText(c))) { c.tgSent = true; enviadas++; await page.waitForTimeout(400); } }
-          catch(e){ console.error('Telegram error:', e.message); }
-        }
-      }
-      console.log(`📨 Telegram: ${enviadas} apuestas enviadas (TT Elite · Score≥85 · L-V).`);
-    } else {
-      console.log('📨 Telegram desactivado (faltan TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID).');
-    }
+    // (los avisos a Telegram los gestiona scraper/notify.js, no este scraper)
 
     // Purga del histórico: elimina por completo la liga Setka Cup (ya no se quiere)
     const all = Object.values(byId)
