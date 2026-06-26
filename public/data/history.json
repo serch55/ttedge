@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-26T15:52:57.237Z",
+  "generated": "2026-06-26T16:44:44.629Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 524,
-  "todayCount": 6,
+  "totalCount": 525,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-26_over_michal-chalupa_vs_roman-hudeczek",
@@ -42,6 +42,27 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_piotr-strus_vs_kuba-golaszewski",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Strus",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "20:10",
+      "timeRaw": "2:10 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 80,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
