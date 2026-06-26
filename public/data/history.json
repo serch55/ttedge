@@ -1,10 +1,72 @@
 {
-  "generated": "2026-06-26T16:44:44.629Z",
+  "generated": "2026-06-26T17:37:35.733Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 525,
+  "totalCount": 528,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-26_spread_oleksandr-bondarchuk_vs_oleksandr-zhurba",
+      "date": "2026-06-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Oleksandr Bondarchuk",
+      "away": "Oleksandr Zhurba",
+      "league": "Setka Cup",
+      "time": "21:20",
+      "timeRaw": "3:20 PM",
+      "l5": 8,
+      "score": 81,
+      "pick": "Oleksandr Zhurba",
+      "spread": -9.7,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_tomas-kraninger_vs_marek-blejchar",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Kraninger",
+      "away": "Marek Blejchar",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 100,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_kamil-klocek_vs_piotr-strus",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Klocek",
+      "away": "Piotr Strus",
+      "league": "TT Elite Series",
+      "time": "20:55",
+      "timeRaw": "2:55 PM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_michal-chalupa_vs_roman-hudeczek",
       "date": "2026-06-26",
