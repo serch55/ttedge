@@ -1145,7 +1145,8 @@
       "tags": [
         "Fatigue"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-25_over_iurii-hrekh_vs_vladyslav-sheremeta",
