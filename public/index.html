@@ -75,7 +75,11 @@
   .chartcard{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
     padding:16px 16px 8px;margin:0 0 22px}
   .charttitle{font-family:var(--mono);font-size:10.5px;color:var(--mut);text-transform:uppercase;letter-spacing:1px;font-weight:600;margin-bottom:8px}
-  #chart{width:100%;height:auto;display:block}
+  #chart{width:100%;height:auto;display:block;cursor:crosshair}
+  #charttip{position:fixed;pointer-events:none;z-index:60;background:var(--panel);border:1px solid var(--line2);
+    border-radius:9px;padding:8px 12px;font-family:var(--mono);font-size:11px;letter-spacing:.3px;color:var(--mut);
+    box-shadow:var(--shadow);display:none;line-height:1.7;white-space:nowrap}
+  #charttip .s{font-family:var(--serif);font-size:15px;font-weight:600}
 
   /* ---------- PANEL SEMANA / FINDE ---------- */
   .wkpanel{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 24px}
@@ -180,6 +184,7 @@
     <div class="charttitle">Evolución del beneficio (€)</div>
     <canvas id="chart" width="1100" height="220"></canvas>
   </div>
+  <div id="charttip"></div>
 
   <div class="statbar"><span id="statTitle2">Entre semana vs. fin de semana</span></div>
   <div class="wkpanel" id="wkpanel"></div>
@@ -345,9 +350,11 @@ function renderWeek(){
 function cssVar(name){ return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
 function hexA(hex,a){ hex=hex.replace('#',''); if(hex.length===3) hex=hex.split('').map(c=>c+c).join('');
   const n=parseInt(hex,16); return `rgba(${(n>>16)&255},${(n>>8)&255},${n&255},${a})`; }
+let CHART={pts:[],lineCol:null};
 function drawChart(){
   const c=document.getElementById('chart'); if(!c) return;
   const ctx=c.getContext('2d'); const W=c.width, H=c.height; ctx.clearRect(0,0,W,H);
+  CHART.pts=[];
   const cPos=cssVar('--pos')||'#54a884', cNeg=cssVar('--neg')||'#cc6a6a',
         cLine=cssVar('--line')||'#222a3a', cMut=cssVar('--mut')||'#7e8aa0', cWarn=cssVar('--warn')||'#b89653';
   let rows=DATA.filter(d=>passLeague(d)&&(fType==='all'||d.type===fType)&&passScore(d)&&passExcl(d)&&notDeleted(d)&&passPeriod(d)&&passDay(d))
@@ -376,7 +383,38 @@ function drawChart(){
   ctx.fillText('€'+max.toFixed(0),4,Y(max)+10); ctx.fillText('€'+min.toFixed(0),4,Y(min)-2);
   ctx.fillStyle=lineCol; ctx.font='bold 14px ui-monospace,monospace';
   ctx.fillText((cum>=0?'+':'−')+'€'+Math.abs(cum).toFixed(2), W-pad-92, Math.max(16,Y(pts[pts.length-1])-8));
+  // guardar puntos para el hover interactivo
+  CHART.lineCol=lineCol;
+  CHART.pts=pts.map((v,i)=>({cx:X(i), cy:Y(v), cum:v, date:i?(rows[i-1].date||''):'', time:i?(rows[i-1].time||''):''}));
 }
+function chartHover(e){
+  const c=document.getElementById('chart'), tip=document.getElementById('charttip');
+  if(!c||!tip) return;
+  if(!CHART.pts.length){ tip.style.display='none'; return; }
+  const rect=c.getBoundingClientRect();
+  const mx=(e.clientX-rect.left)*(c.width/rect.width);
+  let bi=0, bd=1e9; CHART.pts.forEach((p,i)=>{ const d=Math.abs(p.cx-mx); if(d<bd){ bd=d; bi=i; } });
+  const p=CHART.pts[bi];
+  drawChart();                                  // redibuja base y borra el cursor anterior
+  const ctx=c.getContext('2d');
+  ctx.save();
+  ctx.strokeStyle=cssVar('--mut')||'#888'; ctx.globalAlpha=.45; ctx.setLineDash([3,3]); ctx.lineWidth=1;
+  ctx.beginPath(); ctx.moveTo(p.cx,14); ctx.lineTo(p.cx,c.height-26); ctx.stroke();
+  ctx.setLineDash([]); ctx.globalAlpha=1;
+  ctx.beginPath(); ctx.arc(p.cx,p.cy,4.5,0,7); ctx.fillStyle=CHART.lineCol||cssVar('--pos'); ctx.fill();
+  ctx.lineWidth=2; ctx.strokeStyle=cssVar('--panel')||'#000'; ctx.stroke();
+  ctx.restore();
+  const saldo=(p.cum>=0?'+':'−')+'€'+Math.abs(p.cum).toFixed(2);
+  const col=p.cum>0?'var(--pos)':p.cum<0?'var(--neg)':'var(--txt)';
+  const head=(bi===0)?'Inicio':`${p.date} · ${p.time}`;
+  tip.innerHTML=`${head}<br><span class="s" style="color:${col}">Saldo ${saldo}</span>`;
+  tip.style.display='block';
+  let L=e.clientX+14, T=e.clientY+14; const tw=tip.offsetWidth, th=tip.offsetHeight;
+  if(L+tw>window.innerWidth-8) L=e.clientX-tw-14;
+  if(T+th>window.innerHeight-8) T=e.clientY-th-14;
+  tip.style.left=L+'px'; tip.style.top=T+'px';
+}
+function chartLeave(){ const tip=document.getElementById('charttip'); if(tip) tip.style.display='none'; drawChart(); }
 
 // Enlaces de búsqueda (resultado y cuotas) por los nombres de los jugadores.
 function searchURL(d){ return 'https://www.google.com/search?q='+encodeURIComponent(`betsapi ${d.home} ${d.away} cuotas`); }
@@ -487,6 +525,7 @@ document.querySelectorAll('.lgchip').forEach(c=>c.onclick=()=>{
 });
 document.getElementById('score85chip').onclick=function(){ fScore85=!fScore85; this.classList.toggle('active',fScore85); render(); };
 document.getElementById('day').onchange=e=>{fDay=e.target.value;render();};
+(function(){ const cv=document.getElementById('chart'); if(cv){ cv.addEventListener('mousemove',chartHover); cv.addEventListener('mouseleave',chartLeave); } })();
 
 // inicializar icono del botón de tema según el tema actual
 applyTheme(document.documentElement.getAttribute('data-theme')||'dark');
