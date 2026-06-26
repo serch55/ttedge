@@ -1,10 +1,133 @@
 {
-  "generated": "2026-06-25T23:32:49.178Z",
+  "generated": "2026-06-26T00:54:55.785Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-26",
-  "totalCount": 490,
-  "todayCount": 4,
+  "totalCount": 496,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-06-26_under_marcin-balcerzak_vs_josef-braun",
+      "date": "2026-06-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 14,
+      "score": 80,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_yaroslav-kovshun_vs_valerii-kolesnykov",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yaroslav Kovshun",
+      "away": "Valerii Kolesnykov",
+      "league": "Setka Cup",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 71,
+      "score": 85,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_over_viktor-ziakun_vs_oleksandr-ziakun",
+      "date": "2026-06-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Viktor Ziakun",
+      "away": "Oleksandr Ziakun",
+      "league": "Setka Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_under_sergii-sideltsev_vs_vasyl-matviichuk",
+      "date": "2026-06-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sergii Sideltsev",
+      "away": "Vasyl Matviichuk",
+      "league": "Setka Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 33,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_spread_sergii-sideltsev_vs_vasyl-matviichuk",
+      "date": "2026-06-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Sergii Sideltsev",
+      "away": "Vasyl Matviichuk",
+      "league": "Setka Cup",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "l5": 12.6,
+      "score": 84,
+      "pick": "Sergii Sideltsev",
+      "spread": -11.8,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-26_spread_anna-rzhevska_vs_olha-kolbasenko",
+      "date": "2026-06-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Anna Rzhevska",
+      "away": "Olha Kolbasenko",
+      "league": "Setka Cup",
+      "time": "07:00",
+      "timeRaw": "1:00 AM",
+      "l5": 13,
+      "score": 85,
+      "pick": "Anna Rzhevska",
+      "spread": -8.1,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-26_over_krzysztof-hetnar_vs_marian-lebek",
       "date": "2026-06-26",
