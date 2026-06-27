@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-27T21:01:40.483Z",
+  "generated": "2026-06-27T21:31:29.649Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 336,
-  "todayCount": 2,
+  "totalCount": 337,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-27_over_jakub-nowak_vs_grzegorz-sawicki",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Grzegorz Sawicki",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_kazimierz-rybak_vs_pawel-chojnacki",
       "date": "2026-06-27",
@@ -225,27 +246,6 @@
       "sets3": 100,
       "score": 85,
       "h2h": 6,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-27_over_andriej-fomin_vs_adam-staniczek",
-      "date": "2026-06-27",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Andriej Fomin",
-      "away": "Adam Staniczek",
-      "league": "TT Elite Series",
-      "time": "19:10",
-      "timeRaw": "1:10 PM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 92,
-      "score": 84,
-      "h2h": 12,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -653,6 +653,27 @@
         "Volatile"
       ],
       "tgSent": true
+    },
+    {
+      "id": "2026-06-27_over_andriej-fomin_vs_adam-staniczek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Andriej Fomin",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "01:10",
+      "timeRaw": "7:10 PM",
+      "pct": 85,
+      "l5": 100,
+      "sets3": 92,
+      "score": 91,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
     },
     {
       "id": "2026-06-26_over_marek-holub_vs_roman-hudeczek",
