@@ -1,10 +1,72 @@
 {
-  "generated": "2026-06-27T21:31:29.649Z",
+  "generated": "2026-06-27T22:01:37.494Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-06-27",
-  "totalCount": 337,
-  "todayCount": 4,
+  "lastDay": "2026-06-28",
+  "totalCount": 340,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Grzegorz Sawicki",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_under_jiri-plachy_vs_petr-picek",
+      "date": "2026-06-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Plachy",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 80,
+      "score": 93,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_andriej-fomin_vs_adam-staniczek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Andriej Fomin",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "01:10",
+      "timeRaw": "7:10 PM",
+      "pct": 85,
+      "l5": 100,
+      "sets3": 92,
+      "score": 91,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_jakub-nowak_vs_grzegorz-sawicki",
       "date": "2026-06-27",
