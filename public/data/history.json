@@ -1,10 +1,50 @@
 {
-  "generated": "2026-06-27T17:31:40.308Z",
+  "generated": "2026-06-27T18:01:41.414Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 331,
+  "totalCount": 333,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-27_over_petr-bruzek_vs_jiri-moravek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Jiri Moravek",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 75,
+      "score": 80,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_michal-cabis_vs_radovan-polasek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Cabis",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_pavel-wawrosz_vs_michal-cabis",
       "date": "2026-06-27",
