@@ -24,7 +24,8 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-27_over_jacek-przewlocki_vs_krzysztof-kotyl",
@@ -89,7 +90,9 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
+      ],
+      "tgReminded": true,
+      "tgSent": true
     },
     {
       "id": "2026-06-27_over_stanislaw-wnek_vs_jaroslaw-rolak",
