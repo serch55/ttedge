@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-27T19:01:47.337Z",
+  "generated": "2026-06-27T19:31:39.692Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
   "totalCount": 335,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-27_over_kazimierz-rybak_vs_pawel-chojnacki",
@@ -120,10 +120,11 @@
       "pct": 83,
       "l5": 80,
       "sets3": 100,
-      "score": 93,
+      "score": 82,
       "h2h": 6,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
