@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T07:10:43.001Z",
+  "generated": "2026-06-27T08:59:57.678Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
   "totalCount": 313,
@@ -18,11 +18,10 @@
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 86,
+      "score": 90,
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ],
       "tgSent": true,
