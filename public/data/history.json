@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-27T14:01:32.941Z",
+  "generated": "2026-06-27T14:31:26.223Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 322,
-  "todayCount": 5,
+  "totalCount": 324,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-27_over_jacek-oracz_vs_cezary-pawlik",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "18:25",
+      "timeRaw": "12:25 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_andriej-fomin_vs_michal-krutak",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Andriej Fomin",
+      "away": "Michal Krutak",
+      "league": "TT Elite Series",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 90,
+      "score": 96,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_vaclav-hruska-sr_vs_lubor-sulava",
       "date": "2026-06-27",
