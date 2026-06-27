@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-27T16:31:30.628Z",
+  "generated": "2026-06-27T17:01:41.216Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 329,
+  "totalCount": 331,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-27_over_pavel-wawrosz_vs_michal-cabis",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Wawrosz",
+      "away": "Michal Cabis",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_rafal-adach_vs_grzegorz-sawicki",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Adach",
+      "away": "Grzegorz Sawicki",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_marcin-marchlewski_vs_konrad-staszczyk",
       "date": "2026-06-27",
@@ -18,7 +59,7 @@
       "pct": 83,
       "l5": 80,
       "sets3": 92,
-      "score": 89,
+      "score": 82,
       "h2h": 12,
       "trend": "falling",
       "tags": [
@@ -57,7 +98,7 @@
       "time": "20:25",
       "timeRaw": "2:25 PM",
       "l5": 9.8,
-      "score": 91,
+      "score": 83,
       "pick": "Michal Krutak",
       "spread": -9.8,
       "h2h": 4,
@@ -79,7 +120,7 @@
       "pct": 83,
       "l5": 80,
       "sets3": 92,
-      "score": 87,
+      "score": 84,
       "h2h": 12,
       "trend": "rising",
       "tags": [
