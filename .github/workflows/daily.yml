@@ -1,10 +1,9 @@
 name: Actualizar predicciones TT Edge (diario)
 
 on:
-  schedule:
-    # Cada hora en punto (hora UTC). El scraper ajusta el contenido a hora española.
-    - cron: "0 * * * *"
-  workflow_dispatch: {}   # permite lanzarlo a mano desde la pestaña Actions
+  # Cron de GitHub DESACTIVADO (era poco puntual). Ahora lo dispara un cron externo
+  # (cron-job.org) llamando a /api/refresh cada 30 min, que es fiable.
+  workflow_dispatch: {}   # lo usan /api/refresh y el botón "Actualizar"
 
 # Evita que dos ejecuciones se pisen (causaba el "remote rejected" al hacer push a la vez)
 concurrency:
