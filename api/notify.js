@@ -58,7 +58,9 @@ function newText(m){ return `🆕 Nueva apuesta\n🏓 ${lgShort(m.league)} · ${
 function remindText(m, mins){ return `⏰ Empieza en ~${mins} min\n🏓 ${lgShort(m.league)} · ${m.time}\n${m.home} vs ${m.away}\n${betLine(m)}`; }
 async function tg(text, replyTo){
   const body = { chat_id: TG_CHAT, text, disable_web_page_preview:true };
-  if (replyTo) { body.reply_to_message_id = replyTo; body.allow_sending_without_reply = true; }
+  // Si se pasa replyTo NO ponemos allow_sending_without_reply: así, si el mensaje
+  // original no existe, Telegram falla (ok:false) y el llamante manda el completo.
+  if (replyTo) body.reply_to_message_id = replyTo;
   const r = await fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
     method:'POST', headers:{'Content-Type':'application/json'},
     body: JSON.stringify(body)
@@ -104,9 +106,18 @@ module.exports = async (req, res) => {
         state.sent[m.id] = 1; state.reminded[m.id] = 1;   // partido ya pasado: marca y no spamees histórico
       }
     }
-    // 2) RECORDATORIO ~30 min (como RESPUESTA al mensaje de la apuesta, si lo tenemos)
+    // 2) RECORDATORIO ~30 min: si podemos responder al mensaje de la apuesta -> texto breve;
+    //    si no se puede responder -> mensaje nuevo con toda la info.
     if ((sent || state.sent[m.id]) && !reminded && diff >= MIN_BEFORE && diff <= MAX_BEFORE) {
-      if (sends < MAX_SENDS) { try { const s = await tg(remindText(m, Math.round(diff)), state.msgId[m.id]); if (s.ok) { state.reminded[m.id] = 1; recs++; sends++; } } catch(e){} }
+      if (sends < MAX_SENDS) {
+        try {
+          const mins = Math.round(diff);
+          let s = { ok:false };
+          if (state.msgId[m.id]) s = await tg(`⏰ Empieza en ~${mins} min`, state.msgId[m.id]);  // breve, como respuesta
+          if (!s.ok) s = await tg(remindText(m, mins));                                            // fallback: completo
+          if (s.ok) { state.reminded[m.id] = 1; recs++; sends++; }
+        } catch(e){}
+      }
     }
   }
 
