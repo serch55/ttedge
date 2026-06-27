@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-27T17:01:41.216Z",
+  "generated": "2026-06-27T17:31:40.308Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
   "totalCount": 331,
-  "todayCount": 6,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-06-27_over_pavel-wawrosz_vs_michal-cabis",
@@ -105,6 +105,27 @@
       "trend": "",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_filip-zurek_vs_david-mikula",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Filip Zurek",
+      "away": "David Mikula",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
@@ -270,26 +291,6 @@
       "trend": "rising",
       "tags": [
         "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-27_over_filip-zurek_vs_david-mikula",
-      "date": "2026-06-27",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Filip Zurek",
-      "away": "David Mikula",
-      "league": "Czech Liga Pro",
-      "time": "16:30",
-      "timeRaw": "10:30 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 5,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
       ]
     },
     {
