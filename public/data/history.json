@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-27T05:22:13.914Z",
+  "generated": "2026-06-27T07:10:43.001Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 312,
-  "todayCount": 3,
+  "totalCount": 313,
+  "todayCount": 1,
   "matches": [
+    {
+      "id": "2026-06-27_over_karol-strowski_vs_krzysztof-wloczko",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_jacek-przewlocki_vs_krzysztof-kotyl",
       "date": "2026-06-27",
