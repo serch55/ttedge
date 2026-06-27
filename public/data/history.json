@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-27T13:01:31.562Z",
+  "generated": "2026-06-27T13:31:31.636Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 319,
-  "todayCount": 2,
+  "totalCount": 321,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-27_over_karol-strowski_vs_szymon-sporek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Szymon Sporek",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_kazimierz-rybak_vs_pawel-chojnacki",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kazimierz Rybak",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_igor-dabrowski_vs_maciej-kolek",
       "date": "2026-06-27",
