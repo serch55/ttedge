@@ -1,10 +1,33 @@
 {
-  "generated": "2026-06-27T03:11:45.538Z",
+  "generated": "2026-06-27T05:22:13.914Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 311,
-  "todayCount": 5,
+  "totalCount": 312,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-27_over_jacek-przewlocki_vs_krzysztof-kotyl",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true,
+      "tgReminded": true
+    },
     {
       "id": "2026-06-27_over_lukasz-bernacki_vs_rafal-wojcik",
       "date": "2026-06-27",
@@ -28,27 +51,24 @@
       "tgSent": true
     },
     {
-      "id": "2026-06-27_over_jacek-przewlocki_vs_krzysztof-kotyl",
+      "id": "2026-06-27_under_mariusz-koczyba_vs_oliwier-sokolowski",
       "date": "2026-06-27",
-      "type": "over",
+      "type": "under",
       "conf": "ultra",
-      "home": "Jacek Przewlocki",
-      "away": "Krzysztof Kotyl",
+      "home": "Mariusz Koczyba",
+      "away": "Oliwier Sokolowski",
       "league": "TT Elite Series",
-      "time": "06:10",
-      "timeRaw": "12:10 AM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 100,
-      "score": 83,
-      "h2h": 15,
-      "trend": "",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": null,
+      "score": 91,
+      "h2h": 5,
+      "trend": "rising",
       "tags": [
-        "Fatigue",
-        "Volatile"
-      ],
-      "tgSent": true,
-      "tgReminded": true
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-27_over_stanislaw-wnek_vs_jaroslaw-rolak",
