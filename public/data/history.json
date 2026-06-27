@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-27T14:31:26.223Z",
+  "generated": "2026-06-27T15:01:51.004Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 324,
+  "totalCount": 325,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-27_over_konrad-staszczyk_vs_tomasz-filbrandt",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Konrad Staszczyk",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 100,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_jacek-oracz_vs_cezary-pawlik",
       "date": "2026-06-27",
@@ -120,11 +140,10 @@
       "pct": 80,
       "l5": 60,
       "sets3": 93,
-      "score": 84,
+      "score": 87,
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
