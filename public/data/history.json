@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-27T16:01:44.027Z",
+  "generated": "2026-06-27T16:31:30.628Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 327,
-  "todayCount": 5,
+  "totalCount": 329,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-27_over_marcin-marchlewski_vs_konrad-staszczyk",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Konrad Staszczyk",
+      "league": "TT Elite Series",
+      "time": "20:50",
+      "timeRaw": "2:50 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 92,
+      "score": 89,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_radovan-polasek_vs_pavel-wawrosz",
       "date": "2026-06-27",
@@ -26,6 +47,26 @@
       ]
     },
     {
+      "id": "2026-06-27_spread_michal-krutak_vs_adam-staniczek",
+      "date": "2026-06-27",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "20:25",
+      "timeRaw": "2:25 PM",
+      "l5": 9.8,
+      "score": 91,
+      "pick": "Michal Krutak",
+      "spread": -9.8,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
       "id": "2026-06-27_over_andriej-fomin_vs_adam-staniczek",
       "date": "2026-06-27",
       "type": "over",
@@ -38,10 +79,11 @@
       "pct": 83,
       "l5": 80,
       "sets3": 92,
-      "score": 91,
+      "score": 87,
       "h2h": 12,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -58,10 +100,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 100,
+      "score": 95,
       "h2h": 5,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
