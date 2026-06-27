@@ -1,8 +1,8 @@
 name: Avisos TT Edge (nuevas + 30 min antes)
 
+# Cron de GitHub DESACTIVADO: los avisos los dispara ahora un cron externo (cron-job.org)
+# llamando a /api/notify cada 2 min, que es puntual. Esto queda solo para lanzarlo a mano.
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # cada 10 minutos (GitHub puede retrasarlo algo)
   workflow_dispatch: {}
 
 # Misma cola que el scraper: nunca corren a la vez (evita choques de git push)
