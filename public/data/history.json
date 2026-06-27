@@ -1,10 +1,72 @@
 {
-  "generated": "2026-06-27T10:00:27.570Z",
+  "generated": "2026-06-27T10:31:33.363Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 315,
-  "todayCount": 2,
+  "totalCount": 317,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-27_over_patrik-hanel_vs_milan-jasek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patrik Hanel",
+      "away": "Milan Jasek",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_under_julius-didi_vs_vaclav-nohejl",
+      "date": "2026-06-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Julius Didi",
+      "away": "Vaclav Nohejl",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 25,
+      "score": 100,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_lukasz-bernacki_vs_rafal-wojcik",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukasz Bernacki",
+      "away": "Rafal Wojcik",
+      "league": "TT Elite Series",
+      "time": "13:55",
+      "timeRaw": "7:55 AM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 92,
+      "score": 82,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ],
+      "tgSent": true
+    },
     {
       "id": "2026-06-27_over_karol-strowski_vs_krystian-kolodziej",
       "date": "2026-06-27",
@@ -18,7 +80,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -91,28 +153,6 @@
       ],
       "tgSent": true,
       "tgReminded": true
-    },
-    {
-      "id": "2026-06-27_over_lukasz-bernacki_vs_rafal-wojcik",
-      "date": "2026-06-27",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Lukasz Bernacki",
-      "away": "Rafal Wojcik",
-      "league": "TT Elite Series",
-      "time": "07:55",
-      "timeRaw": "1:55 AM",
-      "pct": 82,
-      "l5": 80,
-      "sets3": 91,
-      "score": 92,
-      "h2h": 11,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ],
-      "tgSent": true
     },
     {
       "id": "2026-06-27_under_mariusz-koczyba_vs_oliwier-sokolowski",
