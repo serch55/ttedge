@@ -1,11 +1,11 @@
 {
-  "when": "2026-06-27T09:58:24.535Z",
+  "when": "2026-06-27T10:00:27.571Z",
   "overFound": 10,
   "underFound": 0,
   "spreadFound": 0,
   "diag": {
     "url": "https://ttedge.ai/edge-finder",
-    "textoLen": 3782,
+    "textoLen": 3810,
     "hayPredicciones": true,
     "estrellas": 79,
     "pareceLogin": false,
