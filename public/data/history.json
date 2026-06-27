@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-27T22:01:37.494Z",
+  "generated": "2026-06-27T22:31:32.608Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 340,
-  "todayCount": 3,
+  "totalCount": 343,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
@@ -21,6 +21,27 @@
       "score": 89,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_under_filip-mlynarski_vs_marcin-marchlewski",
+      "date": "2026-06-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 20,
+      "score": 82,
+      "h2h": 5,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -47,6 +68,27 @@
       ]
     },
     {
+      "id": "2026-06-28_over_michal-krutak_vs_andriej-fomin",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 91,
+      "score": 85,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-28_over_andriej-fomin_vs_adam-staniczek",
       "date": "2026-06-28",
       "type": "over",
@@ -62,6 +104,27 @@
       "score": 91,
       "h2h": 13,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_michal-krutak_vs_cezary-pawlik",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 89,
+      "l5": 100,
+      "sets3": 89,
+      "score": 86,
+      "h2h": 9,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
