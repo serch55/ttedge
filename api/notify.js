@@ -56,12 +56,15 @@ function betLine(m){
 }
 function newText(m){ return `🆕 Nueva apuesta\n🏓 ${lgShort(m.league)} · ${m.time}\n${m.home} vs ${m.away}\n${betLine(m)}${m.score!=null?`\n⭐ Score ${m.score}`:''}`; }
 function remindText(m, mins){ return `⏰ Empieza en ~${mins} min\n🏓 ${lgShort(m.league)} · ${m.time}\n${m.home} vs ${m.away}\n${betLine(m)}`; }
-async function tg(text){
+async function tg(text, replyTo){
+  const body = { chat_id: TG_CHAT, text, disable_web_page_preview:true };
+  if (replyTo) { body.reply_to_message_id = replyTo; body.allow_sending_without_reply = true; }
   const r = await fetch(`https://api.telegram.org/bot${TG_TOKEN}/sendMessage`, {
     method:'POST', headers:{'Content-Type':'application/json'},
-    body: JSON.stringify({ chat_id: TG_CHAT, text, disable_web_page_preview:true })
+    body: JSON.stringify(body)
   });
-  return r.ok;
+  let j = null; try { j = await r.json(); } catch(e){}
+  return { ok: !!(r.ok && j && j.ok), message_id: (j && j.result) ? j.result.message_id : null };
 }
 const qualify = m => LEAGUES.includes(m.league) && !(m.type==='spread' && (m.conf||'ultra')==='high');
 
@@ -79,6 +82,7 @@ module.exports = async (req, res) => {
   const state = await sbGet(STATE_CODE);
   state.sent = state.sent || {};
   state.reminded = state.reminded || {};
+  state.msgId = state.msgId || {};   // id del mensaje de "nueva apuesta" para responderle luego
 
   const now = madridNowNaive();
   const ids = new Set();
@@ -95,20 +99,21 @@ module.exports = async (req, res) => {
     // 1) NUEVA APUESTA
     if (!sent) {
       if (diff > 0) {
-        if (sends < MAX_SENDS) { try { if (await tg(newText(m))) { state.sent[m.id] = 1; nuevos++; sends++; } } catch(e){} }
+        if (sends < MAX_SENDS) { try { const s = await tg(newText(m)); if (s.ok) { state.sent[m.id] = 1; if (s.message_id) state.msgId[m.id] = s.message_id; nuevos++; sends++; } } catch(e){} }
       } else {
         state.sent[m.id] = 1; state.reminded[m.id] = 1;   // partido ya pasado: marca y no spamees histórico
       }
     }
-    // 2) RECORDATORIO ~30 min
+    // 2) RECORDATORIO ~30 min (como RESPUESTA al mensaje de la apuesta, si lo tenemos)
     if ((sent || state.sent[m.id]) && !reminded && diff >= MIN_BEFORE && diff <= MAX_BEFORE) {
-      if (sends < MAX_SENDS) { try { if (await tg(remindText(m, Math.round(diff)))) { state.reminded[m.id] = 1; recs++; sends++; } } catch(e){} }
+      if (sends < MAX_SENDS) { try { const s = await tg(remindText(m, Math.round(diff)), state.msgId[m.id]); if (s.ok) { state.reminded[m.id] = 1; recs++; sends++; } } catch(e){} }
     }
   }
 
   // poda: conserva solo el estado de partidos que siguen en el histórico
   for (const k of Object.keys(state.sent))     if (!ids.has(k)) delete state.sent[k];
   for (const k of Object.keys(state.reminded)) if (!ids.has(k)) delete state.reminded[k];
+  for (const k of Object.keys(state.msgId))    if (!ids.has(k)) delete state.msgId[k];
 
   try { await sbSet(STATE_CODE, state); } catch(e){}
   return res.status(200).json({ ok: true, nuevos, recordatorios: recs });
