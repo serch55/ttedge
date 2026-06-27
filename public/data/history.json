@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T19:31:39.692Z",
+  "generated": "2026-06-27T20:01:44.630Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 335,
+  "totalCount": 336,
   "todayCount": 4,
   "matches": [
     {
@@ -611,6 +611,26 @@
         "Volatile"
       ],
       "tgSent": true
+    },
+    {
+      "id": "2026-06-27_under_jiri-plachy_vs_petr-picek",
+      "date": "2026-06-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Plachy",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 80,
+      "score": 93,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-27_over_erik-mares_vs_jakub-vales",
