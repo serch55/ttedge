@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-27T12:31:28.863Z",
+  "generated": "2026-06-27T13:01:31.562Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 318,
-  "todayCount": 3,
+  "totalCount": 319,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-27_over_igor-dabrowski_vs_maciej-kolek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_filip-zurek_vs_david-mikula",
       "date": "2026-06-27",
