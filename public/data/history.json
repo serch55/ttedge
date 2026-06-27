@@ -25,7 +25,8 @@
         "Fatigue",
         "Volatile"
       ],
-      "tgSent": true
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-27_over_jacek-przewlocki_vs_krzysztof-kotyl",
