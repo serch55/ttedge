@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-27T08:59:57.678Z",
+  "generated": "2026-06-27T09:49:52.534Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 313,
-  "todayCount": 1,
+  "totalCount": 315,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-27_over_karol-strowski_vs_krystian-kolodziej",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "13:40",
+      "timeRaw": "7:40 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_patryk-gamrot_vs_jakub-jesiek",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Gamrot",
+      "away": "Jakub Jesiek",
+      "league": "TT Elite Series",
+      "time": "12:10",
+      "timeRaw": "6:10 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 87,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_karol-strowski_vs_krzysztof-wloczko",
       "date": "2026-06-27",
