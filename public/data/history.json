@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-27T01:43:24.494Z",
+  "generated": "2026-06-27T03:11:45.538Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 309,
-  "todayCount": 3,
+  "totalCount": 311,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-27_over_lukasz-bernacki_vs_rafal-wojcik",
@@ -26,6 +26,47 @@
         "Volatile"
       ],
       "tgSent": true
+    },
+    {
+      "id": "2026-06-27_over_jacek-przewlocki_vs_krzysztof-kotyl",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-27_over_stanislaw-wnek_vs_jaroslaw-rolak",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
     },
     {
       "id": "2026-06-27_over_krzysztof-kotyl_vs_jaroslaw-rolak",
