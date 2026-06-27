@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-26T23:30:07.565Z",
+  "generated": "2026-06-27T00:51:54.432Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-27",
-  "totalCount": 308,
+  "totalCount": 309,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-27_over_lukasz-bernacki_vs_rafal-wojcik",
+      "date": "2026-06-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukasz Bernacki",
+      "away": "Rafal Wojcik",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 91,
+      "score": 92,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-27_over_krzysztof-kotyl_vs_jaroslaw-rolak",
       "date": "2026-06-27",
