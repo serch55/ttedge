@@ -46,7 +46,9 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
+      ],
+      "tgSent": true,
+      "tgReminded": true
     },
     {
       "id": "2026-06-27_over_stanislaw-wnek_vs_jaroslaw-rolak",
@@ -66,7 +68,8 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
+      ],
+      "tgSent": true
     },
     {
       "id": "2026-06-27_over_krzysztof-kotyl_vs_jaroslaw-rolak",
