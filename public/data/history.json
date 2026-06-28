@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-28T07:31:34.329Z",
+  "generated": "2026-06-28T07:51:05.383Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 352,
-  "todayCount": 0,
+  "totalCount": 354,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-28_over_michael-sedlacek_vs_michal-cabis",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Michal Cabis",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 95,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_erik-mares_vs_jakub-vales",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_marian-lebek_vs_marek-tkocz",
       "date": "2026-06-28",
