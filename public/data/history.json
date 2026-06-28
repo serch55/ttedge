@@ -1,10 +1,50 @@
 {
-  "generated": "2026-06-28T14:31:29.420Z",
+  "generated": "2026-06-28T15:01:42.566Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 363,
+  "totalCount": 365,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-28_over_krystian-kolodziej_vs_jakub-kuzmicz",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_spread_aleksander-barton_vs_zbigniew-nocun",
+      "date": "2026-06-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "l5": 10.2,
+      "score": 82,
+      "pick": "Zbigniew Nocun",
+      "spread": -10,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_spread_lukasz-pietraszko_vs_krystian-kolodziej",
       "date": "2026-06-28",
