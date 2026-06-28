@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T01:31:26.327Z",
+  "generated": "2026-06-28T02:01:31.155Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 347,
-  "todayCount": 4,
+  "totalCount": 348,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_marcin-jadczyk_vs_petr-david",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Petr David",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 94,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
