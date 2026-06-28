@@ -1,10 +1,71 @@
 {
-  "generated": "2026-06-28T15:01:42.566Z",
+  "generated": "2026-06-28T15:31:25.635Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 365,
-  "todayCount": 5,
+  "totalCount": 368,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-28_over_alan-wos_vs_jakub-kuzmicz",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Alan Wos",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_under_zbigniew-nocun_vs_artur-kubiak",
+      "date": "2026-06-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 33,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_sebastian-krupa_vs_piotr-przewlocki",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 94,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_krystian-kolodziej_vs_jakub-kuzmicz",
       "date": "2026-06-28",
