@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T01:01:43.155Z",
+  "generated": "2026-06-28T01:31:26.327Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 346,
-  "todayCount": 3,
+  "totalCount": 347,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
@@ -45,6 +45,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_spread_michal-krutak_vs_adam-staniczek",
+      "date": "2026-06-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "l5": 8.2,
+      "score": 90,
+      "pick": "Michal Krutak",
+      "spread": -8.2,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
