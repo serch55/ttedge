@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-28T00:01:39.463Z",
+  "generated": "2026-06-28T00:31:36.390Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 344,
+  "totalCount": 346,
   "todayCount": 3,
   "matches": [
     {
@@ -45,6 +45,47 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_cezary-pawlik_vs_jacek-oracz",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_adam-staniczek_vs_marcin-wozniczka",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Marcin Wozniczka",
+      "league": "TT Elite Series",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
