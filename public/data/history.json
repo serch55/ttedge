@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T21:01:43.045Z",
+  "generated": "2026-06-28T21:31:38.364Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 378,
-  "todayCount": 3,
+  "totalCount": 379,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-28_over_jakub-zochniak_vs_adam-linek",
@@ -684,6 +684,27 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_filip-mlynarski_vs_szymon-sporek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Szymon Sporek",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
