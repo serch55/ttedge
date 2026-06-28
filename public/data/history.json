@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-28T16:31:42.036Z",
+  "generated": "2026-06-28T17:01:52.226Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 372,
-  "todayCount": 7,
+  "totalCount": 374,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-28_over_vaclav-zidek_vs_lukas-velicka",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vaclav Zidek",
+      "away": "Lukas Velicka",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 71,
+      "score": 81,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_krzysztof-schaniel_vs_mariusz-baron",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_lukas-kern_vs_zbynek-pagac",
       "date": "2026-06-28",
@@ -38,7 +79,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 25,
-      "score": 91,
+      "score": 83,
       "h2h": 4,
       "trend": "",
       "tags": [
@@ -58,7 +99,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 88,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -141,7 +182,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 91,
+      "score": 83,
       "h2h": 5,
       "trend": "rising",
       "tags": [
