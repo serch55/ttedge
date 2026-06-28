@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-28T15:31:25.635Z",
+  "generated": "2026-06-28T16:01:34.714Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 368,
+  "totalCount": 370,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-28_under_grzegorz-mucha_vs_pawel-chojnacki",
+      "date": "2026-06-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Mucha",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "20:10",
+      "timeRaw": "2:10 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 25,
+      "score": 91,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_krystian-kolodziej_vs_szymon-sporek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Szymon Sporek",
+      "league": "TT Elite Series",
+      "time": "20:05",
+      "timeRaw": "2:05 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_alan-wos_vs_jakub-kuzmicz",
       "date": "2026-06-28",
