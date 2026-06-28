@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T11:01:35.844Z",
+  "generated": "2026-06-28T11:31:27.320Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
   "totalCount": 360,
-  "todayCount": 4,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-06-28_over_michael-sedlacek_vs_jan-dzida",
@@ -18,7 +18,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
