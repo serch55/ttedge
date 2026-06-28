@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T14:01:45.417Z",
+  "generated": "2026-06-28T14:31:29.420Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
   "totalCount": 363,
@@ -16,13 +16,12 @@
       "time": "17:45",
       "timeRaw": "11:45 AM",
       "l5": 10.6,
-      "score": 81,
+      "score": 85,
       "pick": "Krystian Kolodziej",
       "spread": -10.9,
       "h2h": 7,
       "trend": "",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
