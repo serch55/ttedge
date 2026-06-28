@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T23:01:50.173Z",
+  "generated": "2026-06-28T23:31:35.546Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 384,
-  "todayCount": 3,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-29_over_filip-mlynarski_vs_szymon-sporek",
@@ -15,11 +15,11 @@
       "league": "TT Elite Series",
       "time": "02:45",
       "timeRaw": "8:45 PM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 83,
+      "pct": 86,
+      "l5": 100,
+      "sets3": 86,
       "score": 85,
-      "h2h": 6,
+      "h2h": 7,
       "trend": "rising",
       "tags": [
         "Fatigue",
