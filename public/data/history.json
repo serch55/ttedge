@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-28T18:01:41.467Z",
+  "generated": "2026-06-28T18:31:31.723Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 375,
+  "totalCount": 376,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-28_over_tomasz-filbrandt_vs_jakub-zochniak",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_jakub-zochniak_vs_adam-linek",
       "date": "2026-06-28",
@@ -60,10 +81,11 @@
       "pct": 73,
       "l5": 100,
       "sets3": 80,
-      "score": 88,
+      "score": 81,
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
