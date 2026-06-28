@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T20:01:41.335Z",
+  "generated": "2026-06-28T20:31:37.373Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 377,
-  "todayCount": 3,
+  "totalCount": 378,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-28_over_jakub-zochniak_vs_adam-linek",
@@ -806,6 +806,27 @@
       "score": 86,
       "h2h": 9,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_jakub-glanowski_vs_jakub-zochniak",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
