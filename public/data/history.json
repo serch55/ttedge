@@ -1,31 +1,10 @@
 {
-  "generated": "2026-06-28T03:01:43.316Z",
+  "generated": "2026-06-28T03:31:24.902Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
   "totalCount": 351,
-  "todayCount": 6,
+  "todayCount": 5,
   "matches": [
-    {
-      "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
-      "date": "2026-06-28",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Grzegorz Sawicki",
-      "league": "TT Elite Series",
-      "time": "23:55",
-      "timeRaw": "5:55 PM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 93,
-      "score": 89,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-06-28_over_marian-lebek_vs_marek-tkocz",
       "date": "2026-06-28",
@@ -102,6 +81,27 @@
       "sets3": 80,
       "score": 88,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Grzegorz Sawicki",
+      "league": "TT Elite Series",
+      "time": "05:55",
+      "timeRaw": "11:55 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 87,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
