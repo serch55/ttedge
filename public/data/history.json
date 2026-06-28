@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-28T13:31:43.570Z",
+  "generated": "2026-06-28T14:01:45.417Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 362,
-  "todayCount": 4,
+  "totalCount": 363,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-28_spread_lukasz-pietraszko_vs_krystian-kolodziej",
+      "date": "2026-06-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Lukasz Pietraszko",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "l5": 10.6,
+      "score": 81,
+      "pick": "Krystian Kolodziej",
+      "spread": -10.9,
+      "h2h": 7,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_ondrej-paril_vs_michael-sedlacek",
       "date": "2026-06-28",
