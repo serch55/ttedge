@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-28T12:01:44.146Z",
+  "generated": "2026-06-28T12:31:36.204Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 360,
-  "todayCount": 1,
+  "totalCount": 361,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-28_over_michael-sedlacek_vs_michal-cabis",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Michal Cabis",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 83,
+      "score": 87,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_martin-vizek_vs_frantisek-just",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Vizek",
+      "away": "Frantisek Just",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 100,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_michael-sedlacek_vs_jan-dzida",
       "date": "2026-06-28",
@@ -126,27 +167,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-28_over_michael-sedlacek_vs_michal-cabis",
-      "date": "2026-06-28",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Michael Sedlacek",
-      "away": "Michal Cabis",
-      "league": "Czech Liga Pro",
-      "time": "12:00",
-      "timeRaw": "6:00 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 95,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
