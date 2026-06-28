@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T18:31:31.723Z",
+  "generated": "2026-06-28T19:01:40.239Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 376,
-  "todayCount": 7,
+  "totalCount": 377,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-28_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -808,6 +808,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_tomas-regner_vs_jan-steffan",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Regner",
+      "away": "Jan Steffan",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
