@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-28T08:31:31.845Z",
+  "generated": "2026-06-28T09:01:50.358Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 356,
-  "todayCount": 4,
+  "totalCount": 357,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-28_over_ondrej-paril_vs_michael-sedlacek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Paril",
+      "away": "Michael Sedlacek",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_damian-wederlich_vs_grzegorz-felkel",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Damian Wederlich",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "pct": 88,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_martin-sobisek_vs_daniel-tuma",
       "date": "2026-06-28",
@@ -207,27 +249,6 @@
       "sets3": 93,
       "score": 87,
       "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-28_over_damian-wederlich_vs_grzegorz-felkel",
-      "date": "2026-06-28",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Damian Wederlich",
-      "away": "Grzegorz Felkel",
-      "league": "TT Elite Series",
-      "time": "05:00",
-      "timeRaw": "11:00 PM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 100,
-      "score": 92,
-      "h2h": 7,
       "trend": "rising",
       "tags": [
         "Fatigue",
