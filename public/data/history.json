@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-28T16:01:34.714Z",
+  "generated": "2026-06-28T16:31:42.036Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 370,
-  "todayCount": 6,
+  "totalCount": 372,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-28_over_lukas-kern_vs_zbynek-pagac",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Kern",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 96,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_under_grzegorz-mucha_vs_pawel-chojnacki",
       "date": "2026-06-28",
@@ -47,6 +67,27 @@
       ]
     },
     {
+      "id": "2026-06-28_over_grzegorz-sawicki_vs_jakub-nowak",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Sawicki",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "19:35",
+      "timeRaw": "1:35 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-28_over_alan-wos_vs_jakub-kuzmicz",
       "date": "2026-06-28",
       "type": "over",
@@ -59,7 +100,7 @@
       "pct": 86,
       "l5": 80,
       "sets3": 100,
-      "score": 85,
+      "score": 82,
       "h2h": 7,
       "trend": "falling",
       "tags": [
@@ -100,10 +141,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 94,
+      "score": 91,
       "h2h": 5,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -120,10 +162,11 @@
       "pct": 93,
       "l5": 80,
       "sets3": 93,
-      "score": 84,
+      "score": 80,
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
