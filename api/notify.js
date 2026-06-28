@@ -90,6 +90,8 @@ module.exports = async (req, res) => {
   const ids = new Set();
   let nuevos = 0, recs = 0, sends = 0;
 
+  // PASO 1 (instantáneo, sin enviar): marca los pasados y clasifica lo que hay que enviar.
+  const toNew = [], toRemind = [];
   for (const m of (hist.matches || [])) {
     if (!qualify(m)) continue;
     ids.add(m.id);
@@ -97,28 +99,29 @@ module.exports = async (req, res) => {
     const diff = (dt - now) / 60000;
     const sent = m.tgSent || state.sent[m.id];
     const reminded = m.tgReminded || state.reminded[m.id];
-
-    // 1) NUEVA APUESTA
     if (!sent) {
-      if (diff > 0) {
-        if (sends < MAX_SENDS) { try { const s = await tg(newText(m)); if (s.ok) { state.sent[m.id] = 1; if (s.message_id) state.msgId[m.id] = s.message_id; nuevos++; sends++; } } catch(e){} }
-      } else {
-        state.sent[m.id] = 1; state.reminded[m.id] = 1;   // partido ya pasado: marca y no spamees histórico
-      }
+      if (diff > 0) toNew.push({ m, diff });
+      else { state.sent[m.id] = 1; state.reminded[m.id] = 1; }   // pasado: marca sin avisar (no spamea histórico)
     }
-    // 2) RECORDATORIO ~30 min: si podemos responder al mensaje de la apuesta -> texto breve;
-    //    si no se puede responder -> mensaje nuevo con toda la info.
-    if ((sent || state.sent[m.id]) && !reminded && diff >= MIN_BEFORE && diff <= MAX_BEFORE) {
-      if (sends < MAX_SENDS) {
-        try {
-          const mins = Math.round(diff);
-          let s = { ok:false };
-          if (state.msgId[m.id]) s = await tg(`⏰ Empieza en ~${mins} min`, state.msgId[m.id]);  // breve, como respuesta
-          if (!s.ok) s = await tg(remindText(m, mins));                                            // fallback: completo
-          if (s.ok) { state.reminded[m.id] = 1; recs++; sends++; }
-        } catch(e){}
-      }
-    }
+    if ((sent || state.sent[m.id]) && !reminded && diff >= MIN_BEFORE && diff <= MAX_BEFORE) toRemind.push({ m, diff });
+  }
+
+  // PASO 2 (acotado): primero RECORDATORIOS (sensibles al tiempo), luego NUEVAS; los más próximos primero.
+  toRemind.sort((a,b)=>a.diff-b.diff);
+  toNew.sort((a,b)=>a.diff-b.diff);
+  for (const { m, diff } of toRemind) {
+    if (sends >= MAX_SENDS) break;
+    try {
+      const mins = Math.round(diff);
+      let s = { ok:false };
+      if (state.msgId[m.id]) s = await tg(`⏰ Empieza en ~${mins} min`, state.msgId[m.id]);  // breve, como respuesta
+      if (!s.ok) s = await tg(remindText(m, mins));                                          // fallback: completo
+      if (s.ok) { state.reminded[m.id] = 1; recs++; sends++; }
+    } catch(e){}
+  }
+  for (const { m } of toNew) {
+    if (sends >= MAX_SENDS) break;
+    try { const s = await tg(newText(m)); if (s.ok) { state.sent[m.id] = 1; if (s.message_id) state.msgId[m.id] = s.message_id; nuevos++; sends++; } } catch(e){}
   }
 
   // poda: conserva solo el estado de partidos que siguen en el histórico
