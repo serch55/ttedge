@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-28T12:31:36.204Z",
+  "generated": "2026-06-28T13:01:31.692Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 361,
-  "todayCount": 2,
+  "totalCount": 362,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-28_over_ondrej-paril_vs_michael-sedlacek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Paril",
+      "away": "Michael Sedlacek",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_spread_aleksander-barton_vs_artur-kubiak",
+      "date": "2026-06-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": 11,
+      "score": 82,
+      "pick": "Artur Kubiak",
+      "spread": -11,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_michael-sedlacek_vs_michal-cabis",
       "date": "2026-06-28",
@@ -84,27 +125,6 @@
       "h2h": 6,
       "trend": "",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-28_over_ondrej-paril_vs_michael-sedlacek",
-      "date": "2026-06-28",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Ondrej Paril",
-      "away": "Michael Sedlacek",
-      "league": "Czech Liga Pro",
-      "time": "13:30",
-      "timeRaw": "7:30 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 93,
-      "score": 82,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
