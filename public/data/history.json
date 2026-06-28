@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-28T17:01:52.226Z",
+  "generated": "2026-06-28T17:31:34.351Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 374,
-  "todayCount": 8,
+  "totalCount": 375,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-06-28_over_jakub-zochniak_vs_adam-linek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "21:20",
+      "timeRaw": "3:20 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_vaclav-zidek_vs_lukas-velicka",
       "date": "2026-06-28",
