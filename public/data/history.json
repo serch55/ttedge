@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T04:01:38.346Z",
+  "generated": "2026-06-28T04:31:35.066Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 351,
-  "todayCount": 5,
+  "totalCount": 352,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-28_over_marian-lebek_vs_marek-tkocz",
@@ -18,10 +18,11 @@
       "pct": 73,
       "l5": 100,
       "sets3": 100,
-      "score": 84,
+      "score": 81,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -59,11 +60,32 @@
       "pct": 87,
       "l5": 80,
       "sets3": 87,
-      "score": 94,
+      "score": 86,
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_under_mariusz-koczyba_vs_oliwier-sokolowski",
+      "date": "2026-06-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Oliwier Sokolowski",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": null,
+      "score": 83,
+      "h2h": 6,
+      "trend": "",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
