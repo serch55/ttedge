@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T23:31:27.183Z",
+  "generated": "2026-06-28T00:01:39.463Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 343,
+  "totalCount": 344,
   "todayCount": 3,
   "matches": [
     {
@@ -20,6 +20,27 @@
       "sets3": 93,
       "score": 89,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_piotr-gumulinski_vs_wojciech-pytlas",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Wojciech Pytlas",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 5,
       "trend": "rising",
       "tags": [
         "Fatigue",
