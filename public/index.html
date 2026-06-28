@@ -137,6 +137,10 @@
   .pick.under{background:color-mix(in srgb,var(--warn) 11%,transparent);border:1px solid color-mix(in srgb,var(--warn) 34%,transparent)}
   .pick.spread{background:color-mix(in srgb,var(--c-purple) 11%,transparent);border:1px solid color-mix(in srgb,var(--c-purple) 32%,transparent)}
   .pick .big{font-family:var(--serif);font-size:19px;font-weight:600;letter-spacing:-.2px}
+  .pick .lineinp{font-family:var(--serif);font-size:19px;font-weight:600;color:inherit;background:transparent;
+    border:none;border-bottom:1px dashed color-mix(in srgb,currentColor 45%,transparent);width:3.4em;text-align:center;
+    padding:0 2px;outline:none;font-variant-numeric:tabular-nums;cursor:text}
+  .pick .lineinp:hover,.pick .lineinp:focus{border-bottom-color:currentColor}
   .pick.over .big{color:var(--pos)}.pick.under .big{color:var(--warn)}.pick.spread .big{color:var(--c-purple)}
   .lbl{font-family:var(--mono);font-size:9.5px;text-transform:uppercase;letter-spacing:.7px;color:var(--mut);font-weight:600}
   .metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
@@ -258,6 +262,7 @@ function setResult(id,r){ const x=t(id); x.result=(x.result===r?'pending':r); sa
 function setOdds(id,v){ const x=t(id); x.odds=v; saveTrack(); pushCloud(); renderKpis(); render(); }
 function setClose(id,v){ const x=t(id); x.close=v; saveTrack(); pushCloud(); renderKpis(); }
 function setPlaced(id,v){ const x=t(id); x.placed=v; saveTrack(); pushCloud(); render(); }
+function setLine(id,el){ const n=parseFloat(String(el.value).replace(',','.')); if(!isNaN(n)){ const x=t(id); x.line=n; el.value=String(n).replace('.',','); saveTrack(); pushCloud(); } }
 function delPick(id){ const x=t(id); x.deleted=true; saveTrack(); pushCloud(); render(); }
 function restorePick(id){ const x=t(id); x.deleted=false; saveTrack(); pushCloud(); render(); }
 
@@ -441,11 +446,12 @@ function render(){
     const cardCls=isSp?'spread':isU?'under':'', pickCls=isSp?'spread':isU?'under':'over';
     const x=track[d.id]||{result:'pending',odds:'',close:''};
     const odd=parseFloat(x.odds)||1.83;  // cuota fija por defecto 1.83
+    const line = x.line!=null ? x.line : (isU?71.5:77.5);  // línea editable (def. 77,5 over / 71,5 under)
     let pl='';
     if(x.result==='win'||x.result==='loss'){ const e=x.result==='win'?STAKE*(odd-1):-STAKE; pl=`<span class="pl ${e>=0?'pos':'neg'}">${e>=0?'+':'−'}€${Math.abs(e).toFixed(2)}</span>`; }
     const pickBlock = isSp
       ? `<div class="pick spread"><span class="big" style="font-size:16px">${d.pick||'—'}</span></div>`
-      : `<div class="pick ${pickCls}"><span class="big">${isU?'UNDER 71,5':'OVER 77,5'}</span></div>`;
+      : `<div class="pick ${pickCls}"><span class="big">${isU?'UNDER':'OVER'} <input class="lineinp" type="text" inputmode="decimal" value="${fmtN(line)}" onchange="setLine('${d.id}',this)" title="Editar la línea"></span></div>`;
     const metricsBlock = isSp
       ? `<div class="metrics">
            <div class="m"><div class="k">Hándicap</div><div class="v" style="color:${col}">${d.spread!=null?fmtN(d.spread):'—'}</div></div>
