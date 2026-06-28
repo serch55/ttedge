@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T02:31:33.603Z",
+  "generated": "2026-06-28T03:01:43.316Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 349,
-  "todayCount": 4,
+  "totalCount": 351,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-06-28_over_jakub-nowak_vs_grzegorz-sawicki",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-06-28_over_jakub-vales_vs_erik-mares",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Vales",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-28_over_marcin-jadczyk_vs_petr-david",
       "date": "2026-06-28",
       "type": "over",
@@ -79,8 +100,29 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 85,
+      "score": 88,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_damian-wederlich_vs_grzegorz-felkel",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Damian Wederlich",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 7,
       "trend": "rising",
       "tags": [
         "Fatigue",
