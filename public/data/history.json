@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-28T08:01:41.771Z",
+  "generated": "2026-06-28T08:31:31.845Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 354,
-  "todayCount": 2,
+  "totalCount": 356,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-28_over_martin-sobisek_vs_daniel-tuma",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sobisek",
+      "away": "Daniel Tuma",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_richard-skacelik_vs_adrian-walek",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Adrian Walek",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_michael-sedlacek_vs_michal-cabis",
       "date": "2026-06-28",
