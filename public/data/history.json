@@ -1,10 +1,50 @@
 {
-  "generated": "2026-06-28T09:31:36.898Z",
+  "generated": "2026-06-28T10:01:44.308Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 358,
-  "todayCount": 7,
+  "totalCount": 360,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-06-28_over_michael-sedlacek_vs_jan-dzida",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Jan Dzida",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 97,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_jakub-simecek_vs_richard-skacelik",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Simecek",
+      "away": "Richard Skacelik",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 81,
+      "h2h": 6,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-28_over_ondrej-paril_vs_michael-sedlacek",
       "date": "2026-06-28",
