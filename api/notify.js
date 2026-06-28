@@ -50,7 +50,7 @@ function matchNaive(dateStr, timeStr){
 const lgShort = l => l==='TT Elite Series' ? 'TT Elite' : l==='Czech Liga Pro' ? 'Liga Pro' : l;
 function betLine(m){
   if (m.type === 'spread') { const h=(m.spread!=null)?String(m.spread).replace('.',','):''; return `SPREAD · ${m.pick||''} ${h}`.trim(); }
-  const linea = m.type === 'under' ? 'UNDER 71,5' : 'OVER 77,5';
+  const linea = m.type === 'under' ? 'UNDER' : 'OVER';
   const extra = (m.pct!=null) ? ` (${m.pct}%${m.l5!=null?` · L5 ${m.l5}%`:''})` : '';
   return linea + extra;
 }
