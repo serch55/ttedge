@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T22:31:36.509Z",
+  "generated": "2026-06-28T23:01:50.173Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 384,
-  "todayCount": 5,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-06-29_over_filip-mlynarski_vs_szymon-sporek",
@@ -21,6 +21,27 @@
       "score": 85,
       "h2h": 6,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_jakub-glanowski_vs_jakub-zochniak",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -63,27 +84,6 @@
       "score": 89,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-29_over_jakub-glanowski_vs_jakub-zochniak",
-      "date": "2026-06-29",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Glanowski",
-      "away": "Jakub Zochniak",
-      "league": "TT Elite Series",
-      "time": "00:10",
-      "timeRaw": "6:10 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 81,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
