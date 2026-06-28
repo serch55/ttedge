@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T09:01:50.358Z",
+  "generated": "2026-06-28T09:31:36.898Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-28",
-  "totalCount": 357,
-  "todayCount": 6,
+  "totalCount": 358,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-06-28_over_ondrej-paril_vs_michael-sedlacek",
@@ -124,6 +124,27 @@
       "sets3": 87,
       "score": 84,
       "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-28_over_jan-hrabec_vs_ivo-taichman",
+      "date": "2026-06-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Hrabec",
+      "away": "Ivo Taichman",
+      "league": "Czech Liga Pro",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 88,
+      "l5": 100,
+      "sets3": 88,
+      "score": 81,
+      "h2h": 8,
       "trend": "falling",
       "tags": [
         "Fatigue",
