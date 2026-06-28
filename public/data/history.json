@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-28T22:01:42.235Z",
+  "generated": "2026-06-28T22:31:36.509Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 382,
-  "todayCount": 4,
+  "totalCount": 384,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-29_over_filip-mlynarski_vs_szymon-sporek",
@@ -20,6 +20,48 @@
       "sets3": 83,
       "score": 85,
       "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_piotr-przewlocki_vs_sebastian-krupa",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Sebastian Krupa",
+      "league": "TT Elite Series",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_grzegorz-sawicki_vs_jakub-nowak",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Sawicki",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
