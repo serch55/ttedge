@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T07:01:41.586Z",
+  "generated": "2026-06-29T07:31:27.774Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 394,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-29_under_jakub-kaczmarek_vs_pawel-kurek",
@@ -81,7 +81,7 @@
       "pct": 83,
       "l5": 80,
       "sets3": 83,
-      "score": 92,
+      "score": 84,
       "h2h": 6,
       "trend": "rising",
       "tags": [
