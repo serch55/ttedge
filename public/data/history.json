@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T03:31:28.160Z",
+  "generated": "2026-06-29T04:01:50.353Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 389,
-  "todayCount": 5,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-29_over_jiri-koch_vs_jiri-jira",
@@ -58,10 +58,11 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 87,
+      "score": 84,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
