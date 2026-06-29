@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-29T01:31:27.484Z",
+  "generated": "2026-06-29T02:01:40.891Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 386,
-  "todayCount": 2,
+  "totalCount": 387,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-29_over_jakub-kaczmarek_vs_oskar-sokolowski",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Oskar Sokolowski",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-06-29_over_grzegorz-poliniewicz_vs_maciej-nowalinski",
       "date": "2026-06-29",
