@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T18:31:32.647Z",
+  "generated": "2026-06-29T19:01:44.377Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 414,
-  "todayCount": 6,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-29_over_jakub-kycelt_vs_erik-mares",
@@ -39,10 +39,11 @@
       "pct": 90,
       "l5": 100,
       "sets3": 90,
-      "score": 96,
+      "score": 88,
       "h2h": 10,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
