@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-29T17:31:38.246Z",
+  "generated": "2026-06-29T18:01:56.673Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 410,
-  "todayCount": 2,
+  "totalCount": 412,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-29_over_jan-mecl-jr_vs_martin-huk",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Mecl Jr",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_roman-hudeczek_vs_michal-chalupa",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Roman Hudeczek",
+      "away": "Michal Chalupa",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_marek-holub_vs_roman-hudeczek",
       "date": "2026-06-29",
