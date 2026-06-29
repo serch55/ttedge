@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-29T18:01:56.673Z",
+  "generated": "2026-06-29T18:31:32.647Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 412,
-  "todayCount": 4,
+  "totalCount": 414,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-29_over_jakub-kycelt_vs_erik-mares",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kycelt",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 88,
+      "score": 81,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_samuel-byrtus_vs_david-heczko",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Samuel Byrtus",
+      "away": "David Heczko",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 90,
+      "score": 96,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_jan-mecl-jr_vs_martin-huk",
       "date": "2026-06-29",
