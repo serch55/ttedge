@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T02:01:40.891Z",
+  "generated": "2026-06-29T02:31:34.846Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 387,
-  "todayCount": 3,
+  "totalCount": 388,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-29_over_jakub-kaczmarek_vs_oskar-sokolowski",
@@ -62,6 +62,27 @@
       "h2h": 9,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_mariusz-baron_vs_krzysztof-schaniel",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "06:20",
+      "timeRaw": "12:20 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
