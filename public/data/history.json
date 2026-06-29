@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-29T20:31:38.204Z",
+  "generated": "2026-06-29T21:01:52.179Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 415,
+  "totalCount": 416,
   "todayCount": 3,
   "matches": [
     {
@@ -608,6 +608,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_ales-bayer_vs_martin-sopko",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Martin Sopko",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 88,
+      "score": 97,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
