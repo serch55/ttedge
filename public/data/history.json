@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T14:01:51.873Z",
+  "generated": "2026-06-29T14:31:41.357Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 404,
-  "todayCount": 5,
+  "totalCount": 405,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-06-29_over_zbigniew-nocun_vs_andriej-fomin",
@@ -21,6 +21,27 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_kuba-golaszewski_vs_piotr-strus",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kuba Golaszewski",
+      "away": "Piotr Strus",
+      "league": "TT Elite Series",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
