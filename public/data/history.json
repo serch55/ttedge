@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-29T12:01:51.825Z",
+  "generated": "2026-06-29T12:31:49.001Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 400,
-  "todayCount": 2,
+  "totalCount": 401,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-29_over_jakub-kaczmarek_vs_oskar-sokolowski",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Oskar Sokolowski",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_over_martin-huk_vs_michal-zahradka",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 93,
+      "score": 83,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_karol-sulkowski_vs_michal-minda",
       "date": "2026-06-29",
@@ -274,26 +316,6 @@
       "trend": "falling",
       "tags": [
         "Volatile"
-      ]
-    },
-    {
-      "id": "2026-06-29_over_jakub-kaczmarek_vs_oskar-sokolowski",
-      "date": "2026-06-29",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Kaczmarek",
-      "away": "Oskar Sokolowski",
-      "league": "TT Elite Series",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 96,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
       ]
     },
     {
