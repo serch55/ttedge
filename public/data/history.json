@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T04:31:32.595Z",
+  "generated": "2026-06-29T05:01:44.617Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 390,
-  "todayCount": 5,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-06-29_over_pavel-wawrosz_vs_radomir-revay",
@@ -58,7 +58,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 96,
       "h2h": 4,
       "trend": "falling",
       "tags": [
