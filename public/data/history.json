@@ -1,10 +1,50 @@
 {
-  "generated": "2026-06-28T23:31:35.546Z",
+  "generated": "2026-06-29T00:01:53.484Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 384,
-  "todayCount": 4,
+  "totalCount": 386,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-29_over_grzegorz-poliniewicz_vs_maciej-nowalinski",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-29_under_jakub-kaczmarek_vs_pawel-kurek",
+      "date": "2026-06-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Pawel Kurek",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 22,
+      "score": 81,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_filip-mlynarski_vs_szymon-sporek",
       "date": "2026-06-29",
