@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-29T14:31:41.357Z",
+  "generated": "2026-06-29T15:01:46.382Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 405,
+  "totalCount": 406,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-29_under_krystian-kolodziej_vs_jakub-zochniak",
+      "date": "2026-06-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 13,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_zbigniew-nocun_vs_andriej-fomin",
       "date": "2026-06-29",
@@ -39,11 +60,10 @@
       "pct": 93,
       "l5": 100,
       "sets3": 100,
-      "score": 92,
+      "score": 96,
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -60,7 +80,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
