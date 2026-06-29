@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T10:31:36.735Z",
+  "generated": "2026-06-29T11:01:51.336Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
   "totalCount": 400,
-  "todayCount": 5,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-06-29_over_karol-sulkowski_vs_michal-minda",
@@ -102,7 +102,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 89,
+      "score": 82,
       "h2h": 10,
       "trend": "falling",
       "tags": [
