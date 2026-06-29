@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-29T12:31:49.001Z",
+  "generated": "2026-06-29T13:01:51.931Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 401,
+  "totalCount": 402,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-29_over_henryk-tkaczyk_vs_michal-krutak",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Michal Krutak",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_jakub-kaczmarek_vs_oskar-sokolowski",
       "date": "2026-06-29",
