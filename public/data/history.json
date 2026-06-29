@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-29T16:01:44.305Z",
+  "generated": "2026-06-29T16:31:29.339Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 407,
-  "todayCount": 4,
+  "totalCount": 408,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-29_over_piotr-strus_vs_jacek-przewlocki",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Strus",
+      "away": "Jacek Przewlocki",
+      "league": "TT Elite Series",
+      "time": "20:10",
+      "timeRaw": "2:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_over_krystian-kolodziej_vs_maciej-domin",
       "date": "2026-06-29",
