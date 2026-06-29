@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T22:01:52.726Z",
+  "generated": "2026-06-29T22:31:31.427Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 423,
-  "todayCount": 6,
+  "totalCount": 424,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-06-30_over_petr-sebera_vs_karel-brozhik",
@@ -67,6 +67,27 @@
       ]
     },
     {
+      "id": "2026-06-30_over_maciej-domin_vs_michal-olbrycht",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Domin",
+      "away": "Michal Olbrycht",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 88,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-30_over_henryk-tkaczyk_vs_michal-krutak",
       "date": "2026-06-30",
       "type": "over",
@@ -100,7 +121,7 @@
       "pct": 87,
       "l5": 100,
       "sets3": 100,
-      "score": 93,
+      "score": 86,
       "h2h": 15,
       "trend": "falling",
       "tags": [
