@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-29T23:01:49.036Z",
+  "generated": "2026-06-29T23:31:38.431Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 424,
-  "todayCount": 6,
+  "totalCount": 425,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-30_over_adrian-wiecek_vs_marcin-jadczyk",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "05:45",
+      "timeRaw": "11:45 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_petr-sebera_vs_karel-brozhik",
       "date": "2026-06-30",
@@ -59,10 +80,11 @@
       "pct": 88,
       "l5": 80,
       "sets3": 88,
-      "score": 97,
+      "score": 89,
       "h2h": 8,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -76,8 +98,8 @@
       "league": "TT Elite Series",
       "time": "03:00",
       "timeRaw": "9:00 PM",
-      "pct": 87,
-      "l5": 100,
+      "pct": 80,
+      "l5": 80,
       "sets3": 100,
       "score": 82,
       "h2h": 15,
