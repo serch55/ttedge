@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-29T08:01:44.847Z",
+  "generated": "2026-06-29T08:31:28.790Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-29",
-  "totalCount": 394,
+  "totalCount": 395,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-29_over_artur-sobel_vs_kamil-rudomina",
+      "date": "2026-06-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Sobel",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "12:10",
+      "timeRaw": "6:10 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-29_under_jakub-kaczmarek_vs_pawel-kurek",
       "date": "2026-06-29",
