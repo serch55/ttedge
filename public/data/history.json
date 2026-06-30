@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-30T01:31:34.406Z",
+  "generated": "2026-06-30T02:01:39.982Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 427,
+  "totalCount": 428,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-30_over_marcin-jadczyk_vs_petr-david",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Petr David",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_rafal-gajda_vs_oliver-vincenec",
       "date": "2026-06-30",
