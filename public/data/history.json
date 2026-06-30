@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-30T15:31:38.487Z",
+  "generated": "2026-06-30T16:01:55.234Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 447,
-  "todayCount": 2,
+  "totalCount": 448,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-30_over_dawid-pyrek_vs_pawel-chojnacki",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Pyrek",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "19:55",
+      "timeRaw": "1:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_rafal-gajda_vs_kacper-adamus",
       "date": "2026-06-30",
