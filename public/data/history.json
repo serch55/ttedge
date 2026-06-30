@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T11:01:56.726Z",
+  "generated": "2026-06-30T11:31:34.089Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
   "totalCount": 441,
-  "todayCount": 6,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-30_over_karol-strowski_vs_krystian-kolodziej",
@@ -60,7 +60,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 88,
+      "score": 84,
       "h2h": 5,
       "trend": "falling",
       "tags": [
@@ -81,7 +81,7 @@
       "pct": 86,
       "l5": 80,
       "sets3": 100,
-      "score": 100,
+      "score": 96,
       "h2h": 7,
       "trend": "falling",
       "tags": [
