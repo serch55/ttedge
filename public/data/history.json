@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-30T14:31:30.155Z",
+  "generated": "2026-06-30T15:01:54.803Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 446,
-  "todayCount": 4,
+  "totalCount": 447,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-30_over_rafal-gajda_vs_kacper-adamus",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "18:20",
+      "timeRaw": "12:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_ivo-taichman_vs_jan-hrabec",
       "date": "2026-06-30",
@@ -18,10 +39,11 @@
       "pct": 78,
       "l5": 80,
       "sets3": 78,
-      "score": 88,
+      "score": 81,
       "h2h": 9,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
