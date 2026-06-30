@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-30T22:31:39.109Z",
+  "generated": "2026-06-30T23:01:44.402Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 463,
+  "totalCount": 464,
   "todayCount": 5,
   "matches": [
     {
@@ -23,6 +23,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_yurij-fomin_vs_michal-paszkiewicz",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yurij Fomin",
+      "away": "Michal Paszkiewicz",
+      "league": "TT Elite Series",
+      "time": "05:10",
+      "timeRaw": "11:10 PM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
@@ -78,10 +98,10 @@
       "league": "TT Elite Series",
       "time": "02:10",
       "timeRaw": "8:10 PM",
-      "pct": 80,
+      "pct": 87,
       "l5": 100,
       "sets3": 93,
-      "score": 82,
+      "score": 80,
       "h2h": 15,
       "trend": "falling",
       "tags": [
