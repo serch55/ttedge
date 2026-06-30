@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T00:01:43.594Z",
+  "generated": "2026-06-30T00:31:31.993Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 425,
-  "todayCount": 5,
+  "totalCount": 426,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-06-30_over_adrian-wiecek_vs_marcin-jadczyk",
@@ -68,6 +68,27 @@
       ]
     },
     {
+      "id": "2026-06-30_over_piotr-gumulinski_vs_grzegorz-marud",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Grzegorz Marud",
+      "league": "TT Elite Series",
+      "time": "03:50",
+      "timeRaw": "9:50 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-30_over_ales-bayer_vs_martin-sopko",
       "date": "2026-06-30",
       "type": "over",
@@ -80,7 +101,7 @@
       "pct": 88,
       "l5": 80,
       "sets3": 88,
-      "score": 89,
+      "score": 82,
       "h2h": 8,
       "trend": "falling",
       "tags": [
