@@ -1,10 +1,28 @@
 {
-  "generated": "2026-06-30T09:31:36.281Z",
+  "generated": "2026-06-30T10:01:49.719Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 436,
-  "todayCount": 2,
+  "totalCount": 437,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-06-30_over_petr-serak_vs_jiri-stary",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr Serak",
+      "away": "Jiri Stary",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": []
+    },
     {
       "id": "2026-06-30_over_karol-sulkowski_vs_michal-minda",
       "date": "2026-06-30",
