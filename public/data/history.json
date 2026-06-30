@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T03:01:42.634Z",
+  "generated": "2026-06-30T03:31:30.720Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 429,
-  "todayCount": 4,
+  "totalCount": 430,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-06-30_over_marcin-jadczyk_vs_petr-david",
@@ -84,6 +84,27 @@
       "score": 84,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_martin-sopko_vs_ales-bayer",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sopko",
+      "away": "Ales Bayer",
+      "league": "Czech Liga Pro",
+      "time": "05:30",
+      "timeRaw": "11:30 PM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 89,
+      "score": 82,
+      "h2h": 9,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
