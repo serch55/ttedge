@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T22:01:44.643Z",
+  "generated": "2026-06-30T22:31:39.109Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 461,
-  "todayCount": 4,
+  "totalCount": 463,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -27,21 +27,21 @@
       ]
     },
     {
-      "id": "2026-07-01_over_jaroslaw-rolak_vs_krzysztof-kotyl",
+      "id": "2026-07-01_over_pawel-adamus_vs_krzysztof-schaniel",
       "date": "2026-07-01",
       "type": "over",
       "conf": "ultra",
-      "home": "Jaroslaw Rolak",
-      "away": "Krzysztof Kotyl",
+      "home": "Pawel Adamus",
+      "away": "Krzysztof Schaniel",
       "league": "TT Elite Series",
-      "time": "23:45",
-      "timeRaw": "5:45 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 86,
-      "h2h": 15,
-      "trend": "falling",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -62,6 +62,48 @@
       "sets3": 100,
       "score": 85,
       "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_jaroslaw-rolak_vs_krzysztof-kotyl",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_dawid-pyrek_vs_pawel-chojnacki",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Pyrek",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
