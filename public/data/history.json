@@ -1,10 +1,73 @@
 {
-  "generated": "2026-06-30T21:31:36.597Z",
+  "generated": "2026-06-30T22:01:44.643Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-06-30",
-  "totalCount": 458,
-  "todayCount": 6,
+  "lastDay": "2026-07-01",
+  "totalCount": 461,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Kazimierz Rybak",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 81,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_jaroslaw-rolak_vs_krzysztof-kotyl",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_michal-olbrycht_vs_maciej-domin",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Olbrycht",
+      "away": "Maciej Domin",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_pawel-chojnacki_vs_kazimierz-rybak",
       "date": "2026-06-30",
