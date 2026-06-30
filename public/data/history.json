@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-30T09:01:46.548Z",
+  "generated": "2026-06-30T09:31:36.281Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 435,
+  "totalCount": 436,
   "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-30_over_karol-sulkowski_vs_michal-minda",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_maciej-nowalinski_vs_jakub-kuzmicz",
       "date": "2026-06-30",
