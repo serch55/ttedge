@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-30T17:31:46.445Z",
+  "generated": "2026-06-30T18:01:46.361Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 452,
-  "todayCount": 5,
+  "totalCount": 454,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-06-30_over_samuel-byrtus_vs_david-heczko",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Samuel Byrtus",
+      "away": "David Heczko",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 91,
+      "l5": 100,
+      "sets3": 91,
+      "score": 86,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_pavel-fojt_vs_tomas-dousa",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_karol-strowski_vs_krzysztof-wloczko",
       "date": "2026-06-30",
