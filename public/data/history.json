@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T21:01:50.190Z",
+  "generated": "2026-06-30T21:31:36.597Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 457,
-  "todayCount": 4,
+  "totalCount": 458,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-06-30_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -55,17 +55,37 @@
       "home": "Samuel Byrtus",
       "away": "David Heczko",
       "league": "Czech Liga Pro",
-      "time": "22:30",
-      "timeRaw": "4:30 PM",
-      "pct": 91,
-      "l5": 100,
-      "sets3": 91,
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 92,
       "score": 86,
-      "h2h": 11,
+      "h2h": 12,
       "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_lukas-kern_vs_michal-chalupa",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Kern",
+      "away": "Michal Chalupa",
+      "league": "Czech Liga Pro",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -782,9 +802,9 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 80,
-      "h2h": 5,
-      "trend": "falling",
+      "score": 85,
+      "h2h": 6,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
