@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T13:31:26.707Z",
+  "generated": "2026-06-30T14:01:40.111Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 443,
-  "todayCount": 4,
+  "totalCount": 444,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-06-30_under_jan-hrabec_vs_filip-zurek",
@@ -40,6 +40,27 @@
       "h2h": 4,
       "trend": "",
       "tags": []
+    },
+    {
+      "id": "2026-06-30_over_jiri-ruzicka_vs_martin-huk",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
     },
     {
       "id": "2026-06-30_over_karol-strowski_vs_krystian-kolodziej",
