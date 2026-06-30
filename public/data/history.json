@@ -1,10 +1,48 @@
 {
-  "generated": "2026-06-30T06:31:34.630Z",
+  "generated": "2026-06-30T07:01:52.743Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 432,
+  "totalCount": 434,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-30_over_oliwier-sokolowski_vs_igor-szymanski",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oliwier Sokolowski",
+      "away": "Igor Szymanski",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 96,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_ivan-kolenciak_vs_josef-toth",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ivan Kolenciak",
+      "away": "Josef Toth",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 91,
+      "h2h": 6,
+      "trend": "",
+      "tags": []
+    },
     {
       "id": "2026-06-30_over_kacper-adamus_vs_rafal-gajda",
       "date": "2026-06-30",
