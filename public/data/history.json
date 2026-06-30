@@ -1,10 +1,31 @@
 {
-  "generated": "2026-06-30T07:31:37.230Z",
+  "generated": "2026-06-30T08:01:50.246Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 434,
-  "todayCount": 1,
+  "totalCount": 435,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-06-30_over_maciej-nowalinski_vs_jakub-kuzmicz",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "11:45",
+      "timeRaw": "5:45 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_oliwier-sokolowski_vs_igor-szymanski",
       "date": "2026-06-30",
