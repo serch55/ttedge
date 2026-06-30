@@ -1,10 +1,94 @@
 {
-  "generated": "2026-06-30T17:01:50.241Z",
+  "generated": "2026-06-30T17:31:46.445Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 448,
-  "todayCount": 1,
+  "totalCount": 452,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-06-30_over_karol-strowski_vs_krzysztof-wloczko",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_erik-mares_vs_zdenek-bilek",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Zdenek Bilek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_david-heczko_vs_adrian-walek",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "David Heczko",
+      "away": "Adrian Walek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 90,
+      "score": 82,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_lukas-kern_vs_zbynek-pagac",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Kern",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_dawid-pyrek_vs_pawel-chojnacki",
       "date": "2026-06-30",
