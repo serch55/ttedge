@@ -1,10 +1,52 @@
 {
-  "generated": "2026-06-30T10:31:37.313Z",
+  "generated": "2026-06-30T11:01:56.726Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 439,
-  "todayCount": 4,
+  "totalCount": 441,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-06-30_over_karol-strowski_vs_krystian-kolodziej",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_oliwier-sokolowski_vs_pawel-adamus",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oliwier Sokolowski",
+      "away": "Pawel Adamus",
+      "league": "TT Elite Series",
+      "time": "15:05",
+      "timeRaw": "9:05 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_jiri-koch_vs_jiri-jira",
       "date": "2026-06-30",
@@ -18,10 +60,11 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 91,
+      "score": 88,
       "h2h": 5,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -41,7 +84,9 @@
       "score": 100,
       "h2h": 7,
       "trend": "falling",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-06-30_over_kamil-rudomina_vs_michal-minda",
