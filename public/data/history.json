@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-30T23:01:44.402Z",
+  "generated": "2026-06-30T23:31:32.550Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 464,
+  "totalCount": 465,
   "todayCount": 5,
   "matches": [
     {
@@ -24,6 +24,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_pawel-adamus_vs_piotr-przewlocki",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Adamus",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
