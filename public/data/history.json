@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-30T10:01:49.719Z",
+  "generated": "2026-06-30T10:31:37.313Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 437,
-  "todayCount": 3,
+  "totalCount": 439,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-30_over_jiri-koch_vs_jiri-jira",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Koch",
+      "away": "Jiri Jira",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 91,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_over_petr-serak_vs_jiri-stary",
       "date": "2026-06-30",
@@ -24,6 +44,27 @@
       "tags": []
     },
     {
+      "id": "2026-06-30_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-06-30_over_karol-sulkowski_vs_michal-minda",
       "date": "2026-06-30",
       "type": "over",
@@ -31,8 +72,8 @@
       "home": "Karol Sulkowski",
       "away": "Michal Minda",
       "league": "TT Elite Series",
-      "time": "12:35",
-      "timeRaw": "6:35 AM",
+      "time": "12:45",
+      "timeRaw": "6:45 AM",
       "pct": 87,
       "l5": 80,
       "sets3": 100,
