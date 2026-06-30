@@ -1,10 +1,51 @@
 {
-  "generated": "2026-06-30T14:01:40.111Z",
+  "generated": "2026-06-30T14:31:30.155Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-06-30",
-  "totalCount": 444,
-  "todayCount": 3,
+  "totalCount": 446,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-06-30_over_ivo-taichman_vs_jan-hrabec",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ivo Taichman",
+      "away": "Jan Hrabec",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 78,
+      "score": 88,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-06-30_over_arkadiusz-mugowski_vs_bartlomiej-wisniewski",
+      "date": "2026-06-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Arkadiusz Mugowski",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-06-30_under_jan-hrabec_vs_filip-zurek",
       "date": "2026-06-30",
