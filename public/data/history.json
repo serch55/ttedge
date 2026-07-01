@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T20:01:55.225Z",
+  "generated": "2026-07-01T20:31:37.628Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 497,
-  "todayCount": 6,
+  "totalCount": 498,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -733,6 +733,27 @@
       ]
     },
     {
+      "id": "2026-07-01_over_mateusz-rutkowski_vs_lukasz-pietraszko",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 82,
+      "score": 82,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-01_over_jaroslaw-rolak_vs_krzysztof-kotyl",
       "date": "2026-07-01",
       "type": "over",
@@ -748,6 +769,27 @@
       "score": 80,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_martin-huk_vs_tomas-franek",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Tomas Franek",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 10,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -790,27 +832,6 @@
       "score": 87,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-01_over_mateusz-rutkowski_vs_lukasz-pietraszko",
-      "date": "2026-07-01",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mateusz Rutkowski",
-      "away": "Lukasz Pietraszko",
-      "league": "TT Elite Series",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 82,
-      "l5": 80,
-      "sets3": 82,
-      "score": 86,
-      "h2h": 11,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
