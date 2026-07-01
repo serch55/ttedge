@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T05:01:34.363Z",
+  "generated": "2026-07-01T05:31:23.202Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 467,
-  "todayCount": 1,
+  "totalCount": 468,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -23,6 +23,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_dalimil-machander_vs_richard-skacelik",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dalimil Machander",
+      "away": "Richard Skacelik",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 100,
+      "score": 95,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
