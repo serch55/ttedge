@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T06:01:40.596Z",
+  "generated": "2026-07-01T06:31:31.019Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 468,
-  "todayCount": 2,
+  "totalCount": 471,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -27,6 +27,47 @@
       ]
     },
     {
+      "id": "2026-07-01_spread_pavel-varecha_vs_antonin-schneeberger",
+      "date": "2026-07-01",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Pavel Varecha",
+      "away": "Antonin Schneeberger",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "l5": 8.2,
+      "score": 86,
+      "pick": "Pavel Varecha",
+      "spread": -8.3,
+      "h2h": 6,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_kacper-adamus_vs_rafal-skotniczny",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Rafal Skotniczny",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-01_over_dalimil-machander_vs_richard-skacelik",
       "date": "2026-07-01",
       "type": "over",
@@ -43,6 +84,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_yurij-fomin_vs_marian-lebek",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Yurij Fomin",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "09:10",
+      "timeRaw": "3:10 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
