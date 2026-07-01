@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T16:02:03.116Z",
+  "generated": "2026-07-01T16:31:59.408Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
   "totalCount": 488,
-  "todayCount": 5,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -59,7 +59,7 @@
       "pct": 93,
       "l5": 100,
       "sets3": 93,
-      "score": 84,
+      "score": 80,
       "h2h": 15,
       "trend": "falling",
       "tags": [
