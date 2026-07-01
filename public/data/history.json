@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T12:01:48.527Z",
+  "generated": "2026-07-01T12:31:30.425Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 482,
-  "todayCount": 5,
+  "totalCount": 483,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -65,6 +65,27 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_kamil-rudomina_vs_adam-linek",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
