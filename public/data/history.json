@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-01T15:31:50.214Z",
+  "generated": "2026-07-01T16:02:03.116Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 487,
+  "totalCount": 488,
   "todayCount": 5,
   "matches": [
     {
@@ -23,6 +23,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_spread_krystian-kolodziej_vs_lukasz-pietraszko",
+      "date": "2026-07-01",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "20:05",
+      "timeRaw": "2:05 PM",
+      "l5": 11.8,
+      "score": 80,
+      "pick": "Krystian Kolodziej",
+      "spread": -11.4,
+      "h2h": 8,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
