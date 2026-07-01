@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T18:31:47.824Z",
+  "generated": "2026-07-01T19:01:50.939Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 495,
-  "todayCount": 6,
+  "totalCount": 496,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -81,7 +81,7 @@
       "pct": 83,
       "l5": 100,
       "sets3": 83,
-      "score": 95,
+      "score": 87,
       "h2h": 6,
       "trend": "rising",
       "tags": [
@@ -769,6 +769,27 @@
       "score": 80,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_mateusz-rutkowski_vs_lukasz-pietraszko",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "00:05",
+      "timeRaw": "6:05 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 82,
+      "score": 86,
+      "h2h": 11,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
