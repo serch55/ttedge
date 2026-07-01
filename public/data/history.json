@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T04:31:32.407Z",
+  "generated": "2026-07-01T05:01:34.363Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 466,
-  "todayCount": 2,
+  "totalCount": 467,
+  "todayCount": 1,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -21,6 +21,27 @@
       "score": 81,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_kacper-adamus_vs_rafal-gajda",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Rafal Gajda",
+      "league": "TT Elite Series",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
