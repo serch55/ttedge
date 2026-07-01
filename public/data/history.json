@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-01T17:01:46.910Z",
+  "generated": "2026-07-01T17:31:36.596Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 491,
+  "totalCount": 492,
   "todayCount": 6,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 81,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_jakub-kuzmicz_vs_krystian-kolodziej",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
