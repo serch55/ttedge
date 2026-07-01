@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T09:01:53.249Z",
+  "generated": "2026-07-01T09:31:43.394Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 474,
-  "todayCount": 3,
+  "totalCount": 477,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -21,6 +21,69 @@
       "score": 81,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_adam-linek_vs_michal-minda",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_oliwier-sokolowski_vs_piotr-przewlocki",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oliwier Sokolowski",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "12:10",
+      "timeRaw": "6:10 AM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 8,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
