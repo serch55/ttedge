@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-01T18:01:55.385Z",
+  "generated": "2026-07-01T18:31:47.824Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 494,
+  "totalCount": 495,
   "todayCount": 6,
   "matches": [
     {
@@ -62,6 +62,27 @@
       "sets3": 73,
       "score": 88,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_slawomir-janus_vs_jakub-skorupa",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Slawomir Janus",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "21:55",
+      "timeRaw": "3:55 PM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 83,
+      "score": 95,
+      "h2h": 6,
       "trend": "rising",
       "tags": [
         "Fatigue",
