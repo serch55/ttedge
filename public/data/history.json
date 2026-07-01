@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-01T17:31:36.596Z",
+  "generated": "2026-07-01T18:01:55.385Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 492,
+  "totalCount": 494,
   "todayCount": 6,
   "matches": [
     {
@@ -21,6 +21,48 @@
       "score": 81,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_radomir-revay_vs_radovan-polasek",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radomir Revay",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 95,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_tadeas-zika_vs_michal-cabis",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Michal Cabis",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
