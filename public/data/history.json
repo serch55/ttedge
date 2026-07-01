@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-01T20:31:37.628Z",
+  "generated": "2026-07-01T21:01:53.534Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-01",
-  "totalCount": 498,
-  "todayCount": 5,
+  "totalCount": 500,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
@@ -712,6 +712,68 @@
       ]
     },
     {
+      "id": "2026-07-01_over_jiri-ruzicka_vs_martin-huk",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_krzysztof-kapik_vs_mateusz-rutkowski",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-01_over_tomas-franek_vs_ondrej-svacha",
+      "date": "2026-07-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Franek",
+      "away": "Ondrej Svacha",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-01_over_michal-olbrycht_vs_maciej-domin",
       "date": "2026-07-01",
       "type": "over",
@@ -809,27 +871,6 @@
       "l5": 80,
       "sets3": 87,
       "score": 80,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-01_over_krzysztof-kapik_vs_mateusz-rutkowski",
-      "date": "2026-07-01",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Krzysztof Kapik",
-      "away": "Mateusz Rutkowski",
-      "league": "TT Elite Series",
-      "time": "00:50",
-      "timeRaw": "6:50 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 87,
       "h2h": 15,
       "trend": "rising",
       "tags": [
