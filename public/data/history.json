@@ -1,10 +1,114 @@
 {
-  "generated": "2026-07-01T21:31:45.890Z",
+  "generated": "2026-07-01T22:01:57.081Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-01",
-  "totalCount": 500,
+  "lastDay": "2026-07-02",
+  "totalCount": 505,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-02_over_jiri-ruzicka_vs_martin-huk",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_krzysztof-kapik_vs_mateusz-rutkowski",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_tomas-franek_vs_ondrej-svacha",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Franek",
+      "away": "Ondrej Svacha",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_mateusz-rutkowski_vs_lukasz-pietraszko",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 82,
+      "score": 82,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_martin-huk_vs_tomas-franek",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Tomas Franek",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-01_over_pawel-chojnacki_vs_kazimierz-rybak",
       "date": "2026-07-01",
