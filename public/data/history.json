@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T04:01:44.310Z",
+  "generated": "2026-07-02T04:31:26.757Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 513,
-  "todayCount": 5,
+  "totalCount": 514,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-02_over_adrian-walek_vs_david-heczko",
@@ -44,6 +44,27 @@
       "trend": "",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_bartosz-sulkowski_vs_adam-linek",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
@@ -116,7 +137,7 @@
       "time": "06:55",
       "timeRaw": "12:55 AM",
       "l5": 15.8,
-      "score": 93,
+      "score": 85,
       "pick": "Jakub Kosowski",
       "spread": -15.8,
       "h2h": 4,
