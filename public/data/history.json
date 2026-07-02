@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-02T12:01:51.450Z",
+  "generated": "2026-07-02T12:31:44.464Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 527,
-  "todayCount": 5,
+  "totalCount": 528,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-02_over_piotr-przewlocki_vs_maksymilian-rus",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 99,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-02_over_michal-jezek_vs_jan-kanera",
       "date": "2026-07-02",
