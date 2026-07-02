@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-02T14:02:05.622Z",
+  "generated": "2026-07-02T14:31:40.756Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 530,
-  "todayCount": 4,
+  "totalCount": 533,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-02_over_ludek-madle_vs_michal-syroha",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ludek Madle",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 91,
+      "score": 92,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_under_michal-jezek_vs_jakub-kycelt",
+      "date": "2026-07-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Jezek",
+      "away": "Jakub Kycelt",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 25,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_piotr-przewlocki_vs_waldemar-glanowski",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Waldemar Glanowski",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 86,
+      "score": 82,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_over_michal-krutak_vs_henryk-tkaczyk",
       "date": "2026-07-02",
