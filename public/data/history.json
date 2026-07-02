@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T19:01:54.830Z",
+  "generated": "2026-07-02T19:31:30.793Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
   "totalCount": 544,
-  "todayCount": 10,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-02_over_michal-krutak_vs_henryk-tkaczyk",
@@ -204,10 +204,11 @@
       "pct": 83,
       "l5": 80,
       "sets3": 83,
-      "score": 93,
+      "score": 82,
       "h2h": 6,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
