@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-02T11:31:40.010Z",
+  "generated": "2026-07-02T12:01:51.450Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 526,
+  "totalCount": 527,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-02_over_michal-jezek_vs_jan-kanera",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Jezek",
+      "away": "Jan Kanera",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 96,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_over_jakub-kuzmicz_vs_grzegorz-poliniewicz",
       "date": "2026-07-02",
