@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T10:31:35.751Z",
+  "generated": "2026-07-02T11:01:40.174Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
   "totalCount": 526,
-  "todayCount": 6,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-02_over_jakub-kuzmicz_vs_grzegorz-poliniewicz",
@@ -60,12 +60,32 @@
       "pct": 87,
       "l5": 80,
       "sets3": 87,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_mariusz-adamus_vs_oskar-sokolowski",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Oskar Sokolowski",
+      "league": "TT Elite Series",
+      "time": "13:55",
+      "timeRaw": "7:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 99,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -87,6 +107,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_piotr-przewlocki_vs_grzegorz-jurowicz",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -213,26 +253,6 @@
       ]
     },
     {
-      "id": "2026-07-02_over_piotr-przewlocki_vs_grzegorz-jurowicz",
-      "date": "2026-07-02",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Piotr Przewlocki",
-      "away": "Grzegorz Jurowicz",
-      "league": "TT Elite Series",
-      "time": "09:10",
-      "timeRaw": "3:10 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 93,
-      "h2h": 4,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
-    },
-    {
       "id": "2026-07-02_over_samuel-byrtus_vs_adrian-walek",
       "date": "2026-07-02",
       "type": "over",
@@ -313,24 +333,6 @@
         "Fatigue",
         "Volatile"
       ]
-    },
-    {
-      "id": "2026-07-02_over_mariusz-adamus_vs_oskar-sokolowski",
-      "date": "2026-07-02",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mariusz Adamus",
-      "away": "Oskar Sokolowski",
-      "league": "TT Elite Series",
-      "time": "07:55",
-      "timeRaw": "1:55 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 100,
-      "h2h": 8,
-      "trend": "falling",
-      "tags": []
     },
     {
       "id": "2026-07-02_over_bartosz-sulkowski_vs_krzysztof-kotyl",
