@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T16:01:56.657Z",
+  "generated": "2026-07-02T16:31:45.560Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 534,
-  "todayCount": 3,
+  "totalCount": 535,
+  "todayCount": 1,
   "matches": [
     {
       "id": "2026-07-02_over_michal-krutak_vs_pawel-chojnacki",
@@ -21,6 +21,27 @@
       "score": 83,
       "h2h": 11,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_krzysztof-juszczyk_vs_pawel-adamus",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Juszczyk",
+      "away": "Pawel Adamus",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "pct": 89,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 9,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
