@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-02T22:31:44.236Z",
+  "generated": "2026-07-02T23:01:52.302Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 550,
+  "totalCount": 551,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-03_over_stanislaw-wnek_vs_kuba-golaszewski",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_david-mutl_vs_jaromir-cernik",
       "date": "2026-07-03",
@@ -18,10 +39,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 99,
+      "score": 96,
       "h2h": 5,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
