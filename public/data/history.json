@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-02T17:01:52.636Z",
+  "generated": "2026-07-02T17:31:44.287Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 535,
-  "todayCount": 1,
+  "totalCount": 537,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-02_under_krystian-kolodziej_vs_maciej-kolek",
+      "date": "2026-07-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 20,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-02_over_tomas-dousa_vs_lukas-krok",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Dousa",
+      "away": "Lukas Krok",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 93,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_over_michal-krutak_vs_pawel-chojnacki",
       "date": "2026-07-02",
