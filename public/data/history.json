@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-02T23:01:52.302Z",
+  "generated": "2026-07-02T23:31:48.779Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
   "totalCount": 551,
-  "todayCount": 3,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-03_over_patryk-jendrzejewski_vs_dawid-jadam",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Dawid Jadam",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_stanislaw-wnek_vs_kuba-golaszewski",
       "date": "2026-07-03",
@@ -39,7 +60,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 96,
+      "score": 88,
       "h2h": 5,
       "trend": "falling",
       "tags": [
@@ -63,27 +84,6 @@
       "score": 89,
       "h2h": 5,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-03_over_patryk-jendrzejewski_vs_dawid-jadam",
-      "date": "2026-07-03",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Patryk Jendrzejewski",
-      "away": "Dawid Jadam",
-      "league": "TT Elite Series",
-      "time": "00:30",
-      "timeRaw": "6:30 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 100,
-      "score": 81,
-      "h2h": 10,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
