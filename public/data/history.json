@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-02T21:31:39.478Z",
+  "generated": "2026-07-02T22:01:47.535Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-02",
-  "totalCount": 547,
-  "todayCount": 4,
+  "lastDay": "2026-07-03",
+  "totalCount": 550,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-03_over_david-mutl_vs_jaromir-cernik",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Jaromir Cernik",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 99,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_stanislaw-wnek_vs_adrian-eliasz",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Adrian Eliasz",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_patryk-jendrzejewski_vs_dawid-jadam",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Dawid Jadam",
+      "league": "TT Elite Series",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 81,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_under_jacek-zelezik_vs_dariusz-molenda",
       "date": "2026-07-02",
