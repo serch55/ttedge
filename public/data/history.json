@@ -1,10 +1,28 @@
 {
-  "generated": "2026-07-02T00:31:31.476Z",
+  "generated": "2026-07-02T01:01:36.778Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 509,
+  "totalCount": 510,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-02_over_mariusz-adamus_vs_oskar-sokolowski",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Oskar Sokolowski",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 8,
+      "trend": "falling",
+      "tags": []
+    },
     {
       "id": "2026-07-02_under_karol-wisniewski_vs_jakub-kosowski",
       "date": "2026-07-02",
