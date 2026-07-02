@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-02T12:31:44.464Z",
+  "generated": "2026-07-02T13:01:48.332Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 528,
-  "todayCount": 3,
+  "totalCount": 529,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-02_over_stanislaw-wnek_vs_kuba-golaszewski",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_over_piotr-przewlocki_vs_maksymilian-rus",
       "date": "2026-07-02",
