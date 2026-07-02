@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-01T23:31:43.472Z",
+  "generated": "2026-07-02T00:01:39.816Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 507,
-  "todayCount": 6,
+  "totalCount": 509,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-02_under_karol-wisniewski_vs_jakub-kosowski",
+      "date": "2026-07-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Jakub Kosowski",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": null,
+      "score": 100,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-02_spread_karol-wisniewski_vs_jakub-kosowski",
+      "date": "2026-07-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Jakub Kosowski",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "l5": 15.8,
+      "score": 93,
+      "pick": "Jakub Kosowski",
+      "spread": -15.8,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-02_over_bartosz-sulkowski_vs_krzysztof-kotyl",
       "date": "2026-07-02",

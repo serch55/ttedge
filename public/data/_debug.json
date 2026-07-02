@@ -1,13 +1,13 @@
 {
-  "when": "2026-07-01T23:31:43.474Z",
-  "overFound": 9,
-  "underFound": 0,
-  "spreadFound": 0,
+  "when": "2026-07-02T00:01:39.818Z",
+  "overFound": 8,
+  "underFound": 1,
+  "spreadFound": 1,
   "diag": {
     "url": "https://ttedge.ai/edge-finder",
-    "textoLen": 3554,
+    "textoLen": 4114,
     "hayPredicciones": true,
-    "estrellas": 75,
+    "estrellas": 84,
     "pareceLogin": false,
     "botonesFiltro": [],
     "snippet": " MenuDashboardMatchupsEdge FinderParlaysPlayersHead to HeadMy PicksKnowledge BaseTagsLeaguesTT CupCzech Liga ProSetka CupTT Elite SeriesProPlanEdge FinderAdvanced prediction analyticsPredictionsJul 1, 2026Last synced 6 days agoSync ScheduleSync H2H (next 2hr)T"
