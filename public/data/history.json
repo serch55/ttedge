@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-02T13:01:48.332Z",
+  "generated": "2026-07-02T13:31:43.705Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 529,
+  "totalCount": 530,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-02_over_michal-krutak_vs_henryk-tkaczyk",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_over_stanislaw-wnek_vs_kuba-golaszewski",
       "date": "2026-07-02",
