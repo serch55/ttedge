@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T03:01:51.391Z",
+  "generated": "2026-07-02T03:31:31.257Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 512,
-  "todayCount": 6,
+  "totalCount": 513,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-02_over_adrian-walek_vs_david-heczko",
@@ -65,6 +65,27 @@
       "tags": []
     },
     {
+      "id": "2026-07-02_over_bartosz-sulkowski_vs_krzysztof-kotyl",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 82,
+      "l5": 100,
+      "sets3": 91,
+      "score": 82,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-02_under_karol-wisniewski_vs_jakub-kosowski",
       "date": "2026-07-02",
       "type": "under",
@@ -105,24 +126,23 @@
       ]
     },
     {
-      "id": "2026-07-02_over_bartosz-sulkowski_vs_krzysztof-kotyl",
+      "id": "2026-07-02_under_damian-wederlich_vs_jakub-kosowski",
       "date": "2026-07-02",
-      "type": "over",
+      "type": "under",
       "conf": "ultra",
-      "home": "Bartosz Sulkowski",
-      "away": "Krzysztof Kotyl",
+      "home": "Damian Wederlich",
+      "away": "Jakub Kosowski",
       "league": "TT Elite Series",
-      "time": "05:00",
-      "timeRaw": "11:00 PM",
-      "pct": 82,
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 100,
       "l5": 100,
-      "sets3": 91,
-      "score": 82,
-      "h2h": 11,
-      "trend": "falling",
+      "sets3": null,
+      "score": 91,
+      "h2h": 4,
+      "trend": "",
       "tags": [
-        "Fatigue",
-        "Volatile"
+        "Fatigue"
       ]
     },
     {
