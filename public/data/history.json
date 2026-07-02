@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-02T09:01:57.145Z",
+  "generated": "2026-07-02T09:31:44.536Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-02",
-  "totalCount": 522,
+  "totalCount": 523,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-02_over_jakub-kuzmicz_vs_maciej-nowalinski",
+      "date": "2026-07-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "13:45",
+      "timeRaw": "7:45 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 93,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-02_over_petr-saleny_vs_jiri-zuzanek",
       "date": "2026-07-02",
