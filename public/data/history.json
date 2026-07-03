@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-03T08:01:53.962Z",
+  "generated": "2026-07-03T08:31:47.970Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 560,
-  "todayCount": 3,
+  "totalCount": 561,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-03_over_lukas-zeman_vs_jakub-vales",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Zeman",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 93,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_pavel-wawrosz_vs_matyas-navedla",
       "date": "2026-07-03",
