@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-03T08:31:47.970Z",
+  "generated": "2026-07-03T09:02:00.675Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 561,
-  "todayCount": 4,
+  "totalCount": 564,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-03_over_karol-strowski_vs_grzegorz-adamiak",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Grzegorz Adamiak",
+      "league": "TT Elite Series",
+      "time": "13:45",
+      "timeRaw": "7:45 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_matyas-navedla_vs_tomas-dousek",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Matyas Navedla",
+      "away": "Tomas Dousek",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 83,
+      "score": 87,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_ondrej-paril_vs_michael-sedlacek",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Paril",
+      "away": "Michael Sedlacek",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 94,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_lukas-zeman_vs_jakub-vales",
       "date": "2026-07-03",
