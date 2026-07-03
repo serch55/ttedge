@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03T04:01:47.046Z",
+  "generated": "2026-07-03T04:31:35.614Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 555,
+  "totalCount": 556,
   "todayCount": 4,
   "matches": [
     {
@@ -22,6 +22,27 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_gracjan-kesik_vs_krzysztof-kotyl",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Gracjan Kesik",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -47,6 +68,27 @@
       ]
     },
     {
+      "id": "2026-07-03_over_dominik-solilo_vs_michal-minda",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dominik Solilo",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-03_over_gracjan-kesik_vs_adam-linek",
       "date": "2026-07-03",
       "type": "over",
@@ -61,27 +103,6 @@
       "sets3": 92,
       "score": 81,
       "h2h": 12,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-03_over_gracjan-kesik_vs_krzysztof-kotyl",
-      "date": "2026-07-03",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Gracjan Kesik",
-      "away": "Krzysztof Kotyl",
-      "league": "TT Elite Series",
-      "time": "05:50",
-      "timeRaw": "11:50 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
