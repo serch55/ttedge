@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-03T06:31:42.070Z",
+  "generated": "2026-07-03T07:01:50.363Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 557,
-  "todayCount": 2,
+  "totalCount": 558,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-03_over_karol-strowski_vs_krzysztof-wloczko",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_adrian-walek_vs_dalimil-machander",
       "date": "2026-07-03",
