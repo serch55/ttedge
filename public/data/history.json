@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-03T09:31:43.851Z",
+  "generated": "2026-07-03T10:01:53.651Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 564,
-  "todayCount": 6,
+  "totalCount": 565,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-03_over_tadeas-zika_vs_matyas-navedla",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Matyas Navedla",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_karol-strowski_vs_grzegorz-adamiak",
       "date": "2026-07-03",
