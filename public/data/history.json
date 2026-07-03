@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-03T10:32:13.969Z",
+  "generated": "2026-07-03T11:01:48.774Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
   "totalCount": 566,
-  "todayCount": 7,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-03_over_tadeas-zika_vs_matyas-navedla",
@@ -80,10 +80,11 @@
       "pct": 93,
       "l5": 80,
       "sets3": 93,
-      "score": 94,
+      "score": 87,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
