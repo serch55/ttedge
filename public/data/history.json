@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-03T13:01:50.724Z",
+  "generated": "2026-07-03T13:31:35.025Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 568,
-  "todayCount": 2,
+  "totalCount": 570,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-03_over_richard-skacelik_vs_daniel-unzeitig",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Daniel Unzeitig",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 90,
+      "score": 88,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_daniel-tuma_vs_martin-sobisek",
       "date": "2026-07-03",
@@ -43,6 +63,48 @@
       "h2h": 14,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_lukas-zeman_vs_jakub-vales",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukas Zeman",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_michael-sedlacek_vs_ondrej-paril",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Ondrej Paril",
+      "league": "Czech Liga Pro",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -124,27 +186,6 @@
       "score": 83,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-03_over_lukas-zeman_vs_jakub-vales",
-      "date": "2026-07-03",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Lukas Zeman",
-      "away": "Jakub Vales",
-      "league": "Czech Liga Pro",
-      "time": "13:00",
-      "timeRaw": "7:00 AM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 93,
-      "score": 81,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
