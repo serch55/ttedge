@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03T19:31:26.673Z",
+  "generated": "2026-07-03T20:01:45.574Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 585,
+  "totalCount": 587,
   "todayCount": 8,
   "matches": [
     {
@@ -729,6 +729,26 @@
       ]
     },
     {
+      "id": "2026-07-03_under_jan-zajicek_vs_lukas-zeman",
+      "date": "2026-07-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Lukas Zeman",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 20,
+      "score": 100,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
       "id": "2026-07-03_over_david-mutl_vs_jaromir-cernik",
       "date": "2026-07-03",
       "type": "over",
@@ -764,6 +784,27 @@
       "sets3": 100,
       "score": 89,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_dawid-jadam_vs_patryk-jendrzejewski",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Jadam",
+      "away": "Patryk Jendrzejewski",
+      "league": "TT Elite Series",
+      "time": "01:15",
+      "timeRaw": "7:15 PM",
+      "pct": 85,
+      "l5": 100,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 13,
       "trend": "rising",
       "tags": [
         "Fatigue",
