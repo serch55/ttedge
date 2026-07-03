@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-03T07:31:40.774Z",
+  "generated": "2026-07-03T08:01:53.962Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 558,
-  "todayCount": 1,
+  "totalCount": 560,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-03_over_pavel-wawrosz_vs_matyas-navedla",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Wawrosz",
+      "away": "Matyas Navedla",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 77,
+      "l5": 80,
+      "sets3": 85,
+      "score": 88,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_jakub-vales_vs_erik-mares",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Vales",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_karol-strowski_vs_krzysztof-wloczko",
       "date": "2026-07-03",
