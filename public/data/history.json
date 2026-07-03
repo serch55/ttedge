@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-03T05:01:46.636Z",
+  "generated": "2026-07-03T05:31:42.558Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 556,
-  "todayCount": 2,
+  "totalCount": 557,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-03_over_adrian-walek_vs_dalimil-machander",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "Dalimil Machander",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_dominik-solilo_vs_michal-minda",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dominik Solilo",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "09:15",
+      "timeRaw": "3:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_gracjan-kesik_vs_adam-linek",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Gracjan Kesik",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 92,
+      "score": 82,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_rafal-glica_vs_jacek-wieczerzak",
       "date": "2026-07-03",
@@ -62,48 +125,6 @@
       "score": 82,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-03_over_dominik-solilo_vs_michal-minda",
-      "date": "2026-07-03",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dominik Solilo",
-      "away": "Michal Minda",
-      "league": "TT Elite Series",
-      "time": "06:50",
-      "timeRaw": "12:50 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 80,
-      "score": 85,
-      "h2h": 5,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-03_over_gracjan-kesik_vs_adam-linek",
-      "date": "2026-07-03",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Gracjan Kesik",
-      "away": "Adam Linek",
-      "league": "TT Elite Series",
-      "time": "06:30",
-      "timeRaw": "12:30 AM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 92,
-      "score": 81,
-      "h2h": 12,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
