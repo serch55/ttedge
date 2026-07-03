@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-03T18:31:39.077Z",
+  "generated": "2026-07-03T19:01:37.496Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 583,
-  "todayCount": 9,
+  "totalCount": 585,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-03_over_marcin-wozniczka_vs_michal-krutak",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Wozniczka",
+      "away": "Michal Krutak",
+      "league": "TT Elite Series",
+      "time": "23:35",
+      "timeRaw": "5:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_oskar-sokolowski_vs_mariusz-baron",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oskar Sokolowski",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 86,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_cezary-pawlik_vs_michal-krutak",
       "date": "2026-07-03",
