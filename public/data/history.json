@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-03T18:01:49.571Z",
+  "generated": "2026-07-03T18:31:39.077Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 582,
+  "totalCount": 583,
   "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-03_over_cezary-pawlik_vs_michal-krutak",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Michal Krutak",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 90,
+      "score": 89,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_martin-huk_vs_jiri-ruzicka",
       "date": "2026-07-03",
