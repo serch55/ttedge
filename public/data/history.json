@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03T21:01:38.579Z",
+  "generated": "2026-07-03T21:31:27.754Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 588,
+  "totalCount": 589,
   "todayCount": 8,
   "matches": [
     {
@@ -765,6 +765,26 @@
       "score": 100,
       "h2h": 5,
       "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-03_spread_jan-zajicek_vs_lukas-zeman",
+      "date": "2026-07-03",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Lukas Zeman",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "l5": 7.6,
+      "score": 81,
+      "pick": "Jan Zajicek",
+      "spread": -7.6,
+      "h2h": 5,
+      "trend": "",
       "tags": [
         "Fatigue"
       ]
