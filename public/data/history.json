@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-03T22:31:30.112Z",
+  "generated": "2026-07-03T23:01:36.201Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 596,
-  "todayCount": 6,
+  "totalCount": 597,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -21,6 +21,27 @@
       "score": 82,
       "h2h": 5,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_dariusz-wrobel_vs_mateusz-trela",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -60,7 +81,7 @@
       "pct": 86,
       "l5": 100,
       "sets3": 86,
-      "score": 85,
+      "score": 82,
       "h2h": 7,
       "trend": "falling",
       "tags": [
