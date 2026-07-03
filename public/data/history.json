@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-03T14:31:43.116Z",
+  "generated": "2026-07-03T15:01:43.729Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 570,
-  "todayCount": 1,
+  "totalCount": 572,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-03_over_dawid-jadam_vs_alan-wos",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Jadam",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 89,
+      "score": 85,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-03_over_jaroslav-neuwirth-snr_vs_richard-skacelik",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslav Neuwirth Snr",
+      "away": "Richard Skacelik",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 96,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-03_over_richard-skacelik_vs_daniel-unzeitig",
       "date": "2026-07-03",
