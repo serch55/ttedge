@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-03T03:31:36.643Z",
+  "generated": "2026-07-03T04:01:47.046Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-03",
-  "totalCount": 554,
-  "todayCount": 3,
+  "totalCount": 555,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-03_over_rafal-glica_vs_jacek-wieczerzak",
@@ -26,6 +26,27 @@
       ]
     },
     {
+      "id": "2026-07-03_over_krzysztof-kotyl_vs_karol-sulkowski",
+      "date": "2026-07-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Karol Sulkowski",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-03_over_gracjan-kesik_vs_adam-linek",
       "date": "2026-07-03",
       "type": "over",
@@ -38,7 +59,7 @@
       "pct": 83,
       "l5": 80,
       "sets3": 92,
-      "score": 89,
+      "score": 81,
       "h2h": 12,
       "trend": "rising",
       "tags": [
@@ -59,7 +80,7 @@
       "pct": 87,
       "l5": 80,
       "sets3": 100,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
