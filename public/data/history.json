@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T14:01:47.741Z",
+  "generated": "2026-07-04T14:31:43.908Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 617,
-  "todayCount": 2,
+  "totalCount": 620,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -23,6 +23,66 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_dariusz-maszczynski_vs_adam-staniczek",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_jerzy-michalik_vs_jakub-skorupa",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jerzy Michalik",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_matej-levicky_vs_daniel-tyn",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Matej Levicky",
+      "away": "Daniel Tyn",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 95,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
@@ -56,11 +116,11 @@
       "league": "Czech Liga Pro",
       "time": "17:00",
       "timeRaw": "11:00 AM",
-      "pct": 85,
+      "pct": 86,
       "l5": 80,
-      "sets3": 85,
-      "score": 83,
-      "h2h": 13,
+      "sets3": 86,
+      "score": 85,
+      "h2h": 14,
       "trend": "rising",
       "tags": [
         "Fatigue",
