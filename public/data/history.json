@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T07:31:47.729Z",
+  "generated": "2026-07-04T08:01:58.625Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 610,
-  "todayCount": 1,
+  "totalCount": 612,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -20,6 +20,47 @@
       "sets3": 80,
       "score": 82,
       "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_martin-sopko_vs_ales-bayer",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sopko",
+      "away": "Ales Bayer",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 90,
+      "l5": 80,
+      "sets3": 90,
+      "score": 96,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_dominik-oborny_vs_jakub-levicky",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dominik Oborny",
+      "away": "Jakub Levicky",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
