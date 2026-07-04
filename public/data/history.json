@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T06:01:51.411Z",
+  "generated": "2026-07-04T06:31:53.013Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 609,
-  "todayCount": 5,
+  "totalCount": 610,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -99,6 +99,26 @@
       "sets3": 75,
       "score": 85,
       "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_rafal-wojcik_vs_oskar-jadach",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Wojcik",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "08:20",
+      "timeRaw": "2:20 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 92,
+      "score": 95,
+      "h2h": 12,
       "trend": "rising",
       "tags": [
         "Volatile"
