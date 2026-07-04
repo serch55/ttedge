@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T16:31:47.662Z",
+  "generated": "2026-07-04T17:01:59.257Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 622,
+  "totalCount": 624,
   "todayCount": 3,
   "matches": [
     {
@@ -27,6 +27,48 @@
       ]
     },
     {
+      "id": "2026-07-04_over_jakub-simecek_vs_stepan-kysely",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Simecek",
+      "away": "Stepan Kysely",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 82,
+      "score": 86,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_tadeas-zika_vs_martin-biolek",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Martin Biolek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-04_over_tomasz-filbrandt_vs_michal-malachowski",
       "date": "2026-07-04",
       "type": "over",
@@ -39,7 +81,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 89,
+      "score": 82,
       "h2h": 5,
       "trend": "falling",
       "tags": [
