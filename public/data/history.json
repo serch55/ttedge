@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T00:01:47.918Z",
+  "generated": "2026-07-04T00:31:30.690Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 601,
-  "todayCount": 10,
+  "totalCount": 602,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -105,6 +105,27 @@
       "score": 85,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_damian-fira_vs_jakub-nowak",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
