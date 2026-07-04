@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T15:02:01.259Z",
+  "generated": "2026-07-04T15:31:47.827Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 620,
+  "totalCount": 621,
   "todayCount": 5,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 82,
       "h2h": 5,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_cezary-pawlik_vs_jacek-oracz",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "18:25",
+      "timeRaw": "12:25 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -79,10 +100,11 @@
       "pct": 83,
       "l5": 80,
       "sets3": 100,
-      "score": 95,
+      "score": 80,
       "h2h": 6,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
