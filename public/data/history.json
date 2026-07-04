@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T12:31:45.181Z",
+  "generated": "2026-07-04T13:01:52.861Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 615,
-  "todayCount": 0,
+  "totalCount": 616,
+  "todayCount": 1,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -21,6 +21,27 @@
       "score": 82,
       "h2h": 5,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_david-szotek_vs_jakub-pilch",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "David Szotek",
+      "away": "Jakub Pilch",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 85,
+      "score": 83,
+      "h2h": 13,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
