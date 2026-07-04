@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T17:31:43.596Z",
+  "generated": "2026-07-04T18:01:58.081Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 626,
-  "todayCount": 5,
+  "totalCount": 628,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -23,6 +23,47 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_ivo-taichman_vs_libor-jemelka",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ivo Taichman",
+      "away": "Libor Jemelka",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 86,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_mihail-trinta_vs_tibor-kolenic",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Tibor Kolenic",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 100,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
@@ -60,11 +101,10 @@
       "pct": 80,
       "l5": 60,
       "sets3": 80,
-      "score": 81,
+      "score": 84,
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
