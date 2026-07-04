@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T18:01:58.081Z",
+  "generated": "2026-07-04T18:31:45.860Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 628,
-  "todayCount": 6,
+  "totalCount": 629,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -19,6 +19,27 @@
       "l5": 80,
       "sets3": 80,
       "score": 82,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_michal-malachowski_vs_tomasz-filbrandt",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Malachowski",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 86,
       "h2h": 5,
       "trend": "falling",
       "tags": [
