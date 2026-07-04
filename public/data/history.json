@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T10:01:51.821Z",
+  "generated": "2026-07-04T10:31:41.971Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 614,
-  "todayCount": 4,
+  "totalCount": 615,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -20,6 +20,27 @@
       "sets3": 80,
       "score": 82,
       "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_sebastian-baran_vs_jakub-glanowski",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Baran",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "13:20",
+      "timeRaw": "7:20 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
