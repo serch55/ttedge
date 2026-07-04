@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T02:31:27.085Z",
+  "generated": "2026-07-04T03:01:36.087Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
-  "totalCount": 604,
-  "todayCount": 7,
+  "totalCount": 606,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -60,6 +60,27 @@
       "l5": 100,
       "sets3": 93,
       "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_damian-fira_vs_adam-ruszkiewicz",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "07:05",
+      "timeRaw": "1:05 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -125,6 +146,27 @@
       "spread": -8.8,
       "h2h": 5,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-04_over_wojciech-iwasyszyn_vs_mateusz-trela",
+      "date": "2026-07-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Iwasyszyn",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
