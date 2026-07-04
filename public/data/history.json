@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-04T16:02:00.031Z",
+  "generated": "2026-07-04T16:31:47.662Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-04",
   "totalCount": 622,
-  "todayCount": 6,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-04_over_marcin-wozniczka_vs_michal-krutak",
@@ -60,7 +60,7 @@
       "pct": 93,
       "l5": 80,
       "sets3": 93,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
