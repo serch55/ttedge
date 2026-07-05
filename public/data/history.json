@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-05T19:01:57.322Z",
+  "generated": "2026-07-05T19:31:42.002Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 665,
+  "totalCount": 668,
   "todayCount": 6,
   "matches": [
     {
@@ -19,11 +19,31 @@
       "l5": 100,
       "sets3": 100,
       "score": 89,
-      "h2h": 4,
+      "h2h": 5,
       "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-05_over_krzysztof-niemiec_vs_mateusz-woskowicz",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Niemiec",
+      "away": "Mateusz Woskowicz",
+      "league": "TT Elite Series",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -39,10 +59,11 @@
       "pct": 93,
       "l5": 80,
       "sets3": 100,
-      "score": 100,
+      "score": 91,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -80,10 +101,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 96,
+      "score": 89,
       "h2h": 5,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -620,6 +642,47 @@
       "sets3": 93,
       "score": 87,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-05_over_maciej-kolek_vs_lukasz-pietraszko",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-05_over_michal-krutak_vs_mateusz-karpiuk",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Mateusz Karpiuk",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 6,
       "trend": "rising",
       "tags": [
         "Fatigue",
