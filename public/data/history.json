@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-05T03:31:35.204Z",
+  "generated": "2026-07-05T04:01:49.975Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 643,
+  "totalCount": 644,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-05_over_jan-kanera_vs_michal-zahradka",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Kanera",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 93,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_marian-lebek_vs_marek-tkocz",
       "date": "2026-07-05",
