@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-05T00:31:49.602Z",
+  "generated": "2026-07-05T01:01:50.263Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 638,
-  "todayCount": 4,
+  "totalCount": 640,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-05_over_patryk-jedrzejak_vs_wojciech-tobiasz",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jedrzejak",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-05_spread_patryk-jedrzejak_vs_wojciech-tobiasz",
+      "date": "2026-07-05",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Patryk Jedrzejak",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "l5": 8.8,
+      "score": 98,
+      "pick": "Patryk Jedrzejak",
+      "spread": -8.8,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-05_spread_grzegorz-felkel_vs_maciej-nowalinski",
       "date": "2026-07-05",
