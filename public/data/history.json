@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-05T07:01:44.442Z",
+  "generated": "2026-07-05T07:31:43.295Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 647,
+  "totalCount": 649,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-05_over_michal-chalupa_vs_zbynek-pagac",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Chalupa",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 88,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-05_over_ondrej-svacha_vs_oleksandr-kolisnyk",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Svacha",
+      "away": "Oleksandr Kolisnyk",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_jan-kanera_vs_ales-barton",
       "date": "2026-07-05",
@@ -18,10 +59,11 @@
       "pct": 80,
       "l5": 100,
       "sets3": 93,
-      "score": 99,
+      "score": 84,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
