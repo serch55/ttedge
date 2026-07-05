@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-05T01:31:41.273Z",
+  "generated": "2026-07-05T02:01:48.304Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 640,
-  "todayCount": 5,
+  "totalCount": 641,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-05_over_marcin-jadczyk_vs_maciej-nowalinski",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_patryk-jedrzejak_vs_wojciech-tobiasz",
       "date": "2026-07-05",
