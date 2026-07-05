@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-05T18:31:57.992Z",
+  "generated": "2026-07-05T19:01:57.322Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 664,
-  "todayCount": 5,
+  "totalCount": 665,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-05_over_jacek-zelezik_vs_michal-krutak",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Michal Krutak",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_radek-bartunek_vs_tomas-andrle",
       "date": "2026-07-05",
@@ -62,26 +83,6 @@
       "score": 96,
       "h2h": 5,
       "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-05_over_petr-sebera_vs_martin-sychra",
-      "date": "2026-07-05",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Petr Sebera",
-      "away": "Martin Sychra",
-      "league": "Czech Liga Pro",
-      "time": "22:00",
-      "timeRaw": "4:00 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Volatile"
       ]
@@ -622,6 +623,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-05_over_petr-sebera_vs_martin-sychra",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Martin Sychra",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
