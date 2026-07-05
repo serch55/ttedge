@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-05T16:02:04.583Z",
+  "generated": "2026-07-05T16:31:45.915Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
   "totalCount": 659,
-  "todayCount": 5,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-05_over_dominik-oborny_vs_jakub-levicky",
@@ -58,7 +58,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 87,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
