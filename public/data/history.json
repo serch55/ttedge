@@ -1,10 +1,176 @@
 {
-  "generated": "2026-07-05T21:31:50.323Z",
+  "generated": "2026-07-05T22:01:57.394Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-05",
-  "totalCount": 670,
-  "todayCount": 7,
+  "lastDay": "2026-07-06",
+  "totalCount": 678,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Michal Krutak",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 89,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_martin-sychra_vs_karel-brozhik",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Karel Brozhik",
+      "league": "Czech Liga Pro",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_maciej-kolek_vs_lukasz-pietraszko",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_tomasz-filbrandt_vs_maciej-kolek",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 88,
+      "score": 80,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_krzysztof-niemiec_vs_mateusz-woskowicz",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Niemiec",
+      "away": "Mateusz Woskowicz",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_grzegorz-marud_vs_piotr-gumulinski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Piotr Gumulinski",
+      "league": "TT Elite Series",
+      "time": "00:40",
+      "timeRaw": "6:40 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_michal-krutak_vs_mateusz-karpiuk",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Mateusz Karpiuk",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_mateusz-woskowicz_vs_igor-dabrowski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Woskowicz",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 88,
+      "score": 80,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_jacek-zelezik_vs_michal-krutak",
       "date": "2026-07-05",
