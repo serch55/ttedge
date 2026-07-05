@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-05T06:02:00.160Z",
+  "generated": "2026-07-05T06:31:42.040Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 645,
-  "todayCount": 4,
+  "totalCount": 647,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-05_over_jan-kanera_vs_ales-barton",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Kanera",
+      "away": "Ales Barton",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 99,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-05_under_jakub-plachta_vs_radim-urbaniec",
+      "date": "2026-07-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Plachta",
+      "away": "Radim Urbaniec",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 20,
+      "score": 82,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_jan-kanera_vs_michal-zahradka",
       "date": "2026-07-05",
