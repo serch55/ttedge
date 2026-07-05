@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-05T10:01:59.413Z",
+  "generated": "2026-07-05T10:31:41.079Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-05",
-  "totalCount": 652,
-  "todayCount": 6,
+  "totalCount": 653,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-05_over_oskar-jadach_vs_wojciech-tobiasz",
+      "date": "2026-07-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-05_over_patryk-jedrzejak_vs_oliver-vincenec",
       "date": "2026-07-05",
