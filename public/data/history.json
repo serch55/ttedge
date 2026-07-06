@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T01:31:48.488Z",
+  "generated": "2026-07-06T02:01:51.717Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 679,
+  "totalCount": 680,
   "todayCount": 2,
   "matches": [
     {
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_under_kazimierz-rybak_vs_slawomir-janus",
+      "date": "2026-07-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kazimierz Rybak",
+      "away": "Slawomir Janus",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 25,
+      "score": 82,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
