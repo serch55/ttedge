@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T04:31:45.774Z",
+  "generated": "2026-07-06T05:01:59.217Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 685,
+  "totalCount": 686,
   "todayCount": 6,
   "matches": [
     {
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 89,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_radovan-polasek_vs_radomir-revay",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -81,10 +102,11 @@
       "pct": 88,
       "l5": 80,
       "sets3": 88,
-      "score": 95,
+      "score": 88,
       "h2h": 8,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
