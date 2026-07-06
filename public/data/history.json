@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T17:02:13.601Z",
+  "generated": "2026-07-06T17:32:00.886Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 709,
-  "todayCount": 6,
+  "totalCount": 710,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 89,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_grzegorz-marud_vs_jakub-pruszkowski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
