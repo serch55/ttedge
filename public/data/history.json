@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T15:31:57.333Z",
+  "generated": "2026-07-06T16:02:04.699Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 706,
+  "totalCount": 707,
   "todayCount": 7,
   "matches": [
     {
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_adrian-walek_vs_david-heczko",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "David Heczko",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 92,
+      "score": 97,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
