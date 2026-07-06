@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T16:31:47.960Z",
+  "generated": "2026-07-06T17:02:13.601Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 708,
-  "todayCount": 8,
+  "totalCount": 709,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_david-heczko_vs_samuel-byrtus",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "David Heczko",
+      "away": "Samuel Byrtus",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 98,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
@@ -122,7 +142,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 98,
+      "score": 95,
       "h2h": 4,
       "trend": "falling",
       "tags": [
