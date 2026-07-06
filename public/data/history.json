@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T04:02:02.096Z",
+  "generated": "2026-07-06T04:31:45.774Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 683,
-  "todayCount": 4,
+  "totalCount": 685,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -62,6 +62,68 @@
       "sets3": 92,
       "score": 88,
       "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_artur-gromek_vs_karol-wisniewski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Gromek",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 88,
+      "score": 95,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_witold-stechly_vs_jerzy-michalik",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_grzegorz-marud_vs_piotr-gumulinski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Piotr Gumulinski",
+      "league": "TT Elite Series",
+      "time": "06:40",
+      "timeRaw": "12:40 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -210,27 +272,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-07-06_over_grzegorz-marud_vs_piotr-gumulinski",
-      "date": "2026-07-06",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Grzegorz Marud",
-      "away": "Piotr Gumulinski",
-      "league": "TT Elite Series",
-      "time": "00:40",
-      "timeRaw": "6:40 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 87,
-      "score": 87,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ]
     },
     {
