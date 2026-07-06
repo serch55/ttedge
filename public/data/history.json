@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T06:02:01.456Z",
+  "generated": "2026-07-06T06:31:50.078Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 687,
-  "todayCount": 6,
+  "totalCount": 688,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -107,6 +107,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_aleksander-lilien_vs_artur-gromek",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Artur Gromek",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 96,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
