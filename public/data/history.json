@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T14:32:01.214Z",
+  "generated": "2026-07-06T15:02:03.531Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
   "totalCount": 701,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -81,11 +81,10 @@
       "pct": 80,
       "l5": 80,
       "sets3": 93,
-      "score": 91,
+      "score": 94,
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
