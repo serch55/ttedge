@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T07:02:01.311Z",
+  "generated": "2026-07-06T07:31:54.839Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
   "totalCount": 690,
-  "todayCount": 8,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 89,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_radovan-polasek_vs_radomir-revay",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 83,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -62,9 +83,7 @@
       "score": 100,
       "h2h": 4,
       "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
+      "tags": []
     },
     {
       "id": "2026-07-06_over_rafal-niemiec_vs_oliwier-sokolowski",
@@ -87,27 +106,6 @@
       ]
     },
     {
-      "id": "2026-07-06_over_radovan-polasek_vs_radomir-revay",
-      "date": "2026-07-06",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Radovan Polasek",
-      "away": "Radomir Revay",
-      "league": "Czech Liga Pro",
-      "time": "10:00",
-      "timeRaw": "4:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 87,
-      "score": 88,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-07-06_over_ludek-madle_vs_michal-syroha",
       "date": "2026-07-06",
       "type": "over",
@@ -120,7 +118,7 @@
       "pct": 83,
       "l5": 80,
       "sets3": 92,
-      "score": 88,
+      "score": 80,
       "h2h": 12,
       "trend": "rising",
       "tags": [
