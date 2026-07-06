@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T14:02:16.540Z",
+  "generated": "2026-07-06T14:32:01.214Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 700,
-  "todayCount": 5,
+  "totalCount": 701,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -21,6 +21,27 @@
       "score": 89,
       "h2h": 5,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_jakub-kuzmicz_vs_karol-strowski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 73,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
