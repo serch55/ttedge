@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T15:02:03.531Z",
+  "generated": "2026-07-06T15:31:57.333Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 701,
-  "todayCount": 4,
+  "totalCount": 706,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -23,6 +23,103 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_jakub-cyndera_vs_artur-kubiak",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Cyndera",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "19:35",
+      "timeRaw": "1:35 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_karol-strowski_vs_krystian-kolodziej",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_dariusz-maszczynski_vs_artur-kubiak",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06_spread_dariusz-maszczynski_vs_artur-kubiak",
+      "date": "2026-07-06",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "l5": 6,
+      "score": 90,
+      "pick": "Artur Kubiak",
+      "spread": -6,
+      "h2h": 4,
+      "trend": "",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06_over_piotr-strus_vs_kuba-golaszewski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Strus",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
