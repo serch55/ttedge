@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T08:02:28.752Z",
+  "generated": "2026-07-06T08:31:54.204Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 690,
-  "todayCount": 6,
+  "totalCount": 692,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -21,6 +21,27 @@
       "score": 89,
       "h2h": 5,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_krystian-kolodziej_vs_dawid-michna",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Dawid Michna",
+      "league": "TT Elite Series",
+      "time": "12:50",
+      "timeRaw": "6:50 AM",
+      "pct": 77,
+      "l5": 80,
+      "sets3": 92,
+      "score": 81,
+      "h2h": 13,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -45,6 +66,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_filip-zurek_vs_zbynek-zientek",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Filip Zurek",
+      "away": "Zbynek Zientek",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
