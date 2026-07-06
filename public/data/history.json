@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T05:01:59.217Z",
+  "generated": "2026-07-06T05:32:16.162Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 686,
+  "totalCount": 687,
   "todayCount": 6,
   "matches": [
     {
@@ -24,6 +24,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_rafal-niemiec_vs_oliwier-sokolowski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Niemiec",
+      "away": "Oliwier Sokolowski",
+      "league": "TT Elite Series",
+      "time": "10:10",
+      "timeRaw": "4:10 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 92,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -102,7 +122,7 @@
       "pct": 88,
       "l5": 80,
       "sets3": 88,
-      "score": 88,
+      "score": 80,
       "h2h": 8,
       "trend": "rising",
       "tags": [
