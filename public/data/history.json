@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T16:02:04.699Z",
+  "generated": "2026-07-06T16:31:47.960Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 707,
-  "todayCount": 7,
+  "totalCount": 708,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-07-06_over_michal-skorski_vs_bartlomiej-mrugala",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Bartlomiej Mrugala",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 75,
+      "l5": 100,
+      "sets3": 83,
+      "score": 84,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-06_over_jakub-cyndera_vs_artur-kubiak",
       "date": "2026-07-06",
       "type": "over",
@@ -59,10 +80,11 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 85,
       "h2h": 4,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -100,10 +122,12 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 98,
       "h2h": 4,
       "trend": "falling",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-06_spread_dariusz-maszczynski_vs_artur-kubiak",
@@ -116,12 +140,14 @@
       "time": "18:50",
       "timeRaw": "12:50 PM",
       "l5": 6,
-      "score": 90,
+      "score": 82,
       "pick": "Artur Kubiak",
       "spread": -6,
       "h2h": 4,
       "trend": "",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-06_over_piotr-strus_vs_kuba-golaszewski",
@@ -136,10 +162,11 @@
       "pct": 93,
       "l5": 100,
       "sets3": 100,
-      "score": 93,
+      "score": 89,
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
