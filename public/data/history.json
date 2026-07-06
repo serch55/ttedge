@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T06:31:50.078Z",
+  "generated": "2026-07-06T07:02:01.311Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 688,
-  "todayCount": 5,
+  "totalCount": 690,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -24,6 +24,46 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_jan-szotkowski_vs_tadeas-zika",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Szotkowski",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 91,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_krystian-kolodziej_vs_marcin-jadczyk",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "11:40",
+      "timeRaw": "5:40 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
