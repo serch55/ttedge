@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T12:02:35.229Z",
+  "generated": "2026-07-06T12:32:01.438Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 697,
-  "todayCount": 2,
+  "totalCount": 699,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -21,6 +21,48 @@
       "score": 89,
       "h2h": 5,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_michal-skorski_vs_kuba-golaszewski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 91,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_jakub-kuzmicz_vs_krystian-kolodziej",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
