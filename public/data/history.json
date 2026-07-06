@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T23:02:03.484Z",
+  "generated": "2026-07-06T23:31:54.881Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
   "totalCount": 721,
-  "todayCount": 5,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-07_over_jiri-ruzicka_vs_martin-huk",
@@ -62,7 +62,9 @@
       "score": 100,
       "h2h": 5,
       "trend": "rising",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-07_over_michal-skorski_vs_krzysztof-kotyl",
