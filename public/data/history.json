@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T18:31:52.089Z",
+  "generated": "2026-07-06T19:02:23.594Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 712,
-  "todayCount": 3,
+  "totalCount": 714,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 89,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_michal-skorski_vs_krzysztof-kotyl",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 89,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -865,6 +886,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_martin-huk_vs_radim-urbaniec",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Radim Urbaniec",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 93,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
