@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T09:31:58.997Z",
+  "generated": "2026-07-06T10:02:09.785Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 694,
-  "todayCount": 7,
+  "totalCount": 696,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -44,6 +44,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_jan-kanera_vs_michal-zahradka",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Kanera",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
@@ -126,9 +146,7 @@
       "score": 100,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue"
-      ]
+      "tags": []
     },
     {
       "id": "2026-07-06_over_jan-szotkowski_vs_tadeas-zika",
@@ -146,6 +164,26 @@
       "score": 91,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_jan-mecl-jr_vs_jan-kanera",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Mecl Jr",
+      "away": "Jan Kanera",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 93,
+      "score": 81,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Volatile"
       ]
