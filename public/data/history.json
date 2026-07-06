@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T11:31:55.931Z",
+  "generated": "2026-07-06T12:02:35.229Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 696,
-  "todayCount": 0,
+  "totalCount": 697,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -21,6 +21,48 @@
       "score": 89,
       "h2h": 5,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_rafal-niemiec_vs_oliwier-sokolowski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Niemiec",
+      "away": "Oliwier Sokolowski",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_krystian-kolodziej_vs_karol-strowski",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -205,26 +247,6 @@
       "h2h": 4,
       "trend": "falling",
       "tags": []
-    },
-    {
-      "id": "2026-07-06_over_rafal-niemiec_vs_oliwier-sokolowski",
-      "date": "2026-07-06",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Rafal Niemiec",
-      "away": "Oliwier Sokolowski",
-      "league": "TT Elite Series",
-      "time": "10:10",
-      "timeRaw": "4:10 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 92,
-      "h2h": 4,
-      "trend": "rising",
-      "tags": [
-        "Fatigue"
-      ]
     },
     {
       "id": "2026-07-06_over_ludek-madle_vs_michal-syroha",
