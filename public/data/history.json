@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T02:31:45.911Z",
+  "generated": "2026-07-06T03:01:55.192Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-06",
-  "totalCount": 681,
-  "todayCount": 3,
+  "totalCount": 682,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-06_over_jacek-zelezik_vs_michal-krutak",
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 89,
       "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-06_over_ladislav-havel-1956_vs_milan-chalupnicek",
+      "date": "2026-07-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Milan Chalupnicek",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 92,
+      "score": 88,
+      "h2h": 12,
       "trend": "rising",
       "tags": [
         "Fatigue",
