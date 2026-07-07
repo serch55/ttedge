@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T19:02:28.316Z",
+  "generated": "2026-07-07T19:31:45.675Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 754,
-  "todayCount": 7,
+  "totalCount": 755,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-07_over_michal-olbrycht_vs_jakub-zochniak",
@@ -785,6 +785,27 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_jakub-zochniak_vs_jakub-kuzmicz",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
