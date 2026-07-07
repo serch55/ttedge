@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-07T06:02:03.351Z",
+  "generated": "2026-07-07T06:32:00.055Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 728,
+  "totalCount": 729,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-07_over_rafal-gajda_vs_maksymilian-rus",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 81,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_stepan-kysely_vs_michal-vedmoch",
       "date": "2026-07-07",
