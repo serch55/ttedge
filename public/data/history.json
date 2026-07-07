@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T17:02:07.185Z",
+  "generated": "2026-07-07T17:31:48.995Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 749,
-  "todayCount": 7,
+  "totalCount": 752,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-07_over_vaclav-nohejl-2005_vs_viktor-vejvoda",
@@ -27,6 +27,42 @@
       ]
     },
     {
+      "id": "2026-07-07_under_dariusz-molenda_vs_jacek-zelezik",
+      "date": "2026-07-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Molenda",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 33,
+      "score": 99,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": []
+    },
+    {
+      "id": "2026-07-07_spread_dariusz-molenda_vs_jacek-zelezik",
+      "date": "2026-07-07",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dariusz Molenda",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "l5": 12.2,
+      "score": 100,
+      "pick": "Dariusz Molenda",
+      "spread": -12.7,
+      "h2h": 9,
+      "trend": "",
+      "tags": []
+    },
+    {
       "id": "2026-07-07_over_ondrej-svacha_vs_tomas-zahradnik",
       "date": "2026-07-07",
       "type": "over",
@@ -47,6 +83,27 @@
       ]
     },
     {
+      "id": "2026-07-07_over_waclaw-suchecki_vs_kuba-golaszewski",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Waclaw Suchecki",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "20:55",
+      "timeRaw": "2:55 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-07_over_jan-varcl-jnr_vs_jan-steffan",
       "date": "2026-07-07",
       "type": "over",
@@ -59,11 +116,10 @@
       "pct": 77,
       "l5": 80,
       "sets3": 85,
-      "score": 81,
+      "score": 84,
       "h2h": 13,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
