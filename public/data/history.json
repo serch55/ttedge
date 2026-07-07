@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T13:02:05.262Z",
+  "generated": "2026-07-07T13:31:50.348Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 737,
-  "todayCount": 3,
+  "totalCount": 738,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-07_over_waldemar-glanowski_vs_wojciech-wojtaszczyk",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-07-07_over_boguslaw-madej_vs_maksymilian-rus",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Boguslaw Madej",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-07_over_kamil-rudomina_vs_artur-sobel",
       "date": "2026-07-07",
       "type": "over",
@@ -41,6 +62,27 @@
       "sets3": 87,
       "score": 85,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_michal-vedmoch_vs_stepan-kysely",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Vedmoch",
+      "away": "Stepan Kysely",
+      "league": "Czech Liga Pro",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 6,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -84,27 +126,6 @@
       "score": 85,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-07_over_michal-vedmoch_vs_stepan-kysely",
-      "date": "2026-07-07",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Michal Vedmoch",
-      "away": "Stepan Kysely",
-      "league": "Czech Liga Pro",
-      "time": "13:30",
-      "timeRaw": "7:30 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 100,
-      "score": 84,
-      "h2h": 5,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
