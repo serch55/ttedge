@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-07T00:31:46.339Z",
+  "generated": "2026-07-07T01:02:04.967Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 722,
-  "todayCount": 2,
+  "totalCount": 724,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-07_spread_jan-hrabec_vs_michal-koral",
+      "date": "2026-07-07",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Hrabec",
+      "away": "Michal Koral",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "l5": 8,
+      "score": 86,
+      "pick": "Jan Hrabec",
+      "spread": -8,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_adrian-wiecek_vs_josef-braun",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 84,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_jiri-ruzicka_vs_martin-huk",
       "date": "2026-07-07",
@@ -18,7 +59,7 @@
       "pct": 87,
       "l5": 100,
       "sets3": 100,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
