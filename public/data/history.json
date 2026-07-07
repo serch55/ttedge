@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-07T14:31:57.015Z",
+  "generated": "2026-07-07T15:02:06.171Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 740,
+  "totalCount": 741,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-07_over_martin-biolek_vs_jan-dzida",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Biolek",
+      "away": "Jan Dzida",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_dmytro-opanasiuk_vs_tadeas-zika",
       "date": "2026-07-07",
@@ -18,7 +39,7 @@
       "pct": 86,
       "l5": 100,
       "sets3": 93,
-      "score": 89,
+      "score": 82,
       "h2h": 14,
       "trend": "falling",
       "tags": [
