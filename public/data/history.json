@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-07T17:31:48.995Z",
+  "generated": "2026-07-07T18:01:58.924Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 752,
-  "todayCount": 9,
+  "totalCount": 753,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-07_over_tomas-andrle_vs_jan-steffan",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Andrle",
+      "away": "Jan Steffan",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_vaclav-nohejl-2005_vs_viktor-vejvoda",
       "date": "2026-07-07",
