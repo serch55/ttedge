@@ -1,31 +1,10 @@
 {
-  "generated": "2026-07-07T20:02:38.694Z",
+  "generated": "2026-07-07T20:31:54.775Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 756,
-  "todayCount": 4,
+  "totalCount": 757,
+  "todayCount": 6,
   "matches": [
-    {
-      "id": "2026-07-07_over_michal-olbrycht_vs_jakub-zochniak",
-      "date": "2026-07-07",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Michal Olbrycht",
-      "away": "Jakub Zochniak",
-      "league": "TT Elite Series",
-      "time": "23:45",
-      "timeRaw": "5:45 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 88,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-07-07_over_tomasz-wrzalik_vs_wojciech-urban",
       "date": "2026-07-07",
@@ -751,6 +730,26 @@
       ]
     },
     {
+      "id": "2026-07-07_under_ladislav-havel-1956_vs_stanislav-mazanek",
+      "date": "2026-07-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 25,
+      "score": 85,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-07_over_jaroslav-strnad-1964_vs_pavel-stuchlik",
       "date": "2026-07-07",
       "type": "over",
@@ -768,6 +767,27 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_michal-olbrycht_vs_jakub-zochniak",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Olbrycht",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
