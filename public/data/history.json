@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T18:01:58.924Z",
+  "generated": "2026-07-07T18:31:52.800Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
   "totalCount": 753,
-  "todayCount": 10,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-07_over_tomas-andrle_vs_jan-steffan",
@@ -59,10 +59,12 @@
       "pct": 100,
       "l5": 100,
       "sets3": 33,
-      "score": 99,
+      "score": 96,
       "h2h": 9,
       "trend": "rising",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-07_spread_dariusz-molenda_vs_jacek-zelezik",
@@ -75,12 +77,14 @@
       "time": "21:10",
       "timeRaw": "3:10 PM",
       "l5": 12.2,
-      "score": 100,
+      "score": 98,
       "pick": "Dariusz Molenda",
       "spread": -12.7,
       "h2h": 9,
       "trend": "",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-07_over_ondrej-svacha_vs_tomas-zahradnik",
