@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-07T08:31:59.958Z",
+  "generated": "2026-07-07T09:02:01.187Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 732,
-  "todayCount": 2,
+  "totalCount": 733,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-07_over_michal-vedmoch_vs_stepan-kysely",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Vedmoch",
+      "away": "Stepan Kysely",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_adrian-wiecek_vs_jakub-kosowski",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Jakub Kosowski",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_ivo-taichman_vs_michal-koral",
       "date": "2026-07-07",
@@ -189,27 +231,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-07-07_over_adrian-wiecek_vs_jakub-kosowski",
-      "date": "2026-07-07",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Adrian Wiecek",
-      "away": "Jakub Kosowski",
-      "league": "TT Elite Series",
-      "time": "06:10",
-      "timeRaw": "12:10 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 89,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ]
     },
     {
