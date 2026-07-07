@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-07T16:31:55.465Z",
+  "generated": "2026-07-07T17:02:07.185Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 747,
-  "todayCount": 6,
+  "totalCount": 749,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-07_over_vaclav-nohejl-2005_vs_viktor-vejvoda",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Vaclav Nohejl 2005",
+      "away": "Viktor Vejvoda",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 89,
+      "score": 81,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_ondrej-svacha_vs_tomas-zahradnik",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Svacha",
+      "away": "Tomas Zahradnik",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 78,
+      "l5": 100,
+      "sets3": 78,
+      "score": 83,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_jan-varcl-jnr_vs_jan-steffan",
       "date": "2026-07-07",
@@ -101,7 +142,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 89,
+      "score": 82,
       "h2h": 5,
       "trend": "falling",
       "tags": [
