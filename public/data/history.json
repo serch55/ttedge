@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T03:01:57.792Z",
+  "generated": "2026-07-07T03:31:49.284Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 726,
-  "todayCount": 4,
+  "totalCount": 727,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-07_over_maksymilian-rus_vs_boguslaw-madej",
@@ -64,6 +64,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_josef-braun_vs_szymon-kolasa",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Szymon Kolasa",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
