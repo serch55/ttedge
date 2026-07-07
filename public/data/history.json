@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T16:02:09.702Z",
+  "generated": "2026-07-07T16:31:55.465Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 745,
-  "todayCount": 7,
+  "totalCount": 747,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-07_over_jan-varcl-jnr_vs_jan-steffan",
@@ -20,6 +20,48 @@
       "sets3": 85,
       "score": 81,
       "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_karol-strowski_vs_szymon-sporek",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Szymon Sporek",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_over_kuba-golaszewski_vs_jaroslaw-rolak",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kuba Golaszewski",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "20:10",
+      "timeRaw": "2:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -59,10 +101,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 97,
+      "score": 89,
       "h2h": 5,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
