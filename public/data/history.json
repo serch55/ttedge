@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T10:01:56.582Z",
+  "generated": "2026-07-07T10:31:45.999Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
   "totalCount": 734,
-  "todayCount": 5,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-07_over_stepan-kysely_vs_jakub-simecek",
@@ -15,12 +15,12 @@
       "league": "Czech Liga Pro",
       "time": "14:00",
       "timeRaw": "8:00 AM",
-      "pct": 80,
+      "pct": 87,
       "l5": 80,
-      "sets3": 87,
-      "score": 82,
+      "sets3": 93,
+      "score": 85,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
