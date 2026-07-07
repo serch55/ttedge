@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-07T07:31:57.801Z",
+  "generated": "2026-07-07T08:02:17.198Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 730,
+  "totalCount": 731,
   "todayCount": 1,
   "matches": [
+    {
+      "id": "2026-07-07_over_radomir-revay_vs_radovan-polasek",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radomir Revay",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_rafal-gajda_vs_maksymilian-rus",
       "date": "2026-07-07",
