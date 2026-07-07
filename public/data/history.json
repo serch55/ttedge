@@ -1,10 +1,49 @@
 {
-  "generated": "2026-07-07T13:31:50.348Z",
+  "generated": "2026-07-07T14:02:14.622Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 738,
+  "totalCount": 739,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-07_over_tomasz-wrzalik_vs_wojciech-urban",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Wrzalik",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 5,
+      "trend": "",
+      "tags": []
+    },
+    {
+      "id": "2026-07-07_over_jiri-ruzicka_vs_martin-huk",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_waldemar-glanowski_vs_wojciech-wojtaszczyk",
       "date": "2026-07-07",
@@ -336,27 +375,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-07-07_over_jiri-ruzicka_vs_martin-huk",
-      "date": "2026-07-07",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jiri Ruzicka",
-      "away": "Martin Huk",
-      "league": "Czech Liga Pro",
-      "time": "04:30",
-      "timeRaw": "10:30 PM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 100,
-      "score": 85,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ]
     },
     {
