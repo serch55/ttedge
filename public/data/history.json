@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-07T15:02:06.171Z",
+  "generated": "2026-07-07T15:31:45.227Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 741,
-  "todayCount": 5,
+  "totalCount": 743,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-07_over_jacek-przewlocki_vs_jaroslaw-rolak",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 97,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-07_under_mariusz-koczyba_vs_piotr-kaczynski",
+      "date": "2026-07-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Piotr Kaczynski",
+      "league": "TT Elite Series",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 40,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_martin-biolek_vs_jan-dzida",
       "date": "2026-07-07",
@@ -18,7 +58,7 @@
       "pct": 87,
       "l5": 80,
       "sets3": 93,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
