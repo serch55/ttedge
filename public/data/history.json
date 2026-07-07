@@ -1,10 +1,114 @@
 {
-  "generated": "2026-07-07T21:32:23.312Z",
+  "generated": "2026-07-07T22:02:01.005Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-07",
-  "totalCount": 757,
+  "lastDay": "2026-07-08",
+  "totalCount": 762,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Wrzalik",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "23:35",
+      "timeRaw": "5:35 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 86,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_krzysztof-schaniel_vs_mariusz-baron",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "04:35",
+      "timeRaw": "10:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 87,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_jakub-zochniak_vs_jakub-kuzmicz",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_under_ladislav-havel-1956_vs_stanislav-mazanek",
+      "date": "2026-07-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 25,
+      "score": 85,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_michal-olbrycht_vs_jakub-zochniak",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Olbrycht",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_tomasz-wrzalik_vs_wojciech-urban",
       "date": "2026-07-07",
