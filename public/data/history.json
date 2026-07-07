@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-07T04:31:44.878Z",
+  "generated": "2026-07-07T05:01:59.536Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-07",
-  "totalCount": 727,
-  "todayCount": 5,
+  "totalCount": 728,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-07_over_stepan-kysely_vs_michal-vedmoch",
+      "date": "2026-07-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Stepan Kysely",
+      "away": "Michal Vedmoch",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 86,
+      "h2h": 4,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-07_over_maksymilian-rus_vs_boguslaw-madej",
       "date": "2026-07-07",
@@ -79,7 +100,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 98,
       "h2h": 4,
       "trend": "rising",
       "tags": [
