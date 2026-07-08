@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T16:02:18.922Z",
+  "generated": "2026-07-08T16:32:11.549Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
   "totalCount": 793,
-  "todayCount": 4,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -79,10 +79,11 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 84,
+      "score": 80,
       "h2h": 10,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
