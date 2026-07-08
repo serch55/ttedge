@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T15:02:50.905Z",
+  "generated": "2026-07-08T15:32:00.676Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 790,
-  "todayCount": 5,
+  "totalCount": 792,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -23,6 +23,46 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_spread_miroslaw-warzecha_vs_kazimierz-rybak",
+      "date": "2026-07-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Kazimierz Rybak",
+      "league": "TT Elite Series",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "l5": 12,
+      "score": 88,
+      "pick": "Miroslaw Warzecha",
+      "spread": -12.3,
+      "h2h": 7,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_piotr-strus_vs_blazej-warpas",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Strus",
+      "away": "Blazej Warpas",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 84,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
