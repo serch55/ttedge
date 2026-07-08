@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T14:02:34.717Z",
+  "generated": "2026-07-08T14:32:13.219Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
   "totalCount": 789,
-  "todayCount": 4,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 86,
       "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_grzegorz-jurowicz_vs_kacper-adamus",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -247,27 +268,6 @@
       "h2h": 4,
       "trend": "",
       "tags": []
-    },
-    {
-      "id": "2026-07-08_over_grzegorz-jurowicz_vs_kacper-adamus",
-      "date": "2026-07-08",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Grzegorz Jurowicz",
-      "away": "Kacper Adamus",
-      "league": "TT Elite Series",
-      "time": "11:55",
-      "timeRaw": "5:55 AM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 93,
-      "score": 82,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-07-08_over_dominik-solilo_vs_mateusz-misiak",
