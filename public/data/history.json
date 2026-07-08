@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T07:02:04.106Z",
+  "generated": "2026-07-08T07:31:53.518Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 776,
-  "todayCount": 6,
+  "totalCount": 778,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -27,6 +27,42 @@
       ]
     },
     {
+      "id": "2026-07-08_over_aleksander-lilien_vs_bartosz-kwodawski",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Bartosz Kwodawski",
+      "league": "TT Elite Series",
+      "time": "11:50",
+      "timeRaw": "5:50 AM",
+      "pct": 75,
+      "l5": 75,
+      "sets3": 100,
+      "score": 82,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08_spread_aleksander-lilien_vs_bartosz-kwodawski",
+      "date": "2026-07-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Bartosz Kwodawski",
+      "league": "TT Elite Series",
+      "time": "11:50",
+      "timeRaw": "5:50 AM",
+      "l5": 8.8,
+      "score": 93,
+      "pick": "Aleksander Lilien",
+      "spread": -8.8,
+      "h2h": 4,
+      "trend": "",
+      "tags": []
+    },
+    {
       "id": "2026-07-08_over_dominik-solilo_vs_mateusz-misiak",
       "date": "2026-07-08",
       "type": "over",
@@ -39,7 +75,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 80,
+      "score": 84,
       "h2h": 4,
       "trend": "rising",
       "tags": [
