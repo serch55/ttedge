@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T02:02:38.989Z",
+  "generated": "2026-07-08T02:31:56.906Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 768,
-  "todayCount": 2,
+  "totalCount": 769,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_sebastian-kasnik_vs_zbynek-pagac",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Kasnik",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 85,
+      "l5": 100,
+      "sets3": 100,
+      "score": 97,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
