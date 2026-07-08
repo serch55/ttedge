@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T12:31:44.918Z",
+  "generated": "2026-07-08T13:02:01.582Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 787,
-  "todayCount": 5,
+  "totalCount": 788,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_martin-skotnica_vs_matyas-navedla",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Skotnica",
+      "away": "Matyas Navedla",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 100,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
