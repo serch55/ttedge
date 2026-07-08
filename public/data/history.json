@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T01:01:56.903Z",
+  "generated": "2026-07-08T01:31:53.767Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 767,
-  "todayCount": 5,
+  "totalCount": 768,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -25,6 +25,24 @@
         "Fatigue",
         "Volatile"
       ]
+    },
+    {
+      "id": "2026-07-08_over_pavel-petr_vs_vladimir-kubat",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Petr",
+      "away": "Vladimir Kubat",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 4,
+      "trend": "",
+      "tags": []
     },
     {
       "id": "2026-07-08_over_marcin-jadczyk_vs_maciej-nowalinski",
