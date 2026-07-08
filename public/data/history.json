@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T18:32:02.781Z",
+  "generated": "2026-07-08T19:02:06.496Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 798,
+  "totalCount": 799,
   "todayCount": 6,
   "matches": [
     {
@@ -20,6 +20,27 @@
       "sets3": 100,
       "score": 86,
       "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_michal-skorski_vs_kuba-golaszewski",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 86,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -59,10 +80,11 @@
       "pct": 86,
       "l5": 80,
       "sets3": 86,
-      "score": 93,
+      "score": 89,
       "h2h": 7,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -79,7 +101,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 93,
+      "score": 86,
       "h2h": 4,
       "trend": "falling",
       "tags": [
