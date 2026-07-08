@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T06:02:02.804Z",
+  "generated": "2026-07-08T06:31:42.112Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 774,
-  "todayCount": 6,
+  "totalCount": 775,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
@@ -83,6 +83,47 @@
       "h2h": 8,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_kamil-kurowski_vs_grzegorz-poliniewicz",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Kurowski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "09:40",
+      "timeRaw": "3:40 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 93,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-08_over_grzegorz-poliniewicz_vs_jakub-chmielowski",
+      "date": "2026-07-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Jakub Chmielowski",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -183,27 +224,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-08_over_grzegorz-poliniewicz_vs_jakub-chmielowski",
-      "date": "2026-07-08",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Grzegorz Poliniewicz",
-      "away": "Jakub Chmielowski",
-      "league": "TT Elite Series",
-      "time": "06:25",
-      "timeRaw": "12:25 AM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 87,
-      "score": 83,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
