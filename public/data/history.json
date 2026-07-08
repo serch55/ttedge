@@ -1,10 +1,134 @@
 {
-  "generated": "2026-07-08T21:31:52.073Z",
+  "generated": "2026-07-08T22:02:03.841Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-08",
-  "totalCount": 803,
-  "todayCount": 5,
+  "lastDay": "2026-07-09",
+  "totalCount": 809,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-09_spread_petr-picek_vs_alexander-mikuska",
+      "date": "2026-07-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Petr Picek",
+      "away": "Alexander Mikuska",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "l5": 13.4,
+      "score": 81,
+      "pick": "Alexander Mikuska",
+      "spread": -13.2,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_petr-zmuda_vs_jiri-plachy",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr Zmuda",
+      "away": "Jiri Plachy",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 86,
+      "score": 82,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_martin-sopko_vs_ales-bayer",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sopko",
+      "away": "Ales Bayer",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 92,
+      "score": 97,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_mateusz-trela_vs_mikolaj-lukaszewski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Trela",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_kuba-golaszewski_vs_mikolaj-lukaszewski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kuba Golaszewski",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_mikolaj-lukaszewski_vs_michal-skorski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Michal Skorski",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-08_over_tomasz-wrzalik_vs_wojciech-urban",
       "date": "2026-07-08",
