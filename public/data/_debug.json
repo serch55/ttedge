@@ -1,8 +1,8 @@
 {
-  "when": "2026-07-08T11:02:27.981Z",
-  "overFound": 8,
+  "when": "2026-07-08T11:32:40.617Z",
+  "overFound": 10,
   "underFound": 1,
-  "spreadFound": 1,
+  "spreadFound": 2,
   "diag": {
     "url": "https://ttedge.ai/picks",
     "textoLen": 455,
