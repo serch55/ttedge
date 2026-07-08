@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T15:32:00.676Z",
+  "generated": "2026-07-08T16:02:18.922Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-08",
-  "totalCount": 792,
+  "totalCount": 793,
   "todayCount": 4,
   "matches": [
     {
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-08_spread_grzegorz-mucha_vs_adam-staniczek",
+      "date": "2026-07-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Grzegorz Mucha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "l5": 11.2,
+      "score": 81,
+      "pick": "Grzegorz Mucha",
+      "spread": -8.3,
+      "h2h": 6,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
