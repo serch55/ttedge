@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-09T08:02:19.962Z",
+  "generated": "2026-07-09T08:37:44.943Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 821,
-  "todayCount": 3,
+  "totalCount": 822,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-09_over_jakub-chmielowski_vs_grzegorz-poliniewicz",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Chmielowski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "12:55",
+      "timeRaw": "6:55 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_jan-szotkowski_vs_radomir-revay",
       "date": "2026-07-09",
