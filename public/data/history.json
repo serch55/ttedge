@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T23:31:56.109Z",
+  "generated": "2026-07-09T00:02:44.273Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
   "totalCount": 811,
-  "todayCount": 5,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-09_over_milosz-piecowski_vs_karol-sulkowski",
@@ -80,7 +80,7 @@
       "pct": 85,
       "l5": 80,
       "sets3": 92,
-      "score": 89,
+      "score": 82,
       "h2h": 13,
       "trend": "falling",
       "tags": [
