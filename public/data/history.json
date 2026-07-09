@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-09T07:32:11.184Z",
+  "generated": "2026-07-09T08:02:19.962Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 820,
-  "todayCount": 4,
+  "totalCount": 821,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-09_over_jan-szotkowski_vs_radomir-revay",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Szotkowski",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_krystian-kolodziej_vs_marcin-jadczyk",
       "date": "2026-07-09",
