@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-09T07:02:29.034Z",
+  "generated": "2026-07-09T07:32:11.184Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 819,
-  "todayCount": 6,
+  "totalCount": 820,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-09_over_krystian-kolodziej_vs_marcin-jadczyk",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "11:40",
+      "timeRaw": "5:40 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 97,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-09_over_jakub-kuzmicz_vs_maciej-nowalinski",
       "date": "2026-07-09",
@@ -59,10 +79,12 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 96,
       "h2h": 15,
       "trend": "rising",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-09_over_maciej-kolek_vs_igor-dabrowski",
