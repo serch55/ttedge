@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-09T14:01:57.914Z",
+  "generated": "2026-07-09T14:32:39.244Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 826,
-  "todayCount": 2,
+  "totalCount": 827,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-09_over_jan-kanera_vs_michal-zahradka",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Kanera",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_jakub-witkowski_vs_patryk-jendrzejewski",
       "date": "2026-07-09",
