@@ -1,10 +1,28 @@
 {
-  "generated": "2026-07-09T04:02:31.237Z",
+  "generated": "2026-07-09T04:32:02.318Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 812,
-  "todayCount": 1,
+  "totalCount": 814,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-09_over_ivan-kolenciak_vs_josef-toth",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ivan Kolenciak",
+      "away": "Josef Toth",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 86,
+      "score": 100,
+      "h2h": 7,
+      "trend": "rising",
+      "tags": []
+    },
     {
       "id": "2026-07-09_spread_maksymilian-rus_vs_jerzy-pelka",
       "date": "2026-07-09",
@@ -26,6 +44,27 @@
       ]
     },
     {
+      "id": "2026-07-09_over_jakub-glanowski_vs_maciej-kolek",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-09_over_milosz-piecowski_vs_karol-sulkowski",
       "date": "2026-07-09",
       "type": "over",
@@ -33,14 +72,14 @@
       "home": "Milosz Piecowski",
       "away": "Karol Sulkowski",
       "league": "TT Elite Series",
-      "time": "05:25",
-      "timeRaw": "11:25 PM",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 84,
+      "score": 85,
       "h2h": 15,
-      "trend": "",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
