@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-09T09:32:06.693Z",
+  "generated": "2026-07-09T10:02:25.485Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
   "totalCount": 824,
-  "todayCount": 6,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-09_over_sebastian-kasnik_vs_michal-chalupa",
@@ -39,11 +39,10 @@
       "pct": 87,
       "l5": 100,
       "sets3": 93,
-      "score": 80,
+      "score": 84,
       "h2h": 15,
       "trend": "",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -81,11 +80,10 @@
       "pct": 73,
       "l5": 80,
       "sets3": 80,
-      "score": 81,
+      "score": 84,
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
