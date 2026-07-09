@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T06:02:23.094Z",
+  "generated": "2026-07-09T06:36:57.326Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 816,
+  "totalCount": 818,
   "todayCount": 6,
   "matches": [
     {
@@ -44,6 +44,27 @@
       "tags": []
     },
     {
+      "id": "2026-07-09_over_maciej-kolek_vs_igor-dabrowski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "09:15",
+      "timeRaw": "3:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 81,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-09_over_ivan-kolenciak_vs_josef-toth",
       "date": "2026-07-09",
       "type": "over",
@@ -60,6 +81,27 @@
       "h2h": 7,
       "trend": "rising",
       "tags": []
+    },
+    {
+      "id": "2026-07-09_over_jakub-zochniak_vs_jakub-glanowski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 82,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
     },
     {
       "id": "2026-07-09_spread_maksymilian-rus_vs_jerzy-pelka",
