@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-09T02:02:08.675Z",
+  "generated": "2026-07-09T02:31:56.207Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 811,
-  "todayCount": 1,
+  "totalCount": 812,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-09_spread_maksymilian-rus_vs_jerzy-pelka",
+      "date": "2026-07-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Maksymilian Rus",
+      "away": "Jerzy Pelka",
+      "league": "TT Elite Series",
+      "time": "08:20",
+      "timeRaw": "2:20 AM",
+      "l5": 9.4,
+      "score": 82,
+      "pick": "Jerzy Pelka",
+      "spread": -9.8,
+      "h2h": 6,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_milosz-piecowski_vs_karol-sulkowski",
       "date": "2026-07-09",
