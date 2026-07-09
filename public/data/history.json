@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-09T06:36:57.326Z",
+  "generated": "2026-07-09T07:02:29.034Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 818,
+  "totalCount": 819,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-09_over_jakub-kuzmicz_vs_maciej-nowalinski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "11:20",
+      "timeRaw": "5:20 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_miroslav-stolba_vs_josef-toth",
       "date": "2026-07-09",
