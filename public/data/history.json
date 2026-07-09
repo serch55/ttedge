@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-09T13:05:29.784Z",
+  "generated": "2026-07-09T13:31:55.119Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 824,
-  "todayCount": 0,
+  "totalCount": 826,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-09_over_jakub-witkowski_vs_patryk-jendrzejewski",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Witkowski",
+      "away": "Patryk Jendrzejewski",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_waldemar-glanowski_vs_maksymilian-rus",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Waldemar Glanowski",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "17:05",
+      "timeRaw": "11:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 87,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_sebastian-kasnik_vs_michal-chalupa",
       "date": "2026-07-09",
