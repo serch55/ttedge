@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-09T22:31:54.877Z",
+  "generated": "2026-07-09T23:02:00.540Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
   "totalCount": 835,
-  "todayCount": 3,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-10_over_jiri-ruzicka_vs_martin-huk",
@@ -18,10 +18,11 @@
       "pct": 87,
       "l5": 80,
       "sets3": 93,
-      "score": 92,
+      "score": 88,
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
