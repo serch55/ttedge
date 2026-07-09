@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-09T17:01:53.656Z",
+  "generated": "2026-07-09T17:31:46.023Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 830,
-  "todayCount": 1,
+  "totalCount": 831,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-09_under_jan-simecek_vs_jan-mecl-jr",
+      "date": "2026-07-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Simecek",
+      "away": "Jan Mecl Jr",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": null,
+      "score": 96,
+      "h2h": 4,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-09_spread_jacek-oracz_vs_grzegorz-mucha",
       "date": "2026-07-09",
