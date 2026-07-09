@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-09T16:02:04.174Z",
+  "generated": "2026-07-09T16:31:58.693Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 829,
-  "todayCount": 3,
+  "totalCount": 830,
+  "todayCount": 1,
   "matches": [
     {
       "id": "2026-07-09_spread_jacek-oracz_vs_grzegorz-mucha",
@@ -45,6 +45,26 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-09_over_pawel-kurek_vs_krzysztof-hetnar",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 100,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
