@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-09T15:01:59.364Z",
+  "generated": "2026-07-09T15:31:50.397Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 828,
-  "todayCount": 4,
+  "totalCount": 829,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-09_spread_jacek-oracz_vs_grzegorz-mucha",
+      "date": "2026-07-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "l5": 11.8,
+      "score": 82,
+      "pick": "Jacek Oracz",
+      "spread": -11.4,
+      "h2h": 7,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_jakub-witkowski_vs_michal-malachowski",
       "date": "2026-07-09",
@@ -39,7 +60,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 93,
-      "score": 92,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
