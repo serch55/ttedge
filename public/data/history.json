@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-09T08:37:44.943Z",
+  "generated": "2026-07-09T09:02:26.717Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-09",
-  "totalCount": 822,
-  "todayCount": 4,
+  "totalCount": 823,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-09_over_sebastian-kasnik_vs_michal-chalupa",
+      "date": "2026-07-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Kasnik",
+      "away": "Michal Chalupa",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 90,
+      "score": 84,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-09_over_jakub-chmielowski_vs_grzegorz-poliniewicz",
       "date": "2026-07-09",
