@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-09T22:01:58.280Z",
+  "generated": "2026-07-09T22:31:54.877Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 833,
-  "todayCount": 1,
+  "totalCount": 835,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-10_over_jiri-ruzicka_vs_martin-huk",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_david-mutl_vs_miroslav-vaclavik",
       "date": "2026-07-10",
@@ -22,6 +42,27 @@
       "h2h": 8,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_jaroslaw-rolak_vs_adrian-fabis",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Adrian Fabis",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 93,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
