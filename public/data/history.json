@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T00:02:10.764Z",
+  "generated": "2026-07-10T00:32:12.823Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 835,
+  "totalCount": 836,
   "todayCount": 2,
   "matches": [
     {
@@ -19,6 +19,27 @@
       "l5": 80,
       "sets3": 93,
       "score": 88,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_marek-tkocz_vs_kacper-adamus",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marek Tkocz",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
