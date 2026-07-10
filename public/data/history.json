@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T20:32:01.261Z",
+  "generated": "2026-07-10T21:01:56.499Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
   "totalCount": 874,
-  "todayCount": 10,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-10_over_marcin-marchlewski_vs_jakub-kuzmicz",
@@ -862,9 +862,9 @@
       "time": "00:10",
       "timeRaw": "6:10 PM",
       "pct": 87,
-      "l5": 80,
+      "l5": 100,
       "sets3": 87,
-      "score": 91,
+      "score": 89,
       "h2h": 15,
       "trend": "rising",
       "tags": [
