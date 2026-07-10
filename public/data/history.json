@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T23:01:54.284Z",
+  "generated": "2026-07-10T23:31:43.971Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 883,
-  "todayCount": 6,
+  "totalCount": 884,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-11_over_artur-grela_vs_marcin-jadczyk",
@@ -39,7 +39,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 92,
+      "score": 85,
       "h2h": 4,
       "trend": "rising",
       "tags": [
@@ -62,6 +62,27 @@
       "sets3": 86,
       "score": 82,
       "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_over_wojciech-gluszek_vs_mikolaj-lukaszewski",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 84,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
