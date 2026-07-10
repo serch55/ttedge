@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-10T15:31:38.927Z",
+  "generated": "2026-07-10T16:01:56.705Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 856,
-  "todayCount": 4,
+  "totalCount": 859,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-10_over_daniel-priesol_vs_radim-kvasnicka",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Daniel Priesol",
+      "away": "Radim Kvasnicka",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_mariusz-baron_vs_oskar-sokolowski",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Oskar Sokolowski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 96,
+      "h2h": 6,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_adam-ruszkiewicz_vs_damian-fira",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Damian Fira",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_pawel-adamus_vs_oskar-sokolowski",
       "date": "2026-07-10",
