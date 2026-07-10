@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-10T22:32:02.632Z",
+  "generated": "2026-07-10T23:01:54.284Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 882,
-  "todayCount": 7,
+  "totalCount": 883,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-11_over_artur-grela_vs_marcin-jadczyk",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Grela",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "05:45",
+      "timeRaw": "11:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-11_over_josef-pelikan_vs_pavel-kulhanek",
       "date": "2026-07-11",
@@ -18,10 +39,11 @@
       "pct": 100,
       "l5": 100,
       "sets3": 100,
-      "score": 100,
+      "score": 92,
       "h2h": 4,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
