@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T20:02:29.336Z",
+  "generated": "2026-07-10T20:32:01.261Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
   "totalCount": 874,
@@ -207,27 +207,6 @@
       "sets3": 80,
       "score": 92,
       "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-10_over_mariusz-baron_vs_oskar-sokolowski",
-      "date": "2026-07-10",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mariusz Baron",
-      "away": "Oskar Sokolowski",
-      "league": "TT Elite Series",
-      "time": "20:30",
-      "timeRaw": "2:30 PM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 83,
-      "score": 85,
-      "h2h": 6,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -746,6 +725,27 @@
       "h2h": 8,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_mariusz-baron_vs_oskar-sokolowski",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Oskar Sokolowski",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 86,
+      "score": 82,
+      "h2h": 7,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
