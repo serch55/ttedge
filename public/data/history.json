@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-10T07:31:57.581Z",
+  "generated": "2026-07-10T08:01:55.201Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 844,
-  "todayCount": 4,
+  "totalCount": 846,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-10_spread_marek-blejchar_vs_vitezslav-bosak",
+      "date": "2026-07-10",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Marek Blejchar",
+      "away": "Vitezslav Bosak",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "l5": 8.2,
+      "score": 89,
+      "pick": "Marek Blejchar",
+      "spread": -8.2,
+      "h2h": 5,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_oleksandr-kolisnyk_vs_jan-mecl-jr",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Kolisnyk",
+      "away": "Jan Mecl Jr",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 88,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 8,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_samuel-byrtus_vs_josef-cabak",
       "date": "2026-07-10",
