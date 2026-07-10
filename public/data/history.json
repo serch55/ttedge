@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-10T09:32:14.023Z",
+  "generated": "2026-07-10T10:02:04.612Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 846,
-  "todayCount": 2,
+  "totalCount": 849,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-10_over_sebastian-kasnik_vs_michal-chalupa",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Kasnik",
+      "away": "Michal Chalupa",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 92,
+      "score": 82,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_jakub-levicky_vs_marek-blejchar",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Levicky",
+      "away": "Marek Blejchar",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 80,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_denis-hofman_vs_petr-sebera",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denis Hofman",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_spread_marek-blejchar_vs_vitezslav-bosak",
       "date": "2026-07-10",
