@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-10T16:01:56.705Z",
+  "generated": "2026-07-10T16:31:50.350Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 859,
-  "todayCount": 7,
+  "totalCount": 860,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-10_over_radim-urbaniec_vs_martin-huk",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_daniel-priesol_vs_radim-kvasnicka",
       "date": "2026-07-10",
@@ -39,10 +60,11 @@
       "pct": 83,
       "l5": 80,
       "sets3": 83,
-      "score": 96,
+      "score": 92,
       "h2h": 6,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -99,7 +121,7 @@
       "pct": 93,
       "l5": 100,
       "sets3": 20,
-      "score": 90,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
