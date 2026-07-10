@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T03:01:57.585Z",
+  "generated": "2026-07-10T03:31:43.505Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 837,
-  "todayCount": 1,
+  "totalCount": 838,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-10_over_samuel-byrtus_vs_adrian-walek",
@@ -21,6 +21,26 @@
       "score": 81,
       "h2h": 8,
       "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_petr-zmuda_vs_jiri-plachy",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr Zmuda",
+      "away": "Jiri Plachy",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 88,
+      "score": 80,
+      "h2h": 8,
+      "trend": "rising",
       "tags": [
         "Volatile"
       ]
