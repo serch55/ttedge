@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-10T10:31:52.671Z",
+  "generated": "2026-07-10T11:01:55.912Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 849,
-  "todayCount": 4,
+  "totalCount": 850,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-10_over_maciej-kolek_vs_michal-minda",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_sebastian-kasnik_vs_michal-chalupa",
       "date": "2026-07-10",
