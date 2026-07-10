@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T19:31:59.933Z",
+  "generated": "2026-07-10T20:02:29.336Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 873,
+  "totalCount": 874,
   "todayCount": 10,
   "matches": [
     {
@@ -764,6 +764,27 @@
       "sets3": 93,
       "score": 80,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_under_petr-sebera_vs_marek-chlebecek",
+      "date": "2026-07-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Marek Chlebecek",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 14,
+      "score": 86,
+      "h2h": 7,
       "trend": "rising",
       "tags": [
         "Fatigue",
