@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T04:02:02.720Z",
+  "generated": "2026-07-10T04:31:47.977Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 838,
-  "todayCount": 2,
+  "totalCount": 839,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-10_over_samuel-byrtus_vs_adrian-walek",
@@ -42,6 +42,27 @@
       "h2h": 8,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_under_jakub-glanowski_vs_bartosz-czerwinski",
+      "date": "2026-07-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Bartosz Czerwinski",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 75,
+      "score": 80,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
