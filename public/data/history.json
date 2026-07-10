@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-10T17:02:01.750Z",
+  "generated": "2026-07-10T17:32:00.993Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 862,
-  "todayCount": 6,
+  "totalCount": 864,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-10_over_mariusz-baron_vs_krzysztof-schaniel",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 83,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_radim-kvasnicka_vs_antonin-schneeberger",
       "date": "2026-07-10",
@@ -126,6 +147,27 @@
       "h2h": 4,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-10_over_jakub-stolfa_vs_tomas-dousa",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Stolfa",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 85,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
