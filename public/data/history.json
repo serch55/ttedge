@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T07:01:54.341Z",
+  "generated": "2026-07-10T07:31:57.581Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
   "totalCount": 844,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-10_over_samuel-byrtus_vs_josef-cabak",
@@ -38,7 +38,7 @@
       "pct": 100,
       "l5": 100,
       "sets3": 93,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "rising",
       "tags": [
