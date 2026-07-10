@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-10T12:02:04.165Z",
+  "generated": "2026-07-10T12:31:54.335Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-10",
-  "totalCount": 850,
-  "todayCount": 3,
+  "totalCount": 851,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-10_over_igor-dabrowski_vs_maciej-kolek",
+      "date": "2026-07-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 85,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-10_over_maciej-kolek_vs_michal-minda",
       "date": "2026-07-10",
