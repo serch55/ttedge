@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T16:01:52.881Z",
+  "generated": "2026-07-11T16:31:49.824Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 912,
-  "todayCount": 4,
+  "totalCount": 913,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-11_over_marcin-marchlewski_vs_szymon-brud",
@@ -21,6 +21,27 @@
       "score": 81,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_spread_andriej-fomin_vs_artur-kubiak",
+      "date": "2026-07-11",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Andriej Fomin",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "l5": 9.8,
+      "score": 81,
+      "pick": "Andriej Fomin",
+      "spread": -10.1,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
