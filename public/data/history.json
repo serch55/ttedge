@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T04:01:59.216Z",
+  "generated": "2026-07-11T04:31:48.221Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 892,
+  "totalCount": 894,
   "todayCount": 7,
   "matches": [
     {
@@ -22,6 +22,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_over_marek-kowol_vs_adrian-eliasz",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marek Kowol",
+      "away": "Adrian Eliasz",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 100,
+      "score": 81,
+      "h2h": 6,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -47,6 +68,48 @@
       ]
     },
     {
+      "id": "2026-07-11_over_karol-sulkowski_vs_dawid-poloszczanski",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Dawid Poloszczanski",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 89,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_over_adrian-eliasz_vs_jacek-przewlocki",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Eliasz",
+      "away": "Jacek Przewlocki",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 4,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-11_over_sebastian-szostok_vs_jakub-jesiek",
       "date": "2026-07-11",
       "type": "over",
@@ -59,7 +122,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 100,
-      "score": 89,
+      "score": 82,
       "h2h": 10,
       "trend": "falling",
       "tags": [
@@ -101,27 +164,6 @@
       "score": 88,
       "h2h": 8,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-11_over_marek-kowol_vs_adrian-eliasz",
-      "date": "2026-07-11",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Marek Kowol",
-      "away": "Adrian Eliasz",
-      "league": "TT Elite Series",
-      "time": "05:50",
-      "timeRaw": "11:50 PM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 100,
-      "score": 92,
-      "h2h": 6,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
