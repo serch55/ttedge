@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-11T05:01:45.465Z",
+  "generated": "2026-07-11T05:31:45.001Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 895,
-  "todayCount": 5,
+  "totalCount": 897,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-11_over_jan-hrabec_vs_vitezslav-bosak",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Hrabec",
+      "away": "Vitezslav Bosak",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 92,
+      "h2h": 5,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_over_milan-smesny_vs_jaroslav-martinek",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milan Smesny",
+      "away": "Jaroslav Martinek",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 85,
+      "h2h": 5,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-11_over_ondrej-paril_vs_radomir-revay",
       "date": "2026-07-11",
@@ -121,7 +163,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 89,
+      "score": 82,
       "h2h": 15,
       "trend": "falling",
       "tags": [
