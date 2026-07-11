@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-11T23:02:28.980Z",
+  "generated": "2026-07-11T23:31:54.705Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 942,
-  "todayCount": 8,
+  "totalCount": 943,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-12_under_marcin-jadczyk_vs_grzegorz-felkel",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 60,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_over_wojciech-urban_vs_pawel-kurek",
       "date": "2026-07-12",
