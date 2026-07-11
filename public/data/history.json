@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T10:31:51.617Z",
+  "generated": "2026-07-11T11:01:48.236Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
   "totalCount": 903,
-  "todayCount": 4,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-11_over_patryk-gamrot_vs_patryk-jedrzejak",
@@ -80,7 +80,7 @@
       "pct": 86,
       "l5": 80,
       "sets3": 93,
-      "score": 84,
+      "score": 80,
       "h2h": 14,
       "trend": "falling",
       "tags": [
