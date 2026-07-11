@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T17:32:03.161Z",
+  "generated": "2026-07-11T18:01:56.754Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 915,
-  "todayCount": 2,
+  "totalCount": 921,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-11_over_jiri-ruzicka_vs_filip-wolf",
@@ -21,6 +21,69 @@
       "score": 87,
       "h2h": 6,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_over_dalimil-machander_vs_lukas-martinak",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dalimil Machander",
+      "away": "Lukas Martinak",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_under_jacek-oracz_vs_michal-machelski",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Michal Machelski",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 47,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_under_rafal-adach_vs_jakub-michalski",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Adach",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 72,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -48,6 +111,27 @@
       ]
     },
     {
+      "id": "2026-07-11_under_jakub-simecek_vs_richard-skacelik",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Simecek",
+      "away": "Richard Skacelik",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 44,
+      "l5": 60,
+      "sets3": 56,
+      "score": 73,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-11_over_marcin-marchlewski_vs_szymon-brud",
       "date": "2026-07-11",
       "type": "over",
@@ -60,7 +144,49 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 81,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_under_pavel-berdych_vs_miroslav-barta",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pavel Berdych",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 55,
+      "score": 68,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_under_michal-machelski_vs_artur-kubiak",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "20:25",
+      "timeRaw": "2:25 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 53,
+      "score": 72,
       "h2h": 15,
       "trend": "falling",
       "tags": [
