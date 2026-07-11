@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T22:01:53.500Z",
+  "generated": "2026-07-11T22:31:57.845Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
   "totalCount": 940,
-  "todayCount": 10,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-12_over_petr-sebera_vs_denis-hofman",
@@ -39,7 +39,7 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 67,
+      "score": 69,
       "h2h": 15,
       "trend": "falling",
       "tags": [
