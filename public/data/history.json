@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T03:31:38.942Z",
+  "generated": "2026-07-11T04:01:59.216Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
   "totalCount": 892,
-  "todayCount": 9,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-11_over_ondrej-paril_vs_radomir-revay",
@@ -98,10 +98,11 @@
       "pct": 88,
       "l5": 80,
       "sets3": 100,
-      "score": 96,
+      "score": 88,
       "h2h": 8,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -118,10 +119,11 @@
       "pct": 83,
       "l5": 80,
       "sets3": 100,
-      "score": 99,
+      "score": 92,
       "h2h": 6,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
