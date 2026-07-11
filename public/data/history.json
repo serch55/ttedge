@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T01:01:42.572Z",
+  "generated": "2026-07-11T01:31:37.782Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 886,
+  "totalCount": 887,
   "todayCount": 5,
   "matches": [
     {
@@ -61,6 +61,27 @@
       "l5": 80,
       "sets3": 93,
       "score": 92,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_over_jakub-nowak_vs_adam-ruszkiewicz",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "05:05",
+      "timeRaw": "11:05 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 85,
       "h2h": 15,
       "trend": "rising",
       "tags": [
