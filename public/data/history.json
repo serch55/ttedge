@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T19:01:49.252Z",
+  "generated": "2026-07-11T19:31:40.385Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 925,
+  "totalCount": 927,
   "todayCount": 10,
   "matches": [
     {
@@ -921,6 +921,27 @@
       ]
     },
     {
+      "id": "2026-07-11_under_petr-sebera_vs_marcel-pikous",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Marcel Pikous",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 68,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-11_over_jakub-witkowski_vs_jakub-zochniak",
       "date": "2026-07-11",
       "type": "over",
@@ -979,6 +1000,27 @@
       "h2h": 4,
       "trend": "falling",
       "tags": []
+    },
+    {
+      "id": "2026-07-11_over_martin-sychra_vs_jakub-tazler",
+      "date": "2026-07-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Jakub Tazler",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
     },
     {
       "id": "2026-07-11_over_krzysztof-schaniel_vs_mariusz-baron",
