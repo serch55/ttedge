@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T19:31:40.385Z",
+  "generated": "2026-07-11T20:01:54.255Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-11",
-  "totalCount": 927,
-  "todayCount": 10,
+  "totalCount": 928,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-11_over_marcin-marchlewski_vs_szymon-brud",
@@ -18,9 +18,30 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 67,
+      "score": 69,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-11_under_robert-szymik_vs_krzysztof-juszczyk",
+      "date": "2026-07-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "23:05",
+      "timeRaw": "5:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 33,
+      "score": 75,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
