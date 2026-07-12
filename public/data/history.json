@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-12T03:01:54.527Z",
+  "generated": "2026-07-12T03:32:21.619Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 949,
+  "totalCount": 950,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-12_under_kacper-petas_vs_marcin-jadczyk",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 80,
+      "score": 71,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_jan-mecl-jr_vs_ales-barton",
       "date": "2026-07-12",
