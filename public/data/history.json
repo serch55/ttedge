@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T07:02:00.936Z",
+  "generated": "2026-07-12T07:31:49.777Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 957,
+  "totalCount": 958,
   "todayCount": 7,
   "matches": [
     {
@@ -64,6 +64,28 @@
       "h2h": 13,
       "trend": "rising",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_spread_michal-oracz_vs_lukasz-bernacki",
+      "date": "2026-07-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Oracz",
+      "away": "Lukasz Bernacki",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "l5": 8.8,
+      "score": 69,
+      "pick": "Michal Oracz",
+      "spread": -5.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
