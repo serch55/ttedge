@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T04:01:58.031Z",
+  "generated": "2026-07-12T04:31:49.403Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 951,
+  "totalCount": 952,
   "todayCount": 6,
   "matches": [
     {
@@ -43,6 +43,27 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_igor-dabrowski_vs_tadeusz-piotrowski",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Tadeusz Piotrowski",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
