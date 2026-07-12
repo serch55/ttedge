@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T03:32:21.619Z",
+  "generated": "2026-07-12T04:01:58.031Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 950,
+  "totalCount": 951,
   "todayCount": 6,
   "matches": [
     {
@@ -43,6 +43,47 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_over_wojciech-iwasyszyn_vs_igor-dabrowski",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Iwasyszyn",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_krzysztof-juszczyk_vs_jakub-michalski",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Juszczyk",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "06:40",
+      "timeRaw": "12:40 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 40,
+      "score": 73,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -312,27 +353,6 @@
       "l5": 80,
       "sets3": 67,
       "score": 68,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-12_under_krzysztof-juszczyk_vs_jakub-michalski",
-      "date": "2026-07-12",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Krzysztof Juszczyk",
-      "away": "Jakub Michalski",
-      "league": "TT Elite Series",
-      "time": "00:40",
-      "timeRaw": "6:40 PM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 47,
-      "score": 71,
       "h2h": 15,
       "trend": "",
       "tags": [
