@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-11T23:31:54.705Z",
+  "generated": "2026-07-12T00:02:00.028Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 943,
-  "todayCount": 7,
+  "totalCount": 944,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-12_under_jan-mecl-jr_vs_ales-barton",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Mecl Jr",
+      "away": "Ales Barton",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_marcin-jadczyk_vs_grzegorz-felkel",
       "date": "2026-07-12",
