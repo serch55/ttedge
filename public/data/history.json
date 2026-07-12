@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-12T20:01:50.760Z",
+  "generated": "2026-07-12T20:31:56.451Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 994,
-  "todayCount": 11,
+  "totalCount": 997,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-12_under_mariusz-adamus_vs_jakub-pruszkowski",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "23:35",
+      "timeRaw": "5:35 PM",
+      "pct": 40,
+      "l5": 40,
+      "sets3": 53,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_michal-vavrecka_vs_tadeas-zika",
       "date": "2026-07-12",
@@ -1030,6 +1051,27 @@
       ]
     },
     {
+      "id": "2026-07-12_under_josef-pelikan_vs_jan-potensky",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Josef Pelikan",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 20,
+      "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-12_over_marcin-marchlewski_vs_szymon-brud",
       "date": "2026-07-12",
       "type": "over",
@@ -1275,6 +1317,27 @@
       "h2h": 11,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_over_jaroslaw-badura_vs_mariusz-adamus",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Badura",
+      "away": "Mariusz Adamus",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
