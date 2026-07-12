@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-12T06:31:52.387Z",
+  "generated": "2026-07-12T07:02:00.936Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 954,
-  "todayCount": 4,
+  "totalCount": 957,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-12_under_marian-lebek_vs_witold-buczynski",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Lebek",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 56,
+      "score": 68,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_michal-syroha_vs_jaroslav-strnad-1964",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Syroha",
+      "away": "Jaroslav Strnad 1964",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_jan-pleskot_vs_petr-bruzek",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 62,
+      "l5": 80,
+      "sets3": 62,
+      "score": 70,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_pawel-kurek_vs_wojciech-pytlas",
       "date": "2026-07-12",
