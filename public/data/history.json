@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-12T17:01:54.002Z",
+  "generated": "2026-07-12T17:31:46.970Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 982,
+  "totalCount": 983,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-12_under_tadeas-zika_vs_radovan-polasek",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_josef-pelikan_vs_jaroslav-strnad-1964",
       "date": "2026-07-12",
