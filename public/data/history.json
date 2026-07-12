@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-12T13:31:54.883Z",
+  "generated": "2026-07-12T14:01:51.657Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 978,
-  "todayCount": 9,
+  "totalCount": 979,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-12_spread_mateusz-rutkowski_vs_krzysztof-kapik",
+      "date": "2026-07-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Krzysztof Kapik",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "l5": 1.6,
+      "score": 72,
+      "pick": "Krzysztof Kapik",
+      "spread": -1.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_over_adrian-walek_vs_dalimil-machander",
       "date": "2026-07-12",
