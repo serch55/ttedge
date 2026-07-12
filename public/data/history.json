@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T21:01:54.634Z",
+  "generated": "2026-07-12T21:32:20.183Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
   "totalCount": 997,
-  "todayCount": 11,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-12_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -1333,9 +1333,9 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 68,
+      "score": 70,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
