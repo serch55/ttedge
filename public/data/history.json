@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T09:01:55.906Z",
+  "generated": "2026-07-12T09:31:42.545Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 965,
+  "totalCount": 966,
   "todayCount": 9,
   "matches": [
     {
@@ -165,6 +165,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_petr-bruzek_vs_jan-pleskot",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Jan Pleskot",
+      "league": "Czech Liga Pro",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 57,
+      "l5": 60,
+      "sets3": 64,
+      "score": 72,
+      "h2h": 14,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
