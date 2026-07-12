@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-12T18:31:50.461Z",
+  "generated": "2026-07-12T19:01:58.619Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 986,
+  "totalCount": 987,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-12_spread_jakub-glanowski_vs_konrad-staszczyk",
+      "date": "2026-07-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Konrad Staszczyk",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "l5": 4.4,
+      "score": 65,
+      "pick": "Konrad Staszczyk",
+      "spread": -4.5,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_michal-vavrecka_vs_tadeas-zika",
       "date": "2026-07-12",
