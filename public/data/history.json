@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T04:31:49.403Z",
+  "generated": "2026-07-12T05:01:54.739Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
   "totalCount": 952,
-  "todayCount": 6,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-12_under_kacper-petas_vs_marcin-jadczyk",
@@ -84,6 +84,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
