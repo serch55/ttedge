@@ -1,31 +1,10 @@
 {
-  "generated": "2026-07-12T19:31:48.419Z",
+  "generated": "2026-07-12T20:01:50.760Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 990,
-  "todayCount": 7,
+  "totalCount": 994,
+  "todayCount": 11,
   "matches": [
-    {
-      "id": "2026-07-12_spread_jakub-glanowski_vs_konrad-staszczyk",
-      "date": "2026-07-12",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Jakub Glanowski",
-      "away": "Konrad Staszczyk",
-      "league": "TT Elite Series",
-      "time": "23:20",
-      "timeRaw": "5:20 PM",
-      "l5": 4.4,
-      "score": 65,
-      "pick": "Konrad Staszczyk",
-      "spread": -4.5,
-      "h2h": 14,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-07-12_under_michal-vavrecka_vs_tadeas-zika",
       "date": "2026-07-12",
@@ -61,6 +40,27 @@
       "l5": 60,
       "sets3": 53,
       "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_over_mariusz-adamus_vs_jaroslaw-badura",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Jaroslaw Badura",
+      "league": "TT Elite Series",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 68,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -1051,6 +1051,69 @@
       ]
     },
     {
+      "id": "2026-07-12_under_adam-staniczek_vs_grzegorz-mucha",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 79,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_spread_adam-staniczek_vs_grzegorz-mucha",
+      "date": "2026-07-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "l5": 7.6,
+      "score": 68,
+      "pick": "Grzegorz Mucha",
+      "spread": -6.5,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_spread_jakub-glanowski_vs_konrad-staszczyk",
+      "date": "2026-07-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Konrad Staszczyk",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "l5": 4.4,
+      "score": 65,
+      "pick": "Konrad Staszczyk",
+      "spread": -4.5,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-12_under_rafal-adach_vs_jakub-michalski",
       "date": "2026-07-12",
       "type": "under",
@@ -1068,6 +1131,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_over_tomas-regner_vs_jan-steffan",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Regner",
+      "away": "Jan Steffan",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
