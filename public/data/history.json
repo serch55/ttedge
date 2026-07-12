@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-12T15:32:02.140Z",
+  "generated": "2026-07-12T16:01:47.871Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 980,
-  "todayCount": 4,
+  "totalCount": 981,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-12_under_radim-pavelka_vs_pavel-fojt",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Pavelka",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_adam-staniczek_vs_henryk-tkaczyk",
       "date": "2026-07-12",
