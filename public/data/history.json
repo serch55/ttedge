@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T22:01:56.211Z",
+  "generated": "2026-07-12T22:31:46.000Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1012,
-  "todayCount": 15,
+  "totalCount": 1013,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -102,6 +102,27 @@
       "l5": 100,
       "sets3": 20,
       "score": 86,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_jaroslaw-badura_vs_sebastian-krupa",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Badura",
+      "away": "Sebastian Krupa",
+      "league": "TT Elite Series",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 67,
       "h2h": 15,
       "trend": "falling",
       "tags": [
