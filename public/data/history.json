@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-12T08:02:02.179Z",
+  "generated": "2026-07-12T08:31:57.076Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 960,
-  "todayCount": 8,
+  "totalCount": 963,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-12_over_adrian-walek_vs_samuel-byrtus",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "Samuel Byrtus",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 89,
+      "score": 67,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_radim-urbaniec_vs_jiri-ruzicka",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_over_tomas-dousek_vs_jan-szotkowski",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Dousek",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_under_artur-daniel_vs_grzegorz-felkel",
       "date": "2026-07-12",
@@ -18,7 +79,7 @@
       "pct": 73,
       "l5": 60,
       "sets3": 53,
-      "score": 67,
+      "score": 69,
       "h2h": 15,
       "trend": "falling",
       "tags": [
