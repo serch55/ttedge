@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T01:32:30.533Z",
+  "generated": "2026-07-12T02:01:57.632Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 947,
-  "todayCount": 1,
+  "totalCount": 949,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-12_under_jan-mecl-jr_vs_ales-barton",
@@ -83,6 +83,48 @@
       "score": 76,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_robert-szymik_vs_krzysztof-juszczyk",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "05:05",
+      "timeRaw": "11:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_michal-machelski_vs_artur-kubiak",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 74,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
