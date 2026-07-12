@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T10:31:48.007Z",
+  "generated": "2026-07-12T11:01:59.466Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 969,
-  "todayCount": 9,
+  "totalCount": 970,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-12_under_radim-urbaniec_vs_vojtech-svechota",
@@ -43,6 +43,28 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_spread_lukasz-bernacki_vs_michal-oracz",
+      "date": "2026-07-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Lukasz Bernacki",
+      "away": "Michal Oracz",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "l5": 8.4,
+      "score": 73,
+      "pick": "Michal Oracz",
+      "spread": -6.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -126,6 +148,7 @@
       "h2h": 9,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
