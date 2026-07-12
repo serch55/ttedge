@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-12T08:31:57.076Z",
+  "generated": "2026-07-12T09:01:55.906Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-12",
-  "totalCount": 963,
-  "todayCount": 10,
+  "totalCount": 965,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-12_over_dawid-michna_vs_krystian-kolodziej",
+      "date": "2026-07-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Michna",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "13:40",
+      "timeRaw": "7:40 AM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 93,
+      "score": 68,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-12_under_kacper-petas_vs_grzegorz-felkel",
+      "date": "2026-07-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-12_over_adrian-walek_vs_samuel-byrtus",
       "date": "2026-07-12",
