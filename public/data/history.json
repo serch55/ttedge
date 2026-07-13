@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T14:31:54.896Z",
+  "generated": "2026-07-13T15:01:59.937Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1044,
+  "totalCount": 1045,
   "todayCount": 4,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_spread_karol-strowski_vs_jakub-kwapis",
+      "date": "2026-07-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Jakub Kwapis",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "l5": 5.2,
+      "score": 73,
+      "pick": "Karol Strowski",
+      "spread": -2.5,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
