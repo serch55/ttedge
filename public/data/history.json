@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T08:32:05.293Z",
+  "generated": "2026-07-13T09:01:58.087Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1031,
-  "todayCount": 5,
+  "totalCount": 1033,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -21,6 +21,90 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_wojciech-wojtaszczyk_vs_oliver-vincenec",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 44,
+      "l5": 40,
+      "sets3": 78,
+      "score": 71,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_spread_maciej-nowalinski_vs_josef-braun",
+      "date": "2026-07-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "13:20",
+      "timeRaw": "7:20 AM",
+      "l5": 7.8,
+      "score": 69,
+      "pick": "Josef Braun",
+      "spread": -9.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_grzegorz-felkel_vs_jan-zandecki",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Felkel",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 73,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_spread_grzegorz-felkel_vs_jan-zandecki",
+      "date": "2026-07-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Grzegorz Felkel",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "l5": null,
+      "score": 68,
+      "pick": "Grzegorz Felkel",
+      "spread": -3.5,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -354,48 +438,6 @@
       "score": 72,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-13_over_grzegorz-felkel_vs_jan-zandecki",
-      "date": "2026-07-13",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Grzegorz Felkel",
-      "away": "Jan Zandecki",
-      "league": "TT Elite Series",
-      "time": "05:00",
-      "timeRaw": "11:00 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 73,
-      "score": 69,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-13_spread_grzegorz-felkel_vs_jan-zandecki",
-      "date": "2026-07-13",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Grzegorz Felkel",
-      "away": "Jan Zandecki",
-      "league": "TT Elite Series",
-      "time": "05:00",
-      "timeRaw": "11:00 PM",
-      "l5": 0.4,
-      "score": 65,
-      "pick": "Grzegorz Felkel",
-      "spread": -3.5,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
