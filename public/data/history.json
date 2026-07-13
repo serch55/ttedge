@@ -1,10 +1,134 @@
 {
-  "generated": "2026-07-13T21:31:49.585Z",
+  "generated": "2026-07-13T22:02:01.167Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-13",
-  "totalCount": 1062,
-  "todayCount": 7,
+  "lastDay": "2026-07-14",
+  "totalCount": 1068,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-14_under_wojciech-gluszek_vs_krzysztof-kotyl",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_adam-staniczek_vs_jakub-cyndera",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Jakub Cyndera",
+      "league": "TT Elite Series",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_miroslaw-warzecha_vs_adam-staniczek",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 47,
+      "score": 70,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_spread_krzysztof-kapik_vs_mateusz-rutkowski",
+      "date": "2026-07-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "l5": 4.2,
+      "score": 66,
+      "pick": "Krzysztof Kapik",
+      "spread": -2.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_daniel-tuma_vs_vladimir-cermak",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Vladimir Cermak",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 53,
+      "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_petr-picek_vs_ondrej-kucirek",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Picek",
+      "away": "Ondrej Kucirek",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-13_under_wojciech-gluszek_vs_krzysztof-kotyl",
       "date": "2026-07-13",
