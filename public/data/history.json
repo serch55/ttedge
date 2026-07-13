@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T16:01:59.497Z",
+  "generated": "2026-07-13T16:31:51.384Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1048,
-  "todayCount": 4,
+  "totalCount": 1049,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -20,6 +20,27 @@
       "sets3": 53,
       "score": 65,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_jakub-tazler_vs_michal-vondrak",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Tazler",
+      "away": "Michal Vondrak",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 36,
+      "score": 71,
+      "h2h": 11,
       "trend": "rising",
       "tags": [
         "Fatigue",
