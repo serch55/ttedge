@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T10:02:21.024Z",
+  "generated": "2026-07-13T10:31:53.219Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1038,
-  "todayCount": 11,
+  "totalCount": 1039,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -19,6 +19,27 @@
       "l5": 40,
       "sets3": 53,
       "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_maciej-nowalinski_vs_karol-wisniewski",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "14:35",
+      "timeRaw": "8:35 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 66,
       "h2h": 15,
       "trend": "rising",
       "tags": [
