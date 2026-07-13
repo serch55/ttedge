@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T03:01:47.587Z",
+  "generated": "2026-07-13T03:31:43.699Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
   "totalCount": 1022,
-  "todayCount": 11,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -152,6 +152,27 @@
       ]
     },
     {
+      "id": "2026-07-13_under_jan-potensky_vs_jiri-grohsgott",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Potensky",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "05:30",
+      "timeRaw": "11:30 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 72,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-13_over_grzegorz-felkel_vs_jan-zandecki",
       "date": "2026-07-13",
       "type": "over",
@@ -272,27 +293,6 @@
       "score": 77,
       "h2h": 11,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-13_under_jan-potensky_vs_jiri-grohsgott",
-      "date": "2026-07-13",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jan Potensky",
-      "away": "Jiri Grohsgott",
-      "league": "Czech Liga Pro",
-      "time": "04:00",
-      "timeRaw": "10:00 PM",
-      "pct": 53,
-      "l5": 80,
-      "sets3": 73,
-      "score": 68,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
