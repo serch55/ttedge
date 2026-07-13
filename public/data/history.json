@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T01:01:48.554Z",
+  "generated": "2026-07-13T01:31:51.640Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1018,
-  "todayCount": 8,
+  "totalCount": 1019,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -125,6 +125,48 @@
       "spread": -3.5,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_spread_sebastian-szostok_vs_wojciech-urban",
+      "date": "2026-07-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Sebastian Szostok",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "l5": 2.2,
+      "score": 69,
+      "pick": "Sebastian Szostok",
+      "spread": -3.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_sebastian-szostok_vs_wojciech-urban",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Szostok",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -314,27 +356,6 @@
       "score": 68,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-13_spread_sebastian-szostok_vs_wojciech-urban",
-      "date": "2026-07-13",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Sebastian Szostok",
-      "away": "Wojciech Urban",
-      "league": "TT Elite Series",
-      "time": "01:05",
-      "timeRaw": "7:05 PM",
-      "l5": 1.6,
-      "score": 67,
-      "pick": "Sebastian Szostok",
-      "spread": -3.5,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
