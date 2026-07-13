@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T16:31:51.384Z",
+  "generated": "2026-07-13T17:02:05.476Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1049,
-  "todayCount": 5,
+  "totalCount": 1050,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_zdenek-bilek_vs_jan-zajicek",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zdenek Bilek",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
