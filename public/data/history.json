@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T05:31:40.676Z",
+  "generated": "2026-07-13T06:02:23.818Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1024,
-  "todayCount": 5,
+  "totalCount": 1025,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_jakub-stolfa_vs_petr-zmuda",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Stolfa",
+      "away": "Petr Zmuda",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 77,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
