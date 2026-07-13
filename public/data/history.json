@@ -1,31 +1,10 @@
 {
-  "generated": "2026-07-13T22:31:56.565Z",
+  "generated": "2026-07-13T23:02:28.394Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
   "totalCount": 1070,
-  "todayCount": 6,
+  "todayCount": 5,
   "matches": [
-    {
-      "id": "2026-07-14_under_wojciech-gluszek_vs_krzysztof-kotyl",
-      "date": "2026-07-14",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Wojciech Gluszek",
-      "away": "Krzysztof Kotyl",
-      "league": "TT Elite Series",
-      "time": "23:45",
-      "timeRaw": "5:45 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 73,
-      "score": 66,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-07-14_under_adam-staniczek_vs_jakub-cyndera",
       "date": "2026-07-14",
@@ -63,6 +42,27 @@
       "score": 70,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_wojciech-gluszek_vs_krzysztof-kotyl",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -127,6 +127,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
