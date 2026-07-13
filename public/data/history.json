@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T17:02:05.476Z",
+  "generated": "2026-07-13T17:31:57.146Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1050,
-  "todayCount": 6,
+  "totalCount": 1051,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -21,6 +21,27 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_karol-strowski_vs_krystian-kolodziej",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 68,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -61,6 +82,27 @@
       "sets3": 36,
       "score": 71,
       "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_marcin-kowalczyk_vs_rafal-stapor",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 67,
+      "score": 67,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -185,27 +227,6 @@
       "score": 67,
       "pick": "Miroslav Sklensky",
       "spread": -2.5,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-13_over_karol-strowski_vs_krystian-kolodziej",
-      "date": "2026-07-13",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Karol Strowski",
-      "away": "Krystian Kolodziej",
-      "league": "TT Elite Series",
-      "time": "16:35",
-      "timeRaw": "10:35 AM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 93,
-      "score": 66,
       "h2h": 15,
       "trend": "",
       "tags": [
