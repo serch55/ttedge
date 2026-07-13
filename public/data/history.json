@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T12:01:56.479Z",
+  "generated": "2026-07-13T12:31:52.771Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1040,
+  "totalCount": 1042,
   "todayCount": 4,
   "matches": [
     {
@@ -19,6 +19,48 @@
       "l5": 40,
       "sets3": 53,
       "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_karol-strowski_vs_krystian-kolodziej",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_piotr-przewlocki_vs_oliver-vincenec",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 66,
       "h2h": 15,
       "trend": "rising",
       "tags": [
