@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T19:01:56.985Z",
+  "generated": "2026-07-13T19:32:00.104Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1058,
+  "totalCount": 1059,
   "todayCount": 10,
   "matches": [
     {
@@ -211,6 +211,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1234,6 +1235,26 @@
       "spread": -6.5,
       "h2h": 11,
       "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_petr-picek_vs_ondrej-kucirek",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Picek",
+      "away": "Ondrej Kucirek",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Volatile"
       ]
