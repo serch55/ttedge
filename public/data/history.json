@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T19:32:00.104Z",
+  "generated": "2026-07-13T20:02:03.740Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1059,
-  "todayCount": 10,
+  "totalCount": 1060,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -21,27 +21,6 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-13_spread_krzysztof-kapik_vs_mateusz-rutkowski",
-      "date": "2026-07-13",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Krzysztof Kapik",
-      "away": "Mateusz Rutkowski",
-      "league": "TT Elite Series",
-      "time": "23:20",
-      "timeRaw": "5:20 PM",
-      "l5": 4.2,
-      "score": 66,
-      "pick": "Krzysztof Kapik",
-      "spread": -2.5,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1137,6 +1116,27 @@
       ]
     },
     {
+      "id": "2026-07-13_spread_krzysztof-kapik_vs_mateusz-rutkowski",
+      "date": "2026-07-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "l5": 4.2,
+      "score": 66,
+      "pick": "Krzysztof Kapik",
+      "spread": -2.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-13_spread_jakub-glanowski_vs_konrad-staszczyk",
       "date": "2026-07-13",
       "type": "spread",
@@ -1175,6 +1175,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_daniel-tuma_vs_vladimir-cermak",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Vladimir Cermak",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 53,
+      "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
