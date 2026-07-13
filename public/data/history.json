@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T02:32:37.172Z",
+  "generated": "2026-07-13T03:01:47.587Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1021,
-  "todayCount": 12,
+  "totalCount": 1022,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -21,6 +21,27 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_pawel-kurek_vs_pawel-slosarczyk",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Pawel Slosarczyk",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 57,
+      "l5": 80,
+      "sets3": 71,
+      "score": 71,
+      "h2h": 14,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
