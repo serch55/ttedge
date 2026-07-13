@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T00:31:47.986Z",
+  "generated": "2026-07-13T01:01:48.554Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1016,
-  "todayCount": 6,
+  "totalCount": 1018,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -21,6 +21,47 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_rafal-skotniczny_vs_patryk-mecik",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Skotniczny",
+      "away": "Patryk Mecik",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 27,
+      "score": 82,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_grzegorz-felkel_vs_patrik-klos",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Felkel",
+      "away": "Patrik Klos",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 69,
+      "l5": 80,
+      "sets3": 69,
+      "score": 66,
+      "h2h": 13,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
