@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T12:31:52.771Z",
+  "generated": "2026-07-13T13:01:49.530Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1042,
-  "todayCount": 4,
+  "totalCount": 1044,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -21,6 +21,48 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_ondrej-svacha_vs_oleksandr-kolisnyk",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Svacha",
+      "away": "Oleksandr Kolisnyk",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_spread_miroslav-sklensky_vs_jakub-kwapis",
+      "date": "2026-07-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Jakub Kwapis",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": 3.6,
+      "score": 67,
+      "pick": "Miroslav Sklensky",
+      "spread": -2.5,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
