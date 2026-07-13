@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T15:31:49.869Z",
+  "generated": "2026-07-13T16:01:59.497Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-13",
-  "totalCount": 1045,
-  "todayCount": 1,
+  "totalCount": 1048,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-13_under_mariusz-adamus_vs_jakub-pruszkowski",
@@ -23,6 +23,68 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_piotr-gesiarz_vs_adam-staniczek",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Piotr Gesiarz",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "20:25",
+      "timeRaw": "2:25 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 60,
+      "score": 72,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_over_tomas-janata_vs_radim-pavelka",
+      "date": "2026-07-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Janata",
+      "away": "Radim Pavelka",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-13_under_jan-zajicek_vs_josef-medek",
+      "date": "2026-07-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
