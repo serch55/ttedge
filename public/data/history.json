@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-13T22:02:01.167Z",
+  "generated": "2026-07-13T22:31:56.565Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1068,
+  "totalCount": 1070,
   "todayCount": 6,
   "matches": [
     {
@@ -69,6 +69,27 @@
       ]
     },
     {
+      "id": "2026-07-14_spread_miroslaw-piecowski_vs_krzysztof-kotyl",
+      "date": "2026-07-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Piecowski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "l5": 1.2,
+      "score": 66,
+      "pick": "Krzysztof Kotyl",
+      "spread": -0.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-14_spread_krzysztof-kapik_vs_mateusz-rutkowski",
       "date": "2026-07-14",
       "type": "spread",
@@ -106,6 +127,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_over_wojciech-gluszek_vs_mikolaj-lukaszewski",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
