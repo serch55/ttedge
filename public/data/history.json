@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T23:02:28.394Z",
+  "generated": "2026-07-13T23:31:44.489Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1070,
-  "todayCount": 5,
+  "totalCount": 1071,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-14_under_adam-staniczek_vs_jakub-cyndera",
@@ -19,6 +19,27 @@
       "l5": 80,
       "sets3": 67,
       "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_wojciech-gluszek_vs_miroslaw-piecowski",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 65,
       "h2h": 15,
       "trend": "rising",
       "tags": [
