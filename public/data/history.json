@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-14T00:31:46.902Z",
+  "generated": "2026-07-14T01:01:54.138Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1073,
-  "todayCount": 6,
+  "totalCount": 1074,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-14_over_szymon-kolasa_vs_artur-grela",
@@ -60,6 +60,27 @@
       "l5": 80,
       "sets3": 67,
       "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_aleksander-barton_vs_miroslaw-warzecha",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 78,
       "h2h": 15,
       "trend": "rising",
       "tags": [
