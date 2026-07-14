@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-14T22:31:48.874Z",
+  "generated": "2026-07-14T23:01:55.811Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1128,
-  "todayCount": 9,
+  "totalCount": 1132,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-15_over_adrian-wiecek_vs_marcin-jadczyk",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "05:45",
+      "timeRaw": "11:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 73,
+      "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_under_michal-paszkiewicz_vs_robert-szymik",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Robert Szymik",
+      "league": "TT Elite Series",
+      "time": "05:10",
+      "timeRaw": "11:10 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 30,
+      "score": 66,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_over_artur-grela_vs_szymon-kolasa",
       "date": "2026-07-15",
@@ -111,6 +153,27 @@
       ]
     },
     {
+      "id": "2026-07-15_under_tomasz-wrzalik_vs_robert-szymik",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomasz Wrzalik",
+      "away": "Robert Szymik",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-15_over_jiri-grohsgott_vs_josef-pelikan",
       "date": "2026-07-15",
       "type": "over",
@@ -153,6 +216,27 @@
       ]
     },
     {
+      "id": "2026-07-15_over_jacek-przewlocki_vs_krzysztof-kotyl",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 100,
+      "score": 76,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-15_under_michal-syroha_vs_stanislav-mazanek",
       "date": "2026-07-15",
       "type": "under",
@@ -169,6 +253,7 @@
       "h2h": 13,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
