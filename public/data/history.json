@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-14T23:01:55.811Z",
+  "generated": "2026-07-14T23:31:43.120Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1132,
-  "todayCount": 12,
+  "totalCount": 1135,
+  "todayCount": 14,
   "matches": [
+    {
+      "id": "2026-07-15_under_dawid-kosmal_vs_maciej-kolek",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Kosmal",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 73,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_over_adrian-wiecek_vs_marcin-jadczyk",
       "date": "2026-07-15",
@@ -126,6 +147,69 @@
       "score": 69,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_over_jacek-przewlocki_vs_jaroslaw-rolak",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 100,
+      "score": 75,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_over_krzysztof-kotyl_vs_jaroslaw-rolak",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 77,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_under_stanislav-mazanek_vs_david-mutl",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Stanislav Mazanek",
+      "away": "David Mutl",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 84,
+      "h2h": 9,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -276,26 +360,6 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-15_over_krzysztof-kotyl_vs_jaroslaw-rolak",
-      "date": "2026-07-15",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Krzysztof Kotyl",
-      "away": "Jaroslaw Rolak",
-      "league": "TT Elite Series",
-      "time": "00:10",
-      "timeRaw": "6:10 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 100,
-      "score": 74,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue"
       ]
     },
     {
