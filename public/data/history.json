@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-14T05:01:48.428Z",
+  "generated": "2026-07-14T05:31:42.767Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1079,
-  "todayCount": 6,
+  "totalCount": 1080,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-14_over_sebastian-szostok_vs_krzysztof-hetnar",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Szostok",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 83,
+      "score": 70,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_over_aleksander-lilien_vs_bartosz-sulkowski",
       "date": "2026-07-14",
