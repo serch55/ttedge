@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-14T14:32:07.478Z",
+  "generated": "2026-07-14T15:02:32.441Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1099,
+  "totalCount": 1101,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-14_over_maciej-nowalinski_vs_krzysztof-kapik",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Krzysztof Kapik",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_over_piotr-przewlocki_vs_wojciech-urban",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "pct": 89,
+      "l5": 100,
+      "sets3": 100,
+      "score": 68,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_under_piotr-kaczynski_vs_mariusz-koczyba",
       "date": "2026-07-14",
