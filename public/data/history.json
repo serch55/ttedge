@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-14T06:01:47.327Z",
+  "generated": "2026-07-14T06:32:04.034Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1080,
+  "totalCount": 1082,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-14_over_radovan-polasek_vs_radomir-revay",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_jiri-grohsgott_vs_jan-potensky",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 76,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_over_sebastian-szostok_vs_krzysztof-hetnar",
       "date": "2026-07-14",
