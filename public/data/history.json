@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-14T13:31:59.136Z",
+  "generated": "2026-07-14T14:01:56.432Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1094,
-  "todayCount": 2,
+  "totalCount": 1096,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-14_under_maciej-nowalinski_vs_miroslav-sklensky",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Miroslav Sklensky",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_petr-bruzek_vs_tomas-regner",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_over_maksymilian-rus_vs_boguslaw-madej",
       "date": "2026-07-14",
@@ -43,7 +84,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
