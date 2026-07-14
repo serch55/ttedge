@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-14T09:31:44.894Z",
+  "generated": "2026-07-14T10:01:52.046Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1084,
-  "todayCount": 3,
+  "totalCount": 1088,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-14_over_matyas-navedla_vs_jakub-pilch",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Matyas Navedla",
+      "away": "Jakub Pilch",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_jakub-stolfa_vs_petr-zmuda",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Stolfa",
+      "away": "Petr Zmuda",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 55,
+      "l5": 40,
+      "sets3": 64,
+      "score": 70,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_miroslav-sklensky_vs_karol-wisniewski",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "13:45",
+      "timeRaw": "7:45 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 27,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_spread_miroslav-sklensky_vs_karol-wisniewski",
+      "date": "2026-07-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "13:45",
+      "timeRaw": "7:45 AM",
+      "l5": 7,
+      "score": 70,
+      "pick": "Miroslav Sklensky",
+      "spread": -10.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_over_ondrej-paril_vs_jan-szotkowski",
       "date": "2026-07-14",
