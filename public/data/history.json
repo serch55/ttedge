@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-14T09:01:49.239Z",
+  "generated": "2026-07-14T09:31:44.894Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1082,
-  "todayCount": 0,
+  "totalCount": 1084,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-14_over_ondrej-paril_vs_jan-szotkowski",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Paril",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_pawel-slosarczyk_vs_krzysztof-hetnar",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Slosarczyk",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 43,
+      "score": 87,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_jiri-svec_vs_jan-potensky",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Svec",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 73,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_over_radovan-polasek_vs_radomir-revay",
       "date": "2026-07-14",
@@ -145,27 +206,6 @@
       "score": 66,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-14_under_pawel-slosarczyk_vs_krzysztof-hetnar",
-      "date": "2026-07-14",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Pawel Slosarczyk",
-      "away": "Krzysztof Hetnar",
-      "league": "TT Elite Series",
-      "time": "07:15",
-      "timeRaw": "1:15 AM",
-      "pct": 100,
-      "l5": 100,
-      "sets3": 39,
-      "score": 87,
-      "h2h": 13,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
