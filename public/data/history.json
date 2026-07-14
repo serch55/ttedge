@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-14T00:01:47.302Z",
+  "generated": "2026-07-14T00:31:46.902Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1071,
-  "todayCount": 5,
+  "totalCount": 1073,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-14_over_szymon-kolasa_vs_artur-grela",
+      "date": "2026-07-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Kolasa",
+      "away": "Artur Grela",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_pawel-slosarczyk_vs_krzysztof-hetnar",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Slosarczyk",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 39,
+      "score": 87,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_under_adam-staniczek_vs_jakub-cyndera",
       "date": "2026-07-14",
