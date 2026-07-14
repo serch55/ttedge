@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T03:32:03.144Z",
+  "generated": "2026-07-14T04:01:53.764Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
   "totalCount": 1078,
@@ -22,7 +22,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -43,6 +42,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
