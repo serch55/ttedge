@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-14T17:32:30.761Z",
+  "generated": "2026-07-14T18:02:03.566Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1103,
-  "todayCount": 0,
+  "totalCount": 1105,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-14_under_jiri-moravek_vs_mihail-trinta",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Moravek",
+      "away": "Mihail Trinta",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 58,
+      "l5": 40,
+      "sets3": 67,
+      "score": 75,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_mikolaj-lukaszewski_vs_marcin-kowalczyk",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Marcin Kowalczyk",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-14_under_maksymilian-rus_vs_grzegorz-jurowicz",
       "date": "2026-07-14",
