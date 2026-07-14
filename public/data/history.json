@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-14T19:02:49.200Z",
+  "generated": "2026-07-14T19:32:06.431Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1109,
-  "todayCount": 4,
+  "totalCount": 1111,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-14_over_tomasz-wrzalik_vs_marian-lebek",
@@ -106,6 +106,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -965,6 +966,26 @@
       ]
     },
     {
+      "id": "2026-07-14_under_michal-syroha_vs_stanislav-mazanek",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Syroha",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 62,
+      "l5": 60,
+      "sets3": 46,
+      "score": 71,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-14_under_petr-picek_vs_ondrej-kucirek",
       "date": "2026-07-14",
       "type": "under",
@@ -981,6 +1002,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_tomas-andrle_vs_tomas-regner",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Andrle",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 58,
+      "l5": 40,
+      "sets3": 75,
+      "score": 68,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
