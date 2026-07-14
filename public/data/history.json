@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-14T10:01:52.046Z",
+  "generated": "2026-07-14T10:31:50.600Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-14",
-  "totalCount": 1088,
-  "todayCount": 6,
+  "totalCount": 1089,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-14_over_matyas-navedla_vs_jakub-pilch",
@@ -127,6 +127,27 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-14_under_rafal-stapor_vs_michal-minda",
+      "date": "2026-07-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 44,
+      "l5": 40,
+      "sets3": 56,
+      "score": 72,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
