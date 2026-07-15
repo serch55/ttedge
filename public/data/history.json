@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T16:02:09.610Z",
+  "generated": "2026-07-15T16:32:09.845Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1173,
-  "todayCount": 2,
+  "totalCount": 1174,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-15_over_tomas-janata_vs_radim-pavelka",
@@ -41,6 +41,27 @@
       "score": 66,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_over_marcin-kowalczyk_vs_bartlomiej-wisniewski",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 90,
+      "score": 66,
+      "h2h": 10,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
