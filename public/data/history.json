@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-15T12:32:03.901Z",
+  "generated": "2026-07-15T13:01:55.053Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1166,
-  "todayCount": 3,
+  "totalCount": 1168,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-15_over_patryk-jendrzejewski_vs_jakub-kuzmicz",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_under_david-szotek_vs_vitezslav-burdik",
       "date": "2026-07-15",
@@ -21,6 +42,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_under_jakub-zochniak_vs_dawid-kosmal",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 69,
+      "l5": 40,
+      "sets3": 46,
+      "score": 66,
+      "h2h": 13,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
