@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T03:31:41.795Z",
+  "generated": "2026-07-15T04:01:45.513Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1145,
-  "todayCount": 9,
+  "totalCount": 1146,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-15_over_martin-huk_vs_michal-zahradka",
@@ -61,6 +61,27 @@
       "l5": 100,
       "sets3": 87,
       "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_under_rafal-stapor_vs_karol-sulkowski",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Karol Sulkowski",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 53,
+      "score": 67,
       "h2h": 15,
       "trend": "rising",
       "tags": [
