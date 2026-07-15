@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-15T22:01:55.742Z",
+  "generated": "2026-07-15T22:31:45.164Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1193,
+  "totalCount": 1194,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-16_under_martin-huk_vs_libor-prikasky",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Libor Prikasky",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 67,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_over_jiri-ruzicka_vs_martin-huk",
       "date": "2026-07-16",
@@ -59,10 +80,10 @@
       "timeRaw": "7:55 PM",
       "pct": 73,
       "l5": 80,
-      "sets3": 80,
-      "score": 73,
+      "sets3": 87,
+      "score": 67,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
