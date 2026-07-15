@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-15T11:31:51.961Z",
+  "generated": "2026-07-15T12:02:30.757Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1165,
-  "todayCount": 6,
+  "totalCount": 1166,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-15_under_david-szotek_vs_vitezslav-burdik",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Szotek",
+      "away": "Vitezslav Burdik",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 47,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_under_michal-minda_vs_dawid-kosmal",
       "date": "2026-07-15",
