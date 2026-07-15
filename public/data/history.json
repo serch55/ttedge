@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-15T11:01:57.873Z",
+  "generated": "2026-07-15T11:31:51.961Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1164,
-  "todayCount": 5,
+  "totalCount": 1165,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-15_under_michal-minda_vs_dawid-kosmal",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "15:05",
+      "timeRaw": "9:05 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 70,
+      "score": 68,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_under_tomas-dousek_vs_tadeas-zika",
       "date": "2026-07-15",
