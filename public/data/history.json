@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T01:01:46.369Z",
+  "generated": "2026-07-15T01:31:58.978Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1139,
-  "todayCount": 12,
+  "totalCount": 1140,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-15_under_michal-oracz_vs_kacper-adamus",
@@ -126,6 +126,27 @@
       "score": 70,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_under_marian-brunner_vs_dawid-pyrek",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Brunner",
+      "away": "Dawid Pyrek",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
