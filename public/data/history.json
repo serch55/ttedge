@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-15T17:02:05.268Z",
+  "generated": "2026-07-15T17:32:05.269Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1175,
-  "todayCount": 4,
+  "totalCount": 1177,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-15_under_dawid-pyrek_vs_aleksander-barton",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Pyrek",
+      "away": "Aleksander Barton",
+      "league": "TT Elite Series",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 33,
+      "score": 68,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_spread_dawid-pyrek_vs_aleksander-barton",
+      "date": "2026-07-15",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dawid Pyrek",
+      "away": "Aleksander Barton",
+      "league": "TT Elite Series",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "l5": 9.2,
+      "score": 67,
+      "pick": "Dawid Pyrek",
+      "spread": -7.5,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_under_jiri-louda_vs_martin-sychra",
       "date": "2026-07-15",
