@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-15T09:02:11.751Z",
+  "generated": "2026-07-15T09:31:46.434Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1159,
+  "totalCount": 1160,
   "todayCount": 7,
   "matches": [
     {
@@ -126,6 +126,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_spread_libor-prikasky_vs_michal-zahradka",
+      "date": "2026-07-15",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Libor Prikasky",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "l5": 8,
+      "score": 66,
+      "pick": "Libor Prikasky",
+      "spread": -2.5,
+      "h2h": 14,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
