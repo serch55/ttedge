@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-15T09:31:46.434Z",
+  "generated": "2026-07-15T10:02:01.886Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1160,
-  "todayCount": 7,
+  "totalCount": 1161,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-15_under_jiri-ruzicka_vs_oleksandr-kolisnyk",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Oleksandr Kolisnyk",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 27,
+      "l5": 20,
+      "sets3": 87,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_over_martin-huk_vs_jiri-ruzicka",
       "date": "2026-07-15",
