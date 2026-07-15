@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-15T07:31:52.581Z",
+  "generated": "2026-07-15T08:01:51.810Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1153,
-  "todayCount": 6,
+  "totalCount": 1157,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-15_over_szymon-sporek_vs_maciej-nowalinski",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Sporek",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "12:05",
+      "timeRaw": "6:05 AM",
+      "pct": 79,
+      "l5": 100,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_over_adrian-wiecek_vs_artur-grela",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Artur Grela",
+      "league": "TT Elite Series",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_over_michael-sedlacek_vs_tomas-dousek",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Tomas Dousek",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_spread_matyas-navedla_vs_pavel-wawrosz",
+      "date": "2026-07-15",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Matyas Navedla",
+      "away": "Pavel Wawrosz",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "l5": 0.2,
+      "score": 68,
+      "pick": "Pavel Wawrosz",
+      "spread": -1.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_spread_adrian-wiecek_vs_krystian-kolodziej",
       "date": "2026-07-15",
