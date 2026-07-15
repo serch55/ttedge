@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T04:31:45.281Z",
+  "generated": "2026-07-15T05:01:54.646Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
   "totalCount": 1147,
-  "todayCount": 8,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-15_over_martin-huk_vs_michal-zahradka",
@@ -43,7 +43,6 @@
       "h2h": 12,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
