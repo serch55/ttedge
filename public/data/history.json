@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-15T13:31:55.768Z",
+  "generated": "2026-07-15T14:02:12.452Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1169,
-  "todayCount": 4,
+  "totalCount": 1171,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-15_over_kamil-smolka_vs_rafal-gajda",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Smolka",
+      "away": "Rafal Gajda",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_spread_kamil-smolka_vs_rafal-gajda",
+      "date": "2026-07-15",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Kamil Smolka",
+      "away": "Rafal Gajda",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "l5": 5.4,
+      "score": 67,
+      "pick": "Kamil Smolka",
+      "spread": -0.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_over_patryk-jendrzejewski_vs_jakub-kuzmicz",
       "date": "2026-07-15",
