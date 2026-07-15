@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T07:01:48.952Z",
+  "generated": "2026-07-15T07:31:52.581Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
   "totalCount": 1153,
-  "todayCount": 5,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-15_spread_adrian-wiecek_vs_krystian-kolodziej",
@@ -43,6 +43,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -68,6 +69,27 @@
       ]
     },
     {
+      "id": "2026-07-15_over_dawid-kosmal_vs_jakub-glanowski",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Kosmal",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "10:05",
+      "timeRaw": "4:05 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-15_under_daniel-tuma_vs_vladimir-cermak",
       "date": "2026-07-15",
       "type": "under",
@@ -84,6 +106,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -186,27 +209,6 @@
       "score": 66,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-15_over_dawid-kosmal_vs_jakub-glanowski",
-      "date": "2026-07-15",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dawid Kosmal",
-      "away": "Jakub Glanowski",
-      "league": "TT Elite Series",
-      "time": "07:35",
-      "timeRaw": "1:35 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 66,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
