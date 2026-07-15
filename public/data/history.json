@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-15T23:02:05.515Z",
+  "generated": "2026-07-15T23:31:49.657Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1195,
-  "todayCount": 8,
+  "totalCount": 1197,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-16_over_josef-braun_vs_patrik-klos",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Patrik Klos",
+      "league": "TT Elite Series",
+      "time": "05:45",
+      "timeRaw": "11:45 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_patryk-mecik_vs_marian-lebek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patryk Mecik",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "05:35",
+      "timeRaw": "11:35 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 67,
+      "score": 80,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_rafal-stapor_vs_bartosz-sulkowski",
       "date": "2026-07-16",
@@ -81,9 +122,9 @@
       "pct": 80,
       "l5": 80,
       "sets3": 80,
-      "score": 71,
+      "score": 73,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
