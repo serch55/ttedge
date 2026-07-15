@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-15T00:31:43.481Z",
+  "generated": "2026-07-15T01:01:46.369Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-15",
-  "totalCount": 1137,
-  "todayCount": 11,
+  "totalCount": 1139,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-15_under_michal-oracz_vs_kacper-adamus",
+      "date": "2026-07-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Oracz",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 33,
+      "score": 75,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-15_over_artur-grela_vs_adrian-wiecek",
+      "date": "2026-07-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Grela",
+      "away": "Adrian Wiecek",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-15_under_dawid-kosmal_vs_maciej-kolek",
       "date": "2026-07-15",
