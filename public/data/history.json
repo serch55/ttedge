@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-16T16:01:46.481Z",
+  "generated": "2026-07-16T16:31:40.474Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1242,
-  "todayCount": 7,
+  "totalCount": 1244,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-16_under_marcin-kowalczyk_vs_mikolaj-lukaszewski",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 87,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_martin-parzhizek_vs_josef-medek",
       "date": "2026-07-16",
@@ -26,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-07-16_over_kacper-adamus_vs_jakub-nowak",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 70,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-16_under_jakub-nowak_vs_wojciech-wojtaszczyk",
       "date": "2026-07-16",
       "type": "under",
@@ -42,6 +84,7 @@
       "h2h": 10,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
