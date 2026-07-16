@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T03:31:47.423Z",
+  "generated": "2026-07-16T04:02:00.848Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
   "totalCount": 1207,
-  "todayCount": 11,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-16_over_adrian-wiecek_vs_patrik-klos",
@@ -139,12 +139,12 @@
       "league": "TT Elite Series",
       "time": "07:15",
       "timeRaw": "1:15 AM",
-      "pct": 53,
+      "pct": 60,
       "l5": 60,
-      "sets3": 80,
-      "score": 66,
+      "sets3": 73,
+      "score": 70,
       "h2h": 15,
-      "trend": "",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
