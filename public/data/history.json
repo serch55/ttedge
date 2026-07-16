@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-16T22:01:39.480Z",
+  "generated": "2026-07-16T22:31:53.141Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1273,
-  "todayCount": 9,
+  "totalCount": 1277,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-17_under_jan-potensky_vs_jiri-grohsgott",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Potensky",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 60,
+      "score": 79,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_jakub-cyndera_vs_henryk-tkaczyk",
       "date": "2026-07-17",
@@ -63,6 +83,68 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_ludek-madle_vs_alexander-hejduk",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ludek Madle",
+      "away": "Alexander Hejduk",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 100,
+      "score": 69,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_spread_jaroslaw-rolak_vs_kamil-klocek",
+      "date": "2026-07-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Kamil Klocek",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "l5": 4.2,
+      "score": 69,
+      "pick": "Kamil Klocek",
+      "spread": -3.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_kacper-adamus_vs_marian-lebek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
