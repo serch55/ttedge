@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-16T20:01:37.187Z",
+  "generated": "2026-07-16T20:31:23.967Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1258,
+  "totalCount": 1261,
   "todayCount": 8,
   "matches": [
     {
@@ -1507,6 +1507,67 @@
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_over_jakub-nowak_vs_kacper-adamus",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_jacek-zelezik_vs_dariusz-molenda",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 30,
+      "score": 85,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-16_spread_jacek-zelezik_vs_dariusz-molenda",
+      "date": "2026-07-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "l5": 8,
+      "score": 67,
+      "pick": "Dariusz Molenda",
+      "spread": -9.5,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
