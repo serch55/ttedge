@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T04:31:46.681Z",
+  "generated": "2026-07-16T05:01:42.849Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1207,
-  "todayCount": 9,
+  "totalCount": 1208,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-16_over_adrian-wiecek_vs_patrik-klos",
@@ -23,6 +23,46 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_krzysztof-wloczko_vs_kamil-kurowski",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Kamil Kurowski",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 56,
+      "score": 68,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_spread_krzysztof-wloczko_vs_kamil-kurowski",
+      "date": "2026-07-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Kamil Kurowski",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "l5": 10.8,
+      "score": 68,
+      "pick": "Krzysztof Wloczko",
+      "spread": -10.5,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
@@ -151,42 +191,23 @@
       ]
     },
     {
-      "id": "2026-07-16_under_krzysztof-wloczko_vs_kamil-kurowski",
+      "id": "2026-07-16_under_henryk-tkaczyk_vs_aleksander-barton",
       "date": "2026-07-16",
       "type": "under",
       "conf": "ultra",
-      "home": "Krzysztof Wloczko",
-      "away": "Kamil Kurowski",
+      "home": "Henryk Tkaczyk",
+      "away": "Aleksander Barton",
       "league": "TT Elite Series",
-      "time": "06:25",
-      "timeRaw": "12:25 AM",
-      "pct": 78,
-      "l5": 80,
-      "sets3": 56,
-      "score": 68,
-      "h2h": 9,
-      "trend": "rising",
+      "time": "07:05",
+      "timeRaw": "1:05 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 46,
+      "score": 81,
+      "h2h": 11,
+      "trend": "falling",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-16_spread_krzysztof-wloczko_vs_kamil-kurowski",
-      "date": "2026-07-16",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Krzysztof Wloczko",
-      "away": "Kamil Kurowski",
-      "league": "TT Elite Series",
-      "time": "06:25",
-      "timeRaw": "12:25 AM",
-      "l5": 10.8,
-      "score": 68,
-      "pick": "Krzysztof Wloczko",
-      "spread": -10.5,
-      "h2h": 9,
-      "trend": "",
-      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
