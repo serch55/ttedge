@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-16T13:31:48.634Z",
+  "generated": "2026-07-16T14:01:47.962Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1233,
+  "totalCount": 1235,
   "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-16_under_tadeas-zika_vs_michal-vavrecka",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Michal Vavrecka",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_over_marcin-kowalczyk_vs_jaroslaw-rolak",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_frantisek-laburda_vs_adrian-walek",
       "date": "2026-07-16",
@@ -60,9 +102,9 @@
       "pct": 67,
       "l5": 80,
       "sets3": 73,
-      "score": 68,
+      "score": 70,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
