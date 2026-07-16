@@ -1,10 +1,194 @@
 {
-  "generated": "2026-07-16T21:31:26.539Z",
+  "generated": "2026-07-16T22:01:39.480Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-16",
-  "totalCount": 1264,
+  "lastDay": "2026-07-17",
+  "totalCount": 1273,
   "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-17_under_jakub-cyndera_vs_henryk-tkaczyk",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Cyndera",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "04:10",
+      "timeRaw": "10:10 PM",
+      "pct": 50,
+      "l5": 40,
+      "sets3": 67,
+      "score": 67,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_petr-bruzek_vs_petr-picek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 50,
+      "score": 66,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_david-mutl_vs_jan-potensky",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 55,
+      "l5": 40,
+      "sets3": 64,
+      "score": 67,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_aleksander-barton_vs_dawid-pyrek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Dawid Pyrek",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 27,
+      "score": 74,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_jan-steffan_vs_petr-bruzek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 55,
+      "l5": 80,
+      "sets3": 55,
+      "score": 66,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_jan-orszulik_vs_marian-lebek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Orszulik",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 53,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_jakub-nowak_vs_kacper-adamus",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_jacek-zelezik_vs_dariusz-molenda",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 30,
+      "score": 85,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-17_spread_jacek-zelezik_vs_dariusz-molenda",
+      "date": "2026-07-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "l5": 8,
+      "score": 67,
+      "pick": "Dariusz Molenda",
+      "spread": -9.5,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-16_under_pawel-chojnacki_vs_dariusz-molenda",
       "date": "2026-07-16",
