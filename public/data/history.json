@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-16T09:31:45.066Z",
+  "generated": "2026-07-16T10:01:53.235Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1220,
+  "totalCount": 1221,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-16_under_vladimir-cermak_vs_daniel-tuma",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vladimir Cermak",
+      "away": "Daniel Tuma",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_mariusz-baron_vs_adam-ruszkiewicz",
       "date": "2026-07-16",
