@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-16T11:31:49.901Z",
+  "generated": "2026-07-16T12:02:29.331Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1226,
-  "todayCount": 8,
+  "totalCount": 1228,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-16_over_szymon-sporek_vs_krystian-kolodziej",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Sporek",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "16:15",
+      "timeRaw": "10:15 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 78,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_jiri-louda_vs_denis-hofman",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Louda",
+      "away": "Denis Hofman",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_kacper-glazowski_vs_krystian-kolodziej",
       "date": "2026-07-16",
