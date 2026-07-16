@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-16T12:02:29.331Z",
+  "generated": "2026-07-16T12:31:46.902Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1228,
-  "todayCount": 7,
+  "totalCount": 1231,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-16_under_radovan-polasek_vs_tadeas-zika",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_spread_jiri-zuzanek_vs_marcel-pikous",
+      "date": "2026-07-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jiri Zuzanek",
+      "away": "Marcel Pikous",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "l5": 8.6,
+      "score": 66,
+      "pick": "Marcel Pikous",
+      "spread": -6.5,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_over_szymon-sporek_vs_krystian-kolodziej",
       "date": "2026-07-16",
@@ -40,6 +82,27 @@
       "l5": 40,
       "sets3": 67,
       "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_over_aleksander-lilien_vs_karol-sulkowski",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Karol Sulkowski",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 100,
+      "score": 65,
       "h2h": 15,
       "trend": "rising",
       "tags": [
