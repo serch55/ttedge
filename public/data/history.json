@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-16T14:01:47.962Z",
+  "generated": "2026-07-16T14:32:00.947Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1235,
-  "todayCount": 9,
+  "totalCount": 1237,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-16_under_krzysztof-schaniel_vs_krzysztof-hetnar",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 67,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_tadeas-zika_vs_michal-vavrecka",
       "date": "2026-07-16",
@@ -126,6 +147,27 @@
       "spread": -6.5,
       "h2h": 9,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_over_adrian-walek_vs_samuel-byrtus",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "Samuel Byrtus",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
