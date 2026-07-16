@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-16T07:01:51.514Z",
+  "generated": "2026-07-16T07:31:45.865Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1209,
-  "todayCount": 2,
+  "totalCount": 1213,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-16_under_szymon-sporek_vs_karol-wisniewski",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Szymon Sporek",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "11:45",
+      "timeRaw": "5:45 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_krzysztof-hetnar_vs_waldemar-glanowski",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Hetnar",
+      "away": "Waldemar Glanowski",
+      "league": "TT Elite Series",
+      "time": "11:05",
+      "timeRaw": "5:05 AM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 50,
+      "score": 79,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_spread_krzysztof-hetnar_vs_waldemar-glanowski",
+      "date": "2026-07-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Hetnar",
+      "away": "Waldemar Glanowski",
+      "league": "TT Elite Series",
+      "time": "11:05",
+      "timeRaw": "5:05 AM",
+      "l5": 10.6,
+      "score": 66,
+      "pick": "Krzysztof Hetnar",
+      "spread": -10.5,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_over_mariusz-adamus_vs_krzysztof-schaniel",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_over_dominik-oborny_vs_marcel-heczko",
       "date": "2026-07-16",
@@ -22,6 +106,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
