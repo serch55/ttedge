@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T05:01:42.849Z",
+  "generated": "2026-07-16T05:31:51.227Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
   "totalCount": 1208,
-  "todayCount": 10,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-16_over_adrian-wiecek_vs_patrik-klos",
@@ -36,13 +36,14 @@
       "league": "TT Elite Series",
       "time": "08:50",
       "timeRaw": "2:50 AM",
-      "pct": 78,
+      "pct": 80,
       "l5": 80,
-      "sets3": 56,
-      "score": 68,
-      "h2h": 9,
-      "trend": "rising",
+      "sets3": 50,
+      "score": 71,
+      "h2h": 10,
+      "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -56,13 +57,14 @@
       "league": "TT Elite Series",
       "time": "08:50",
       "timeRaw": "2:50 AM",
-      "l5": 10.8,
-      "score": 68,
+      "l5": 10.6,
+      "score": 71,
       "pick": "Krzysztof Wloczko",
       "spread": -10.5,
-      "h2h": 9,
+      "h2h": 10,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
