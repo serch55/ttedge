@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T19:31:45.957Z",
+  "generated": "2026-07-16T20:01:37.187Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1256,
-  "todayCount": 6,
+  "totalCount": 1258,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-16_under_pawel-chojnacki_vs_dariusz-molenda",
@@ -1444,6 +1444,47 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_aleksander-barton_vs_dawid-pyrek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Dawid Pyrek",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 27,
+      "score": 74,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_jan-steffan_vs_petr-bruzek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 55,
+      "l5": 80,
+      "sets3": 55,
+      "score": 66,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
