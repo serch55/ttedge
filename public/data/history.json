@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-16T02:31:50.618Z",
+  "generated": "2026-07-16T03:01:53.924Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1204,
-  "todayCount": 10,
+  "totalCount": 1207,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-16_over_adrian-wiecek_vs_patrik-klos",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Patrik Klos",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 92,
+      "score": 70,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_petr-danko_vs_marcel-heczko",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Danko",
+      "away": "Marcel Heczko",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 43,
+      "l5": 80,
+      "sets3": 86,
+      "score": 65,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_mariusz-baron_vs_sebastian-juzek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Sebastian Juzek",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 44,
+      "score": 72,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_krzysztof-hetnar_vs_krzysztof-schaniel",
       "date": "2026-07-16",
