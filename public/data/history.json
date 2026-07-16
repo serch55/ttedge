@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-16T15:31:32.120Z",
+  "generated": "2026-07-16T16:01:46.481Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1241,
-  "todayCount": 8,
+  "totalCount": 1242,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-16_under_martin-parzhizek_vs_josef-medek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Parzhizek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 57,
+      "l5": 60,
+      "sets3": 79,
+      "score": 68,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_jakub-nowak_vs_wojciech-wojtaszczyk",
       "date": "2026-07-16",
