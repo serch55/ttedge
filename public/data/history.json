@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T10:31:50.690Z",
+  "generated": "2026-07-16T11:01:52.704Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1224,
-  "todayCount": 8,
+  "totalCount": 1225,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-16_under_radim-urbaniec_vs_milan-klement",
@@ -21,6 +21,27 @@
       "score": 69,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_over_tadeas-zika_vs_radomir-revay",
+      "date": "2026-07-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
