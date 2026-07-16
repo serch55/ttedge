@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T18:01:43.091Z",
+  "generated": "2026-07-16T18:31:33.400Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
   "totalCount": 1251,
-  "todayCount": 9,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-16_spread_jaroslaw-rolak_vs_kamil-klocek",
@@ -105,6 +105,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -125,6 +126,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
