@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T17:01:49.061Z",
+  "generated": "2026-07-16T17:31:49.476Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1250,
-  "todayCount": 11,
+  "totalCount": 1251,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-16_spread_jaroslaw-rolak_vs_kamil-klocek",
@@ -185,6 +185,27 @@
       "score": 70,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_denis-hofman_vs_jiri-louda",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Denis Hofman",
+      "away": "Jiri Louda",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 73,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
