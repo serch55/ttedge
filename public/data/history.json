@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T21:01:41.519Z",
+  "generated": "2026-07-16T21:31:26.539Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1261,
-  "todayCount": 7,
+  "totalCount": 1264,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-16_under_pawel-chojnacki_vs_dariusz-molenda",
@@ -1343,6 +1343,46 @@
       ]
     },
     {
+      "id": "2026-07-16_under_petr-bruzek_vs_petr-picek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 50,
+      "score": 66,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_david-mutl_vs_jan-potensky",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 55,
+      "l5": 40,
+      "sets3": 64,
+      "score": 67,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-16_over_mateusz-trela_vs_adrian-fabis",
       "date": "2026-07-16",
       "type": "over",
@@ -1485,6 +1525,27 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_jan-orszulik_vs_marian-lebek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Orszulik",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 53,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
