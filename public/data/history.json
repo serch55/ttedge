@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-16T19:01:49.398Z",
+  "generated": "2026-07-16T19:31:45.957Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-16",
-  "totalCount": 1252,
-  "todayCount": 4,
+  "totalCount": 1256,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-16_under_pawel-chojnacki_vs_dariusz-molenda",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 40,
+      "score": 81,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_spread_jaroslaw-rolak_vs_kamil-klocek",
+      "date": "2026-07-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Kamil Klocek",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "l5": 8.4,
+      "score": 68,
+      "pick": "Kamil Klocek",
+      "spread": -5.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-16_under_jakub-nowak_vs_marian-lebek",
       "date": "2026-07-16",
@@ -27,24 +69,64 @@
       ]
     },
     {
-      "id": "2026-07-16_spread_jaroslaw-rolak_vs_kamil-klocek",
+      "id": "2026-07-16_under_kacper-adamus_vs_wojciech-wojtaszczyk",
       "date": "2026-07-16",
-      "type": "spread",
+      "type": "under",
       "conf": "ultra",
-      "home": "Jaroslaw Rolak",
-      "away": "Kamil Klocek",
+      "home": "Kacper Adamus",
+      "away": "Wojciech Wojtaszczyk",
       "league": "TT Elite Series",
-      "time": "21:20",
-      "timeRaw": "3:20 PM",
-      "l5": 8.4,
-      "score": 68,
-      "pick": "Kamil Klocek",
-      "spread": -5.5,
-      "h2h": 15,
-      "trend": "",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 50,
+      "score": 66,
+      "h2h": 10,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-16_under_martin-parzhizek_vs_jan-zajicek",
+      "date": "2026-07-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Parzhizek",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 90,
+      "score": 69,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-16_spread_martin-parzhizek_vs_jan-zajicek",
+      "date": "2026-07-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Parzhizek",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "l5": 2.6,
+      "score": 66,
+      "pick": "Martin Parzhizek",
+      "spread": -3.5,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
