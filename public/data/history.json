@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-17T11:31:41.830Z",
+  "generated": "2026-07-17T12:01:41.443Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1303,
-  "todayCount": 8,
+  "totalCount": 1305,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-17_under_matej-grundel_vs_david-szotek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Matej Grundel",
+      "away": "David Szotek",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 57,
+      "l5": 60,
+      "sets3": 50,
+      "score": 69,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_spread_matej-grundel_vs_david-szotek",
+      "date": "2026-07-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Matej Grundel",
+      "away": "David Szotek",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "l5": 9.6,
+      "score": 66,
+      "pick": "Matej Grundel",
+      "spread": -7.5,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_rafal-skotniczny_vs_oliver-vincenec",
       "date": "2026-07-17",
