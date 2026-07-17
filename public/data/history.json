@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-17T09:01:52.393Z",
+  "generated": "2026-07-17T09:31:38.041Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1295,
-  "todayCount": 3,
+  "totalCount": 1297,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-17_under_oskar-jadach_vs_grzegorz-jurowicz",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 80,
+      "score": 72,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_grzegorz-wichowski_vs_oliver-vincenec",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "13:05",
+      "timeRaw": "7:05 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 30,
+      "score": 75,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_over_karol-wisniewski_vs_kacper-glazowski",
       "date": "2026-07-17",
