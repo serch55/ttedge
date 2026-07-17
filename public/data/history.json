@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-17T13:31:36.658Z",
+  "generated": "2026-07-17T14:01:47.433Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1308,
-  "todayCount": 8,
+  "totalCount": 1310,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-17_under_ladislav-havel-1956_vs_miroslav-barta",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 47,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_krystian-kolodziej_vs_karol-strowski",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 72,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_over_jakub-pruszkowski_vs_rafal-skotniczny",
       "date": "2026-07-17",
