@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-17T10:01:46.911Z",
+  "generated": "2026-07-17T10:31:39.578Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1297,
-  "todayCount": 4,
+  "totalCount": 1300,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-17_over_rafal-skotniczny_vs_grzegorz-wichowski",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Skotniczny",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_jakub-pruszkowski_vs_oliver-vincenec",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "13:55",
+      "timeRaw": "7:55 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 74,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_bartosz-sulkowski_vs_aleksander-lilien",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Aleksander Lilien",
+      "league": "TT Elite Series",
+      "time": "13:50",
+      "timeRaw": "7:50 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_oskar-jadach_vs_grzegorz-jurowicz",
       "date": "2026-07-17",
@@ -20,6 +83,27 @@
       "sets3": 80,
       "score": 72,
       "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_krzysztof-kotyl_vs_jakub-zochniak",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 68,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -272,27 +356,6 @@
       "score": 74,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-17_over_jakub-pruszkowski_vs_oliver-vincenec",
-      "date": "2026-07-17",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Pruszkowski",
-      "away": "Oliver Vincenec",
-      "league": "TT Elite Series",
-      "time": "07:55",
-      "timeRaw": "1:55 AM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 80,
-      "score": 72,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
