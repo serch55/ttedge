@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-17T14:01:47.433Z",
+  "generated": "2026-07-17T14:32:00.088Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1310,
-  "todayCount": 9,
+  "totalCount": 1312,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-17_under_ivo-taichman_vs_jan-hrabec",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ivo Taichman",
+      "away": "Jan Hrabec",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 33,
+      "l5": 60,
+      "sets3": 67,
+      "score": 67,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_martin-olejnik_vs_krzysztof-wloczko",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Olejnik",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 60,
+      "score": 75,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_ladislav-havel-1956_vs_miroslav-barta",
       "date": "2026-07-17",
