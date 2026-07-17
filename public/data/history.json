@@ -1,10 +1,199 @@
 {
-  "generated": "2026-07-17T21:31:32.424Z",
+  "generated": "2026-07-17T22:01:42.883Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-17",
-  "totalCount": 1345,
-  "todayCount": 13,
+  "lastDay": "2026-07-18",
+  "totalCount": 1354,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-18_under_mateusz-rutkowski_vs_marcin-marchlewski",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "04:15",
+      "timeRaw": "10:15 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_spread_wojciech-wojtaszczyk_vs_jakub-jesiek",
+      "date": "2026-07-18",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Jakub Jesiek",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "l5": 0.8,
+      "score": 66,
+      "pick": "Jakub Jesiek",
+      "spread": -0.5,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_tomasz-filbrandt_vs_marcin-marchlewski",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 77,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_dariusz-wrobel_vs_kacper-marchlewski",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Kacper Marchlewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 64,
+      "score": 82,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_dariusz-wrobel_vs_miroslaw-piecowski",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 54,
+      "l5": 40,
+      "sets3": 77,
+      "score": 71,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_michal-wolny_vs_jacek-oracz",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Wolny",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 47,
+      "score": 81,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_robert-szymik_vs_jakub-michalski",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 40,
+      "score": 78,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_artur-kubiak_vs_cezary-pawlik",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Kubiak",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 73,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_patrik-pycha_vs_simon-kadavy",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patrik Pycha",
+      "away": "Simon Kadavy",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_michal-olbrycht_vs_krystian-kolodziej",
       "date": "2026-07-17",
