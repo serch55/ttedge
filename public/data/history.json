@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-17T23:01:38.116Z",
+  "generated": "2026-07-17T23:31:23.334Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1358,
-  "todayCount": 10,
+  "totalCount": 1361,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-18_over_aleksander-lilien_vs_maciej-kolek",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 71,
+      "l5": 100,
+      "sets3": 71,
+      "score": 67,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_dariusz-wrobel_vs_jaroslaw-rolak",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 73,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_under_mariusz-adamus_vs_pawel-slosarczyk",
       "date": "2026-07-18",
@@ -47,6 +89,27 @@
       ]
     },
     {
+      "id": "2026-07-18_under_michal-wolny_vs_cezary-pawlik",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Wolny",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 53,
+      "score": 73,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-18_under_dariusz-wrobel_vs_miroslaw-piecowski",
       "date": "2026-07-18",
       "type": "under",
@@ -80,9 +143,9 @@
       "pct": 80,
       "l5": 100,
       "sets3": 40,
-      "score": 78,
+      "score": 79,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -119,10 +182,10 @@
       "league": "TT Elite Series",
       "time": "02:20",
       "timeRaw": "8:20 PM",
-      "pct": 80,
+      "pct": 87,
       "l5": 100,
       "sets3": 93,
-      "score": 77,
+      "score": 80,
       "h2h": 15,
       "trend": "falling",
       "tags": [
