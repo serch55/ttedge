@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-17T18:31:28.697Z",
+  "generated": "2026-07-17T19:01:42.449Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1331,
-  "todayCount": 10,
+  "totalCount": 1333,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-17_under_michal-olbrycht_vs_krystian-kolodziej",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Olbrycht",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_over_krystian-kolodziej_vs_karol-strowski",
       "date": "2026-07-17",
@@ -64,6 +85,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1401,6 +1423,27 @@
       "trend": "",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_patrik-pycha_vs_simon-kadavy",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patrik Pycha",
+      "away": "Simon Kadavy",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
