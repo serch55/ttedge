@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-17T22:01:42.883Z",
+  "generated": "2026-07-17T22:31:32.061Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1354,
-  "todayCount": 11,
+  "totalCount": 1355,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-18_under_mateusz-rutkowski_vs_marcin-marchlewski",
@@ -61,6 +61,27 @@
       "l5": 100,
       "sets3": 93,
       "score": 77,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_dariusz-wrobel_vs_kamil-klocek",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Kamil Klocek",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 47,
+      "l5": 20,
+      "sets3": 73,
+      "score": 69,
       "h2h": 15,
       "trend": "falling",
       "tags": [
