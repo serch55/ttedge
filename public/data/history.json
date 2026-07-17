@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-17T21:01:41.816Z",
+  "generated": "2026-07-17T21:31:32.424Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1344,
+  "totalCount": 1345,
   "todayCount": 13,
   "matches": [
     {
@@ -83,27 +83,6 @@
       "sets3": 33,
       "score": 79,
       "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-17_under_dariusz-wrobel_vs_kacper-marchlewski",
-      "date": "2026-07-17",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Dariusz Wrobel",
-      "away": "Kacper Marchlewski",
-      "league": "TT Elite Series",
-      "time": "23:00",
-      "timeRaw": "5:00 PM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 60,
-      "score": 80,
-      "h2h": 10,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -1533,6 +1512,48 @@
       ]
     },
     {
+      "id": "2026-07-17_under_dariusz-wrobel_vs_kacper-marchlewski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Kacper Marchlewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 60,
+      "score": 80,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_dariusz-wrobel_vs_miroslaw-piecowski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 54,
+      "l5": 40,
+      "sets3": 77,
+      "score": 71,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-17_over_jakub-nowak_vs_kacper-adamus",
       "date": "2026-07-17",
       "type": "over",
@@ -1566,9 +1587,9 @@
       "pct": 80,
       "l5": 100,
       "sets3": 47,
-      "score": 80,
+      "score": 81,
       "h2h": 15,
-      "trend": "",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
