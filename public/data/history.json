@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-17T16:01:47.881Z",
+  "generated": "2026-07-17T16:31:39.446Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1321,
-  "todayCount": 10,
+  "totalCount": 1323,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-17_over_jakub-kuzmicz_vs_karol-strowski",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 72,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_adam-ruszkiewicz_vs_jakub-michalski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 78,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_marcin-marchlewski_vs_krystian-kolodziej",
       "date": "2026-07-17",
@@ -148,6 +189,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
