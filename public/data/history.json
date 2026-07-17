@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-17T03:31:45.266Z",
+  "generated": "2026-07-17T04:01:36.956Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1287,
-  "todayCount": 9,
+  "totalCount": 1289,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-17_spread_maciej-nowalinski_vs_grzegorz-poliniewicz",
+      "date": "2026-07-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "l5": 2,
+      "score": 70,
+      "pick": "Maciej Nowalinski",
+      "spread": -0.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_krzysztof-wloczko_vs_martin-olejnik",
       "date": "2026-07-17",
@@ -168,6 +189,27 @@
       "spread": -8.5,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_jacek-zelezik_vs_pawel-chojnacki",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "06:20",
+      "timeRaw": "12:20 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 74,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
