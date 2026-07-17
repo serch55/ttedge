@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-17T19:01:42.449Z",
+  "generated": "2026-07-17T19:31:42.165Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1333,
+  "totalCount": 1338,
   "todayCount": 11,
   "matches": [
     {
@@ -21,6 +21,90 @@
       "score": 68,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_roman-wiza_vs_jakub-michalski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_robert-szymik_vs_adam-ruszkiewicz",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "23:05",
+      "timeRaw": "5:05 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 33,
+      "score": 79,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_dariusz-wrobel_vs_kacper-marchlewski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Kacper Marchlewski",
+      "league": "TT Elite Series",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 60,
+      "score": 80,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_jakub-michalski_vs_damian-fira",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Michalski",
+      "away": "Damian Fira",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1423,6 +1507,27 @@
       "trend": "",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_tomasz-filbrandt_vs_marcin-marchlewski",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "00:05",
+      "timeRaw": "6:05 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 77,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
