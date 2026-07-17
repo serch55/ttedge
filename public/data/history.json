@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-17T12:01:41.443Z",
+  "generated": "2026-07-17T12:31:42.510Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1305,
+  "totalCount": 1307,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-17_under_vaclav-kosar_vs_ladislav-havel-1956",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vaclav Kosar",
+      "away": "Ladislav Havel 1956",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 53,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_spread_oskar-jadach_vs_rafal-skotniczny",
+      "date": "2026-07-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Rafal Skotniczny",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "l5": 7,
+      "score": 68,
+      "pick": "Rafal Skotniczny",
+      "spread": -7.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_matej-grundel_vs_david-szotek",
       "date": "2026-07-17",
