@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-17T20:32:00.245Z",
+  "generated": "2026-07-17T21:01:41.816Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1341,
-  "todayCount": 4,
+  "totalCount": 1344,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-17_under_michal-olbrycht_vs_krystian-kolodziej",
@@ -1428,6 +1428,27 @@
       ]
     },
     {
+      "id": "2026-07-17_under_mateusz-rutkowski_vs_marcin-marchlewski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-17_spread_jaroslaw-rolak_vs_kamil-klocek",
       "date": "2026-07-17",
       "type": "spread",
@@ -1533,6 +1554,27 @@
       ]
     },
     {
+      "id": "2026-07-17_under_michal-wolny_vs_jacek-oracz",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Wolny",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 47,
+      "score": 80,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-17_under_jacek-zelezik_vs_dariusz-molenda",
       "date": "2026-07-17",
       "type": "under",
@@ -1570,6 +1612,27 @@
       "trend": "",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_robert-szymik_vs_jakub-michalski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 40,
+      "score": 78,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
