@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-17T07:31:32.599Z",
+  "generated": "2026-07-17T08:01:42.537Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1293,
+  "totalCount": 1294,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-17_under_ivan-kolenciak_vs_ivo-palmi",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ivan Kolenciak",
+      "away": "Ivo Palmi",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 75,
+      "score": 65,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_spread_bartosz-sulkowski_vs_jakub-zochniak",
       "date": "2026-07-17",
