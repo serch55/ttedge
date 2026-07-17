@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-17T05:01:47.779Z",
+  "generated": "2026-07-17T05:31:25.110Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1290,
+  "totalCount": 1291,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-17_under_tomas-vinter_vs_jiri-zuzanek",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Vinter",
+      "away": "Jiri Zuzanek",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 80,
+      "score": 74,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_under_michal-regner_vs_milan-klement",
       "date": "2026-07-17",
@@ -58,9 +79,9 @@
       "time": "08:55",
       "timeRaw": "2:55 AM",
       "pct": 80,
-      "l5": 100,
+      "l5": 80,
       "sets3": 47,
-      "score": 75,
+      "score": 78,
       "h2h": 15,
       "trend": "rising",
       "tags": [
