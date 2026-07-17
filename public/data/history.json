@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-17T15:31:30.859Z",
+  "generated": "2026-07-17T16:01:47.881Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1318,
+  "totalCount": 1321,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-17_under_marcin-marchlewski_vs_krystian-kolodziej",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "20:05",
+      "timeRaw": "2:05 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 27,
+      "score": 77,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_marek-volny_vs_jakub-levicky",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Volny",
+      "away": "Jakub Levicky",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_over_tomasz-filbrandt_vs_karol-strowski",
+      "date": "2026-07-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 68,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-17_over_marcin-marchlewski_vs_tomasz-filbrandt",
       "date": "2026-07-17",
