@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-17T02:01:40.143Z",
+  "generated": "2026-07-17T02:31:39.210Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-17",
-  "totalCount": 1284,
-  "todayCount": 9,
+  "totalCount": 1286,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-17_over_martin-huk_vs_oleksandr-kolisnyk",
@@ -81,6 +81,48 @@
       "l5": 5.4,
       "score": 66,
       "pick": "Dawid Pyrek",
+      "spread": -8.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_under_jakub-zochniak_vs_karol-sulkowski",
+      "date": "2026-07-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Karol Sulkowski",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 47,
+      "score": 75,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-17_spread_jakub-zochniak_vs_karol-sulkowski",
+      "date": "2026-07-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Karol Sulkowski",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "l5": 13.6,
+      "score": 66,
+      "pick": "Jakub Zochniak",
       "spread": -8.5,
       "h2h": 15,
       "trend": "",
