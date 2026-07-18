@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-18T14:31:25.723Z",
+  "generated": "2026-07-18T15:01:41.113Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1397,
-  "todayCount": 5,
+  "totalCount": 1398,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-18_under_mateusz-rutkowski_vs_krzysztof-wloczko",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 60,
+      "score": 74,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_over_filip-witczak_vs_daniel-morawiec",
       "date": "2026-07-18",
