@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T20:31:40.847Z",
+  "generated": "2026-07-18T21:01:43.036Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1408,
+  "totalCount": 1409,
   "todayCount": 5,
   "matches": [
     {
@@ -1050,6 +1050,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_radek-bartunek_vs_petr-picek",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
