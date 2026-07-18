@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T05:31:39.495Z",
+  "generated": "2026-07-18T06:01:42.172Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1378,
-  "todayCount": 12,
+  "totalCount": 1379,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-18_over_petr-osvald_vs_ivo-taichman",
@@ -43,6 +43,27 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_rafal-wojcik_vs_lukasz-oracz",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Wojcik",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 72,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
