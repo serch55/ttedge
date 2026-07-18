@@ -1,31 +1,10 @@
 {
-  "generated": "2026-07-18T19:31:25.265Z",
+  "generated": "2026-07-18T20:01:38.810Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1407,
-  "todayCount": 5,
+  "totalCount": 1408,
+  "todayCount": 7,
   "matches": [
-    {
-      "id": "2026-07-18_under_marcin-marchlewski_vs_filip-mlynarski",
-      "date": "2026-07-18",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Marcin Marchlewski",
-      "away": "Filip Mlynarski",
-      "league": "TT Elite Series",
-      "time": "23:00",
-      "timeRaw": "5:00 PM",
-      "pct": 91,
-      "l5": 80,
-      "sets3": 46,
-      "score": 75,
-      "h2h": 11,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-07-18_under_jakub-stolfa_vs_dmitro-parhomenko",
       "date": "2026-07-18",
@@ -1201,6 +1180,27 @@
       ]
     },
     {
+      "id": "2026-07-18_under_marcin-marchlewski_vs_filip-mlynarski",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "01:15",
+      "timeRaw": "7:15 PM",
+      "pct": 91,
+      "l5": 80,
+      "sets3": 46,
+      "score": 75,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-18_under_michal-regner_vs_milan-klement",
       "date": "2026-07-18",
       "type": "under",
@@ -1212,6 +1212,26 @@
       "timeRaw": "7:00 PM",
       "pct": 47,
       "l5": 60,
+      "sets3": 80,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_ales-barton_vs_jiri-ruzicka",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Barton",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 33,
+      "l5": 40,
       "sets3": 80,
       "score": 70,
       "h2h": 15,
