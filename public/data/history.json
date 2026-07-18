@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T03:01:42.922Z",
+  "generated": "2026-07-18T03:31:23.820Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1372,
-  "todayCount": 11,
+  "totalCount": 1373,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-18_under_michal-syroha_vs_jiri-grohsgott",
@@ -65,6 +65,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_spread_maciej-kolek_vs_adam-linek",
+      "date": "2026-07-18",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "l5": 2,
+      "score": 66,
+      "pick": "Maciej Kolek",
+      "spread": -3.5,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
