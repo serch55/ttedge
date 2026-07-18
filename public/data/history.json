@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-18T04:31:21.526Z",
+  "generated": "2026-07-18T05:02:10.333Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1375,
-  "todayCount": 11,
+  "totalCount": 1376,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-18_over_adam-linek_vs_michal-minda",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_under_michal-syroha_vs_jiri-grohsgott",
       "date": "2026-07-18",
@@ -81,9 +102,30 @@
       "pct": 87,
       "l5": 80,
       "sets3": 93,
-      "score": 69,
+      "score": 71,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_spread_krzysztof-kotyl_vs_jaroslaw-rolak",
+      "date": "2026-07-18",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "l5": 7.2,
+      "score": 68,
+      "pick": "Krzysztof Kotyl",
+      "spread": -3.5,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -190,6 +232,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -207,27 +250,6 @@
       "l5": 60,
       "sets3": 67,
       "score": 68,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-18_over_adam-linek_vs_michal-minda",
-      "date": "2026-07-18",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Adam Linek",
-      "away": "Michal Minda",
-      "league": "TT Elite Series",
-      "time": "06:25",
-      "timeRaw": "12:25 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 93,
-      "score": 66,
       "h2h": 15,
       "trend": "falling",
       "tags": [
