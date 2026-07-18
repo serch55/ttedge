@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-18T07:31:29.372Z",
+  "generated": "2026-07-18T08:01:36.680Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1387,
-  "todayCount": 13,
+  "totalCount": 1388,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-18_over_lukasz-oracz_vs_mariusz-baron",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukasz Oracz",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "11:55",
+      "timeRaw": "5:55 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_under_grzegorz-felkel_vs_adrian-spychala",
       "date": "2026-07-18",
