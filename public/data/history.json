@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-18T22:01:43.980Z",
+  "generated": "2026-07-18T22:31:28.859Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1417,
-  "todayCount": 6,
+  "totalCount": 1418,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-19_spread_adam-svoboda_vs_petr-picek",
+      "date": "2026-07-19",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Adam Svoboda",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "l5": null,
+      "score": 65,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_radek-bartunek_vs_petr-picek",
       "date": "2026-07-19",
