@@ -1,10 +1,93 @@
 {
-  "generated": "2026-07-18T06:01:42.172Z",
+  "generated": "2026-07-18T06:31:25.709Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1379,
+  "totalCount": 1382,
   "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-18_over_oskar-jadach_vs_wojciech-urban",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "10:10",
+      "timeRaw": "4:10 AM",
+      "pct": 91,
+      "l5": 100,
+      "sets3": 91,
+      "score": 70,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_aleksander-lilien_vs_adam-linek",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "10:05",
+      "timeRaw": "4:05 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_petr-bruzek_vs_tomas-regner",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 47,
+      "score": 72,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_vaclav-hruska-sr_vs_michal-syroha",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vaclav Hruska Sr",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 73,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_over_petr-osvald_vs_ivo-taichman",
       "date": "2026-07-18",
@@ -272,27 +355,6 @@
       "score": 71,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-18_over_aleksander-lilien_vs_adam-linek",
-      "date": "2026-07-18",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Aleksander Lilien",
-      "away": "Adam Linek",
-      "league": "TT Elite Series",
-      "time": "07:35",
-      "timeRaw": "1:35 AM",
-      "pct": 67,
-      "l5": 100,
-      "sets3": 80,
-      "score": 72,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
