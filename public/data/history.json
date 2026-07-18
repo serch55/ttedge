@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-17T23:31:23.334Z",
+  "generated": "2026-07-18T00:01:40.484Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1361,
+  "totalCount": 1362,
   "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-18_over_adam-linek_vs_michal-minda",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_over_aleksander-lilien_vs_maciej-kolek",
       "date": "2026-07-18",
