@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T09:02:14.423Z",
+  "generated": "2026-07-18T09:31:28.765Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1389,
-  "todayCount": 6,
+  "totalCount": 1390,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-18_under_ladislav-havel-1956_vs_miroslav-barta",
@@ -21,6 +21,27 @@
       "score": 69,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_rafal-wojcik_vs_mariusz-baron",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Wojcik",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "12:40",
+      "timeRaw": "6:40 AM",
+      "pct": 86,
+      "l5": 100,
+      "sets3": 86,
+      "score": 76,
+      "h2h": 14,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
