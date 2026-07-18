@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T01:31:24.263Z",
+  "generated": "2026-07-18T02:01:33.821Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1366,
+  "totalCount": 1367,
   "todayCount": 8,
   "matches": [
     {
@@ -63,6 +63,27 @@
       "score": 67,
       "h2h": 14,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_krzysztof-kotyl_vs_jaroslaw-rolak",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
