@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T22:31:28.859Z",
+  "generated": "2026-07-18T23:01:47.287Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
   "totalCount": 1418,
-  "todayCount": 7,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-19_spread_adam-svoboda_vs_petr-picek",
@@ -43,6 +43,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -105,6 +106,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -125,6 +127,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
