@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T04:01:40.838Z",
+  "generated": "2026-07-18T04:31:21.526Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1373,
-  "todayCount": 7,
+  "totalCount": 1375,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-18_under_michal-syroha_vs_jiri-grohsgott",
@@ -48,6 +48,48 @@
       ]
     },
     {
+      "id": "2026-07-18_over_aleksander-lilien_vs_maciej-kolek",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 71,
+      "l5": 100,
+      "sets3": 71,
+      "score": 67,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_krzysztof-kotyl_vs_jaroslaw-rolak",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-18_under_ivo-taichman_vs_tomas-kraninger",
       "date": "2026-07-18",
       "type": "under",
@@ -63,6 +105,69 @@
       "score": 67,
       "h2h": 10,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_michal-minda_vs_maciej-kolek",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 93,
+      "score": 75,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_dariusz-wrobel_vs_jaroslaw-rolak",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_aleksander-lilien_vs_adam-linek",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 72,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -131,48 +236,6 @@
       ]
     },
     {
-      "id": "2026-07-18_over_aleksander-lilien_vs_maciej-kolek",
-      "date": "2026-07-18",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Aleksander Lilien",
-      "away": "Maciej Kolek",
-      "league": "TT Elite Series",
-      "time": "06:00",
-      "timeRaw": "12:00 AM",
-      "pct": 71,
-      "l5": 100,
-      "sets3": 71,
-      "score": 67,
-      "h2h": 14,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-18_over_krzysztof-kotyl_vs_jaroslaw-rolak",
-      "date": "2026-07-18",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Krzysztof Kotyl",
-      "away": "Jaroslaw Rolak",
-      "league": "TT Elite Series",
-      "time": "05:50",
-      "timeRaw": "11:50 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 93,
-      "score": 69,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-07-18_under_jakub-michalski_vs_roman-wiza",
       "date": "2026-07-18",
       "type": "under",
@@ -188,27 +251,6 @@
       "score": 68,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-18_over_dariusz-wrobel_vs_jaroslaw-rolak",
-      "date": "2026-07-18",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Dariusz Wrobel",
-      "away": "Jaroslaw Rolak",
-      "league": "TT Elite Series",
-      "time": "05:25",
-      "timeRaw": "11:25 PM",
-      "pct": 60,
-      "l5": 100,
-      "sets3": 73,
-      "score": 67,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
