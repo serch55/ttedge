@@ -1,10 +1,133 @@
 {
-  "generated": "2026-07-18T21:31:29.496Z",
+  "generated": "2026-07-18T22:01:43.980Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-18",
-  "totalCount": 1411,
+  "lastDay": "2026-07-19",
+  "totalCount": 1417,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-19_under_radek-bartunek_vs_petr-picek",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_oliver-vincenec_vs_rafal-adach",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Rafal Adach",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 69,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_marcin-marchlewski_vs_filip-mlynarski",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "01:15",
+      "timeRaw": "7:15 PM",
+      "pct": 83,
+      "l5": 60,
+      "sets3": 50,
+      "score": 77,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_michal-regner_vs_milan-klement",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Regner",
+      "away": "Milan Klement",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 80,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_ales-barton_vs_jiri-ruzicka",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Barton",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 33,
+      "l5": 40,
+      "sets3": 80,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_henryk-tkaczyk_vs_jacek-oracz",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_under_jakub-stolfa_vs_dmitro-parhomenko",
       "date": "2026-07-18",
