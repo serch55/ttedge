@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T19:01:36.835Z",
+  "generated": "2026-07-18T19:31:25.265Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1405,
-  "todayCount": 4,
+  "totalCount": 1407,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-18_under_marcin-marchlewski_vs_filip-mlynarski",
@@ -63,6 +63,27 @@
       "score": 76,
       "h2h": 10,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_spread_filip-mlynarski_vs_krzysztof-wloczko",
+      "date": "2026-07-18",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "22:05",
+      "timeRaw": "4:05 PM",
+      "l5": 3.6,
+      "score": 65,
+      "pick": "Krzysztof Wloczko",
+      "spread": -4.5,
+      "h2h": 9,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1176,6 +1197,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_michal-regner_vs_milan-klement",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Regner",
+      "away": "Milan Klement",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 80,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
