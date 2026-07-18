@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-18T21:01:43.036Z",
+  "generated": "2026-07-18T21:31:29.496Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1409,
-  "todayCount": 5,
+  "totalCount": 1411,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-18_under_jakub-stolfa_vs_dmitro-parhomenko",
@@ -1179,6 +1179,27 @@
       ]
     },
     {
+      "id": "2026-07-18_under_oliver-vincenec_vs_rafal-adach",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Rafal Adach",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 69,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-18_under_dariusz-wrobel_vs_kacper-marchlewski",
       "date": "2026-07-18",
       "type": "under",
@@ -1276,6 +1297,27 @@
       "score": 81,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_under_henryk-tkaczyk_vs_jacek-oracz",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
