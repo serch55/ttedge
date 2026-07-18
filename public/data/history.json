@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-18T23:01:47.287Z",
+  "generated": "2026-07-18T23:31:54.530Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1418,
+  "totalCount": 1421,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-19_under_igor-dabrowski_vs_maciej-kolek",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 40,
+      "l5": 60,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_oskar-jadach_vs_witold-buczynski",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 60,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_spread_adam-svoboda_vs_petr-picek",
       "date": "2026-07-19",
@@ -20,6 +62,27 @@
       "pick": "",
       "spread": null,
       "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_spread_kyryl-darin_vs_petr-picek",
+      "date": "2026-07-19",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Kyryl Darin",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "l5": null,
+      "score": 66,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
       "trend": "",
       "tags": [
         "Fatigue",
