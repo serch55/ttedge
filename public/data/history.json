@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-18T06:31:25.709Z",
+  "generated": "2026-07-18T07:01:47.966Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1382,
-  "todayCount": 11,
+  "totalCount": 1383,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-18_under_bartlomiej-wisniewski_vs_jakub-wozniak",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Bartlomiej Wisniewski",
+      "away": "Jakub Wozniak",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 31,
+      "l5": 40,
+      "sets3": 77,
+      "score": 69,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-18_over_michal-minda_vs_maciej-kolek",
+      "date": "2026-07-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 78,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_over_oskar-jadach_vs_wojciech-urban",
       "date": "2026-07-18",
@@ -313,27 +355,6 @@
       "score": 67,
       "h2h": 10,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-18_over_michal-minda_vs_maciej-kolek",
-      "date": "2026-07-18",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Michal Minda",
-      "away": "Maciej Kolek",
-      "league": "TT Elite Series",
-      "time": "08:00",
-      "timeRaw": "2:00 AM",
-      "pct": 86,
-      "l5": 80,
-      "sets3": 93,
-      "score": 75,
-      "h2h": 14,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
