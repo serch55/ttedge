@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-18T08:01:36.680Z",
+  "generated": "2026-07-18T08:31:33.001Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-18",
-  "totalCount": 1388,
-  "todayCount": 11,
+  "totalCount": 1389,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-18_under_ladislav-havel-1956_vs_miroslav-barta",
+      "date": "2026-07-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-18_over_lukasz-oracz_vs_mariusz-baron",
       "date": "2026-07-18",
