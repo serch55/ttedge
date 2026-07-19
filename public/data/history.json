@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-19T14:31:32.055Z",
+  "generated": "2026-07-19T15:01:39.481Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1455,
-  "todayCount": 8,
+  "totalCount": 1456,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-19_over_adam-linek_vs_jakub-zochniak",
+      "date": "2026-07-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_jakub-skorupa_vs_pawel-chojnacki",
       "date": "2026-07-19",
@@ -63,6 +83,7 @@
       "h2h": 9,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -83,7 +104,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
