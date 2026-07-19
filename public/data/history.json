@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T13:01:46.403Z",
+  "generated": "2026-07-19T13:31:27.852Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
   "totalCount": 1452,
-  "todayCount": 6,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-19_over_adam-linek_vs_aleksander-lilien",
@@ -137,14 +137,14 @@
       "home": "Milan Smesny",
       "away": "Jaroslav Strnad 1961",
       "league": "Czech Liga Pro",
-      "time": "14:30",
-      "timeRaw": "8:30 AM",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
       "pct": 60,
       "l5": 80,
-      "sets3": 80,
-      "score": 61,
+      "sets3": 73,
+      "score": 62,
       "h2h": 15,
-      "trend": "",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
