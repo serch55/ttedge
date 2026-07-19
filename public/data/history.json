@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-19T12:01:42.001Z",
+  "generated": "2026-07-19T12:31:25.003Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1447,
-  "todayCount": 3,
+  "totalCount": 1450,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-19_under_tibor-spanik_vs_grzegorz-felkel",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tibor Spanik",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_over_daniel-tyn_vs_michal-kaspar",
+      "date": "2026-07-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Daniel Tyn",
+      "away": "Michal Kaspar",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 77,
+      "l5": 80,
+      "sets3": 92,
+      "score": 56,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_frantisek-briza_vs_tibor-kolenic",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Frantisek Briza",
+      "away": "Tibor Kolenic",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_jiri-ruzicka_vs_oleksandr-kolisnyk",
       "date": "2026-07-19",
