@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-19T10:01:37.707Z",
+  "generated": "2026-07-19T10:31:25.116Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1442,
-  "todayCount": 6,
+  "totalCount": 1447,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-19_under_milan-smesny_vs_jaroslav-strnad-1961",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milan Smesny",
+      "away": "Jaroslav Strnad 1961",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_over_martin-huk_vs_jiri-ruzicka",
       "date": "2026-07-19",
@@ -48,6 +68,27 @@
       ]
     },
     {
+      "id": "2026-07-19_under_stanislaw-wnek_vs_rafal-stapor",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "12:55",
+      "timeRaw": "6:55 AM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-19_under_adrian-spychala_vs_grzegorz-felkel",
       "date": "2026-07-19",
       "type": "under",
@@ -69,6 +110,48 @@
       ]
     },
     {
+      "id": "2026-07-19_under_tadeusz-piotrowski_vs_bartlomiej-wisniewski",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeusz Piotrowski",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_spread_tadeusz-piotrowski_vs_bartlomiej-wisniewski",
+      "date": "2026-07-19",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Tadeusz Piotrowski",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-19_under_jiri-ruzicka_vs_oleksandr-kolisnyk",
       "date": "2026-07-19",
       "type": "under",
@@ -80,6 +163,27 @@
       "timeRaw": "6:30 AM",
       "pct": 27,
       "l5": 40,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_maciej-kolek_vs_igor-dabrowski",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 47,
+      "l5": 100,
       "sets3": 87,
       "score": 62,
       "h2h": 15,
