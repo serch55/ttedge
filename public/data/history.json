@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T22:31:31.374Z",
+  "generated": "2026-07-19T23:02:19.617Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1481,
-  "todayCount": 7,
+  "totalCount": 1482,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -63,6 +63,27 @@
       "score": 64,
       "h2h": 9,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_spread_jakub-jesiek_vs_sebastian-krupa",
+      "date": "2026-07-20",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Jesiek",
+      "away": "Sebastian Krupa",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "l5": null,
+      "score": 61,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
