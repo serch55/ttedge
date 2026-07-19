@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T00:01:43.008Z",
+  "generated": "2026-07-19T00:31:25.636Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1422,
-  "todayCount": 6,
+  "totalCount": 1423,
+  "todayCount": 2,
   "matches": [
     {
       "id": "2026-07-19_under_grzegorz-felkel_vs_adrian-spychala",
@@ -104,6 +104,27 @@
       "pick": "",
       "spread": null,
       "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_artur-kubiak_vs_oskar-jedrzejowski",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Kubiak",
+      "away": "Oskar Jedrzejowski",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 64,
+      "score": 68,
+      "h2h": 11,
       "trend": "",
       "tags": [
         "Fatigue",
