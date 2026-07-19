@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T03:01:52.059Z",
+  "generated": "2026-07-19T03:31:28.838Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1425,
-  "todayCount": 4,
+  "totalCount": 1426,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-19_under_jan-pleskot_vs_martin-tacinec",
@@ -18,6 +18,27 @@
       "pct": 53,
       "l5": 80,
       "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_igor-dabrowski_vs_tadeusz-piotrowski",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Tadeusz Piotrowski",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 60,
       "score": 62,
       "h2h": 15,
       "trend": "falling",
