@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-19T01:02:11.517Z",
+  "generated": "2026-07-19T01:31:31.362Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1423,
-  "todayCount": 2,
+  "totalCount": 1425,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-19_under_jan-pleskot_vs_martin-tacinec",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Martin Tacinec",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_grzegorz-felkel_vs_adrian-spychala",
       "date": "2026-07-19",
@@ -18,7 +39,7 @@
       "pct": 73,
       "l5": 80,
       "sets3": 53,
-      "score": 70,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -39,7 +60,7 @@
       "pct": 40,
       "l5": 60,
       "sets3": 87,
-      "score": 65,
+      "score": 60,
       "h2h": 15,
       "trend": "",
       "tags": [
@@ -60,7 +81,7 @@
       "pct": 60,
       "l5": 100,
       "sets3": 60,
-      "score": 66,
+      "score": 61,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -100,7 +121,7 @@
       "time": "04:30",
       "timeRaw": "10:30 PM",
       "l5": null,
-      "score": 66,
+      "score": 56,
       "pick": "",
       "spread": null,
       "h2h": 14,
@@ -125,6 +146,27 @@
       "sets3": 64,
       "score": 68,
       "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_oliver-vincenec_vs_mariusz-adamus",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Mariusz Adamus",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
       "trend": "",
       "tags": [
         "Fatigue",
