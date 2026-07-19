@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T23:02:19.617Z",
+  "generated": "2026-07-19T23:31:31.104Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1482,
-  "todayCount": 2,
+  "totalCount": 1484,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,48 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_krzysztof-hetnar_vs_rafal-idaczyk",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Hetnar",
+      "away": "Rafal Idaczyk",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_witold-stechly_vs_janus-slawomir",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Janus Slawomir",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 46,
+      "l5": 60,
+      "sets3": 64,
+      "score": 68,
+      "h2h": 11,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -105,7 +147,9 @@
       "score": 78,
       "h2h": 15,
       "trend": "falling",
-      "tags": []
+      "tags": [
+        "Fatigue"
+      ]
     },
     {
       "id": "2026-07-20_under_pawel-chojnacki_vs_jakub-skorupa",
