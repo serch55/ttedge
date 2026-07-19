@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T10:31:25.116Z",
+  "generated": "2026-07-19T11:01:38.953Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
   "totalCount": 1447,
-  "todayCount": 9,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-19_under_milan-smesny_vs_jaroslav-strnad-1961",
@@ -22,6 +22,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
