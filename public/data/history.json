@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-18T23:31:54.530Z",
+  "generated": "2026-07-19T00:01:43.008Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1421,
+  "totalCount": 1422,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-19_under_grzegorz-felkel_vs_adrian-spychala",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Felkel",
+      "away": "Adrian Spychala",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 53,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_igor-dabrowski_vs_maciej-kolek",
       "date": "2026-07-19",
