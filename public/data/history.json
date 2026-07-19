@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-19T04:01:47.035Z",
+  "generated": "2026-07-19T04:31:44.812Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1426,
+  "totalCount": 1427,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-19_under_roman-guliak_vs_milan-jasek",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Guliak",
+      "away": "Milan Jasek",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_jan-pleskot_vs_martin-tacinec",
       "date": "2026-07-19",
