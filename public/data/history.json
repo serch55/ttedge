@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-19T14:01:38.494Z",
+  "generated": "2026-07-19T14:31:32.055Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1454,
+  "totalCount": 1455,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-19_under_jakub-skorupa_vs_pawel-chojnacki",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_jakub-jesiek_vs_jaroslaw-badura",
       "date": "2026-07-19",
