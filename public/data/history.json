@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-19T08:31:40.333Z",
+  "generated": "2026-07-19T09:01:40.750Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1440,
-  "todayCount": 9,
+  "totalCount": 1441,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-19_under_oskar-jadach_vs_marian-lebek",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 83,
+      "score": 61,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_adrian-spychala_vs_grzegorz-felkel",
       "date": "2026-07-19",
