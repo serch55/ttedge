@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T20:01:41.220Z",
+  "generated": "2026-07-19T20:31:37.091Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1469,
-  "todayCount": 4,
+  "totalCount": 1471,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-19_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -1061,6 +1061,45 @@
       "score": 70,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_jan-potensky_vs_josef-pelikan",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Potensky",
+      "away": "Josef Pelikan",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 13,
+      "score": 78,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": []
+    },
+    {
+      "id": "2026-07-19_under_pawel-chojnacki_vs_jakub-skorupa",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
