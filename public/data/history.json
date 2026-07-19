@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-19T13:31:27.852Z",
+  "generated": "2026-07-19T14:01:38.494Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1452,
-  "todayCount": 7,
+  "totalCount": 1454,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-19_under_jakub-jesiek_vs_jaroslaw-badura",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Jesiek",
+      "away": "Jaroslaw Badura",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_spread_michal-kaspar_vs_zbynek-zientek",
+      "date": "2026-07-19",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Kaspar",
+      "away": "Zbynek Zientek",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_over_adam-linek_vs_aleksander-lilien",
       "date": "2026-07-19",
