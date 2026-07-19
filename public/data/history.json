@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T03:31:28.838Z",
+  "generated": "2026-07-19T04:01:47.035Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
   "totalCount": 1426,
-  "todayCount": 5,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-19_under_jan-pleskot_vs_martin-tacinec",
@@ -22,7 +22,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
