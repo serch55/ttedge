@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-19T17:01:34.678Z",
+  "generated": "2026-07-19T17:31:30.444Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1464,
-  "todayCount": 7,
+  "totalCount": 1467,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-19_under_michal-cabis_vs_ondrej-paril",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Cabis",
+      "away": "Ondrej Paril",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_dominik-oborny_vs_radomir-vavrecka",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dominik Oborny",
+      "away": "Radomir Vavrecka",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 82,
+      "l5": 60,
+      "sets3": 36,
+      "score": 69,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_daniel-tuma_vs_tomas-vinter",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Tomas Vinter",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_over_jakub-kuzmicz_vs_maciej-nowalinski",
       "date": "2026-07-19",
