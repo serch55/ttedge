@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T20:31:37.091Z",
+  "generated": "2026-07-19T21:01:35.963Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1471,
-  "todayCount": 6,
+  "totalCount": 1472,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-19_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -1060,6 +1060,27 @@
       "sets3": 67,
       "score": 70,
       "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_jiri-grohsgott_vs_ladislav-havel-1956",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Ladislav Havel 1956",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 78,
+      "l5": 60,
+      "sets3": 44,
+      "score": 64,
+      "h2h": 9,
       "trend": "falling",
       "tags": [
         "Fatigue",
