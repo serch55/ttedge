@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-19T12:31:25.003Z",
+  "generated": "2026-07-19T13:01:46.403Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1450,
-  "todayCount": 5,
+  "totalCount": 1452,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-19_over_adam-linek_vs_aleksander-lilien",
+      "date": "2026-07-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Aleksander Lilien",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-19_under_jiri-grohsgott_vs_vaclav-hruska-sr",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Vaclav Hruska Sr",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_tibor-spanik_vs_grzegorz-felkel",
       "date": "2026-07-19",
