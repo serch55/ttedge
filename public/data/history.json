@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-19T05:01:45.145Z",
+  "generated": "2026-07-19T05:31:35.803Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-19",
-  "totalCount": 1427,
-  "todayCount": 2,
+  "totalCount": 1428,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-19_under_witold-buczynski_vs_marian-lebek",
+      "date": "2026-07-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Witold Buczynski",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 50,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-19_under_roman-guliak_vs_milan-jasek",
       "date": "2026-07-19",
