@@ -1,10 +1,135 @@
 {
-  "generated": "2026-07-20T21:31:38.682Z",
+  "generated": "2026-07-20T22:01:43.662Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-20",
-  "totalCount": 1537,
-  "todayCount": 5,
+  "lastDay": "2026-07-21",
+  "totalCount": 1543,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-21_over_michal-krutak_vs_henryk-tkaczyk",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "04:10",
+      "timeRaw": "10:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 55,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_rotislav-hasmanda_vs_mihail-trinta",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rotislav Hasmanda",
+      "away": "Mihail Trinta",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_kacper-adamus_vs_wojciech-wojtaszczyk",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 82,
+      "l5": 60,
+      "sets3": 46,
+      "score": 62,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_julius-didi_vs_martin-stefek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Julius Didi",
+      "away": "Martin Stefek",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_miroslaw-warzecha_vs_kazimierz-rybak",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Kazimierz Rybak",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 75,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_radek-bartunek_vs_lubor-sulava",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Lubor Sulava",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 65,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
       "date": "2026-07-20",
