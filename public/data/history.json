@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T13:31:38.558Z",
+  "generated": "2026-07-20T14:02:10.035Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1521,
-  "todayCount": 8,
+  "totalCount": 1526,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -23,6 +23,107 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_jakub-cyndera_vs_adam-staniczek",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Cyndera",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_jerzy-pelka_vs_grzegorz-wichowski",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Pelka",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_tadeas-zika_vs_tomas-dousek",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Tomas Dousek",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_zdenek-bilek_vs_josef-medek",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zdenek Bilek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_jacek-zelezik_vs_henryk-tkaczyk",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
