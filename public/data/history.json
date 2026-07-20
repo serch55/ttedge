@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T17:31:25.843Z",
+  "generated": "2026-07-20T18:01:45.757Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1530,
-  "todayCount": 4,
+  "totalCount": 1531,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,27 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_martin-parzhizek_vs_josef-medek",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Parzhizek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 57,
+      "l5": 60,
+      "sets3": 86,
+      "score": 62,
+      "h2h": 14,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
