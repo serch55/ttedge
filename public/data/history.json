@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T21:01:38.936Z",
+  "generated": "2026-07-20T21:31:38.682Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1536,
-  "todayCount": 3,
+  "totalCount": 1537,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -290,26 +290,6 @@
       "sets3": 40,
       "score": 63,
       "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-20_under_miroslaw-warzecha_vs_kazimierz-rybak",
-      "date": "2026-07-20",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Miroslaw Warzecha",
-      "away": "Kazimierz Rybak",
-      "league": "TT Elite Series",
-      "time": "17:10",
-      "timeRaw": "11:10 AM",
-      "pct": 78,
-      "l5": 60,
-      "sets3": 44,
-      "score": 74,
-      "h2h": 9,
       "trend": "rising",
       "tags": [
         "Volatile"
@@ -1238,6 +1218,27 @@
       ]
     },
     {
+      "id": "2026-07-20_under_kacper-adamus_vs_wojciech-wojtaszczyk",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 82,
+      "l5": 60,
+      "sets3": 46,
+      "score": 62,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-20_under_julius-didi_vs_martin-stefek",
       "date": "2026-07-20",
       "type": "under",
@@ -1273,6 +1274,27 @@
       "score": 64,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_miroslaw-warzecha_vs_kazimierz-rybak",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Kazimierz Rybak",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 75,
+      "h2h": 10,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
