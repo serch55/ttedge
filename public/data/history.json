@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-20T04:31:22.859Z",
+  "generated": "2026-07-20T05:01:44.104Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1494,
+  "totalCount": 1495,
   "todayCount": 9,
   "matches": [
     {
@@ -20,6 +20,27 @@
       "sets3": 71,
       "score": 61,
       "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_maciej-nowalinski_vs_szymon-sporek",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Nowalinski",
+      "away": "Szymon Sporek",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -65,6 +86,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_kacper-szurlej_vs_jakub-chmielowski",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Szurlej",
+      "away": "Jakub Chmielowski",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 89,
+      "score": 60,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
@@ -120,12 +161,12 @@
       "league": "TT Elite Series",
       "time": "08:05",
       "timeRaw": "2:05 AM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 36,
-      "score": 61,
-      "h2h": 11,
-      "trend": "falling",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 42,
+      "score": 62,
+      "h2h": 12,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -142,10 +183,10 @@
       "time": "08:05",
       "timeRaw": "2:05 AM",
       "l5": null,
-      "score": 59,
+      "score": 62,
       "pick": "",
       "spread": null,
-      "h2h": 11,
+      "h2h": 12,
       "trend": "",
       "tags": [
         "Fatigue",
@@ -191,26 +232,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-20_over_kacper-szurlej_vs_jakub-chmielowski",
-      "date": "2026-07-20",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kacper Szurlej",
-      "away": "Jakub Chmielowski",
-      "league": "TT Elite Series",
-      "time": "06:25",
-      "timeRaw": "12:25 AM",
-      "pct": 78,
-      "l5": 80,
-      "sets3": 89,
-      "score": 60,
-      "h2h": 9,
-      "trend": "",
-      "tags": [
         "Volatile"
       ]
     },
