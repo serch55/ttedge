@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T08:01:50.676Z",
+  "generated": "2026-07-20T08:31:30.981Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1505,
-  "todayCount": 9,
+  "totalCount": 1506,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-07-20_under_alexandr-virag_vs_daniel-tyn",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Alexandr Virag",
+      "away": "Daniel Tyn",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 44,
+      "l5": 60,
+      "sets3": 67,
+      "score": 69,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-20_over_maciej-nowalinski_vs_szymon-sporek",
       "date": "2026-07-20",
       "type": "over",
@@ -39,9 +60,9 @@
       "pct": 80,
       "l5": 100,
       "sets3": 93,
-      "score": 58,
+      "score": 60,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
