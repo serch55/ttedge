@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T14:31:37.340Z",
+  "generated": "2026-07-20T15:01:50.144Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1526,
-  "todayCount": 10,
+  "totalCount": 1527,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_artur-kubiak_vs_jacek-zelezik",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Kubiak",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
@@ -84,6 +104,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -104,6 +125,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
