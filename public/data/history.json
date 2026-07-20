@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T08:31:30.981Z",
+  "generated": "2026-07-20T09:01:46.456Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1506,
-  "todayCount": 8,
+  "totalCount": 1508,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,69 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_pawel-adamus_vs_oliver-vincenec",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Adamus",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 92,
+      "l5": 100,
+      "sets3": 92,
+      "score": 63,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_zbynek-zientek_vs_alexandr-virag",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Zbynek Zientek",
+      "away": "Alexandr Virag",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 56,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_miroslav-sklensky_vs_karol-wisniewski",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "12:55",
+      "timeRaw": "6:55 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 27,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -420,27 +483,6 @@
       "spread": null,
       "h2h": 12,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-20_over_pawel-adamus_vs_oliver-vincenec",
-      "date": "2026-07-20",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Pawel Adamus",
-      "away": "Oliver Vincenec",
-      "league": "TT Elite Series",
-      "time": "06:55",
-      "timeRaw": "12:55 AM",
-      "pct": 92,
-      "l5": 100,
-      "sets3": 92,
-      "score": 61,
-      "h2h": 12,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
