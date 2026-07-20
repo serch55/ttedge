@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T19:32:22.452Z",
+  "generated": "2026-07-20T20:01:50.655Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1533,
-  "todayCount": 0,
+  "totalCount": 1535,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -1217,6 +1217,26 @@
       ]
     },
     {
+      "id": "2026-07-20_under_julius-didi_vs_martin-stefek",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Julius Didi",
+      "away": "Martin Stefek",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-20_under_jakub-skorupa_vs_zbigniew-nocun",
       "date": "2026-07-20",
       "type": "under",
@@ -1253,6 +1273,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_radek-bartunek_vs_lubor-sulava",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Lubor Sulava",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 65,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
