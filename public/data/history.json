@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T17:01:49.221Z",
+  "generated": "2026-07-20T17:31:25.843Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1529,
-  "todayCount": 3,
+  "totalCount": 1530,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -20,6 +20,27 @@
       "sets3": 71,
       "score": 61,
       "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_kuba-golaszewski_vs_stanislaw-wnek",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kuba Golaszewski",
+      "away": "Stanislaw Wnek",
+      "league": "TT Elite Series",
+      "time": "21:20",
+      "timeRaw": "3:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 63,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
