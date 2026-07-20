@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T05:01:44.104Z",
+  "generated": "2026-07-20T05:31:24.477Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1495,
-  "todayCount": 9,
+  "totalCount": 1497,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-07-20_over_milan-vrabec_vs_ludek-madle",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milan Vrabec",
+      "away": "Ludek Madle",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 77,
+      "l5": 100,
+      "sets3": 92,
+      "score": 62,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-20_over_maciej-nowalinski_vs_szymon-sporek",
       "date": "2026-07-20",
       "type": "over",
@@ -41,6 +62,27 @@
       "sets3": 93,
       "score": 58,
       "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_michal-wolny_vs_janus-slawomir",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Wolny",
+      "away": "Janus Slawomir",
+      "league": "TT Elite Series",
+      "time": "09:10",
+      "timeRaw": "3:10 AM",
+      "pct": 55,
+      "l5": 40,
+      "sets3": 46,
+      "score": 64,
+      "h2h": 11,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -99,13 +141,14 @@
       "league": "TT Elite Series",
       "time": "08:50",
       "timeRaw": "2:50 AM",
-      "pct": 78,
+      "pct": 80,
       "l5": 80,
-      "sets3": 89,
-      "score": 60,
-      "h2h": 9,
-      "trend": "",
+      "sets3": 90,
+      "score": 62,
+      "h2h": 10,
+      "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
