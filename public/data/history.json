@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T23:31:31.104Z",
+  "generated": "2026-07-20T01:32:31.738Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1484,
-  "todayCount": 7,
+  "totalCount": 1487,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,48 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_jakub-pruszkowski_vs_oliver-vincenec",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_pawel-adamus_vs_oliver-vincenec",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Adamus",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 92,
+      "l5": 100,
+      "sets3": 92,
+      "score": 61,
+      "h2h": 12,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -84,6 +126,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_gracjan-kesik_vs_aleksander-lilien",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Gracjan Kesik",
+      "away": "Aleksander Lilien",
+      "league": "TT Elite Series",
+      "time": "03:25",
+      "timeRaw": "9:25 PM",
+      "pct": 75,
+      "l5": 80,
+      "sets3": 75,
+      "score": 57,
+      "h2h": 12,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
