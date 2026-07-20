@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T11:01:40.820Z",
+  "generated": "2026-07-20T11:31:36.093Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1514,
-  "todayCount": 10,
+  "totalCount": 1515,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -166,6 +166,27 @@
       "l5": 60,
       "sets3": 73,
       "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_mihail-trinta_vs_rotislav-hasmanda",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Rotislav Hasmanda",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 80,
+      "score": 61,
       "h2h": 15,
       "trend": "rising",
       "tags": [
