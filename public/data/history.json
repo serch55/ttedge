@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T16:31:37.490Z",
+  "generated": "2026-07-20T17:01:49.221Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1528,
-  "todayCount": 2,
+  "totalCount": 1529,
+  "todayCount": 3,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_pavel-fojt_vs_tomas-dousa",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
