@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T01:32:31.738Z",
+  "generated": "2026-07-20T02:01:42.818Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1487,
-  "todayCount": 6,
+  "totalCount": 1489,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -107,6 +107,46 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_krzysztof-kotyl_vs_artur-sobel",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 36,
+      "score": 61,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_spread_krzysztof-kotyl_vs_artur-sobel",
+      "date": "2026-07-20",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
