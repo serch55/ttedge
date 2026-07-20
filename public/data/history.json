@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T12:02:19.020Z",
+  "generated": "2026-07-20T12:31:35.662Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1517,
-  "todayCount": 8,
+  "totalCount": 1520,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,48 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_jiri-ruzicka_vs_jan-simecek",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Jan Simecek",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_michal-vavrecka_vs_tadeas-zika",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Vavrecka",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -60,6 +102,27 @@
       "l5": 80,
       "sets3": 53,
       "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_jakub-glanowski_vs_artur-sobel",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 93,
+      "score": 62,
       "h2h": 15,
       "trend": "falling",
       "tags": [
