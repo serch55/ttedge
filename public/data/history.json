@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T10:31:31.526Z",
+  "generated": "2026-07-20T11:01:40.820Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1509,
-  "todayCount": 6,
+  "totalCount": 1514,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,111 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_karol-strowski_vs_szymon-sporek",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Szymon Sporek",
+      "league": "TT Elite Series",
+      "time": "14:55",
+      "timeRaw": "8:55 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_jakub-kaczmarek_vs_pawel-adamus",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Pawel Adamus",
+      "league": "TT Elite Series",
+      "time": "14:40",
+      "timeRaw": "8:40 AM",
+      "pct": 44,
+      "l5": 40,
+      "sets3": 56,
+      "score": 62,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_spread_jakub-kaczmarek_vs_pawel-adamus",
+      "date": "2026-07-20",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Pawel Adamus",
+      "league": "TT Elite Series",
+      "time": "14:40",
+      "timeRaw": "8:40 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_lukas-martinec_vs_jiri-motak",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Martinec",
+      "away": "Jiri Motak",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 46,
+      "score": 76,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_spread_lukas-martinec_vs_jiri-motak",
+      "date": "2026-07-20",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Lukas Martinec",
+      "away": "Jiri Motak",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 11,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
