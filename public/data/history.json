@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T12:31:35.662Z",
+  "generated": "2026-07-20T13:02:09.705Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
   "totalCount": 1520,
-  "todayCount": 10,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -21,6 +21,27 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_over_jakub-pruszkowski_vs_oliver-vincenec",
+      "date": "2026-07-20",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -669,27 +690,6 @@
       "l5": 60,
       "sets3": 47,
       "score": 61,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-20_over_jakub-pruszkowski_vs_oliver-vincenec",
-      "date": "2026-07-20",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Pruszkowski",
-      "away": "Oliver Vincenec",
-      "league": "TT Elite Series",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 80,
-      "score": 65,
       "h2h": 15,
       "trend": "falling",
       "tags": [
