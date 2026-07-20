@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T03:31:27.339Z",
+  "generated": "2026-07-20T04:01:37.634Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1492,
-  "todayCount": 9,
+  "totalCount": 1493,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -104,6 +104,27 @@
       "score": 61,
       "h2h": 12,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_janus-slawomir_vs_jerzy-michalik",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Janus Slawomir",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
