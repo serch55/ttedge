@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T02:31:57.967Z",
+  "generated": "2026-07-20T03:01:45.281Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-20",
-  "totalCount": 1490,
-  "todayCount": 7,
+  "totalCount": 1492,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-20_under_wojciech-urban_vs_pawel-slosarczyk",
@@ -23,6 +23,47 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_under_tibor-spanik_vs_patrik-klos",
+      "date": "2026-07-20",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tibor Spanik",
+      "away": "Patrik Klos",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 50,
+      "l5": 80,
+      "sets3": 71,
+      "score": 62,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-20_spread_krzysztof-hetnar_vs_jakub-pruszkowski",
+      "date": "2026-07-20",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Hetnar",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
@@ -126,7 +167,6 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
