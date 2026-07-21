@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T22:01:39.660Z",
+  "generated": "2026-07-21T22:31:34.658Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1617,
+  "totalCount": 1618,
   "todayCount": 6,
   "matches": [
     {
@@ -82,6 +82,27 @@
       "sets3": 46,
       "score": 64,
       "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_grzegorz-marud_vs_lukasz-oracz",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
