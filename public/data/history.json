@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T04:31:31.681Z",
+  "generated": "2026-07-21T05:02:01.539Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
   "totalCount": 1560,
@@ -26,6 +26,48 @@
       ]
     },
     {
+      "id": "2026-07-21_under_blazej-warpas_vs_kamil-klocek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Blazej Warpas",
+      "away": "Kamil Klocek",
+      "league": "TT Elite Series",
+      "time": "08:50",
+      "timeRaw": "2:50 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_kamil-rudomina_vs_igor-dabrowski",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-21_over_kacper-szurlej_vs_jakub-chmielowski",
       "date": "2026-07-21",
       "type": "over",
@@ -35,12 +77,12 @@
       "league": "TT Elite Series",
       "time": "08:25",
       "timeRaw": "2:25 AM",
-      "pct": 82,
-      "l5": 80,
-      "sets3": 91,
-      "score": 65,
-      "h2h": 11,
-      "trend": "rising",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 92,
+      "score": 67,
+      "h2h": 12,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -141,48 +183,6 @@
       "score": 66,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-21_under_blazej-warpas_vs_kamil-klocek",
-      "date": "2026-07-21",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Blazej Warpas",
-      "away": "Kamil Klocek",
-      "league": "TT Elite Series",
-      "time": "06:25",
-      "timeRaw": "12:25 AM",
-      "pct": 53,
-      "l5": 80,
-      "sets3": 60,
-      "score": 61,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-21_over_kamil-rudomina_vs_igor-dabrowski",
-      "date": "2026-07-21",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kamil Rudomina",
-      "away": "Igor Dabrowski",
-      "league": "TT Elite Series",
-      "time": "06:10",
-      "timeRaw": "12:10 AM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 73,
-      "score": 60,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
