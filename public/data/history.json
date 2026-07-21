@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-21T08:31:40.464Z",
+  "generated": "2026-07-21T09:01:42.265Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
   "totalCount": 1572,
-  "todayCount": 8,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-21_under_jakub-nowak_vs_pawel-kurek",
@@ -15,11 +15,11 @@
       "league": "TT Elite Series",
       "time": "12:35",
       "timeRaw": "6:35 AM",
-      "pct": 36,
-      "l5": 60,
-      "sets3": 86,
-      "score": 62,
-      "h2h": 14,
+      "pct": 40,
+      "l5": 80,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
