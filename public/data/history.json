@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-21T09:01:42.265Z",
+  "generated": "2026-07-21T09:31:31.151Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1572,
-  "todayCount": 7,
+  "totalCount": 1574,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-21_under_jakub-nowak_vs_pawel-kurek",
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_maciej-kolek_vs_michal-minda",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 69,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
@@ -123,6 +143,27 @@
       "l5": 100,
       "sets3": 93,
       "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_milan-smesny_vs_cesta-havrda",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milan Smesny",
+      "away": "Cesta Havrda",
+      "league": "Czech Liga Pro",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 56,
       "h2h": 15,
       "trend": "",
       "tags": [
