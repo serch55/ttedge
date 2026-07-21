@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-21T23:01:41.518Z",
+  "generated": "2026-07-21T23:31:32.196Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1620,
-  "todayCount": 8,
+  "totalCount": 1622,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-22_spread_josef-braun_vs_krzysztof-wloczko",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "l5": null,
+      "score": 62,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_under_wojciech-urban_vs_marek-tkocz",
       "date": "2026-07-22",
@@ -42,6 +63,27 @@
       "score": 78,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_oliver-vincenec_vs_robert-szymik",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Robert Szymik",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 58,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 12,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
