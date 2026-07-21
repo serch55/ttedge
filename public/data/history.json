@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-21T19:03:27.665Z",
+  "generated": "2026-07-21T19:31:29.130Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1604,
-  "todayCount": 11,
+  "totalCount": 1607,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-21_spread_marian-brunner_vs_dariusz-molenda",
+      "date": "2026-07-21",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Marian Brunner",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_over_jaroslaw-rolak_vs_krzysztof-kotyl",
       "date": "2026-07-21",
@@ -48,6 +69,27 @@
       ]
     },
     {
+      "id": "2026-07-21_under_grzegorz-marud_vs_wojciech-pytlas",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Wojciech Pytlas",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-21_spread_matej-volf_vs_martin-sobisek",
       "date": "2026-07-21",
       "type": "spread",
@@ -64,6 +106,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -84,6 +127,7 @@
       "h2h": 12,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -125,6 +169,7 @@
       "h2h": 9,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1369,6 +1414,27 @@
       "score": 75,
       "h2h": 10,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_spread_martin-sobisek_vs_matej-volf",
+      "date": "2026-07-21",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Sobisek",
+      "away": "Matej Volf",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
