@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-21T12:01:42.787Z",
+  "generated": "2026-07-21T12:31:37.709Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1575,
-  "todayCount": 1,
+  "totalCount": 1576,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-21_under_vaclav-hruska-sr_vs_jiri-grohsgott",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vaclav Hruska Sr",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_martin-olejnik_vs_krzysztof-wloczko",
       "date": "2026-07-21",
