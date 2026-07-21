@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T20:01:54.360Z",
+  "generated": "2026-07-21T20:31:31.516Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1608,
+  "totalCount": 1610,
   "todayCount": 9,
   "matches": [
     {
@@ -1357,6 +1357,27 @@
       ]
     },
     {
+      "id": "2026-07-21_spread_daniel-tuma_vs_martin-sobisek",
+      "date": "2026-07-21",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Martin Sobisek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-21_under_miroslaw-warzecha_vs_adam-staniczek",
       "date": "2026-07-21",
       "type": "under",
@@ -1393,6 +1414,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_ales-bayer_vs_matej-volf",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Matej Volf",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 46,
+      "score": 64,
+      "h2h": 11,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
