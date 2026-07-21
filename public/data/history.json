@@ -1,10 +1,71 @@
 {
-  "generated": "2026-07-21T16:31:42.499Z",
+  "generated": "2026-07-21T17:01:55.519Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1592,
-  "todayCount": 9,
+  "totalCount": 1595,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-21_under_grzegorz-marud_vs_sebastian-krupa",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Sebastian Krupa",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 33,
+      "score": 62,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_marcel-heczko_vs_dominik-oborny",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcel Heczko",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 40,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_matej-volf_vs_ales-bayer",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Matej Volf",
+      "away": "Ales Bayer",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 50,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_over_dominik-oborny_vs_tomas-milota",
       "date": "2026-07-21",
