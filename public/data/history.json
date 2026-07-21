@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-21T10:01:54.016Z",
+  "generated": "2026-07-21T10:31:36.363Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
   "totalCount": 1575,
-  "todayCount": 7,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-21_under_kyryl-darin_vs_michal-vedmoch",
@@ -64,6 +64,7 @@
       "h2h": 14,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
