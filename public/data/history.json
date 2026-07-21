@@ -1,10 +1,113 @@
 {
-  "generated": "2026-07-21T16:02:28.034Z",
+  "generated": "2026-07-21T16:31:42.499Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1586,
-  "todayCount": 2,
+  "totalCount": 1592,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-21_over_dominik-oborny_vs_tomas-milota",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dominik Oborny",
+      "away": "Tomas Milota",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_milan-jasek_vs_roman-guliak",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milan Jasek",
+      "away": "Roman Guliak",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_josef-medek_vs_jan-zajicek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Josef Medek",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_sebastian-krupa_vs_wojciech-pytlas",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Wojciech Pytlas",
+      "league": "TT Elite Series",
+      "time": "20:25",
+      "timeRaw": "2:25 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 60,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_dariusz-szlubowski_vs_jaroslaw-rolak",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Szlubowski",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "20:10",
+      "timeRaw": "2:10 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_over_krystian-kolodziej_vs_maciej-nowalinski",
       "date": "2026-07-21",
@@ -19,6 +122,27 @@
       "l5": 80,
       "sets3": 87,
       "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_stanislaw-wnek_vs_wojciech-gluszek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Wojciech Gluszek",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 40,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
