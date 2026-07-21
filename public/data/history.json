@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-21T08:01:45.089Z",
+  "generated": "2026-07-21T08:31:40.464Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1570,
-  "todayCount": 6,
+  "totalCount": 1572,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-21_under_jakub-nowak_vs_pawel-kurek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Pawel Kurek",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 36,
+      "l5": 60,
+      "sets3": 86,
+      "score": 62,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_jan-szotkowski_vs_michal-vavrecka",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Szotkowski",
+      "away": "Michal Vavrecka",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 82,
+      "score": 60,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_jakub-chmielowski_vs_grzegorz-poliniewicz",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Chmielowski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_szymon-sporek_vs_krzysztof-wloczko",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Sporek",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "12:25",
+      "timeRaw": "6:25 AM",
+      "pct": 70,
+      "l5": 100,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_jiri-grohsgott_vs_vaclav-hruska-sr",
       "date": "2026-07-21",
@@ -89,27 +173,6 @@
       ]
     },
     {
-      "id": "2026-07-21_under_jakub-nowak_vs_pawel-kurek",
-      "date": "2026-07-21",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Pawel Kurek",
-      "league": "TT Elite Series",
-      "time": "10:10",
-      "timeRaw": "4:10 AM",
-      "pct": 36,
-      "l5": 60,
-      "sets3": 86,
-      "score": 62,
-      "h2h": 14,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-07-21_over_adam-ruszkiewicz_vs_mariusz-adamus",
       "date": "2026-07-21",
       "type": "over",
@@ -186,27 +249,6 @@
       "l5": 60,
       "sets3": 33,
       "score": 62,
-      "h2h": 9,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-21_over_szymon-sporek_vs_krzysztof-wloczko",
-      "date": "2026-07-21",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Szymon Sporek",
-      "away": "Krzysztof Wloczko",
-      "league": "TT Elite Series",
-      "time": "09:20",
-      "timeRaw": "3:20 AM",
-      "pct": 67,
-      "l5": 100,
-      "sets3": 78,
-      "score": 58,
       "h2h": 9,
       "trend": "rising",
       "tags": [
