@@ -1,10 +1,92 @@
 {
-  "generated": "2026-07-21T04:01:50.504Z",
+  "generated": "2026-07-21T04:31:31.681Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1557,
-  "todayCount": 7,
+  "totalCount": 1560,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-21_under_kyryl-darin_vs_filip-jungman",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kyryl Darin",
+      "away": "Filip Jungman",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 78,
+      "score": 66,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_kacper-szurlej_vs_jakub-chmielowski",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Szurlej",
+      "away": "Jakub Chmielowski",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 91,
+      "score": 65,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_mariusz-adamus_vs_oskar-jadach",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_boguslaw-madej_vs_maksymilian-rus",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Boguslaw Madej",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "08:20",
+      "timeRaw": "2:20 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_tomas-varnuska_vs_dmitro-parhomenko",
       "date": "2026-07-21",
@@ -123,27 +205,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-21_over_kacper-szurlej_vs_jakub-chmielowski",
-      "date": "2026-07-21",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kacper Szurlej",
-      "away": "Jakub Chmielowski",
-      "league": "TT Elite Series",
-      "time": "06:00",
-      "timeRaw": "12:00 AM",
-      "pct": 82,
-      "l5": 80,
-      "sets3": 91,
-      "score": 65,
-      "h2h": 11,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
