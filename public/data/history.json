@@ -1,10 +1,135 @@
 {
-  "generated": "2026-07-21T21:31:35.380Z",
+  "generated": "2026-07-21T22:01:39.660Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-21",
-  "totalCount": 1611,
-  "todayCount": 7,
+  "lastDay": "2026-07-22",
+  "totalCount": 1617,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-22_under_josef-pelikan_vs_jan-potensky",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Josef Pelikan",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 20,
+      "score": 78,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_jerzy-michalik_vs_jakub-skorupa",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jerzy Michalik",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_daniel-tuma_vs_martin-sobisek",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Martin Sobisek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_ales-bayer_vs_matej-volf",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Matej Volf",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 46,
+      "score": 64,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_wojciech-gluszek_vs_mikolaj-lukaszewski",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_martin-sobisek_vs_matej-volf",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Sobisek",
+      "away": "Matej Volf",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_grzegorz-marud_vs_marek-tkocz",
       "date": "2026-07-21",
