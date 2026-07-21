@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-21T14:02:11.366Z",
+  "generated": "2026-07-21T14:31:31.909Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1581,
+  "totalCount": 1582,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-21_under_martin-skotnica_vs_david-szotek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Skotnica",
+      "away": "David Szotek",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 64,
+      "score": 60,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_over_marcin-kowalczyk_vs_jaroslaw-rolak",
       "date": "2026-07-21",
