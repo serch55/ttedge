@@ -1,10 +1,92 @@
 {
-  "generated": "2026-07-21T12:31:37.709Z",
+  "generated": "2026-07-21T13:01:55.490Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1576,
-  "todayCount": 2,
+  "totalCount": 1580,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-21_over_martin-huk_vs_vojtech-svechota",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Vojtech Svechota",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_stanislaw-wnek_vs_kuba-golaszewski",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Stanislaw Wnek",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_jan-pleskot_vs_petr-bruzek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_spread_jan-pleskot_vs_petr-bruzek",
+      "date": "2026-07-21",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_vaclav-hruska-sr_vs_jiri-grohsgott",
       "date": "2026-07-21",
