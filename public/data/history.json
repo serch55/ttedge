@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-21T01:01:46.631Z",
+  "generated": "2026-07-21T01:31:26.760Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1551,
-  "todayCount": 8,
+  "totalCount": 1555,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-21_under_tomas-varnuska_vs_dmitro-parhomenko",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Varnuska",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 20,
+      "l5": 40,
+      "sets3": 80,
+      "score": 70,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-21_spread_cesta-havrda_vs_jaroslav-strnad-1961",
+      "date": "2026-07-21",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Cesta Havrda",
+      "away": "Jaroslav Strnad 1961",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_martin-olejnik_vs_krzysztof-wloczko",
       "date": "2026-07-21",
@@ -83,6 +123,48 @@
       "score": 65,
       "h2h": 11,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_aleksander-barton_vs_adam-staniczek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_spread_aleksander-barton_vs_adam-staniczek",
+      "date": "2026-07-21",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
