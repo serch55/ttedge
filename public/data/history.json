@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-21T20:31:31.516Z",
+  "generated": "2026-07-21T21:01:45.584Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1610,
-  "todayCount": 9,
+  "totalCount": 1611,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-21_under_grzegorz-marud_vs_marek-tkocz",
@@ -1351,6 +1351,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_jerzy-michalik_vs_jakub-skorupa",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jerzy Michalik",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
