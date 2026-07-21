@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-21T18:31:27.837Z",
+  "generated": "2026-07-21T19:03:27.665Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1602,
-  "todayCount": 13,
+  "totalCount": 1604,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-21_over_jaroslaw-rolak_vs_krzysztof-kotyl",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_over_wojciech-gluszek_vs_mikolaj-lukaszewski",
+      "date": "2026-07-21",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_spread_matej-volf_vs_martin-sobisek",
       "date": "2026-07-21",
