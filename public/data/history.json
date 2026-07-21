@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-21T06:31:47.499Z",
+  "generated": "2026-07-21T07:02:02.292Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1566,
-  "todayCount": 11,
+  "totalCount": 1568,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-21_under_miroslav-sklensky_vs_grzegorz-poliniewicz",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_jaroslav-strnad-1961_vs_milan-smesny",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaroslav Strnad 1961",
+      "away": "Milan Smesny",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_jakub-nowak_vs_pawel-kurek",
       "date": "2026-07-21",
