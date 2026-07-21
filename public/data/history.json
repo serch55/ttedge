@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-21T03:01:42.367Z",
+  "generated": "2026-07-21T03:31:38.403Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1556,
-  "todayCount": 7,
+  "totalCount": 1557,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-21_under_tomas-varnuska_vs_dmitro-parhomenko",
@@ -21,9 +21,7 @@
       "score": 70,
       "h2h": 10,
       "trend": "rising",
-      "tags": [
-        "Fatigue"
-      ]
+      "tags": []
     },
     {
       "id": "2026-07-21_spread_cesta-havrda_vs_jaroslav-strnad-1961",
@@ -144,6 +142,27 @@
       "score": 65,
       "h2h": 11,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-21_under_rotislav-hasmanda_vs_radek-bartunek",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rotislav Hasmanda",
+      "away": "Radek Bartunek",
+      "league": "Czech Liga Pro",
+      "time": "05:30",
+      "timeRaw": "11:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
