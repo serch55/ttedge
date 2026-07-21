@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-21T17:31:37.859Z",
+  "generated": "2026-07-21T18:01:49.305Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-21",
-  "totalCount": 1599,
-  "todayCount": 14,
+  "totalCount": 1600,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-07-21_under_radomir-vavrecka_vs_dominik-oborny",
+      "date": "2026-07-21",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radomir Vavrecka",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 33,
+      "score": 70,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-21_under_tomas-milota_vs_radomir-vavrecka",
       "date": "2026-07-21",
