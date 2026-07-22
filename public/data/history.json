@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T20:01:59.099Z",
+  "generated": "2026-07-22T20:31:57.065Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1683,
-  "todayCount": 12,
+  "totalCount": 1684,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-22_over_jerzy-michalik_vs_jakub-skorupa",
@@ -42,48 +42,6 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-22_under_jakub-skorupa_vs_pawel-chojnacki",
-      "date": "2026-07-22",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Skorupa",
-      "away": "Pawel Chojnacki",
-      "league": "TT Elite Series",
-      "time": "22:30",
-      "timeRaw": "4:30 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 40,
-      "score": 63,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-22_spread_jakub-skorupa_vs_pawel-chojnacki",
-      "date": "2026-07-22",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Jakub Skorupa",
-      "away": "Pawel Chojnacki",
-      "league": "TT Elite Series",
-      "time": "22:30",
-      "timeRaw": "4:30 PM",
-      "l5": null,
-      "score": 59,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1312,6 +1270,69 @@
       "league": "Czech Liga Pro",
       "time": "02:30",
       "timeRaw": "8:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_mariusz-koczyba_vs_marian-lebek",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_jakub-skorupa_vs_pawel-chojnacki",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_jakub-skorupa_vs_pawel-chojnacki",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
       "l5": null,
       "score": 59,
       "pick": "",
