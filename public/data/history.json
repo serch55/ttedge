@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T03:31:34.732Z",
+  "generated": "2026-07-22T04:01:40.648Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
   "totalCount": 1629,
-  "todayCount": 7,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-22_over_mariusz-baron_vs_krzysztof-schaniel",
@@ -39,9 +39,9 @@
       "pct": 73,
       "l5": 100,
       "sets3": 93,
-      "score": 61,
+      "score": 63,
       "h2h": 15,
-      "trend": "",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
