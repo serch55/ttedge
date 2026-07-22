@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T00:01:38.806Z",
+  "generated": "2026-07-22T00:31:41.148Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1623,
-  "todayCount": 9,
+  "totalCount": 1625,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-22_over_kacper-glazowski_vs_krzysztof-wloczko",
@@ -84,6 +84,48 @@
       "score": 78,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_grzegorz-marud_vs_robert-szymik",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Marud",
+      "away": "Robert Szymik",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_jakub-skorupa_vs_zbigniew-nocun",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "03:55",
+      "timeRaw": "9:55 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
