@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-22T09:01:53.532Z",
+  "generated": "2026-07-22T09:31:41.200Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1641,
-  "todayCount": 3,
+  "totalCount": 1645,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-22_under_michal-oracz_vs_kacper-adamus",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Oracz",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "13:05",
+      "timeRaw": "7:05 AM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 43,
+      "score": 62,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_sebastian-juzek_vs_krzysztof-hetnar",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "12:40",
+      "timeRaw": "6:40 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 58,
+      "score": 68,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_sebastian-juzek_vs_krzysztof-hetnar",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "12:40",
+      "timeRaw": "6:40 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_artur-szoltysek_vs_adrian-myszewski",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Szoltysek",
+      "away": "Adrian Myszewski",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 58,
+      "l5": 60,
+      "sets3": 75,
+      "score": 62,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_over_ondrej-paril_vs_michal-vavrecka",
       "date": "2026-07-22",
