@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-22T22:31:28.284Z",
+  "generated": "2026-07-22T23:01:39.597Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1702,
+  "totalCount": 1704,
   "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-23_over_patrik-klos_vs_grzegorz-felkel",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patrik Klos",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "05:45",
+      "timeRaw": "11:45 PM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 71,
+      "score": 59,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_over_igor-dabrowski_vs_kamil-rudomina",
       "date": "2026-07-23",
@@ -43,6 +63,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -82,6 +103,27 @@
       "sets3": 40,
       "score": 66,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_milosz-piecowski_vs_adrian-fabis",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milosz Piecowski",
+      "away": "Adrian Fabis",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 78,
+      "l5": 100,
+      "sets3": 100,
+      "score": 63,
+      "h2h": 9,
       "trend": "rising",
       "tags": [
         "Fatigue",
