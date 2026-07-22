@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-22T12:31:29.259Z",
+  "generated": "2026-07-22T13:01:44.242Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1651,
-  "todayCount": 7,
+  "totalCount": 1653,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-22_under_david-szotek_vs_martin-skotnica",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Szotek",
+      "away": "Martin Skotnica",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_karel-schopf_vs_viktor-vejvoda",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Karel Schopf",
+      "away": "Viktor Vejvoda",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": null,
+      "score": 61,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_spread_josef-braun_vs_jakub-folwarski",
       "date": "2026-07-22",
