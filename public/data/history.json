@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-22T02:01:33.528Z",
+  "generated": "2026-07-22T02:31:38.274Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
   "totalCount": 1628,
-  "todayCount": 9,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-22_over_oliver-vincenec_vs_marek-tkocz",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Marek Tkocz",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 93,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_under_milosz-cesarz_vs_marian-lebek",
       "date": "2026-07-22",
@@ -104,27 +125,6 @@
       "score": 64,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-22_over_oliver-vincenec_vs_marek-tkocz",
-      "date": "2026-07-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Oliver Vincenec",
-      "away": "Marek Tkocz",
-      "league": "TT Elite Series",
-      "time": "04:45",
-      "timeRaw": "10:45 PM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 93,
-      "score": 61,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
