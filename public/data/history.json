@@ -1,10 +1,93 @@
 {
-  "generated": "2026-07-22T15:31:33.424Z",
+  "generated": "2026-07-22T16:01:48.837Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1663,
-  "todayCount": 8,
+  "totalCount": 1667,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-22_under_jiri-zuzanek_vs_tomas-vinter",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Zuzanek",
+      "away": "Tomas Vinter",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_janus-slawomir_vs_michal-wolny",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Janus Slawomir",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "19:55",
+      "timeRaw": "1:55 PM",
+      "pct": 50,
+      "l5": 20,
+      "sets3": 50,
+      "score": 61,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_jakub-skorupa_vs_jerzy-michalik",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_patryk-jendrzejewski_vs_krzysztof-kapik",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Krzysztof Kapik",
+      "league": "TT Elite Series",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_under_miroslaw-warzecha_vs_jacek-zelezik",
       "date": "2026-07-22",
