@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-22T22:01:41.355Z",
+  "generated": "2026-07-22T22:31:28.284Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1699,
-  "todayCount": 11,
+  "totalCount": 1702,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-23_over_igor-dabrowski_vs_kamil-rudomina",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_spread_pavel-fojt_vs_jiri-dedek",
       "date": "2026-07-23",
@@ -60,6 +81,48 @@
       "l5": 60,
       "sets3": 40,
       "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_mateusz-rutkowski_vs_jakub-glanowski",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_henryk-tkaczyk_vs_jacek-zelezik",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 47,
+      "score": 61,
       "h2h": 15,
       "trend": "rising",
       "tags": [
