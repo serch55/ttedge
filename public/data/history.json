@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T16:32:12.741Z",
+  "generated": "2026-07-22T17:01:44.383Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1669,
-  "todayCount": 6,
+  "totalCount": 1671,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-22_over_patryk-jendrzejewski_vs_jakub-kuzmicz",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-07-22_under_zbigniew-nocun_vs_henryk-tkaczyk",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-22_under_jiri-zuzanek_vs_tomas-vinter",
       "date": "2026-07-22",
       "type": "under",
@@ -62,6 +83,27 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_wojciech-pytlas_vs_pawel-kurek",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Pytlas",
+      "away": "Pawel Kurek",
+      "league": "TT Elite Series",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
