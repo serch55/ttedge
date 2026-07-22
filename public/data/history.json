@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-22T01:32:18.028Z",
+  "generated": "2026-07-22T02:01:33.528Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1626,
-  "todayCount": 3,
+  "totalCount": 1628,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-22_under_milosz-cesarz_vs_marian-lebek",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milosz Cesarz",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_over_kacper-glazowski_vs_krzysztof-wloczko",
       "date": "2026-07-22",
@@ -44,6 +65,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_adrian-myszewski_vs_artur-szoltysek",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Myszewski",
+      "away": "Artur Szoltysek",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 70,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
