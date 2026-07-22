@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T23:01:39.597Z",
+  "generated": "2026-07-22T23:31:41.343Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1704,
-  "todayCount": 12,
+  "totalCount": 1706,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-23_over_patrik-klos_vs_grzegorz-felkel",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-07-23_under_miroslaw-warzecha_vs_jacek-zelezik",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_spread_pavel-fojt_vs_jiri-dedek",
       "date": "2026-07-23",
       "type": "spread",
@@ -62,6 +83,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_henryk-tkaczyk_vs_witold-stechly",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Witold Stechly",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
