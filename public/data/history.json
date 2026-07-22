@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T19:31:28.318Z",
+  "generated": "2026-07-22T20:01:59.099Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1680,
-  "todayCount": 9,
+  "totalCount": 1683,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-22_over_jerzy-michalik_vs_jakub-skorupa",
@@ -126,6 +126,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_janus-slawomir_vs_jacek-zelezik",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Janus Slawomir",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "21:55",
+      "timeRaw": "3:55 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 78,
+      "score": 59,
+      "h2h": 9,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1358,6 +1379,48 @@
       "l5": 80,
       "sets3": 93,
       "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_dmitro-parhomenko_vs_michal-vedmoch",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dmitro Parhomenko",
+      "away": "Michal Vedmoch",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_rotislav-hasmanda_vs_mihail-trinta",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rotislav Hasmanda",
+      "away": "Mihail Trinta",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
