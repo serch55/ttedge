@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-22T07:31:35.855Z",
+  "generated": "2026-07-22T08:01:40.516Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1639,
-  "todayCount": 8,
+  "totalCount": 1641,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-22_over_ondrej-paril_vs_michal-vavrecka",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ondrej Paril",
+      "away": "Michal Vavrecka",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 100,
+      "score": 59,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_josef-braun_vs_adrian-wiecek",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Adrian Wiecek",
+      "league": "TT Elite Series",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_over_grzegorz-adamiak_vs_maciej-nowalinski",
       "date": "2026-07-22",
