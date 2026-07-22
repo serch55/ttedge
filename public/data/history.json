@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-22T05:01:42.977Z",
+  "generated": "2026-07-22T05:31:45.856Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1631,
-  "todayCount": 6,
+  "totalCount": 1634,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-22_over_adrian-walek_vs_richard-skacelik",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "Richard Skacelik",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_milan-smesny_vs_lubos-forman",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milan Smesny",
+      "away": "Lubos Forman",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_piotr-gumulinski_vs_jakub-kaczmarek",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_over_mariusz-baron_vs_krzysztof-schaniel",
       "date": "2026-07-22",
