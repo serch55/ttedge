@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-22T02:31:38.274Z",
+  "generated": "2026-07-22T03:01:37.585Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1628,
+  "totalCount": 1629,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-22_over_mariusz-baron_vs_krzysztof-schaniel",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_over_oliver-vincenec_vs_marek-tkocz",
       "date": "2026-07-22",
