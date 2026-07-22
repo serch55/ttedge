@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-22T13:32:00.765Z",
+  "generated": "2026-07-22T14:01:41.703Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1653,
-  "todayCount": 5,
+  "totalCount": 1657,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-22_under_marcin-kowalczyk_vs_mikolaj-lukaszewski",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 87,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_under_david-szotek_vs_martin-skotnica",
       "date": "2026-07-22",
@@ -48,6 +69,27 @@
       ]
     },
     {
+      "id": "2026-07-22_under_blazej-warpas_vs_kamil-klocek",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Blazej Warpas",
+      "away": "Kamil Klocek",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-22_spread_josef-braun_vs_jakub-folwarski",
       "date": "2026-07-22",
       "type": "spread",
@@ -62,6 +104,48 @@
       "pick": "",
       "spread": null,
       "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_grzegorz-poliniewicz_vs_maciej-nowalinski",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "16:15",
+      "timeRaw": "10:15 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_rafal-gajda_vs_krzysztof-hetnar",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
       "trend": "",
       "tags": [
         "Fatigue",
