@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T06:01:42.833Z",
+  "generated": "2026-07-22T06:31:29.050Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
   "totalCount": 1637,
-  "todayCount": 11,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-22_over_richard-skacelik_vs_dalimil-machander",
@@ -42,6 +42,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
