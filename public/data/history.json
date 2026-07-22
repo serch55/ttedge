@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-22T07:02:01.859Z",
+  "generated": "2026-07-22T07:31:35.855Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1637,
-  "todayCount": 6,
+  "totalCount": 1639,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-22_over_grzegorz-adamiak_vs_maciej-nowalinski",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Adamiak",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_milosz-cesarz_vs_marek-tkocz",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milosz Cesarz",
+      "away": "Marek Tkocz",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "pct": 92,
+      "l5": 80,
+      "sets3": 17,
+      "score": 70,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_over_richard-skacelik_vs_dalimil-machander",
       "date": "2026-07-22",
@@ -210,27 +273,6 @@
       "score": 63,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-22_over_kamil-rudomina_vs_michal-minda",
-      "date": "2026-07-22",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kamil Rudomina",
-      "away": "Michal Minda",
-      "league": "TT Elite Series",
-      "time": "08:00",
-      "timeRaw": "2:00 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 100,
-      "score": 69,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
