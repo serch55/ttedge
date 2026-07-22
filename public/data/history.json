@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T04:31:25.865Z",
+  "generated": "2026-07-22T05:01:42.977Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1629,
-  "todayCount": 5,
+  "totalCount": 1631,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-22_over_mariusz-baron_vs_krzysztof-schaniel",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-07-22_under_rafal-stapor_vs_michal-minda",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 46,
+      "l5": 40,
+      "sets3": 55,
+      "score": 62,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-22_under_milosz-cesarz_vs_marian-lebek",
       "date": "2026-07-22",
       "type": "under",
@@ -63,6 +84,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
