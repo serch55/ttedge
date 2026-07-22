@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-22T18:01:49.650Z",
+  "generated": "2026-07-22T18:32:15.080Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1673,
-  "todayCount": 8,
+  "totalCount": 1676,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-22_under_tibor-kolenic_vs_frantisek-briza",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tibor Kolenic",
+      "away": "Frantisek Briza",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_under_jakub-skorupa_vs_pawel-chojnacki",
+      "date": "2026-07-22",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_spread_jakub-skorupa_vs_pawel-chojnacki",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Pawel Chojnacki",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_under_marek-volny_vs_jakub-levicky",
       "date": "2026-07-22",
@@ -42,6 +105,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
