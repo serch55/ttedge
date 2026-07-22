@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-22T12:01:43.356Z",
+  "generated": "2026-07-22T12:31:29.259Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-22",
-  "totalCount": 1649,
-  "todayCount": 5,
+  "totalCount": 1651,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-22_spread_josef-braun_vs_jakub-folwarski",
+      "date": "2026-07-22",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Jakub Folwarski",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-22_under_adrian-wiecek_vs_jiri-vrablik",
       "date": "2026-07-22",
@@ -20,6 +41,27 @@
       "sets3": 67,
       "score": 67,
       "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-22_over_kacper-glazowski_vs_maciej-nowalinski",
+      "date": "2026-07-22",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Glazowski",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "15:25",
+      "timeRaw": "9:25 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 62,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
