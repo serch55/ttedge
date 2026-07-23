@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-23T02:01:38.907Z",
+  "generated": "2026-07-23T02:32:01.269Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1712,
+  "totalCount": 1713,
   "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-23_spread_witold-stechly_vs_miroslaw-warzecha",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "06:20",
+      "timeRaw": "12:20 AM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_spread_aleksander-lilien_vs_jakub-zochniak",
       "date": "2026-07-23",
