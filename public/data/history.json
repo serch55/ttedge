@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-23T19:01:41.819Z",
+  "generated": "2026-07-23T19:31:30.449Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1758,
-  "todayCount": 13,
+  "totalCount": 1761,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-23_spread_pawel-chojnacki_vs_jacek-oracz",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-07-23_over_kacper-adamus_vs_jakub-nowak",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_under_ivo-taichman_vs_marek-blejchar",
       "date": "2026-07-23",
       "type": "under",
@@ -64,6 +85,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -210,6 +232,7 @@
       "h2h": 10,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1449,6 +1472,27 @@
       ]
     },
     {
+      "id": "2026-07-23_under_ondrej-kucirek_vs_petr-picek",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ondrej Kucirek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_spread_jakub-tazler_vs_jakub-hradecky",
       "date": "2026-07-23",
       "type": "spread",
@@ -1464,6 +1508,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_kyryl-darin_vs_jan-steffan",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kyryl Darin",
+      "away": "Jan Steffan",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
