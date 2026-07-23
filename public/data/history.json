@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-23T23:01:43.116Z",
+  "generated": "2026-07-23T23:31:24.747Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1794,
-  "todayCount": 18,
+  "totalCount": 1795,
+  "todayCount": 17,
   "matches": [
+    {
+      "id": "2026-07-24_under_jakub-kaczmarek_vs_robert-kostepski",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Robert Kostepski",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 70,
+      "l5": 40,
+      "sets3": 50,
+      "score": 66,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_grzegorz-felkel_vs_karol-wisniewski",
       "date": "2026-07-24",
