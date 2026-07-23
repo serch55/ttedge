@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-23T18:31:33.693Z",
+  "generated": "2026-07-23T19:01:41.819Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1755,
-  "todayCount": 11,
+  "totalCount": 1758,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-07-23_spread_pawel-chojnacki_vs_jacek-oracz",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_patryk-jendrzejewski_vs_jakub-kuzmicz",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_ivo-taichman_vs_marek-blejchar",
       "date": "2026-07-23",
@@ -22,6 +64,27 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_jacek-przewlocki_vs_jaroslaw-rolak",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 79,
+      "l5": 60,
+      "sets3": 100,
+      "score": 57,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
