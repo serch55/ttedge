@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-23T03:31:24.888Z",
+  "generated": "2026-07-23T04:01:44.463Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1713,
-  "todayCount": 7,
+  "totalCount": 1714,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-23_under_jakub-folwarski_vs_grzegorz-felkel",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Folwarski",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 50,
+      "score": 63,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_over_igor-dabrowski_vs_kamil-rudomina",
       "date": "2026-07-23",
@@ -18,9 +39,9 @@
       "pct": 80,
       "l5": 100,
       "sets3": 80,
-      "score": 57,
+      "score": 59,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
