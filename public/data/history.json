@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-23T05:02:08.684Z",
+  "generated": "2026-07-23T05:31:32.539Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1714,
-  "todayCount": 4,
+  "totalCount": 1715,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-23_under_sebastian-juzek_vs_waldemar-glanowski",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Waldemar Glanowski",
+      "league": "TT Elite Series",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 57,
+      "l5": 60,
+      "sets3": 71,
+      "score": 62,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_jakub-folwarski_vs_grzegorz-felkel",
       "date": "2026-07-23",
