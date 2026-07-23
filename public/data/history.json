@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-23T14:31:51.232Z",
+  "generated": "2026-07-23T15:02:00.983Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1741,
-  "todayCount": 9,
+  "totalCount": 1743,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-23_under_pawel-chojnacki_vs_jakub-skorupa",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 47,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_sebastian-juzek_vs_mariusz-baron",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "18:40",
+      "timeRaw": "12:40 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 50,
+      "score": 62,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_jacek-oracz_vs_jakub-cyndera",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Jakub Cyndera",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 30,
+      "l5": 40,
+      "sets3": 50,
+      "score": 62,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_piotr-kaczynski_vs_jakub-nowak",
       "date": "2026-07-23",
@@ -417,27 +479,6 @@
       "score": 62,
       "h2h": 9,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_under_sebastian-juzek_vs_mariusz-baron",
-      "date": "2026-07-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Sebastian Juzek",
-      "away": "Mariusz Baron",
-      "league": "TT Elite Series",
-      "time": "12:40",
-      "timeRaw": "6:40 AM",
-      "pct": 64,
-      "l5": 80,
-      "sets3": 55,
-      "score": 62,
-      "h2h": 11,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
