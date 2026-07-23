@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-23T08:02:08.427Z",
+  "generated": "2026-07-23T08:31:26.845Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1720,
-  "todayCount": 5,
+  "totalCount": 1723,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-23_under_sebastian-juzek_vs_mariusz-baron",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "12:40",
+      "timeRaw": "6:40 AM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 55,
+      "score": 62,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_grzegorz-poliniewicz_vs_adrian-spychala",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Adrian Spychala",
+      "league": "TT Elite Series",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_daniel-tuma_vs_vladimir-cermak",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Vladimir Cermak",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 53,
+      "l5": 0,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_matej-volf_vs_frantisek-just",
       "date": "2026-07-23",
