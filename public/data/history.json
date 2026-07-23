@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-23T20:31:24.737Z",
+  "generated": "2026-07-23T21:01:44.104Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1766,
+  "totalCount": 1769,
   "todayCount": 13,
   "matches": [
     {
@@ -1241,6 +1241,47 @@
       ]
     },
     {
+      "id": "2026-07-23_under_jaromir-cernik_vs_jiri-grohsgott",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaromir Cernik",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 33,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_petr-picek_vs_kyryl-darin",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Petr Picek",
+      "away": "Kyryl Darin",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_under_henryk-tkaczyk_vs_witold-stechly",
       "date": "2026-07-23",
       "type": "under",
@@ -1256,6 +1297,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_jan-steffan_vs_ondrej-kucirek",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Ondrej Kucirek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 40,
+      "l5": 100,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
