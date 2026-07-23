@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-23T01:32:04.536Z",
+  "generated": "2026-07-23T02:01:38.907Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1710,
-  "todayCount": 5,
+  "totalCount": 1712,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-23_spread_aleksander-lilien_vs_jakub-zochniak",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_igor-dabrowski_vs_krzysztof-kotyl",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 59,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_over_patrik-klos_vs_grzegorz-felkel",
       "date": "2026-07-23",
