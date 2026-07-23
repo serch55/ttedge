@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-23T21:01:44.104Z",
+  "generated": "2026-07-23T21:31:25.355Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1769,
-  "todayCount": 13,
+  "totalCount": 1771,
+  "todayCount": 15,
   "matches": [
     {
       "id": "2026-07-23_spread_pawel-chojnacki_vs_jacek-oracz",
@@ -62,27 +62,6 @@
       "sets3": 47,
       "score": 61,
       "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_over_jacek-przewlocki_vs_jaroslaw-rolak",
-      "date": "2026-07-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jacek Przewlocki",
-      "away": "Jaroslaw Rolak",
-      "league": "TT Elite Series",
-      "time": "22:30",
-      "timeRaw": "4:30 PM",
-      "pct": 79,
-      "l5": 60,
-      "sets3": 100,
-      "score": 57,
-      "h2h": 14,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -1220,6 +1199,26 @@
       ]
     },
     {
+      "id": "2026-07-23_under_alexander-hejduk_vs_jan-potensky",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Alexander Hejduk",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_under_miroslaw-warzecha_vs_jacek-zelezik",
       "date": "2026-07-23",
       "type": "under",
@@ -1491,6 +1490,27 @@
       ]
     },
     {
+      "id": "2026-07-23_under_jakub-nowak_vs_marek-tkocz",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Marek Tkocz",
+      "league": "TT Elite Series",
+      "time": "01:10",
+      "timeRaw": "7:10 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_under_rotislav-hasmanda_vs_mihail-trinta",
       "date": "2026-07-23",
       "type": "under",
@@ -1567,6 +1587,27 @@
       "l5": 80,
       "sets3": 73,
       "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_jacek-przewlocki_vs_jaroslaw-rolak",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 100,
+      "score": 60,
       "h2h": 15,
       "trend": "rising",
       "tags": [
