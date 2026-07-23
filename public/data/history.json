@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-23T11:31:35.900Z",
+  "generated": "2026-07-23T12:01:54.430Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1732,
-  "todayCount": 9,
+  "totalCount": 1734,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-23_under_jan-pleskot_vs_martin-tacinec",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Martin Tacinec",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_martin-huk_vs_jan-kanera",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Jan Kanera",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_sebastian-juzek_vs_waldemar-glanowski",
       "date": "2026-07-23",
