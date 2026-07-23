@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-23T17:31:31.072Z",
+  "generated": "2026-07-23T18:03:05.837Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1751,
-  "todayCount": 9,
+  "totalCount": 1754,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-23_under_lukasz-pietraszko_vs_krystian-kolodziej",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Pietraszko",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "22:05",
+      "timeRaw": "4:05 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 33,
+      "score": 65,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_michal-machelski_vs_jerzy-michalik",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "21:55",
+      "timeRaw": "3:55 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_michal-machelski_vs_jerzy-michalik",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "21:55",
+      "timeRaw": "3:55 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_spread_pavel-fojt_vs_jiri-dedek",
       "date": "2026-07-23",
