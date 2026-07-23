@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-23T04:01:44.463Z",
+  "generated": "2026-07-23T04:31:28.275Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
   "totalCount": 1714,
-  "todayCount": 4,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-23_under_jakub-folwarski_vs_grzegorz-felkel",
@@ -21,6 +21,48 @@
       "score": 63,
       "h2h": 14,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_aleksander-lilien_vs_jakub-zochniak",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_igor-dabrowski_vs_krzysztof-kotyl",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 59,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -48,6 +90,48 @@
       ]
     },
     {
+      "id": "2026-07-23_under_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "07:10",
+      "timeRaw": "1:10 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_zbigniew-nocun_vs_jacek-zelezik",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Jacek Zelezik",
+      "league": "TT Elite Series",
+      "time": "06:40",
+      "timeRaw": "12:40 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_spread_witold-stechly_vs_miroslaw-warzecha",
       "date": "2026-07-23",
       "type": "spread",
@@ -65,47 +149,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_spread_aleksander-lilien_vs_jakub-zochniak",
-      "date": "2026-07-23",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Aleksander Lilien",
-      "away": "Jakub Zochniak",
-      "league": "TT Elite Series",
-      "time": "06:00",
-      "timeRaw": "12:00 AM",
-      "l5": null,
-      "score": 56,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_over_igor-dabrowski_vs_krzysztof-kotyl",
-      "date": "2026-07-23",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Igor Dabrowski",
-      "away": "Krzysztof Kotyl",
-      "league": "TT Elite Series",
-      "time": "05:50",
-      "timeRaw": "11:50 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 93,
-      "score": 59,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
@@ -424,27 +467,6 @@
       ]
     },
     {
-      "id": "2026-07-23_under_adrian-burkacki_vs_marian-lebek",
-      "date": "2026-07-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Adrian Burkacki",
-      "away": "Marian Lebek",
-      "league": "TT Elite Series",
-      "time": "01:10",
-      "timeRaw": "7:10 PM",
-      "pct": 47,
-      "l5": 60,
-      "sets3": 67,
-      "score": 62,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-07-23_under_rotislav-hasmanda_vs_mihail-trinta",
       "date": "2026-07-23",
       "type": "under",
@@ -478,27 +500,6 @@
       "pct": 60,
       "l5": 100,
       "sets3": 73,
-      "score": 62,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_under_zbigniew-nocun_vs_jacek-zelezik",
-      "date": "2026-07-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Zbigniew Nocun",
-      "away": "Jacek Zelezik",
-      "league": "TT Elite Series",
-      "time": "00:40",
-      "timeRaw": "6:40 PM",
-      "pct": 60,
-      "l5": 60,
-      "sets3": 60,
       "score": 62,
       "h2h": 15,
       "trend": "falling",
