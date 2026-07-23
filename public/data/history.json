@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-23T18:03:05.837Z",
+  "generated": "2026-07-23T18:31:33.693Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1754,
-  "todayCount": 10,
+  "totalCount": 1755,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-23_under_ivo-taichman_vs_marek-blejchar",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ivo Taichman",
+      "away": "Marek Blejchar",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_henryk-tkaczyk_vs_zbigniew-nocun",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "22:20",
+      "timeRaw": "4:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 67,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_lukasz-pietraszko_vs_krystian-kolodziej",
       "date": "2026-07-23",
@@ -1129,27 +1170,6 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_under_henryk-tkaczyk_vs_zbigniew-nocun",
-      "date": "2026-07-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Henryk Tkaczyk",
-      "away": "Zbigniew Nocun",
-      "league": "TT Elite Series",
-      "time": "04:20",
-      "timeRaw": "10:20 PM",
-      "pct": 73,
-      "l5": 100,
-      "sets3": 73,
-      "score": 68,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
