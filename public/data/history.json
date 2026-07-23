@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-23T12:31:27.192Z",
+  "generated": "2026-07-23T13:01:54.154Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1734,
-  "todayCount": 10,
+  "totalCount": 1736,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-23_under_patryk-jendrzejewski_vs_krystian-kolodziej",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 47,
+      "score": 64,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_jan-dzida_vs_jan-szotkowski",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Dzida",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_over_patrik-klos_vs_grzegorz-felkel",
       "date": "2026-07-23",
