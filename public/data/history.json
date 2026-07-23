@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-23T01:01:44.499Z",
+  "generated": "2026-07-23T01:32:04.536Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1706,
-  "todayCount": 4,
+  "totalCount": 1710,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-23_over_patrik-klos_vs_grzegorz-felkel",
@@ -26,6 +26,48 @@
       ]
     },
     {
+      "id": "2026-07-23_under_jakub-kaczmarek_vs_marian-lebek",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "05:35",
+      "timeRaw": "11:35 PM",
+      "pct": 57,
+      "l5": 80,
+      "sets3": 64,
+      "score": 61,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_wojciech-urban_vs_lukasz-oracz",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "05:10",
+      "timeRaw": "11:10 PM",
+      "pct": 46,
+      "l5": 40,
+      "sets3": 85,
+      "score": 62,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-23_over_igor-dabrowski_vs_kamil-rudomina",
       "date": "2026-07-23",
       "type": "over",
@@ -41,6 +83,69 @@
       "score": 57,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_miroslaw-warzecha_vs_michal-wolny",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_miroslaw-warzecha_vs_michal-wolny",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_henryk-tkaczyk_vs_zbigniew-nocun",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 68,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -230,27 +335,6 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_spread_miroslaw-warzecha_vs_michal-wolny",
-      "date": "2026-07-23",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Miroslaw Warzecha",
-      "away": "Michal Wolny",
-      "league": "TT Elite Series",
-      "time": "01:05",
-      "timeRaw": "7:05 PM",
-      "l5": null,
-      "score": 57,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
