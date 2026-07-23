@@ -1,10 +1,113 @@
 {
-  "generated": "2026-07-23T13:31:41.635Z",
+  "generated": "2026-07-23T14:01:54.757Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1736,
-  "todayCount": 7,
+  "totalCount": 1741,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-23_under_piotr-kaczynski_vs_jakub-nowak",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Piotr Kaczynski",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 56,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_ludek-madle_vs_michal-syroha",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Ludek Madle",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 93,
+      "score": 61,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_over_roman-hudeczek_vs_michal-chalupa",
+      "date": "2026-07-23",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Roman Hudeczek",
+      "away": "Michal Chalupa",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_piotr-gumulinski_vs_michal-oracz",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Michal Oracz",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 58,
+      "l5": 60,
+      "sets3": 58,
+      "score": 62,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_piotr-gumulinski_vs_michal-oracz",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Michal Oracz",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_patryk-jendrzejewski_vs_krystian-kolodziej",
       "date": "2026-07-23",
