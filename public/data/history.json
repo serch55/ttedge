@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-23T07:31:31.878Z",
+  "generated": "2026-07-23T08:02:08.427Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1719,
-  "todayCount": 6,
+  "totalCount": 1720,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-23_under_matej-volf_vs_frantisek-just",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Matej Volf",
+      "away": "Frantisek Just",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 82,
+      "score": 68,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_krystian-kolodziej_vs_kacper-glazowski",
       "date": "2026-07-23",
@@ -36,11 +57,11 @@
       "league": "TT Elite Series",
       "time": "11:20",
       "timeRaw": "5:20 AM",
-      "pct": 71,
-      "l5": 80,
-      "sets3": 50,
-      "score": 63,
-      "h2h": 14,
+      "pct": 67,
+      "l5": 60,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
