@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-23T11:01:41.484Z",
+  "generated": "2026-07-23T11:31:35.900Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1731,
-  "todayCount": 8,
+  "totalCount": 1732,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-23_under_sebastian-juzek_vs_waldemar-glanowski",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Waldemar Glanowski",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_grzegorz-felkel_vs_grzegorz-adamiak",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Felkel",
+      "away": "Grzegorz Adamiak",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 27,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_over_karol-sulkowski_vs_igor-dabrowski",
       "date": "2026-07-23",
@@ -357,27 +399,6 @@
       "score": 62,
       "h2h": 9,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_under_sebastian-juzek_vs_waldemar-glanowski",
-      "date": "2026-07-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Sebastian Juzek",
-      "away": "Waldemar Glanowski",
-      "league": "TT Elite Series",
-      "time": "09:30",
-      "timeRaw": "3:30 AM",
-      "pct": 57,
-      "l5": 60,
-      "sets3": 71,
-      "score": 62,
-      "h2h": 14,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
