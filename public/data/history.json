@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-23T06:32:01.185Z",
+  "generated": "2026-07-23T07:01:50.381Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
   "totalCount": 1715,
-  "todayCount": 2,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-07-23_under_jakub-folwarski_vs_grzegorz-felkel",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Folwarski",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "11:20",
+      "timeRaw": "5:20 AM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 50,
+      "score": 63,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_under_sebastian-juzek_vs_waldemar-glanowski",
       "date": "2026-07-23",
@@ -19,27 +40,6 @@
       "l5": 60,
       "sets3": 71,
       "score": 62,
-      "h2h": 14,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_under_jakub-folwarski_vs_grzegorz-felkel",
-      "date": "2026-07-23",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Folwarski",
-      "away": "Grzegorz Felkel",
-      "league": "TT Elite Series",
-      "time": "08:55",
-      "timeRaw": "2:55 AM",
-      "pct": 71,
-      "l5": 80,
-      "sets3": 50,
-      "score": 63,
       "h2h": 14,
       "trend": "rising",
       "tags": [
