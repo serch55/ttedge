@@ -1,10 +1,114 @@
 {
-  "generated": "2026-07-23T17:02:38.749Z",
+  "generated": "2026-07-23T17:31:31.072Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-23",
-  "totalCount": 1747,
-  "todayCount": 4,
+  "totalCount": 1751,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-23_spread_pavel-fojt_vs_jiri-dedek",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_miroslav-novotny_vs_tomas-regner",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Novotny",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 70,
+      "score": 61,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_dariusz-molenda_vs_jerzy-michalik",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Molenda",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 79,
+      "score": 62,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_spread_kacper-adamus_vs_wojciech-pytlas",
+      "date": "2026-07-23",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Wojciech Pytlas",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-23_under_milan-kolar_vs_dmitro-parhomenko",
+      "date": "2026-07-23",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milan Kolar",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-23_over_patryk-jendrzejewski_vs_krzysztof-kapik",
       "date": "2026-07-23",
@@ -43,7 +147,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1005,27 +1108,6 @@
       "score": 64,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-23_spread_pavel-fojt_vs_jiri-dedek",
-      "date": "2026-07-23",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Pavel Fojt",
-      "away": "Jiri Dedek",
-      "league": "Czech Liga Pro",
-      "time": "03:00",
-      "timeRaw": "9:00 PM",
-      "l5": null,
-      "score": 57,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
