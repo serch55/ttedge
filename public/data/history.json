@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T23:01:33.850Z",
+  "generated": "2026-07-24T23:31:32.210Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1873,
-  "todayCount": 9,
+  "totalCount": 1875,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-25_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -23,6 +23,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_tadeusz-piotrowski_vs_artur-szoltysek",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeusz Piotrowski",
+      "away": "Artur Szoltysek",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
@@ -84,6 +104,27 @@
       "score": 64,
       "h2h": 10,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_michal-krutak_vs_cezary-pawlik",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Krutak",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 92,
+      "score": 57,
+      "h2h": 13,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
