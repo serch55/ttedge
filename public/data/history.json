@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T04:01:38.819Z",
+  "generated": "2026-07-24T04:31:29.490Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
   "totalCount": 1808,
-  "todayCount": 12,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-24_over_piotr-cyrnek_vs_martin-olejnik",
@@ -22,6 +22,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
