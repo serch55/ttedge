@@ -1,10 +1,176 @@
 {
-  "generated": "2026-07-24T21:31:30.032Z",
+  "generated": "2026-07-24T22:01:37.106Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-24",
-  "totalCount": 1861,
+  "lastDay": "2026-07-25",
+  "totalCount": 1869,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-25_under_jakub-michalski_vs_adam-ruszkiewicz",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Michalski",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_jacek-oracz_vs_cezary-pawlik",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_mariusz-koczyba_vs_jakub-jesiek",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Jakub Jesiek",
+      "league": "TT Elite Series",
+      "time": "03:45",
+      "timeRaw": "9:45 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 64,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_ales-bayer_vs_daniel-tuma",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Daniel Tuma",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_radek-bartunek_vs_petr-picek",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_roman-wiza_vs_jakub-michalski",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_michal-natkaniec_vs_cezary-pawlik",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Natkaniec",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_radek-bartunek_vs_tomas-regner",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_jakub-michalski_vs_adam-ruszkiewicz",
       "date": "2026-07-24",
