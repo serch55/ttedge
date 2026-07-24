@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-24T14:31:27.649Z",
+  "generated": "2026-07-24T15:02:30.867Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1833,
-  "todayCount": 7,
+  "totalCount": 1834,
+  "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-07-24_over_cezary-pawlik_vs_jacek-oracz",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "18:25",
+      "timeRaw": "12:25 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_maciej-kolek_vs_michal-olbrycht",
       "date": "2026-07-24",
