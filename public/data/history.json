@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-24T19:31:30.666Z",
+  "generated": "2026-07-24T20:01:50.589Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1855,
-  "todayCount": 8,
+  "totalCount": 1858,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-24_under_jakub-michalski_vs_adam-ruszkiewicz",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Michalski",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_jacek-oracz_vs_michal-wolny",
       "date": "2026-07-24",
@@ -1621,6 +1642,27 @@
       ]
     },
     {
+      "id": "2026-07-24_under_radek-bartunek_vs_petr-picek",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Petr Picek",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-24_under_jakub-nowak_vs_marek-tkocz",
       "date": "2026-07-24",
       "type": "under",
@@ -1762,6 +1804,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_michal-natkaniec_vs_cezary-pawlik",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Natkaniec",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
