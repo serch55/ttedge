@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T05:01:35.609Z",
+  "generated": "2026-07-24T05:32:46.159Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
   "totalCount": 1808,
-  "todayCount": 8,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-24_over_michal-minda_vs_jakub-glanowski",
@@ -18,7 +18,7 @@
       "pct": 80,
       "l5": 100,
       "sets3": 87,
-      "score": 65,
+      "score": 66,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -37,7 +37,7 @@
       "time": "08:50",
       "timeRaw": "2:50 AM",
       "l5": null,
-      "score": 58,
+      "score": 60,
       "pick": "",
       "spread": null,
       "h2h": 15,
