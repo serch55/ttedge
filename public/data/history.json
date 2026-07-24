@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-24T11:31:28.606Z",
+  "generated": "2026-07-24T12:01:53.581Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1826,
-  "todayCount": 4,
+  "totalCount": 1827,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-24_over_piotr-cyrnek_vs_marcin-jadczyk",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_jiri-grohsgott_vs_michal-syroha",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_piotr-cyrnek_vs_grzegorz-felkel",
       "date": "2026-07-24",
@@ -423,26 +465,6 @@
       "tags": [
         "Fatigue",
         "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-24_over_piotr-cyrnek_vs_marcin-jadczyk",
-      "date": "2026-07-24",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Piotr Cyrnek",
-      "away": "Marcin Jadczyk",
-      "league": "TT Elite Series",
-      "time": "09:45",
-      "timeRaw": "3:45 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 100,
-      "score": 67,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue"
       ]
     },
     {
