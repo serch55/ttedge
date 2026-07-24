@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-24T14:02:12.889Z",
+  "generated": "2026-07-24T14:31:27.649Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1830,
-  "todayCount": 6,
+  "totalCount": 1833,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-24_under_maciej-kolek_vs_michal-olbrycht",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Michal Olbrycht",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 46,
+      "l5": 40,
+      "sets3": 62,
+      "score": 64,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_jiri-grohsgott_vs_miroslav-barta",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_over_oliver-vincenec_vs_oskar-jadach",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_jacek-oracz_vs_michal-wolny",
       "date": "2026-07-24",
