@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T18:01:43.227Z",
+  "generated": "2026-07-24T18:31:29.887Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
   "totalCount": 1851,
-  "todayCount": 12,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-24_over_mihail-trinta_vs_yurii-holovatiuk",
@@ -83,6 +83,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
