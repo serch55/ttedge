@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-24T16:32:43.061Z",
+  "generated": "2026-07-24T17:01:48.647Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1843,
+  "totalCount": 1845,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-24_over_milan-kolar_vs_jiri-dedek",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milan Kolar",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_tibor-kolenic_vs_yurii-holovatiuk",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tibor Kolenic",
+      "away": "Yurii Holovatiuk",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 47,
+      "l5": 20,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_jacek-oracz_vs_michal-natkaniec",
       "date": "2026-07-24",
