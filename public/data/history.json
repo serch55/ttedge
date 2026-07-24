@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-24T06:01:43.436Z",
+  "generated": "2026-07-24T06:31:32.982Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1809,
+  "totalCount": 1811,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-24_under_michal-paszkiewicz_vs_jakub-pruszkowski",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 69,
+      "l5": 80,
+      "sets3": 46,
+      "score": 62,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_over_piotr-cyrnek_vs_marcin-jadczyk",
       "date": "2026-07-24",
@@ -23,6 +44,27 @@
       "trend": "rising",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_marek-tkocz_vs_jakub-pruszkowski",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Tkocz",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "09:35",
+      "timeRaw": "3:35 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
