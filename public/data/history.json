@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T21:01:41.802Z",
+  "generated": "2026-07-24T21:31:30.032Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1859,
-  "todayCount": 6,
+  "totalCount": 1861,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-24_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -42,6 +42,27 @@
       "score": 76,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_mihail-trinta_vs_tibor-kolenic",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Tibor Kolenic",
+      "league": "Czech Liga Pro",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1698,6 +1719,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_roman-wiza_vs_jakub-michalski",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
