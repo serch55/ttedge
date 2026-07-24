@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-24T05:32:46.159Z",
+  "generated": "2026-07-24T06:01:43.436Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1808,
-  "todayCount": 7,
+  "totalCount": 1809,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-24_over_piotr-cyrnek_vs_marcin-jadczyk",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "09:45",
+      "timeRaw": "3:45 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-07-24_over_michal-minda_vs_jakub-glanowski",
       "date": "2026-07-24",
