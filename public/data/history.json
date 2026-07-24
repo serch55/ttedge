@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-24T15:31:31.850Z",
+  "generated": "2026-07-24T16:02:17.777Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1837,
+  "totalCount": 1840,
   "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-24_under_marcin-marchlewski_vs_kamil-kostyk",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Kamil Kostyk",
+      "league": "TT Elite Series",
+      "time": "20:05",
+      "timeRaw": "2:05 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_marek-blejchar_vs_ivo-taichman",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Blejchar",
+      "away": "Ivo Taichman",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_over_jakub-jesiek_vs_lukasz-bernacki",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Jesiek",
+      "away": "Lukasz Bernacki",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 89,
+      "score": 59,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_marcin-kowalczyk_vs_stanislaw-wnek",
       "date": "2026-07-24",
