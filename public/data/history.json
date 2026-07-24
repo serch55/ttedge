@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-24T08:31:27.990Z",
+  "generated": "2026-07-24T09:01:54.869Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
   "totalCount": 1819,
-  "todayCount": 9,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-24_under_michal-vedmoch_vs_dmitro-parhomenko",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Vedmoch",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_over_krystian-kolodziej_vs_karol-strowski",
       "date": "2026-07-24",
@@ -354,27 +375,6 @@
       "score": 57,
       "pick": "",
       "spread": null,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-24_under_michal-vedmoch_vs_dmitro-parhomenko",
-      "date": "2026-07-24",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Michal Vedmoch",
-      "away": "Dmitro Parhomenko",
-      "league": "Czech Liga Pro",
-      "time": "08:00",
-      "timeRaw": "2:00 AM",
-      "pct": 60,
-      "l5": 100,
-      "sets3": 73,
-      "score": 63,
       "h2h": 15,
       "trend": "",
       "tags": [
