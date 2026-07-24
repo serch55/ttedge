@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T22:01:37.106Z",
+  "generated": "2026-07-24T22:31:27.714Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1869,
-  "todayCount": 8,
+  "totalCount": 1873,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-25_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -40,6 +40,27 @@
       "l5": 100,
       "sets3": 93,
       "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_mihail-trinta_vs_tomas-regner",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 60,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -89,6 +110,48 @@
       ]
     },
     {
+      "id": "2026-07-25_under_cezary-pawlik_vs_michal-wolny",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 40,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_spread_cezary-pawlik_vs_michal-wolny",
+      "date": "2026-07-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-25_under_radek-bartunek_vs_petr-picek",
       "date": "2026-07-25",
       "type": "under",
@@ -102,6 +165,27 @@
       "l5": 60,
       "sets3": 60,
       "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_damian-fira_vs_adam-ruszkiewicz",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 70,
       "h2h": 15,
       "trend": "rising",
       "tags": [
