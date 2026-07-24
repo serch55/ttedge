@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-24T01:01:38.783Z",
+  "generated": "2026-07-24T01:31:58.329Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1800,
-  "todayCount": 15,
+  "totalCount": 1801,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-07-24_spread_marcin-jadczyk_vs_adrian-spychala",
+      "date": "2026-07-24",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Adrian Spychala",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_michal-vedmoch_vs_dmitro-parhomenko",
       "date": "2026-07-24",
