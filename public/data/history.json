@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T20:31:40.461Z",
+  "generated": "2026-07-24T21:01:41.802Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1858,
-  "todayCount": 8,
+  "totalCount": 1859,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-24_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -1470,6 +1470,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_ales-bayer_vs_daniel-tuma",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Daniel Tuma",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
