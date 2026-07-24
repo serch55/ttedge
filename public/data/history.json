@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-24T06:31:32.982Z",
+  "generated": "2026-07-24T07:01:48.088Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1811,
-  "todayCount": 8,
+  "totalCount": 1814,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-24_over_jakub-glanowski_vs_dawid-kosmal",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_grzegorz-felkel_vs_adrian-spychala",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Felkel",
+      "away": "Adrian Spychala",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 40,
+      "score": 68,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_tadeas-zika_vs_radovan-polasek",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_michal-paszkiewicz_vs_jakub-pruszkowski",
       "date": "2026-07-24",
