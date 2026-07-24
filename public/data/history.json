@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-24T01:31:58.329Z",
+  "generated": "2026-07-24T02:01:49.275Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1801,
+  "totalCount": 1802,
   "todayCount": 13,
   "matches": [
     {
@@ -104,6 +104,27 @@
       "pick": "",
       "spread": null,
       "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_michal-paszkiewicz_vs_lukasz-oracz",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 33,
+      "score": 74,
+      "h2h": 9,
       "trend": "",
       "tags": [
         "Fatigue",
