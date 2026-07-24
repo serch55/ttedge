@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-24T00:31:26.947Z",
+  "generated": "2026-07-24T01:01:38.783Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1799,
-  "todayCount": 18,
+  "totalCount": 1800,
+  "todayCount": 15,
   "matches": [
+    {
+      "id": "2026-07-24_under_michal-vedmoch_vs_dmitro-parhomenko",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Vedmoch",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_martin-olejnik_vs_adrian-spychala",
       "date": "2026-07-24",
@@ -288,11 +309,11 @@
       "league": "TT Elite Series",
       "time": "03:00",
       "timeRaw": "9:00 PM",
-      "pct": 80,
+      "pct": 79,
       "l5": 60,
       "sets3": 100,
-      "score": 60,
-      "h2h": 15,
+      "score": 59,
+      "h2h": 14,
       "trend": "rising",
       "tags": [
         "Fatigue",
