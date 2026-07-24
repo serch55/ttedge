@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-24T17:31:39.970Z",
+  "generated": "2026-07-24T18:01:43.227Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1850,
-  "todayCount": 13,
+  "totalCount": 1851,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-24_over_mihail-trinta_vs_yurii-holovatiuk",
+      "date": "2026-07-24",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Yurii Holovatiuk",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 58,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_piotr-gumulinski_vs_jakub-michalski",
       "date": "2026-07-24",
