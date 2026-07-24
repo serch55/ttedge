@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-24T16:02:17.777Z",
+  "generated": "2026-07-24T16:32:43.061Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1840,
-  "todayCount": 11,
+  "totalCount": 1843,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-24_under_jacek-oracz_vs_michal-natkaniec",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Michal Natkaniec",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 33,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-24_under_roman-hudeczek_vs_lukas-kern",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Hudeczek",
+      "away": "Lukas Kern",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-24_under_marcin-marchlewski_vs_kamil-kostyk",
       "date": "2026-07-24",
@@ -48,6 +90,27 @@
       ]
     },
     {
+      "id": "2026-07-24_under_cezary-pawlik_vs_michal-natkaniec",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Michal Natkaniec",
+      "league": "TT Elite Series",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-24_over_jakub-jesiek_vs_lukasz-bernacki",
       "date": "2026-07-24",
       "type": "over",
@@ -64,6 +127,7 @@
       "h2h": 9,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -105,6 +169,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
