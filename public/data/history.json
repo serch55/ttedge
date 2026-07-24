@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-24T00:02:33.960Z",
+  "generated": "2026-07-24T00:31:26.947Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-24",
-  "totalCount": 1798,
+  "totalCount": 1799,
   "todayCount": 18,
   "matches": [
     {
@@ -174,6 +174,27 @@
       ]
     },
     {
+      "id": "2026-07-24_under_marian-lebek_vs_kacper-adamus",
+      "date": "2026-07-24",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Lebek",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 53,
+      "l5": 20,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-24_spread_michal-machelski_vs_jerzy-michalik",
       "date": "2026-07-24",
       "type": "spread",
@@ -211,6 +232,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
