@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-25T02:01:42.051Z",
+  "generated": "2026-07-25T02:31:27.811Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1879,
+  "totalCount": 1880,
   "todayCount": 6,
   "matches": [
     {
@@ -69,6 +69,26 @@
       ]
     },
     {
+      "id": "2026-07-25_under_wojciech-urban_vs_mariusz-baron",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-25_under_mateusz-misiak_vs_radoslaw-malinowski",
       "date": "2026-07-25",
       "type": "under",
@@ -105,6 +125,27 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_roman-wiza_vs_jakub-michalski",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -311,27 +352,6 @@
       "l5": 100,
       "sets3": 93,
       "score": 70,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-25_under_roman-wiza_vs_jakub-michalski",
-      "date": "2026-07-25",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Roman Wiza",
-      "away": "Jakub Michalski",
-      "league": "TT Elite Series",
-      "time": "01:05",
-      "timeRaw": "7:05 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 47,
-      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
