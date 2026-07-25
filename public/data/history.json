@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-25T08:01:36.754Z",
+  "generated": "2026-07-25T08:31:42.752Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1896,
-  "todayCount": 6,
+  "totalCount": 1897,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-25_under_maciej-kolek_vs_dawid-kosmal",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_jiri-zuzanek_vs_tomas-vinter",
       "date": "2026-07-25",
