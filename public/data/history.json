@@ -1,30 +1,10 @@
 {
-  "generated": "2026-07-25T19:31:26.736Z",
+  "generated": "2026-07-25T20:01:43.821Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
   "totalCount": 1926,
-  "todayCount": 4,
+  "todayCount": 6,
   "matches": [
-    {
-      "id": "2026-07-25_over_marcin-marchlewski_vs_tomasz-filbrandt",
-      "date": "2026-07-25",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Marcin Marchlewski",
-      "away": "Tomasz Filbrandt",
-      "league": "TT Elite Series",
-      "time": "23:20",
-      "timeRaw": "5:20 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 100,
-      "score": 73,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue"
-      ]
-    },
     {
       "id": "2026-07-25_under_jacek-oracz_vs_michal-machelski",
       "date": "2026-07-25",
@@ -165,27 +145,6 @@
       "score": 64,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-25_under_dariusz-maszczynski_vs_andriej-fomin",
-      "date": "2026-07-25",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Dariusz Maszczynski",
-      "away": "Andriej Fomin",
-      "league": "TT Elite Series",
-      "time": "19:20",
-      "timeRaw": "1:20 PM",
-      "pct": 67,
-      "l5": 60,
-      "sets3": 67,
-      "score": 67,
-      "h2h": 9,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1239,6 +1198,26 @@
       ]
     },
     {
+      "id": "2026-07-25_over_marcin-marchlewski_vs_tomasz-filbrandt",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 73,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
       "id": "2026-07-25_under_radek-bartunek_vs_petr-picek",
       "date": "2026-07-25",
       "type": "under",
@@ -1274,6 +1253,27 @@
       "sets3": 93,
       "score": 70,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_dariusz-maszczynski_vs_andriej-fomin",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 70,
+      "score": 69,
+      "h2h": 10,
       "trend": "rising",
       "tags": [
         "Fatigue",
