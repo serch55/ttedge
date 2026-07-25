@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T23:31:32.210Z",
+  "generated": "2026-07-25T00:01:52.776Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1875,
-  "todayCount": 10,
+  "totalCount": 1876,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-25_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -19,6 +19,27 @@
       "l5": 80,
       "sets3": 33,
       "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_marcin-jadczyk_vs_kacper-petas",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Kacper Petas",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 80,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
