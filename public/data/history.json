@@ -1,10 +1,156 @@
 {
-  "generated": "2026-07-25T21:31:38.634Z",
+  "generated": "2026-07-25T22:01:41.725Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-07-25",
-  "totalCount": 1929,
+  "lastDay": "2026-07-26",
+  "totalCount": 1936,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-26_under_pavel-fojt_vs_jiri-dedek",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_filip-mlynarski_vs_marcin-marchlewski",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 86,
+      "l5": 60,
+      "sets3": 50,
+      "score": 70,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_marcin-marchlewski_vs_tomasz-filbrandt",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 73,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_dariusz-maszczynski_vs_andriej-fomin",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 70,
+      "score": 69,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_karol-sulkowski_vs_dawid-poloszczanski",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Dawid Poloszczanski",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_jiri-ruzicka_vs_martin-huk",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_michal-machelski_vs_jacek-oracz",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_jacek-oracz_vs_michal-machelski",
       "date": "2026-07-25",
