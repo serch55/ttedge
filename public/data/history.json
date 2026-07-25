@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-25T07:31:25.327Z",
+  "generated": "2026-07-25T08:01:36.754Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1895,
-  "todayCount": 8,
+  "totalCount": 1896,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-25_under_jiri-zuzanek_vs_tomas-vinter",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Zuzanek",
+      "away": "Tomas Vinter",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_patryk-jedrzejak_vs_rafal-wojcik",
       "date": "2026-07-25",
