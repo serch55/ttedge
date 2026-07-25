@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-25T08:31:42.752Z",
+  "generated": "2026-07-25T09:01:44.004Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1897,
+  "totalCount": 1898,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-25_under_jan-cernik_vs_jakub-vales",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Cernik",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 92,
+      "l5": 80,
+      "sets3": 46,
+      "score": 69,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_maciej-kolek_vs_dawid-kosmal",
       "date": "2026-07-25",
