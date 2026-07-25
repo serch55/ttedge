@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25T01:01:37.014Z",
+  "generated": "2026-07-25T01:31:30.810Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1877,
-  "todayCount": 8,
+  "totalCount": 1878,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-25_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -19,6 +19,27 @@
       "l5": 80,
       "sets3": 33,
       "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_jiri-grohsgott_vs_michal-syroha",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 60,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
