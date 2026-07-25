@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-25T13:31:23.038Z",
+  "generated": "2026-07-25T14:01:41.044Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1910,
-  "todayCount": 7,
+  "totalCount": 1913,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-25_under_filip-mlynarski_vs_alan-wos",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 78,
+      "score": 63,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_spread_filip-mlynarski_vs_alan-wos",
+      "date": "2026-07-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "17:45",
+      "timeRaw": "11:45 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_rafal-wojcik_vs_patryk-jedrzejak",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Wojcik",
+      "away": "Patryk Jedrzejak",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_over_martin-huk_vs_jiri-ruzicka",
       "date": "2026-07-25",
@@ -64,7 +127,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
