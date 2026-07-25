@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25T20:01:43.821Z",
+  "generated": "2026-07-25T20:31:32.834Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1926,
-  "todayCount": 6,
+  "totalCount": 1927,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-25_under_jacek-oracz_vs_michal-machelski",
@@ -1198,6 +1198,27 @@
       ]
     },
     {
+      "id": "2026-07-25_under_filip-mlynarski_vs_marcin-marchlewski",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 86,
+      "l5": 60,
+      "sets3": 50,
+      "score": 70,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-25_over_marcin-marchlewski_vs_tomasz-filbrandt",
       "date": "2026-07-25",
       "type": "over",
@@ -1302,21 +1323,21 @@
       ]
     },
     {
-      "id": "2026-07-25_under_filip-mlynarski_vs_marcin-marchlewski",
+      "id": "2026-07-25_under_michal-machelski_vs_jacek-oracz",
       "date": "2026-07-25",
       "type": "under",
       "conf": "ultra",
-      "home": "Filip Mlynarski",
-      "away": "Marcin Marchlewski",
+      "home": "Michal Machelski",
+      "away": "Jacek Oracz",
       "league": "TT Elite Series",
-      "time": "00:05",
-      "timeRaw": "6:05 PM",
-      "pct": 86,
-      "l5": 60,
-      "sets3": 50,
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 47,
       "score": 70,
-      "h2h": 14,
-      "trend": "",
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
