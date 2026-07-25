@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25T04:31:34.225Z",
+  "generated": "2026-07-25T05:01:42.184Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1886,
-  "todayCount": 11,
+  "totalCount": 1887,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-25_spread_michal-syroha_vs_miroslav-barta",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-07-25_over_mariusz-baron_vs_sebastian-krupa",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Sebastian Krupa",
+      "league": "TT Elite Series",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-25_under_mateusz-misiak_vs_radoslaw-malinowski",
       "date": "2026-07-25",
       "type": "under",
@@ -59,11 +80,12 @@
       "timeRaw": "2:25 AM",
       "pct": 73,
       "l5": 60,
-      "sets3": 33,
-      "score": 62,
+      "sets3": 40,
+      "score": 63,
       "h2h": 15,
-      "trend": "",
+      "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
