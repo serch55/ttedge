@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-25T06:31:29.820Z",
+  "generated": "2026-07-25T07:01:37.441Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1893,
-  "todayCount": 10,
+  "totalCount": 1894,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-25_under_pawel-kurek_vs_jakub-nowak",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 40,
+      "l5": 60,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_sebastian-krupa_vs_jakub-kaczmarek",
       "date": "2026-07-25",
