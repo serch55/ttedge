@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-25T07:01:37.441Z",
+  "generated": "2026-07-25T07:31:25.327Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1894,
-  "todayCount": 9,
+  "totalCount": 1895,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-25_under_patryk-jedrzejak_vs_rafal-wojcik",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patryk Jedrzejak",
+      "away": "Rafal Wojcik",
+      "league": "TT Elite Series",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_pawel-kurek_vs_jakub-nowak",
       "date": "2026-07-25",
