@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-25T12:02:23.162Z",
+  "generated": "2026-07-25T13:01:46.818Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1906,
-  "todayCount": 6,
+  "totalCount": 1910,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-25_over_martin-huk_vs_jiri-ruzicka",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 56,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_josef-braun_vs_karol-strowski",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_jiri-ruzicka_vs_ales-barton",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Ales Barton",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 33,
+      "l5": 60,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_spread_jan-kanera_vs_martin-huk",
       "date": "2026-07-25",
@@ -21,6 +84,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_jerzy-pelka_vs_sebastian-szostok",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Pelka",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
