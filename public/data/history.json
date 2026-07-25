@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-25T06:02:11.097Z",
+  "generated": "2026-07-25T06:31:29.820Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1889,
-  "todayCount": 7,
+  "totalCount": 1893,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-25_under_sebastian-krupa_vs_jakub-kaczmarek",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_jiri-grohsgott_vs_miroslav-barta",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_jakub-vales_vs_jan-cernik",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Vales",
+      "away": "Jan Cernik",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 92,
+      "l5": 80,
+      "sets3": 46,
+      "score": 69,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_wojciech-pytlas_vs_jakub-kaczmarek",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Pytlas",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "09:35",
+      "timeRaw": "3:35 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_ondrej-paril_vs_michal-cabis",
       "date": "2026-07-25",
