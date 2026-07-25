@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T13:01:46.818Z",
+  "generated": "2026-07-25T13:31:23.038Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
   "totalCount": 1910,
@@ -132,6 +132,27 @@
       ]
     },
     {
+      "id": "2026-07-25_under_jan-cernik_vs_jakub-vales",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Cernik",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-25_over_karol-strowski_vs_maciej-domin",
       "date": "2026-07-25",
       "type": "over",
@@ -210,27 +231,6 @@
       "score": 68,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-25_under_jan-cernik_vs_jakub-vales",
-      "date": "2026-07-25",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jan Cernik",
-      "away": "Jakub Vales",
-      "league": "Czech Liga Pro",
-      "time": "13:00",
-      "timeRaw": "7:00 AM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 50,
-      "score": 70,
-      "h2h": 14,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
