@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-25T22:31:41.549Z",
+  "generated": "2026-07-25T23:01:44.927Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1936,
-  "todayCount": 7,
+  "totalCount": 1937,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-26_under_mariusz-koczyba_vs_jakub-nowak",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "05:35",
+      "timeRaw": "11:35 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_pavel-fojt_vs_jiri-dedek",
       "date": "2026-07-26",
@@ -27,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-07-26_over_karol-sulkowski_vs_dawid-poloszczanski",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Dawid Poloszczanski",
+      "league": "TT Elite Series",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-26_under_filip-mlynarski_vs_marcin-marchlewski",
       "date": "2026-07-26",
       "type": "under",
@@ -36,12 +78,12 @@
       "league": "TT Elite Series",
       "time": "02:20",
       "timeRaw": "8:20 PM",
-      "pct": 86,
+      "pct": 87,
       "l5": 60,
-      "sets3": 50,
-      "score": 70,
-      "h2h": 14,
-      "trend": "",
+      "sets3": 47,
+      "score": 72,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -83,27 +125,6 @@
       "score": 69,
       "h2h": 10,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-26_over_karol-sulkowski_vs_dawid-poloszczanski",
-      "date": "2026-07-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Karol Sulkowski",
-      "away": "Dawid Poloszczanski",
-      "league": "TT Elite Series",
-      "time": "00:35",
-      "timeRaw": "6:35 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 87,
-      "score": 57,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
