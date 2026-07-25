@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-25T16:02:34.647Z",
+  "generated": "2026-07-25T16:31:25.693Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1920,
-  "todayCount": 8,
+  "totalCount": 1921,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-25_spread_dariusz-maszczynski_vs_piotr-gesiarz",
+      "date": "2026-07-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Piotr Gesiarz",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_over_milan-klement_vs_jiri-louda",
       "date": "2026-07-25",
@@ -104,6 +125,7 @@
       "h2h": 9,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -145,6 +167,7 @@
       "h2h": 11,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
