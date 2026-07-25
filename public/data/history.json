@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-25T14:31:24.548Z",
+  "generated": "2026-07-25T15:01:48.381Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1913,
+  "totalCount": 1915,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-25_spread_janus-slawomir_vs_andriej-fomin",
+      "date": "2026-07-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Janus Slawomir",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_vlastimil-kolar_vs_viktor-vejvoda",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vlastimil Kolar",
+      "away": "Viktor Vejvoda",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 54,
+      "l5": 80,
+      "sets3": 77,
+      "score": 62,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_filip-mlynarski_vs_alan-wos",
       "date": "2026-07-25",
