@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25T00:01:52.776Z",
+  "generated": "2026-07-25T00:31:30.715Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1876,
-  "todayCount": 9,
+  "totalCount": 1877,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-25_under_jakub-michalski_vs_adam-ruszkiewicz",
@@ -125,6 +125,27 @@
       "score": 64,
       "h2h": 10,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_spread_piotr-gumulinski_vs_jakub-michalski",
+      "date": "2026-07-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
