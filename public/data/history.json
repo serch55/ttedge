@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25T20:31:32.834Z",
+  "generated": "2026-07-25T21:01:48.702Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1927,
-  "todayCount": 7,
+  "totalCount": 1928,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-25_under_jacek-oracz_vs_michal-machelski",
@@ -1150,6 +1150,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_pavel-fojt_vs_jiri-dedek",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
