@@ -1,10 +1,93 @@
 {
-  "generated": "2026-07-25T15:01:48.381Z",
+  "generated": "2026-07-25T15:31:25.105Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1915,
-  "todayCount": 6,
+  "totalCount": 1918,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-25_under_marcin-marchlewski_vs_filip-mlynarski",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "pct": 85,
+      "l5": 60,
+      "sets3": 54,
+      "score": 69,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_karol-strowski_vs_jakub-kuzmicz",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_dariusz-maszczynski_vs_andriej-fomin",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 67,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_under_daniel-morawiec_vs_sebastian-szostok",
+      "date": "2026-07-25",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Morawiec",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "18:40",
+      "timeRaw": "12:40 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 47,
+      "score": 76,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_spread_janus-slawomir_vs_andriej-fomin",
       "date": "2026-07-25",
@@ -357,27 +440,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
-      ]
-    },
-    {
-      "id": "2026-07-25_under_daniel-morawiec_vs_sebastian-szostok",
-      "date": "2026-07-25",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Daniel Morawiec",
-      "away": "Sebastian Szostok",
-      "league": "TT Elite Series",
-      "time": "12:40",
-      "timeRaw": "6:40 AM",
-      "pct": 60,
-      "l5": 60,
-      "sets3": 53,
-      "score": 73,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
       ]
     },
     {
