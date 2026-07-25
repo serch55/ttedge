@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-25T21:01:48.702Z",
+  "generated": "2026-07-25T21:31:38.634Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1928,
+  "totalCount": 1929,
   "todayCount": 8,
   "matches": [
     {
@@ -1323,6 +1323,27 @@
       ]
     },
     {
+      "id": "2026-07-25_over_karol-sulkowski_vs_dawid-poloszczanski",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Dawid Poloszczanski",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-25_over_jiri-ruzicka_vs_martin-huk",
       "date": "2026-07-25",
       "type": "over",
@@ -1353,10 +1374,10 @@
       "league": "TT Elite Series",
       "time": "00:25",
       "timeRaw": "6:25 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 47,
-      "score": 70,
+      "pct": 80,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
