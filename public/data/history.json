@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-25T10:01:39.819Z",
+  "generated": "2026-07-25T10:31:27.141Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1900,
-  "todayCount": 5,
+  "totalCount": 1902,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-25_over_daniel-morawiec_vs_patryk-jedrzejak",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Daniel Morawiec",
+      "away": "Patryk Jedrzejak",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_artur-szoltysek_vs_tadeusz-piotrowski",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Szoltysek",
+      "away": "Tadeusz Piotrowski",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 80,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_jan-cernik_vs_jakub-vales",
       "date": "2026-07-25",
@@ -39,9 +81,9 @@
       "pct": 87,
       "l5": 100,
       "sets3": 100,
-      "score": 56,
+      "score": 58,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "falling",
       "tags": [
         "Fatigue"
       ]
