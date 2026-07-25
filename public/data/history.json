@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-25T11:01:49.355Z",
+  "generated": "2026-07-25T11:31:28.579Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-25",
-  "totalCount": 1903,
+  "totalCount": 1905,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-25_spread_tadeusz-piotrowski_vs_bartlomiej-wisniewski",
+      "date": "2026-07-25",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Tadeusz Piotrowski",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-25_over_karol-strowski_vs_maciej-domin",
+      "date": "2026-07-25",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Maciej Domin",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 55,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-25_under_radoslaw-malinowski_vs_bartosz-kwodawski",
       "date": "2026-07-25",
