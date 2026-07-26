@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-26T10:31:36.878Z",
+  "generated": "2026-07-26T11:01:41.089Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1962,
-  "todayCount": 7,
+  "totalCount": 1964,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-26_under_kacper-petas_vs_jan-zandecki",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 40,
+      "l5": 40,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_ladislav-havel-1956_vs_michal-syroha",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_piotr-staniszewski_vs_wojciech-gluszek",
       "date": "2026-07-26",
