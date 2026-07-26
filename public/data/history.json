@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-26T22:01:35.576Z",
+  "generated": "2026-07-26T22:31:34.336Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2015,
-  "todayCount": 11,
+  "totalCount": 2017,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-27_under_pawel-chojnacki_vs_henryk-tkaczyk",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "04:35",
+      "timeRaw": "10:35 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_under_jan-steffan_vs_petr-bruzek",
       "date": "2026-07-27",
@@ -38,9 +59,30 @@
       "pct": 80,
       "l5": 80,
       "sets3": 93,
-      "score": 58,
+      "score": 60,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_jakub-pruszkowski_vs_michal-paszkiewicz",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Michal Paszkiewicz",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 43,
+      "score": 63,
+      "h2h": 14,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
