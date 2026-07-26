@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-26T03:31:46.278Z",
+  "generated": "2026-07-26T04:01:48.697Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1946,
+  "totalCount": 1947,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-26_under_kacper-petas_vs_marcin-jadczyk",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_maciej-domin_vs_karol-wisniewski",
       "date": "2026-07-26",
@@ -187,6 +208,7 @@
       "h2h": 14,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
