@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-26T01:01:45.551Z",
+  "generated": "2026-07-26T01:31:20.634Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1940,
-  "todayCount": 5,
+  "totalCount": 1942,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-26_under_jiri-louda_vs_petr-sebera",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Louda",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_spread_jiri-grohsgott_vs_michal-syroha",
+      "date": "2026-07-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_over_mariusz-adamus_vs_oskar-jadach",
       "date": "2026-07-26",
