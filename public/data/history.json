@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T23:01:39.318Z",
+  "generated": "2026-07-26T23:31:25.619Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
   "totalCount": 2018,
-  "todayCount": 9,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-27_under_pawel-chojnacki_vs_henryk-tkaczyk",
@@ -43,6 +43,7 @@
       "h2h": 12,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -56,12 +57,12 @@
       "league": "TT Elite Series",
       "time": "03:00",
       "timeRaw": "9:00 PM",
-      "pct": 70,
-      "l5": 80,
-      "sets3": 50,
-      "score": 69,
-      "h2h": 10,
-      "trend": "falling",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 55,
+      "score": 63,
+      "h2h": 11,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
