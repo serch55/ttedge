@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T03:01:50.687Z",
+  "generated": "2026-07-26T03:31:46.278Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1945,
-  "todayCount": 9,
+  "totalCount": 1946,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-26_under_maciej-domin_vs_karol-wisniewski",
@@ -126,6 +126,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_jakub-wozniak_vs_maciej-sinicki",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Wozniak",
+      "away": "Maciej Sinicki",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
