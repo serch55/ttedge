@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T02:02:07.744Z",
+  "generated": "2026-07-26T02:31:35.344Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1942,
-  "todayCount": 4,
+  "totalCount": 1943,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-26_under_jiri-louda_vs_petr-sebera",
@@ -106,6 +106,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_waclaw-suchecki_vs_wojciech-gluszek",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Waclaw Suchecki",
+      "away": "Wojciech Gluszek",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 86,
+      "score": 58,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
