@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T19:31:30.273Z",
+  "generated": "2026-07-26T20:01:52.390Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 2000,
-  "todayCount": 16,
+  "totalCount": 2001,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-26_under_jacek-zelezik_vs_henryk-tkaczyk",
@@ -21,27 +21,6 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-26_over_tomasz-filbrandt_vs_jakub-zochniak",
-      "date": "2026-07-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Tomasz Filbrandt",
-      "away": "Jakub Zochniak",
-      "league": "TT Elite Series",
-      "time": "23:20",
-      "timeRaw": "5:20 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 93,
-      "score": 58,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1281,6 +1260,27 @@
       ]
     },
     {
+      "id": "2026-07-26_over_tomasz-filbrandt_vs_jakub-zochniak",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-26_over_marcin-marchlewski_vs_tomasz-filbrandt",
       "date": "2026-07-26",
       "type": "over",
@@ -1298,6 +1298,27 @@
       "trend": "falling",
       "tags": [
         "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_jan-potensky_vs_jiri-grohsgott",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Potensky",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 60,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
