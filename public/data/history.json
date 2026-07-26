@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-26T02:31:35.344Z",
+  "generated": "2026-07-26T03:01:50.687Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1943,
-  "todayCount": 7,
+  "totalCount": 1945,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-26_under_maciej-domin_vs_karol-wisniewski",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Maciej Domin",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_martin-tacinec_vs_jan-pleskot",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Tacinec",
+      "away": "Jan Pleskot",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_jiri-louda_vs_petr-sebera",
       "date": "2026-07-26",
