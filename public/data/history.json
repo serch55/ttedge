@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-26T00:31:37.795Z",
+  "generated": "2026-07-26T01:01:45.551Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1938,
-  "todayCount": 3,
+  "totalCount": 1940,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-26_over_mariusz-adamus_vs_oskar-jadach",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_kacper-petas_vs_karol-wisniewski",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_over_maciej-kolek_vs_bartlomiej-mleczko",
       "date": "2026-07-26",
