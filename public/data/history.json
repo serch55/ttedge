@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-26T15:01:36.170Z",
+  "generated": "2026-07-26T15:31:26.979Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1977,
-  "todayCount": 12,
+  "totalCount": 1979,
+  "todayCount": 14,
   "matches": [
+    {
+      "id": "2026-07-26_under_filip-mlynarski_vs_alan-wos",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 80,
+      "score": 65,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_spread_filip-mlynarski_vs_alan-wos",
+      "date": "2026-07-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "19:40",
+      "timeRaw": "1:40 PM",
+      "l5": null,
+      "score": 61,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_adam-staniczek_vs_henryk-tkaczyk",
       "date": "2026-07-26",
@@ -62,6 +104,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
