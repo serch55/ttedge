@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T20:01:52.390Z",
+  "generated": "2026-07-26T20:31:36.463Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 2001,
-  "todayCount": 14,
+  "totalCount": 2002,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-26_under_jacek-zelezik_vs_henryk-tkaczyk",
@@ -1448,6 +1448,27 @@
       ]
     },
     {
+      "id": "2026-07-26_over_jakub-nowak_vs_grzegorz-marud",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Grzegorz Marud",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-26_under_pawel-chojnacki_vs_jacek-zelezik",
       "date": "2026-07-26",
       "type": "under",
@@ -1459,8 +1480,8 @@
       "timeRaw": "6:10 PM",
       "pct": 60,
       "l5": 80,
-      "sets3": 53,
-      "score": 67,
+      "sets3": 60,
+      "score": 68,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -1479,7 +1500,7 @@
       "time": "00:10",
       "timeRaw": "6:10 PM",
       "l5": null,
-      "score": 56,
+      "score": 58,
       "pick": "",
       "spread": null,
       "h2h": 15,
