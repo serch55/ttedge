@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T19:01:41.701Z",
+  "generated": "2026-07-26T19:31:30.273Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1998,
-  "todayCount": 14,
+  "totalCount": 2000,
+  "todayCount": 16,
   "matches": [
     {
       "id": "2026-07-26_under_jacek-zelezik_vs_henryk-tkaczyk",
@@ -396,27 +396,6 @@
       "spread": null,
       "h2h": 10,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-26_under_adam-staniczek_vs_henryk-tkaczyk",
-      "date": "2026-07-26",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Adam Staniczek",
-      "away": "Henryk Tkaczyk",
-      "league": "TT Elite Series",
-      "time": "18:55",
-      "timeRaw": "12:55 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 53,
-      "score": 62,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1343,6 +1322,48 @@
       ]
     },
     {
+      "id": "2026-07-26_under_jan-pleskot_vs_petr-bruzek",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_adam-staniczek_vs_henryk-tkaczyk",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-26_over_jiri-ruzicka_vs_martin-huk",
       "date": "2026-07-26",
       "type": "over",
@@ -1356,6 +1377,27 @@
       "l5": 80,
       "sets3": 80,
       "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_jan-steffan_vs_tomas-regner",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 57,
       "h2h": 15,
       "trend": "rising",
       "tags": [
