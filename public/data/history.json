@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-26T17:01:42.274Z",
+  "generated": "2026-07-26T17:31:28.635Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1986,
+  "totalCount": 1987,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-26_under_marcel-heczko_vs_vaclav-zidek",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcel Heczko",
+      "away": "Vaclav Zidek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_over_tomas-milota_vs_dominik-oborny",
       "date": "2026-07-26",
