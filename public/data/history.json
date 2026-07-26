@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-26T10:01:32.932Z",
+  "generated": "2026-07-26T10:31:36.878Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1961,
-  "todayCount": 6,
+  "totalCount": 1962,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-26_under_piotr-staniszewski_vs_wojciech-gluszek",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Piotr Staniszewski",
+      "away": "Wojciech Gluszek",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_mariusz-adamus_vs_oskar-jadach",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "13:55",
+      "timeRaw": "7:55 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_michal-syroha_vs_frantisek-trojan",
       "date": "2026-07-26",
@@ -99,12 +141,12 @@
       "league": "Czech Liga Pro",
       "time": "12:30",
       "timeRaw": "6:30 AM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 100,
-      "score": 67,
+      "pct": 87,
+      "l5": 60,
+      "sets3": 93,
+      "score": 58,
       "h2h": 15,
-      "trend": "",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -420,26 +462,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-26_over_mariusz-adamus_vs_oskar-jadach",
-      "date": "2026-07-26",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Mariusz Adamus",
-      "away": "Oskar Jadach",
-      "league": "TT Elite Series",
-      "time": "07:55",
-      "timeRaw": "1:55 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 87,
-      "score": 56,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
