@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-26T14:01:41.831Z",
+  "generated": "2026-07-26T14:31:24.699Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1971,
-  "todayCount": 7,
+  "totalCount": 1974,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-26_over_arkadiusz-mugowski_vs_jakub-glanowski",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Arkadiusz Mugowski",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_radomir-vavrecka_vs_dominik-oborny",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radomir Vavrecka",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 31,
+      "score": 72,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_spread_radomir-vavrecka_vs_dominik-oborny",
+      "date": "2026-07-26",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Radomir Vavrecka",
+      "away": "Dominik Oborny",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_under_alan-wos_vs_krzysztof-kapik",
       "date": "2026-07-26",
