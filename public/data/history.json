@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T20:31:36.463Z",
+  "generated": "2026-07-26T21:01:45.074Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 2002,
-  "todayCount": 13,
+  "totalCount": 2003,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-26_under_jacek-zelezik_vs_henryk-tkaczyk",
@@ -1193,6 +1193,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_under_jan-steffan_vs_petr-bruzek",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 58,
+      "l5": 80,
+      "sets3": 50,
+      "score": 63,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
