@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-26T16:01:35.565Z",
+  "generated": "2026-07-26T16:31:33.995Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1983,
-  "todayCount": 12,
+  "totalCount": 1985,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-26_under_marek-holub_vs_zbynek-pagac",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Holub",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_bartosz-sulkowski_vs_aleksander-lilien",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Aleksander Lilien",
+      "league": "TT Elite Series",
+      "time": "20:10",
+      "timeRaw": "2:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_over_krzysztof-kapik_vs_tomasz-filbrandt",
       "date": "2026-07-26",
@@ -84,6 +125,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -146,6 +188,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -166,6 +209,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
