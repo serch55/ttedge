@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-26T07:01:41.349Z",
+  "generated": "2026-07-26T07:31:30.326Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-26",
-  "totalCount": 1954,
-  "todayCount": 7,
+  "totalCount": 1956,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-26_under_patryk-jedrzejak_vs_rafal-wojcik",
+      "date": "2026-07-26",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patryk Jedrzejak",
+      "away": "Rafal Wojcik",
+      "league": "TT Elite Series",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-26_over_rafal-wojcik_vs_oskar-jadach",
+      "date": "2026-07-26",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Wojcik",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 86,
+      "score": 58,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-26_over_petr-sebera_vs_denis-hofman",
       "date": "2026-07-26",
