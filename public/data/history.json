@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27T23:01:45.483Z",
+  "generated": "2026-07-27T23:31:44.883Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2092,
-  "todayCount": 9,
+  "totalCount": 2095,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -23,6 +23,46 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_dariusz-wrobel_vs_kamil-klocek",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Kamil Klocek",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_kacper-glazowski_vs_dawid-michna",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Glazowski",
+      "away": "Dawid Michna",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
@@ -84,6 +124,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_aleksander-barton_vs_miroslaw-warzecha",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 33,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
