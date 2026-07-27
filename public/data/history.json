@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27T00:01:48.127Z",
+  "generated": "2026-07-27T00:31:34.889Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2021,
-  "todayCount": 6,
+  "totalCount": 2023,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-27_over_josef-braun_vs_grzegorz-adamiak",
@@ -89,6 +89,27 @@
       ]
     },
     {
+      "id": "2026-07-27_under_lukasz-oracz_vs_michal-paszkiewicz",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Oracz",
+      "away": "Michal Paszkiewicz",
+      "league": "TT Elite Series",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 91,
+      "l5": 80,
+      "sets3": 36,
+      "score": 65,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-27_under_jan-steffan_vs_petr-bruzek",
       "date": "2026-07-27",
       "type": "under",
@@ -104,6 +125,27 @@
       "score": 63,
       "h2h": 12,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_over_krzysztof-schaniel_vs_wojciech-urban",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
