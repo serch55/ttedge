@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-27T16:31:30.440Z",
+  "generated": "2026-07-27T17:01:41.848Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2062,
-  "todayCount": 6,
+  "totalCount": 2065,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-27_over_frantisek-briza_vs_yurii-holovatiuk",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Frantisek Briza",
+      "away": "Yurii Holovatiuk",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_over_jiri-dedek_vs_radim-pavelka",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Dedek",
+      "away": "Radim Pavelka",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_under_radim-pavelka_vs_pavel-fojt",
       "date": "2026-07-27",
@@ -82,6 +124,27 @@
       "sets3": 100,
       "score": 60,
       "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_kacper-marchlewski_vs_adrian-eliasz",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Marchlewski",
+      "away": "Adrian Eliasz",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 83,
+      "l5": 80,
+      "sets3": 42,
+      "score": 72,
+      "h2h": 12,
       "trend": "falling",
       "tags": [
         "Fatigue",
