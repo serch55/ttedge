@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27T20:02:06.112Z",
+  "generated": "2026-07-27T20:31:28.497Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
   "totalCount": 2077,
-  "todayCount": 10,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-27_under_piotr-gumulinski_vs_robert-kostepski",
@@ -21,27 +21,6 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-27_under_miroslaw-warzecha_vs_adam-staniczek",
-      "date": "2026-07-27",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Miroslaw Warzecha",
-      "away": "Adam Staniczek",
-      "league": "TT Elite Series",
-      "time": "22:45",
-      "timeRaw": "4:45 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 47,
-      "score": 63,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1232,6 +1211,27 @@
       "l5": 80,
       "sets3": 87,
       "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_miroslaw-warzecha_vs_adam-staniczek",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 63,
       "h2h": 15,
       "trend": "falling",
       "tags": [
