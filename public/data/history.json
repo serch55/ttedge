@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-27T17:31:34.577Z",
+  "generated": "2026-07-27T18:01:45.535Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2066,
-  "todayCount": 9,
+  "totalCount": 2067,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-27_over_adam-staniczek_vs_jakub-skorupa",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "21:35",
+      "timeRaw": "3:35 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_over_frantisek-briza_vs_yurii-holovatiuk",
       "date": "2026-07-27",
@@ -126,7 +147,6 @@
       "h2h": 10,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
