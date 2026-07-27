@@ -1,10 +1,51 @@
 {
-  "generated": "2026-07-27T10:01:37.137Z",
+  "generated": "2026-07-27T10:31:38.332Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2045,
-  "todayCount": 5,
+  "totalCount": 2047,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-07-27_under_michael-sedlacek_vs_jan-szotkowski",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_mihail-trinta_vs_rotislav-hasmanda",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Rotislav Hasmanda",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_over_wojciech-tobiasz_vs_oskar-jadach",
       "date": "2026-07-27",
