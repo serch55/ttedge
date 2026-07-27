@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27T21:01:41.693Z",
+  "generated": "2026-07-27T21:32:04.726Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2078,
-  "todayCount": 7,
+  "totalCount": 2079,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-27_under_piotr-gumulinski_vs_robert-kostepski",
@@ -252,27 +252,6 @@
       "h2h": 10,
       "trend": "falling",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-27_under_kacper-marchlewski_vs_adrian-eliasz",
-      "date": "2026-07-27",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Kacper Marchlewski",
-      "away": "Adrian Eliasz",
-      "league": "TT Elite Series",
-      "time": "19:45",
-      "timeRaw": "1:45 PM",
-      "pct": 83,
-      "l5": 80,
-      "sets3": 42,
-      "score": 72,
-      "h2h": 12,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1340,7 +1319,6 @@
       "h2h": 15,
       "trend": "",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1360,6 +1338,27 @@
       "score": 64,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_kacper-marchlewski_vs_adrian-eliasz",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Marchlewski",
+      "away": "Adrian Eliasz",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 77,
+      "l5": 80,
+      "sets3": 46,
+      "score": 63,
+      "h2h": 13,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1422,6 +1421,27 @@
       "sets3": 87,
       "score": 60,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_kuba-golaszewski_vs_adrian-eliasz",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kuba Golaszewski",
+      "away": "Adrian Eliasz",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 46,
+      "l5": 40,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 11,
       "trend": "rising",
       "tags": [
         "Fatigue",
