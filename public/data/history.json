@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-27T11:31:25.794Z",
+  "generated": "2026-07-27T12:01:39.946Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2048,
-  "todayCount": 4,
+  "totalCount": 2050,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-07-27_under_miroslav-barta_vs_ladislav-havel-1956",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Barta",
+      "away": "Ladislav Havel 1956",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_miroslav-sklensky_vs_karol-wisniewski",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Sklensky",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "15:50",
+      "timeRaw": "9:50 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 33,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_spread_pawel-slosarczyk_vs_krzysztof-juszczyk",
       "date": "2026-07-27",
