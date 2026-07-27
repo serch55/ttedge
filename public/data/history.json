@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-27T08:31:26.171Z",
+  "generated": "2026-07-27T09:01:40.038Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2043,
-  "todayCount": 9,
+  "totalCount": 2044,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-27_over_martin-huk_vs_jiri-ruzicka",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_under_jiri-ruzicka_vs_jan-simecek",
       "date": "2026-07-27",
