@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-26T23:31:25.619Z",
+  "generated": "2026-07-27T00:01:48.127Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2018,
+  "totalCount": 2021,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-27_over_josef-braun_vs_grzegorz-adamiak",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Grzegorz Adamiak",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_over_karol-wisniewski_vs_grzegorz-poliniewicz",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_wojciech-wojtaszczyk_vs_oliwier-sokolowski",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Oliwier Sokolowski",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 33,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_under_pawel-chojnacki_vs_henryk-tkaczyk",
       "date": "2026-07-27",
