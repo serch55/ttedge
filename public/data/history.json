@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-27T01:31:37.681Z",
+  "generated": "2026-07-27T02:01:52.653Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2023,
+  "totalCount": 2025,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-27_under_jakub-pruszkowski_vs_pawel-slosarczyk",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Pawel Slosarczyk",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_over_josef-braun_vs_grzegorz-adamiak",
       "date": "2026-07-27",
@@ -60,6 +81,27 @@
       "l5": 60,
       "sets3": 33,
       "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_over_kamil-rudomina_vs_artur-sobel",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "05:40",
+      "timeRaw": "11:40 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
       "h2h": 15,
       "trend": "rising",
       "tags": [
