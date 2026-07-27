@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-27T07:31:32.604Z",
+  "generated": "2026-07-27T08:01:55.150Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2040,
-  "todayCount": 7,
+  "totalCount": 2042,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-27_over_jan-mecl-jr_vs_martin-huk",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Mecl Jr",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_mihail-trinta_vs_tibor-kolenic",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Tibor Kolenic",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_under_lukasz-jarocki_vs_karol-wisniewski",
       "date": "2026-07-27",
