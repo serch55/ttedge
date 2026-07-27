@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-27T18:31:41.087Z",
+  "generated": "2026-07-27T19:01:55.164Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2070,
-  "todayCount": 9,
+  "totalCount": 2072,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-27_under_miroslaw-warzecha_vs_adam-staniczek",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_under_lukasz-jarocki_vs_michal-olbrycht",
       "date": "2026-07-27",
@@ -23,6 +44,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_jiri-dedek_vs_pavel-fojt",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Dedek",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
