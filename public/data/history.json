@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-27T07:01:53.986Z",
+  "generated": "2026-07-27T07:31:32.604Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2037,
-  "todayCount": 4,
+  "totalCount": 2040,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-27_under_lukasz-jarocki_vs_karol-wisniewski",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Jarocki",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "11:45",
+      "timeRaw": "5:45 AM",
+      "pct": 57,
+      "l5": 80,
+      "sets3": 64,
+      "score": 62,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_grzegorz-wichowski_vs_wojciech-tobiasz",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "11:30",
+      "timeRaw": "5:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 47,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_over_grzegorz-adamiak_vs_josef-braun",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Adamiak",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "11:20",
+      "timeRaw": "5:20 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_over_jakub-kaczmarek_vs_krzysztof-juszczyk",
       "date": "2026-07-27",
