@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27T20:31:28.497Z",
+  "generated": "2026-07-27T21:01:41.693Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2077,
-  "todayCount": 9,
+  "totalCount": 2078,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-27_under_piotr-gumulinski_vs_robert-kostepski",
@@ -1213,6 +1213,27 @@
       "score": 58,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_rotislav-hasmanda_vs_radek-bartunek",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rotislav Hasmanda",
+      "away": "Radek Bartunek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
