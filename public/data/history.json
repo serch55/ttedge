@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-27T14:31:32.025Z",
+  "generated": "2026-07-27T15:01:50.442Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2056,
+  "totalCount": 2058,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-07-27_under_ladislav-havel-1956_vs_michal-syroha",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 80,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_spread_ladislav-havel-1956_vs_michal-syroha",
+      "date": "2026-07-27",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Michal Syroha",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-27_over_adam-brazda_vs_martin-sobisek",
       "date": "2026-07-27",
