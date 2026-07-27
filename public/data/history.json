@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27T02:31:29.650Z",
+  "generated": "2026-07-27T03:01:43.606Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-27",
-  "totalCount": 2027,
-  "todayCount": 8,
+  "totalCount": 2029,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-27_under_jan-simecek_vs_jiri-ruzicka",
@@ -21,6 +21,46 @@
       "score": 63,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_over_samuel-byrtus_vs_jakub-simecek",
+      "date": "2026-07-27",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Samuel Byrtus",
+      "away": "Jakub Simecek",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 89,
+      "l5": 80,
+      "sets3": 89,
+      "score": 59,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-27_under_grzegorz-poliniewicz_vs_josef-braun",
+      "date": "2026-07-27",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 44,
+      "score": 63,
+      "h2h": 9,
+      "trend": "rising",
       "tags": [
         "Volatile"
       ]
@@ -83,7 +123,6 @@
       "h2h": 12,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
