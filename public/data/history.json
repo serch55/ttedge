@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T22:01:50.084Z",
+  "generated": "2026-07-28T22:31:29.010Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2175,
-  "todayCount": 17,
+  "totalCount": 2176,
+  "todayCount": 16,
   "matches": [
     {
       "id": "2026-07-29_under_zbigniew-nocun_vs_henryk-tkaczyk",
@@ -21,6 +21,27 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_frantisek-briza_vs_alexander-mikuska",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Frantisek Briza",
+      "away": "Alexander Mikuska",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
