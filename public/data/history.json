@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T04:01:34.330Z",
+  "generated": "2026-07-28T04:31:23.963Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2102,
-  "todayCount": 5,
+  "totalCount": 2104,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -19,6 +19,48 @@
       "l5": 60,
       "sets3": 47,
       "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_kamil-rudomina_vs_michal-minda",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 72,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_michal-paszkiewicz_vs_jakub-kaczmarek",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 60,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -105,6 +147,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
