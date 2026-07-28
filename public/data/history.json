@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T16:01:38.969Z",
+  "generated": "2026-07-28T16:31:38.042Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2131,
-  "todayCount": 4,
+  "totalCount": 2134,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -27,6 +27,67 @@
       ]
     },
     {
+      "id": "2026-07-28_over_lukasz-jarocki_vs_krystian-kolodziej",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Lukasz Jarocki",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_kamil-delikatny_vs_dariusz-molenda",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 58,
+      "score": 62,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_marian-brunner_vs_zbigniew-nocun",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Brunner",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "19:55",
+      "timeRaw": "1:55 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-28_under_mariusz-koczyba_vs_piotr-kaczynski",
       "date": "2026-07-28",
       "type": "under",
@@ -42,6 +103,27 @@
       "score": 72,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_pawel-kurek_vs_piotr-przewlocki",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 69,
+      "h2h": 9,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -146,27 +228,6 @@
       "pick": "",
       "spread": null,
       "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-28_under_pawel-kurek_vs_piotr-przewlocki",
-      "date": "2026-07-28",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Pawel Kurek",
-      "away": "Piotr Przewlocki",
-      "league": "TT Elite Series",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 67,
-      "l5": 60,
-      "sets3": 56,
-      "score": 69,
-      "h2h": 9,
       "trend": "",
       "tags": [
         "Fatigue",
