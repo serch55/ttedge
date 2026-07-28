@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T04:31:23.963Z",
+  "generated": "2026-07-28T05:01:52.246Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2104,
+  "totalCount": 2105,
   "todayCount": 7,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_adam-ruszkiewicz_vs_dawid-jedrysik",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Dawid Jedrysik",
+      "league": "TT Elite Series",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "pct": 77,
+      "l5": 100,
+      "sets3": 85,
+      "score": 56,
+      "h2h": 13,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
