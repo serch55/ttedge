@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T17:31:30.383Z",
+  "generated": "2026-07-28T18:01:36.681Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2138,
+  "totalCount": 2139,
   "todayCount": 7,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_krystian-kolodziej_vs_karol-strowski",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "22:05",
+      "timeRaw": "4:05 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
