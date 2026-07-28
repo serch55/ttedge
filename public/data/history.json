@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T12:31:41.341Z",
+  "generated": "2026-07-28T13:02:29.049Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2122,
-  "todayCount": 7,
+  "totalCount": 2126,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -21,6 +21,89 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_pawel-kurek_vs_piotr-przewlocki",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 69,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_lukas-tonar_vs_jiri-zuzanek",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Tonar",
+      "away": "Jiri Zuzanek",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_wojciech-urban_vs_sebastian-szostok",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_spread_wojciech-urban_vs_sebastian-szostok",
+      "date": "2026-07-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
