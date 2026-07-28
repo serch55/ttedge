@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T15:31:40.421Z",
+  "generated": "2026-07-28T16:01:38.969Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
   "totalCount": 2131,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -43,6 +43,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
