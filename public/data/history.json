@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T00:31:55.322Z",
+  "generated": "2026-07-28T01:01:48.491Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2096,
-  "todayCount": 10,
+  "totalCount": 2097,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -21,6 +21,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_spread_daniel-tuma_vs_martin-sobisek",
+      "date": "2026-07-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Martin Sobisek",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
