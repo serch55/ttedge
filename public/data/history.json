@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T09:01:55.616Z",
+  "generated": "2026-07-28T09:31:45.485Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2112,
+  "totalCount": 2113,
   "todayCount": 4,
   "matches": [
     {
@@ -42,6 +42,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_krzysztof-kapik_vs_miroslav-sklensky",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Miroslav Sklensky",
+      "league": "TT Elite Series",
+      "time": "12:55",
+      "timeRaw": "6:55 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
