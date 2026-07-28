@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T05:01:52.246Z",
+  "generated": "2026-07-28T05:31:30.820Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2105,
-  "todayCount": 7,
+  "totalCount": 2107,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -21,6 +21,48 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_spread_oleksandr-kolisnyk_vs_lukas-jindrak",
+      "date": "2026-07-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Oleksandr Kolisnyk",
+      "away": "Lukas Jindrak",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_adam-linek_vs_artur-sobel",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "09:15",
+      "timeRaw": "3:15 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 72,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
