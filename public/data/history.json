@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T06:31:29.670Z",
+  "generated": "2026-07-28T07:01:49.787Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2107,
-  "todayCount": 5,
+  "totalCount": 2109,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -18,6 +18,48 @@
       "pct": 47,
       "l5": 60,
       "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_spread_grzegorz-adamiak_vs_dawid-michna",
+      "date": "2026-07-28",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Grzegorz Adamiak",
+      "away": "Dawid Michna",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_martin-olejnik_vs_grzegorz-felkel",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Olejnik",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "10:05",
+      "timeRaw": "4:05 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
       "score": 63,
       "h2h": 15,
       "trend": "rising",
