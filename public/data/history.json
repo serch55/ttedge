@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T01:01:48.491Z",
+  "generated": "2026-07-28T01:31:31.790Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2097,
-  "todayCount": 8,
+  "totalCount": 2099,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -166,6 +166,48 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_mateusz-sikon_vs_piotr-gumulinski",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Sikon",
+      "away": "Piotr Gumulinski",
+      "league": "TT Elite Series",
+      "time": "04:10",
+      "timeRaw": "10:10 PM",
+      "pct": 78,
+      "l5": 100,
+      "sets3": 56,
+      "score": 69,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_jakub-cyndera_vs_miroslaw-warzecha",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Cyndera",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
