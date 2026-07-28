@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T18:31:28.349Z",
+  "generated": "2026-07-28T19:01:37.227Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2142,
-  "todayCount": 8,
+  "totalCount": 2144,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -21,6 +21,48 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_pawel-chojnacki_vs_dariusz-molenda",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Chojnacki",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 40,
+      "score": 72,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_mihail-trinta_vs_rotislav-hasmanda",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Rotislav Hasmanda",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -106,6 +148,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
