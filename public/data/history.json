@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T22:31:29.010Z",
+  "generated": "2026-07-28T23:01:47.540Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2176,
-  "todayCount": 16,
+  "totalCount": 2178,
+  "todayCount": 15,
   "matches": [
     {
       "id": "2026-07-29_under_zbigniew-nocun_vs_henryk-tkaczyk",
@@ -19,6 +19,48 @@
       "l5": 80,
       "sets3": 67,
       "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_mateusz-trela_vs_kuba-golaszewski",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Trela",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 46,
+      "l5": 40,
+      "sets3": 64,
+      "score": 63,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_michal-paszkiewicz_vs_marek-tkocz",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Marek Tkocz",
+      "league": "TT Elite Series",
+      "time": "05:10",
+      "timeRaw": "11:10 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -85,6 +127,7 @@
       "h2h": 11,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -126,6 +169,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -208,6 +252,7 @@
       "h2h": 14,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -270,6 +315,7 @@
       "h2h": 13,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
