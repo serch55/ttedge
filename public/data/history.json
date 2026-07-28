@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T09:31:45.485Z",
+  "generated": "2026-07-28T10:02:17.287Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2113,
-  "todayCount": 4,
+  "totalCount": 2115,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -21,6 +21,48 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_wojciech-urban_vs_pawel-slosarczyk",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Pawel Slosarczyk",
+      "league": "TT Elite Series",
+      "time": "13:50",
+      "timeRaw": "7:50 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_zbynek-pagac_vs_lukas-kern",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbynek Pagac",
+      "away": "Lukas Kern",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 50,
+      "l5": 80,
+      "sets3": 64,
+      "score": 63,
+      "h2h": 14,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
