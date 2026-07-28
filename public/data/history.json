@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T19:01:37.227Z",
+  "generated": "2026-07-28T19:31:41.286Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2144,
+  "totalCount": 2146,
   "todayCount": 9,
   "matches": [
     {
@@ -42,6 +42,27 @@
       "score": 72,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_marian-brunner_vs_kamil-delikatny",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Brunner",
+      "away": "Kamil Delikatny",
+      "league": "TT Elite Series",
+      "time": "23:05",
+      "timeRaw": "5:05 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -312,27 +333,6 @@
       "score": 72,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-28_under_pawel-kurek_vs_piotr-przewlocki",
-      "date": "2026-07-28",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Pawel Kurek",
-      "away": "Piotr Przewlocki",
-      "league": "TT Elite Series",
-      "time": "18:50",
-      "timeRaw": "12:50 PM",
-      "pct": 67,
-      "l5": 60,
-      "sets3": 56,
-      "score": 69,
-      "h2h": 9,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1293,6 +1293,48 @@
       "sets3": 46,
       "score": 63,
       "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_jakub-glanowski_vs_mateusz-rutkowski",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 64,
+      "score": 62,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_pawel-kurek_vs_piotr-przewlocki",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 10,
       "trend": "rising",
       "tags": [
         "Fatigue",
