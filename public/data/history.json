@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T10:02:17.287Z",
+  "generated": "2026-07-28T10:31:33.651Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2115,
-  "todayCount": 5,
+  "totalCount": 2118,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -27,6 +27,69 @@
       ]
     },
     {
+      "id": "2026-07-28_over_grzegorz-adamiak_vs_karol-strowski",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Adamiak",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_adrian-spychala_vs_miroslav-sklensky",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Spychala",
+      "away": "Miroslav Sklensky",
+      "league": "TT Elite Series",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_milan-kolar_vs_dmitro-parhomenko",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milan Kolar",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-28_under_wojciech-urban_vs_pawel-slosarczyk",
       "date": "2026-07-28",
       "type": "under",
@@ -42,6 +105,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_kamil-rudomina_vs_artur-sobel",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "13:50",
+      "timeRaw": "7:50 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -336,27 +420,6 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-28_over_kamil-rudomina_vs_artur-sobel",
-      "date": "2026-07-28",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Kamil Rudomina",
-      "away": "Artur Sobel",
-      "league": "TT Elite Series",
-      "time": "07:15",
-      "timeRaw": "1:15 AM",
-      "pct": 67,
-      "l5": 100,
-      "sets3": 87,
-      "score": 58,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
