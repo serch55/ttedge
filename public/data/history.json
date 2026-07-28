@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T12:02:01.121Z",
+  "generated": "2026-07-28T12:31:41.341Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2121,
-  "todayCount": 8,
+  "totalCount": 2122,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -19,6 +19,27 @@
       "l5": 60,
       "sets3": 47,
       "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_over_boguslaw-madej_vs_maksymilian-rus",
+      "date": "2026-07-28",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Boguslaw Madej",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 57,
       "h2h": 15,
       "trend": "rising",
       "tags": [
