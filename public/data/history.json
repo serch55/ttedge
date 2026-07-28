@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T20:31:36.879Z",
+  "generated": "2026-07-28T21:01:40.844Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-28",
-  "totalCount": 2153,
-  "todayCount": 12,
+  "totalCount": 2155,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-28_under_piotr-gumulinski_vs_robert-kostepski",
@@ -166,27 +166,6 @@
       "l5": 60,
       "sets3": 53,
       "score": 63,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-28_under_kamil-delikatny_vs_zbigniew-nocun",
-      "date": "2026-07-28",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Kamil Delikatny",
-      "away": "Zbigniew Nocun",
-      "league": "TT Elite Series",
-      "time": "21:30",
-      "timeRaw": "3:30 PM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 40,
-      "score": 66,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -1174,6 +1153,27 @@
       ]
     },
     {
+      "id": "2026-07-28_under_kamil-delikatny_vs_zbigniew-nocun",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-28_under_aleksander-barton_vs_miroslaw-warzecha",
       "date": "2026-07-28",
       "type": "under",
@@ -1189,6 +1189,47 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_jan-potensky_vs_jiri-grohsgott",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Potensky",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 53,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-28_under_jerzy-michalik_vs_marian-brunner",
+      "date": "2026-07-28",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Michalik",
+      "away": "Marian Brunner",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 42,
+      "l5": 20,
+      "sets3": 83,
+      "score": 62,
+      "h2h": 12,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
