@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-29T06:33:02.890Z",
+  "generated": "2026-07-29T07:01:44.016Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2205,
-  "todayCount": 13,
+  "totalCount": 2206,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-07-29_under_oleksandr-kolisnyk_vs_jiri-ruzicka",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oleksandr Kolisnyk",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 33,
+      "l5": 60,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_over_marian-lebek_vs_marek-tkocz",
       "date": "2026-07-29",
