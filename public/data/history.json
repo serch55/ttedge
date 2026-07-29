@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T20:01:45.558Z",
+  "generated": "2026-07-29T20:31:25.856Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2252,
-  "todayCount": 13,
+  "totalCount": 2253,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-29_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -1754,6 +1754,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_mateusz-rutkowski_vs_jakub-glanowski",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 58,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 12,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
