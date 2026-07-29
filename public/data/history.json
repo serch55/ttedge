@@ -1,10 +1,94 @@
 {
-  "generated": "2026-07-29T08:31:32.174Z",
+  "generated": "2026-07-29T09:01:42.837Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2212,
-  "todayCount": 9,
+  "totalCount": 2216,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-29_under_adrian-wiecek_vs_krystian-kolodziej",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "pct": 40,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_spread_adrian-wiecek_vs_krystian-kolodziej",
+      "date": "2026-07-29",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Adrian Wiecek",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "13:15",
+      "timeRaw": "7:15 AM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_michal-vondrak_vs_petr-saleny",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Vondrak",
+      "away": "Petr Saleny",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 70,
+      "l5": 60,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_kacper-petas_vs_grzegorz-adamiak",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Grzegorz Adamiak",
+      "league": "TT Elite Series",
+      "time": "12:50",
+      "timeRaw": "6:50 AM",
+      "pct": 62,
+      "l5": 80,
+      "sets3": 62,
+      "score": 62,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_over_jan-mecl-jr_vs_oleksandr-kolisnyk",
       "date": "2026-07-29",
