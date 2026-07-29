@@ -1,10 +1,133 @@
 {
-  "generated": "2026-07-29T15:32:21.122Z",
+  "generated": "2026-07-29T16:02:20.940Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2229,
-  "todayCount": 3,
+  "totalCount": 2234,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-29_spread_jakub-levicky_vs_tomas-milota",
+      "date": "2026-07-29",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Levicky",
+      "away": "Tomas Milota",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_zbigniew-nocun_vs_henryk-tkaczyk",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 53,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_over_krzysztof-kapik_vs_patryk-jendrzejewski",
+      "date": "2026-07-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Patryk Jendrzejewski",
+      "league": "TT Elite Series",
+      "time": "20:05",
+      "timeRaw": "2:05 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_vaclav-zidek_vs_marcel-heczko",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vaclav Zidek",
+      "away": "Marcel Heczko",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 69,
+      "l5": 60,
+      "sets3": 62,
+      "score": 63,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_jan-zajicek_vs_josef-medek",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_spread_krzysztof-juszczyk_vs_oskar-jadach",
+      "date": "2026-07-29",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krzysztof Juszczyk",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_under_kamil-smolka_vs_krzysztof-hetnar",
       "date": "2026-07-29",
@@ -984,27 +1107,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": []
-    },
-    {
-      "id": "2026-07-29_under_zbigniew-nocun_vs_henryk-tkaczyk",
-      "date": "2026-07-29",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Zbigniew Nocun",
-      "away": "Henryk Tkaczyk",
-      "league": "TT Elite Series",
-      "time": "05:55",
-      "timeRaw": "11:55 PM",
-      "pct": 87,
-      "l5": 80,
-      "sets3": 60,
-      "score": 66,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
     },
     {
       "id": "2026-07-29_over_michal-minda_vs_kamil-rudomina",
