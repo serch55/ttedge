@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-29T10:31:35.186Z",
+  "generated": "2026-07-29T11:01:46.669Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
   "totalCount": 2221,
-  "todayCount": 13,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-29_under_wojciech-wojtaszczyk_vs_piotr-gumulinski",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Piotr Gumulinski",
+      "league": "TT Elite Series",
+      "time": "14:40",
+      "timeRaw": "8:40 AM",
+      "pct": 50,
+      "l5": 40,
+      "sets3": 70,
+      "score": 64,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_over_martin-huk_vs_jan-mecl-jr",
       "date": "2026-07-29",
@@ -85,6 +106,7 @@
       "h2h": 12,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -563,27 +585,6 @@
       "score": 63,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-29_under_wojciech-wojtaszczyk_vs_piotr-gumulinski",
-      "date": "2026-07-29",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Wojciech Wojtaszczyk",
-      "away": "Piotr Gumulinski",
-      "league": "TT Elite Series",
-      "time": "08:30",
-      "timeRaw": "2:30 AM",
-      "pct": 56,
-      "l5": 60,
-      "sets3": 67,
-      "score": 63,
-      "h2h": 9,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
