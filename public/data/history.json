@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T13:01:47.435Z",
+  "generated": "2026-07-29T13:31:30.598Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
   "totalCount": 2226,
@@ -105,6 +105,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_spread_rafal-gajda_vs_krzysztof-hetnar",
+      "date": "2026-07-29",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -627,27 +648,6 @@
       "l5": 100,
       "sets3": 60,
       "score": 63,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-29_spread_rafal-gajda_vs_krzysztof-hetnar",
-      "date": "2026-07-29",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Rafal Gajda",
-      "away": "Krzysztof Hetnar",
-      "league": "TT Elite Series",
-      "time": "09:55",
-      "timeRaw": "3:55 AM",
-      "l5": null,
-      "score": 58,
-      "pick": "",
-      "spread": null,
       "h2h": 15,
       "trend": "",
       "tags": [
