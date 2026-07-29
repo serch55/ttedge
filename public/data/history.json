@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-29T18:31:45.058Z",
+  "generated": "2026-07-29T19:02:21.578Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2247,
-  "todayCount": 13,
+  "totalCount": 2249,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-29_under_michal-machelski_vs_kamil-delikatny",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Kamil Delikatny",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_under_sebastian-kasnik_vs_michal-chalupa",
       "date": "2026-07-29",
@@ -190,6 +211,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1860,6 +1882,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_michal-vedmoch_vs_dmitro-parhomenko",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Vedmoch",
+      "away": "Dmitro Parhomenko",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
