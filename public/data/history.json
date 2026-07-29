@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-29T13:31:30.598Z",
+  "generated": "2026-07-29T14:01:48.110Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2226,
-  "todayCount": 6,
+  "totalCount": 2227,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-29_under_rotislav-hasmanda_vs_mihail-trinta",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rotislav Hasmanda",
+      "away": "Mihail Trinta",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 53,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_over_radim-urbaniec_vs_michal-kratochvil",
       "date": "2026-07-29",
