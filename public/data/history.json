@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T19:02:21.578Z",
+  "generated": "2026-07-29T19:31:42.664Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2249,
-  "todayCount": 11,
+  "totalCount": 2251,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-29_under_michal-machelski_vs_kamil-delikatny",
@@ -21,6 +21,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_jakub-pruszkowski_vs_oskar-jadach",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1859,6 +1880,27 @@
       "score": 63,
       "h2h": 10,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_over_oleksandr-kolisnyk_vs_michal-zahradka",
+      "date": "2026-07-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oleksandr Kolisnyk",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 86,
+      "l5": 80,
+      "sets3": 93,
+      "score": 59,
+      "h2h": 14,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
