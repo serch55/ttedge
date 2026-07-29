@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-29T05:01:37.718Z",
+  "generated": "2026-07-29T05:31:28.842Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2199,
-  "todayCount": 13,
+  "totalCount": 2200,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-29_under_sebastian-juzek_vs_krzysztof-hetnar",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "09:10",
+      "timeRaw": "3:10 AM",
+      "pct": 71,
+      "l5": 80,
+      "sets3": 50,
+      "score": 71,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_over_martin-sychra_vs_petr-sebera",
       "date": "2026-07-29",
