@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-29T02:01:45.807Z",
+  "generated": "2026-07-29T02:31:50.973Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2186,
-  "todayCount": 13,
+  "totalCount": 2188,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-29_under_petr-sebera_vs_michal-regner",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_over_jan-mecl-jr_vs_oleksandr-kolisnyk",
       "date": "2026-07-29",
@@ -67,6 +88,24 @@
         "Fatigue",
         "Volatile"
       ]
+    },
+    {
+      "id": "2026-07-29_over_adrian-myszewski_vs_mateusz-trela",
+      "date": "2026-07-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Myszewski",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 75,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": []
     },
     {
       "id": "2026-07-29_under_zbigniew-nocun_vs_henryk-tkaczyk",
