@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T09:01:42.837Z",
+  "generated": "2026-07-29T09:31:40.010Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2216,
-  "todayCount": 12,
+  "totalCount": 2217,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-29_under_adrian-wiecek_vs_krystian-kolodziej",
@@ -63,6 +63,27 @@
       "score": 63,
       "h2h": 10,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_spread_jakub-zochniak_vs_grzegorz-poliniewicz",
+      "date": "2026-07-29",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "12:55",
+      "timeRaw": "6:55 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
