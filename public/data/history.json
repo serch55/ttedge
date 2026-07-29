@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-29T03:31:26.926Z",
+  "generated": "2026-07-29T04:01:37.137Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2194,
-  "todayCount": 16,
+  "totalCount": 2195,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-07-29_over_martin-sychra_vs_petr-sebera",
+      "date": "2026-07-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_under_petr-sebera_vs_michal-regner",
       "date": "2026-07-29",
@@ -22,7 +42,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
