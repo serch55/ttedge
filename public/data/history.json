@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T04:31:38.032Z",
+  "generated": "2026-07-29T05:01:37.718Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2198,
-  "todayCount": 14,
+  "totalCount": 2199,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-29_over_martin-sychra_vs_petr-sebera",
@@ -22,6 +22,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-29_under_adrian-myszewski_vs_artur-szoltysek",
+      "date": "2026-07-29",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Myszewski",
+      "away": "Artur Szoltysek",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 62,
+      "l5": 60,
+      "sets3": 69,
+      "score": 63,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
