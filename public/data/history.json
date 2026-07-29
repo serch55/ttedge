@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-29T05:31:28.842Z",
+  "generated": "2026-07-29T06:01:37.924Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
-  "totalCount": 2200,
+  "totalCount": 2201,
   "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-07-29_over_jan-mecl-jr_vs_martin-huk",
+      "date": "2026-07-29",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Mecl Jr",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-29_under_sebastian-juzek_vs_krzysztof-hetnar",
       "date": "2026-07-29",
