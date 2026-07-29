@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T00:31:34.335Z",
+  "generated": "2026-07-29T01:01:50.764Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-29",
   "totalCount": 2183,
-  "todayCount": 15,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-29_under_jakub-kaczmarek_vs_krzysztof-hetnar",
@@ -106,7 +106,6 @@
       "h2h": 11,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
