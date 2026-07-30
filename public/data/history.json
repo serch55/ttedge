@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T22:06:37.048Z",
+  "generated": "2026-07-30T22:31:33.136Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2367,
-  "todayCount": 11,
+  "totalCount": 2368,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-31_under_jakub-pruszkowski_vs_pawel-slosarczyk",
@@ -81,6 +81,27 @@
       "l5": 40,
       "sets3": 67,
       "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_jakub-cyndera_vs_adam-staniczek",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Cyndera",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
       "h2h": 15,
       "trend": "falling",
       "tags": [
