@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T08:32:02.593Z",
+  "generated": "2026-07-30T09:01:48.050Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2308,
-  "todayCount": 15,
+  "totalCount": 2309,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -21,6 +21,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_radovan-polasek_vs_tadeas-zika",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
