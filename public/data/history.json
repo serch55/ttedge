@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T16:31:29.525Z",
+  "generated": "2026-07-30T17:01:46.210Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2335,
-  "todayCount": 13,
+  "totalCount": 2336,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -21,6 +21,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_lukas-tonar_vs_jakub-tazler",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Tonar",
+      "away": "Jakub Tazler",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 78,
+      "score": 63,
+      "h2h": 9,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -147,6 +168,7 @@
       "h2h": 10,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
