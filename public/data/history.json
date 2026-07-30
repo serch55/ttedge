@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T13:01:46.461Z",
+  "generated": "2026-07-30T13:31:40.586Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2318,
-  "todayCount": 4,
+  "totalCount": 2320,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-07-30_under_karol-strowski_vs_patryk-jendrzejewski",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Patryk Jendrzejewski",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 67,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_over_denis-hofman_vs_petr-sebera",
       "date": "2026-07-30",
       "type": "over",
@@ -42,6 +63,27 @@
       "score": 57,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_krzysztof-wloczko_vs_karol-wisniewski",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "16:15",
+      "timeRaw": "10:15 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
