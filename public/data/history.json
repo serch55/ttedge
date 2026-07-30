@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T03:01:47.268Z",
+  "generated": "2026-07-30T03:31:23.280Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2282,
-  "todayCount": 10,
+  "totalCount": 2287,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -152,6 +152,89 @@
       ]
     },
     {
+      "id": "2026-07-30_over_michal-minda_vs_kamil-rudomina",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_igor-dabrowski_vs_bartlomiej-wisniewski",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_krzysztof-juszczyk_vs_marian-lebek",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Juszczyk",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 82,
+      "l5": 100,
+      "sets3": 91,
+      "score": 62,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_spread_witold-stechly_vs_miroslaw-warzecha",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "06:20",
+      "timeRaw": "12:20 AM",
+      "l5": null,
+      "score": 62,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_under_kacper-petas_vs_grzegorz-felkel",
       "date": "2026-07-30",
       "type": "under",
@@ -188,6 +271,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_michal-wolny_vs_jerzy-michalik",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Wolny",
+      "away": "Jerzy Michalik",
+      "league": "TT Elite Series",
+      "time": "05:55",
+      "timeRaw": "11:55 PM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
