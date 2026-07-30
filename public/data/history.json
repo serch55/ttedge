@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T09:31:31.309Z",
+  "generated": "2026-07-30T10:01:40.430Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2312,
-  "todayCount": 14,
+  "totalCount": 2313,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -19,6 +19,27 @@
       "l5": 60,
       "sets3": 53,
       "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_michael-sedlacek_vs_tomas-dousek",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Tomas Dousek",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 60,
       "h2h": 15,
       "trend": "rising",
       "tags": [
