@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T04:01:44.555Z",
+  "generated": "2026-07-30T04:31:28.398Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2288,
-  "todayCount": 14,
+  "totalCount": 2291,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-07-30_over_mariusz-adamus_vs_krzysztof-juszczyk",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "08:10",
+      "timeRaw": "2:10 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_over_szymon-kolasa_vs_artur-grela",
       "date": "2026-07-30",
       "type": "over",
@@ -64,6 +85,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -104,6 +126,48 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_jakub-kaczmarek_vs_marian-lebek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "07:50",
+      "timeRaw": "1:50 AM",
+      "pct": 64,
+      "l5": 100,
+      "sets3": 57,
+      "score": 63,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_spread_jakub-kaczmarek_vs_marian-lebek",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "07:50",
+      "timeRaw": "1:50 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
