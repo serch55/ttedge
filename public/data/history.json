@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T07:31:33.808Z",
+  "generated": "2026-07-30T08:01:36.851Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2299,
-  "todayCount": 8,
+  "totalCount": 2304,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -21,6 +21,131 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_szymon-kolasa_vs_artur-grela",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Kolasa",
+      "away": "Artur Grela",
+      "league": "TT Elite Series",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_petr-sebera_vs_denis-hofman",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Denis Hofman",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_tadeas-zika_vs_radomir-revay",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_milan-chalupnicek_vs_jiri-svec",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Milan Chalupnicek",
+      "away": "Jiri Svec",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 53,
+      "l5": 20,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_michael-sedlacek_vs_jan-szotkowski",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_krystian-kolodziej_vs_marcin-jadczyk",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "11:40",
+      "timeRaw": "5:40 AM",
+      "pct": 36,
+      "l5": 80,
+      "sets3": 91,
+      "score": 63,
+      "h2h": 11,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -252,27 +377,6 @@
       "score": 57,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-30_over_szymon-kolasa_vs_artur-grela",
-      "date": "2026-07-30",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Szymon Kolasa",
-      "away": "Artur Grela",
-      "league": "TT Elite Series",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 87,
-      "score": 62,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
