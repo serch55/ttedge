@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T03:31:23.280Z",
+  "generated": "2026-07-30T04:01:44.555Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2287,
-  "todayCount": 13,
+  "totalCount": 2288,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -20,6 +20,27 @@
       "sets3": 53,
       "score": 67,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_matyas-navedla_vs_ondrej-paril",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Matyas Navedla",
+      "away": "Ondrej Paril",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 50,
+      "score": 62,
+      "h2h": 14,
       "trend": "rising",
       "tags": [
         "Fatigue",
