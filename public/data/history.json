@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T15:31:44.674Z",
+  "generated": "2026-07-30T16:01:51.022Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2327,
-  "todayCount": 8,
+  "totalCount": 2331,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -23,6 +23,89 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_karol-strowski_vs_krzysztof-kapik",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Krzysztof Kapik",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 56,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_pavel-fojt_vs_jiri-dedek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_krystian-kolodziej_vs_patryk-jendrzejewski",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Patryk Jendrzejewski",
+      "league": "TT Elite Series",
+      "time": "20:05",
+      "timeRaw": "2:05 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_dalimil-machander_vs_lukas-martinak",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dalimil Machander",
+      "away": "Lukas Martinak",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
