@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T12:01:47.061Z",
+  "generated": "2026-07-30T12:31:32.566Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2316,
-  "todayCount": 5,
+  "totalCount": 2318,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -64,6 +64,48 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_lukasz-oracz_vs_piotr-przewlocki",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Oracz",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_spread_piotr-gumulinski_vs_piotr-przewlocki",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Piotr Gumulinski",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "15:10",
+      "timeRaw": "9:10 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
