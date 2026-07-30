@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T07:01:38.969Z",
+  "generated": "2026-07-30T07:31:33.808Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2298,
-  "todayCount": 9,
+  "totalCount": 2299,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-07-30_under_mariusz-adamus_vs_marian-lebek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "10:50",
+      "timeRaw": "4:50 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_over_rafal-gajda_vs_oliver-vincenec",
       "date": "2026-07-30",
       "type": "over",
@@ -85,6 +106,7 @@
       "h2h": 13,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -105,6 +127,7 @@
       "h2h": 13,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
