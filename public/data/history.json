@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T13:31:40.586Z",
+  "generated": "2026-07-30T14:01:50.205Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2320,
-  "todayCount": 5,
+  "totalCount": 2322,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -21,6 +21,48 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_tadeas-zika_vs_martin-biolek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Martin Biolek",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_petr-sebera_vs_jiri-zuzanek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Jiri Zuzanek",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
