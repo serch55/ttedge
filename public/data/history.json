@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T05:31:29.366Z",
+  "generated": "2026-07-30T06:02:39.389Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2291,
-  "todayCount": 8,
+  "totalCount": 2292,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -21,6 +21,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_julius-didi_vs_martin-stefek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Julius Didi",
+      "away": "Martin Stefek",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
