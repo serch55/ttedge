@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T20:01:46.786Z",
+  "generated": "2026-07-30T20:31:40.810Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2348,
+  "totalCount": 2349,
   "todayCount": 8,
   "matches": [
     {
@@ -76,8 +76,8 @@
       "home": "Dariusz Molenda",
       "away": "Adam Staniczek",
       "league": "TT Elite Series",
-      "time": "22:45",
-      "timeRaw": "4:45 PM",
+      "time": "23:10",
+      "timeRaw": "5:10 PM",
       "pct": 78,
       "l5": 80,
       "sets3": 44,
@@ -1739,6 +1739,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_jakub-kycelt_vs_jakub-vales",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kycelt",
+      "away": "Jakub Vales",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
