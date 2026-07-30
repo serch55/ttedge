@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T06:02:39.389Z",
+  "generated": "2026-07-30T06:31:43.061Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2292,
-  "todayCount": 6,
+  "totalCount": 2296,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -19,6 +19,67 @@
       "l5": 60,
       "sets3": 53,
       "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_cesta-havrda_vs_lubos-forman",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cesta Havrda",
+      "away": "Lubos Forman",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 69,
+      "l5": 80,
+      "sets3": 54,
+      "score": 68,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_spread_cesta-havrda_vs_lubos-forman",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Cesta Havrda",
+      "away": "Lubos Forman",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_michal-minda_vs_adam-linek",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Adam Linek",
+      "league": "TT Elite Series",
+      "time": "10:05",
+      "timeRaw": "4:05 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 58,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -48,6 +109,27 @@
       ]
     },
     {
+      "id": "2026-07-30_under_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_under_matyas-navedla_vs_ondrej-paril",
       "date": "2026-07-30",
       "type": "under",
@@ -62,6 +144,27 @@
       "sets3": 50,
       "score": 62,
       "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_milosz-piecowski_vs_igor-dabrowski",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milosz Piecowski",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 57,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -524,27 +627,6 @@
       "score": 56,
       "h2h": 10,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-30_under_adrian-burkacki_vs_marian-lebek",
-      "date": "2026-07-30",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Adrian Burkacki",
-      "away": "Marian Lebek",
-      "league": "TT Elite Series",
-      "time": "03:35",
-      "timeRaw": "9:35 PM",
-      "pct": 53,
-      "l5": 60,
-      "sets3": 53,
-      "score": 63,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
