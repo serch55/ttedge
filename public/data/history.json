@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T18:31:44.663Z",
+  "generated": "2026-07-30T19:01:38.315Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2342,
-  "todayCount": 9,
+  "totalCount": 2346,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -69,6 +69,27 @@
       ]
     },
     {
+      "id": "2026-07-30_under_dariusz-molenda_vs_adam-staniczek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Molenda",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 44,
+      "score": 63,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_under_marian-brunner_vs_jerzy-michalik",
       "date": "2026-07-30",
       "type": "under",
@@ -106,6 +127,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -131,6 +153,27 @@
       ]
     },
     {
+      "id": "2026-07-30_spread_pawel-slosarczyk_vs_krzysztof-juszczyk",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Pawel Slosarczyk",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "21:35",
+      "timeRaw": "3:35 PM",
+      "l5": null,
+      "score": 61,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_over_richard-skacelik_vs_dalimil-machander",
       "date": "2026-07-30",
       "type": "over",
@@ -147,6 +190,28 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_jakub-skorupa_vs_adam-staniczek",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -165,6 +230,27 @@
       "sets3": 78,
       "score": 63,
       "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_mateusz-trela_vs_arkadiusz-mugowski",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Trela",
+      "away": "Arkadiusz Mugowski",
+      "league": "TT Elite Series",
+      "time": "20:55",
+      "timeRaw": "2:55 PM",
+      "pct": 58,
+      "l5": 40,
+      "sets3": 58,
+      "score": 63,
+      "h2h": 12,
       "trend": "",
       "tags": [
         "Fatigue",
