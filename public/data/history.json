@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T10:01:40.430Z",
+  "generated": "2026-07-30T10:31:25.714Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2313,
-  "todayCount": 12,
+  "totalCount": 2314,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -19,6 +19,48 @@
       "l5": 60,
       "sets3": 53,
       "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_rafal-gajda_vs_oliver-vincenec",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 85,
+      "l5": 60,
+      "sets3": 92,
+      "score": 56,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_kacper-petas_vs_josef-braun",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -63,6 +105,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_spread_martin-stefek_vs_pavel-kulhanek",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Pavel Kulhanek",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -145,6 +208,27 @@
       "l5": 60,
       "sets3": 80,
       "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_julius-didi_vs_martin-stefek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Julius Didi",
+      "away": "Martin Stefek",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -383,27 +467,6 @@
       ]
     },
     {
-      "id": "2026-07-30_over_rafal-gajda_vs_oliver-vincenec",
-      "date": "2026-07-30",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Rafal Gajda",
-      "away": "Oliver Vincenec",
-      "league": "TT Elite Series",
-      "time": "10:35",
-      "timeRaw": "4:35 AM",
-      "pct": 92,
-      "l5": 80,
-      "sets3": 92,
-      "score": 64,
-      "h2h": 12,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-07-30_under_cesta-havrda_vs_lubos-forman",
       "date": "2026-07-30",
       "type": "under",
@@ -461,27 +524,6 @@
       "score": 58,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-30_under_julius-didi_vs_martin-stefek",
-      "date": "2026-07-30",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Julius Didi",
-      "away": "Martin Stefek",
-      "league": "Czech Liga Pro",
-      "time": "10:00",
-      "timeRaw": "4:00 AM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 47,
-      "score": 65,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -650,27 +692,6 @@
       "spread": null,
       "h2h": 14,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-30_under_kacper-petas_vs_josef-braun",
-      "date": "2026-07-30",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Kacper Petas",
-      "away": "Josef Braun",
-      "league": "TT Elite Series",
-      "time": "07:40",
-      "timeRaw": "1:40 AM",
-      "pct": 47,
-      "l5": 80,
-      "sets3": 60,
-      "score": 60,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
