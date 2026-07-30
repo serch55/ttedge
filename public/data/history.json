@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T20:31:40.810Z",
+  "generated": "2026-07-30T21:01:43.035Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2349,
-  "todayCount": 8,
+  "totalCount": 2351,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -1598,6 +1598,27 @@
       ]
     },
     {
+      "id": "2026-07-30_over_tomas-regner_vs_martin-stefek",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Regner",
+      "away": "Martin Stefek",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-30_under_henryk-tkaczyk_vs_zbigniew-nocun",
       "date": "2026-07-30",
       "type": "under",
@@ -1678,6 +1699,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_jan-steffan_vs_tomas-regner",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
