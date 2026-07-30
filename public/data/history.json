@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T19:01:38.315Z",
+  "generated": "2026-07-30T19:31:41.635Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2346,
-  "todayCount": 11,
+  "totalCount": 2347,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -1844,6 +1844,27 @@
       "score": 59,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_spread_jan-steffan_vs_jan-pleskot",
+      "date": "2026-07-30",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Jan Pleskot",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
