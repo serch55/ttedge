@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T00:01:47.596Z",
+  "generated": "2026-07-30T00:31:24.467Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-30",
-  "totalCount": 2274,
-  "todayCount": 11,
+  "totalCount": 2277,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-30_under_kacper-marchlewski_vs_adrian-eliasz",
@@ -21,6 +21,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_kacper-petas_vs_josef-braun",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Petas",
+      "away": "Josef Braun",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 60,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -144,6 +165,48 @@
       "pct": 53,
       "l5": 60,
       "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_over_mariusz-koczyba_vs_jakub-pruszkowski",
+      "date": "2026-07-30",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 70,
+      "score": 56,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-30_under_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-07-30",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 53,
       "score": 63,
       "h2h": 15,
       "trend": "falling",
