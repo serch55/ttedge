@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T21:02:15.812Z",
+  "generated": "2026-07-31T21:31:31.379Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2445,
-  "todayCount": 9,
+  "totalCount": 2450,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-31_under_krystian-kolodziej_vs_patryk-jendrzejewski",
@@ -462,47 +462,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_over_adrian-myszewski_vs_mateusz-trela",
-      "date": "2026-07-31",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Adrian Myszewski",
-      "away": "Mateusz Trela",
-      "league": "TT Elite Series",
-      "time": "17:25",
-      "timeRaw": "11:25 AM",
-      "pct": 93,
-      "l5": 80,
-      "sets3": 100,
-      "score": 65,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_over_cezary-pawlik_vs_jacek-oracz",
-      "date": "2026-07-31",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Cezary Pawlik",
-      "away": "Jacek Oracz",
-      "league": "TT Elite Series",
-      "time": "17:10",
-      "timeRaw": "11:10 AM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 93,
-      "score": 74,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
         "Volatile"
       ]
     },
@@ -1572,7 +1531,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1633,6 +1591,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_kyryl-darin_vs_jiri-dedek",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Kyryl Darin",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1702,6 +1681,48 @@
       ]
     },
     {
+      "id": "2026-07-31_under_damian-fira_vs_jakub-michalski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_adrian-myszewski_vs_mateusz-trela",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Myszewski",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 100,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_over_mariusz-koczyba_vs_wojciech-urban",
       "date": "2026-07-31",
       "type": "over",
@@ -1744,6 +1765,27 @@
       ]
     },
     {
+      "id": "2026-07-31_under_roman-wiza_vs_krzysztof-schaniel",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 30,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_under_kyryl-darin_vs_alexander-mikuska",
       "date": "2026-07-31",
       "type": "under",
@@ -1759,6 +1801,69 @@
       "score": 62,
       "h2h": 10,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_michal-skorski_vs_miroslaw-piecowski",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_cezary-pawlik_vs_jacek-oracz",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_adam-ruszkiewicz_vs_jakub-michalski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "00:40",
+      "timeRaw": "6:40 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 33,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
