@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T07:01:46.293Z",
+  "generated": "2026-07-31T07:31:32.032Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2397,
-  "todayCount": 11,
+  "totalCount": 2400,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-07-31_under_jakub-nowak_vs_wojciech-wojtaszczyk",
@@ -21,6 +21,69 @@
       "score": 63,
       "h2h": 12,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_bartlomiej-mleczko_vs_igor-dabrowski",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Bartlomiej Mleczko",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_tomasz-wrzalik_vs_witold-buczynski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomasz Wrzalik",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "pct": 62,
+      "l5": 80,
+      "sets3": 69,
+      "score": 62,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_mariusz-adamus_vs_marek-tkocz",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Marek Tkocz",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "l5": null,
+      "score": 62,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -64,6 +127,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
