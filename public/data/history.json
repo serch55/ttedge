@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-31T12:32:00.873Z",
+  "generated": "2026-07-31T13:01:45.210Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2414,
-  "todayCount": 5,
+  "totalCount": 2415,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-31_over_sebastian-szostok_vs_wojciech-urban",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Szostok",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_jakub-nowak_vs_robert-kostepski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Robert Kostepski",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_jakub-nowak_vs_robert-kostepski",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Robert Kostepski",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_under_martin-olejnik_vs_artur-grela",
       "date": "2026-07-31",
@@ -644,48 +706,6 @@
       "league": "TT Elite Series",
       "time": "08:45",
       "timeRaw": "2:45 AM",
-      "l5": null,
-      "score": 55,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_under_jakub-nowak_vs_robert-kostepski",
-      "date": "2026-07-31",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Robert Kostepski",
-      "league": "TT Elite Series",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "pct": 53,
-      "l5": 80,
-      "sets3": 80,
-      "score": 62,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_spread_jakub-nowak_vs_robert-kostepski",
-      "date": "2026-07-31",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Robert Kostepski",
-      "league": "TT Elite Series",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
       "l5": null,
       "score": 55,
       "pick": "",
