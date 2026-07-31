@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-31T03:31:24.000Z",
+  "generated": "2026-07-31T04:01:40.156Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2382,
-  "todayCount": 11,
+  "totalCount": 2383,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-31_under_artur-grela_vs_krzysztof-wloczko",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Grela",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_over_daniel-tuma_vs_jiri-zuzanek",
       "date": "2026-07-31",
