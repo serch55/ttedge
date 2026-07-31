@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T22:31:30.711Z",
+  "generated": "2026-07-31T23:01:52.719Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
   "totalCount": 2466,
-  "todayCount": 16,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-01_under_jiri-dedek_vs_alexander-mikuska",
@@ -42,6 +42,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
