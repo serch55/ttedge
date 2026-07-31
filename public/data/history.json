@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-31T17:31:46.068Z",
+  "generated": "2026-07-31T18:01:53.557Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2436,
-  "todayCount": 9,
+  "totalCount": 2437,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-31_under_jan-zajicek_vs_josef-medek",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 53,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_under_mariusz-koczyba_vs_krzysztof-juszczyk",
       "date": "2026-07-31",
