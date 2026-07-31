@@ -1,10 +1,50 @@
 {
-  "generated": "2026-07-31T15:31:28.323Z",
+  "generated": "2026-07-31T16:01:56.063Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2429,
-  "todayCount": 13,
+  "totalCount": 2431,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-07-31_over_adam-ruszkiewicz_vs_damian-fira",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Damian Fira",
+      "league": "TT Elite Series",
+      "time": "20:20",
+      "timeRaw": "2:20 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_lukas-boruvka_vs_jan-zajicek",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Boruvka",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_over_mariusz-adamus_vs_krzysztof-schaniel",
       "date": "2026-07-31",
