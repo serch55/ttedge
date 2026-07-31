@@ -1,10 +1,30 @@
 {
-  "generated": "2026-07-31T08:31:36.554Z",
+  "generated": "2026-07-31T09:01:38.690Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2404,
-  "todayCount": 9,
+  "totalCount": 2405,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-31_over_samuel-byrtus_vs_adrian-walek",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Samuel Byrtus",
+      "away": "Adrian Walek",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_spread_martin-olejnik_vs_szymon-kolasa",
       "date": "2026-07-31",
