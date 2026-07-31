@@ -1,10 +1,72 @@
 {
-  "generated": "2026-07-31T13:01:45.210Z",
+  "generated": "2026-07-31T13:31:35.382Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2415,
-  "todayCount": 8,
+  "totalCount": 2418,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-31_over_frantisek-briza_vs_yurii-holovatiuk",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Frantisek Briza",
+      "away": "Yurii Holovatiuk",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_martin-stefek_vs_jaroslav-novotny",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Jaroslav Novotny",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_adrian-myszewski_vs_mateusz-trela",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Myszewski",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 100,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_over_sebastian-szostok_vs_wojciech-urban",
       "date": "2026-07-31",
