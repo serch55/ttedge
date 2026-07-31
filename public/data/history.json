@@ -1,10 +1,73 @@
 {
-  "generated": "2026-07-31T15:01:54.358Z",
+  "generated": "2026-07-31T15:31:28.323Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2426,
-  "todayCount": 12,
+  "totalCount": 2429,
+  "todayCount": 13,
   "matches": [
+    {
+      "id": "2026-07-31_over_mariusz-adamus_vs_krzysztof-schaniel",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "19:55",
+      "timeRaw": "1:55 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_krystian-kolodziej_vs_karol-strowski",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 100,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_mariusz-koczyba_vs_wojciech-urban",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "19:20",
+      "timeRaw": "1:20 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_under_krzysztof-juszczyk_vs_wojciech-urban",
       "date": "2026-07-31",
@@ -125,6 +188,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
