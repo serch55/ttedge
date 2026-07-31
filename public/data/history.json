@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-31T18:31:40.342Z",
+  "generated": "2026-07-31T19:02:14.411Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2437,
-  "todayCount": 7,
+  "totalCount": 2439,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-31_under_krystian-kolodziej_vs_patryk-jendrzejewski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Patryk Jendrzejewski",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_under_jan-zajicek_vs_josef-medek",
       "date": "2026-07-31",
@@ -1672,6 +1693,27 @@
       "sets3": 62,
       "score": 65,
       "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_krzysztof-juszczyk_vs_mariusz-koczyba",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Juszczyk",
+      "away": "Mariusz Koczyba",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
