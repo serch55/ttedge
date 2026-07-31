@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T13:31:35.382Z",
+  "generated": "2026-07-31T14:01:38.034Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2418,
-  "todayCount": 11,
+  "totalCount": 2421,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-31_over_frantisek-briza_vs_yurii-holovatiuk",
@@ -47,6 +47,48 @@
       ]
     },
     {
+      "id": "2026-07-31_under_wojciech-tobiasz_vs_grzegorz-wichowski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Tobiasz",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 33,
+      "score": 71,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_wojciech-tobiasz_vs_grzegorz-wichowski",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Wojciech Tobiasz",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_over_adrian-myszewski_vs_mateusz-trela",
       "date": "2026-07-31",
       "type": "over",
@@ -68,6 +110,26 @@
       ]
     },
     {
+      "id": "2026-07-31_over_cezary-pawlik_vs_jacek-oracz",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "17:10",
+      "timeRaw": "11:10 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 74,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_over_sebastian-szostok_vs_wojciech-urban",
       "date": "2026-07-31",
       "type": "over",
@@ -84,6 +146,27 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_grzegorz-wichowski_vs_witold-buczynski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "16:45",
+      "timeRaw": "10:45 AM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 67,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -355,27 +438,6 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_under_grzegorz-wichowski_vs_witold-buczynski",
-      "date": "2026-07-31",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Grzegorz Wichowski",
-      "away": "Witold Buczynski",
-      "league": "TT Elite Series",
-      "time": "13:05",
-      "timeRaw": "7:05 AM",
-      "pct": 60,
-      "l5": 60,
-      "sets3": 60,
-      "score": 65,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
