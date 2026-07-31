@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T06:01:40.797Z",
+  "generated": "2026-07-31T06:31:30.558Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2391,
-  "todayCount": 8,
+  "totalCount": 2397,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-07-31_under_martin-olejnik_vs_krzysztof-wloczko",
@@ -47,6 +47,48 @@
       ]
     },
     {
+      "id": "2026-07-31_over_wojciech-tobiasz_vs_jakub-kaczmarek",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Tobiasz",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "09:55",
+      "timeRaw": "3:55 AM",
+      "pct": 92,
+      "l5": 80,
+      "sets3": 100,
+      "score": 59,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_michal-minda_vs_bartlomiej-mleczko",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Bartlomiej Mleczko",
+      "league": "TT Elite Series",
+      "time": "09:40",
+      "timeRaw": "3:40 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_over_pavel-wawrosz_vs_michal-vavrecka",
       "date": "2026-07-31",
       "type": "over",
@@ -68,6 +110,27 @@
       ]
     },
     {
+      "id": "2026-07-31_under_marek-tkocz_vs_jakub-pruszkowski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Tkocz",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_under_artur-grela_vs_krzysztof-wloczko",
       "date": "2026-07-31",
       "type": "under",
@@ -81,6 +144,27 @@
       "l5": 60,
       "sets3": 53,
       "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_marian-lebek_vs_mariusz-adamus",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Lebek",
+      "away": "Mariusz Adamus",
+      "league": "TT Elite Series",
+      "time": "09:10",
+      "timeRaw": "3:10 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -121,6 +205,48 @@
       "timeRaw": "3:00 AM",
       "l5": null,
       "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_grzegorz-wichowski_vs_wojciech-tobiasz",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 33,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_grzegorz-wichowski_vs_wojciech-tobiasz",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "08:45",
+      "timeRaw": "2:45 AM",
+      "l5": null,
+      "score": 55,
       "pick": "",
       "spread": null,
       "h2h": 15,
