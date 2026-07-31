@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-31T06:31:30.558Z",
+  "generated": "2026-07-31T07:01:46.293Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
   "totalCount": 2397,
-  "todayCount": 12,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-07-31_under_jakub-nowak_vs_wojciech-wojtaszczyk",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "11:00",
+      "timeRaw": "5:00 AM",
+      "pct": 58,
+      "l5": 60,
+      "sets3": 58,
+      "score": 63,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_under_martin-olejnik_vs_krzysztof-wloczko",
       "date": "2026-07-31",
@@ -461,27 +482,6 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_under_jakub-nowak_vs_wojciech-wojtaszczyk",
-      "date": "2026-07-31",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Wojciech Wojtaszczyk",
-      "league": "TT Elite Series",
-      "time": "06:30",
-      "timeRaw": "12:30 AM",
-      "pct": 55,
-      "l5": 60,
-      "sets3": 64,
-      "score": 62,
-      "h2h": 11,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
