@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T22:01:50.516Z",
+  "generated": "2026-07-31T22:31:30.711Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2463,
-  "todayCount": 13,
+  "totalCount": 2466,
+  "todayCount": 16,
   "matches": [
     {
       "id": "2026-08-01_under_jiri-dedek_vs_alexander-mikuska",
@@ -61,6 +61,48 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_adam-ruszkiewicz_vs_roman-wiza",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Roman Wiza",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_over_mariusz-adamus_vs_krzysztof-schaniel",
+      "date": "2026-08-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -269,6 +311,27 @@
       "l5": 80,
       "sets3": 93,
       "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_over_adrian-fabis_vs_mateusz-trela",
+      "date": "2026-08-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Fabis",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 61,
       "h2h": 15,
       "trend": "rising",
       "tags": [
