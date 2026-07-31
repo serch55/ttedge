@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-31T11:01:37.338Z",
+  "generated": "2026-07-31T11:31:41.732Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2409,
+  "totalCount": 2411,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-07-31_under_jan-zandecki_vs_amirreza-abbasi",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zandecki",
+      "away": "Amirreza Abbasi",
+      "league": "TT Elite Series",
+      "time": "15:45",
+      "timeRaw": "9:45 AM",
+      "pct": 62,
+      "l5": 80,
+      "sets3": 85,
+      "score": 65,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_karol-wisniewski_vs_krzysztof-wloczko",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "15:25",
+      "timeRaw": "9:25 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_under_tomasz-wrzalik_vs_witold-buczynski",
       "date": "2026-07-31",
