@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T19:31:41.932Z",
+  "generated": "2026-07-31T20:01:40.332Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2441,
-  "todayCount": 10,
+  "totalCount": 2443,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-07-31_under_krystian-kolodziej_vs_patryk-jendrzejewski",
@@ -19,6 +19,48 @@
       "l5": 60,
       "sets3": 47,
       "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_michal-wolny_vs_jacek-oracz",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Wolny",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "23:10",
+      "timeRaw": "5:10 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 33,
+      "score": 78,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_over_mariusz-adamus_vs_adam-ruszkiewicz",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "23:05",
+      "timeRaw": "5:05 PM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 73,
       "h2h": 15,
       "trend": "rising",
       "tags": [
