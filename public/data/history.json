@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T04:01:40.156Z",
+  "generated": "2026-07-31T04:32:09.339Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2383,
-  "todayCount": 10,
+  "totalCount": 2388,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-07-31_under_artur-grela_vs_krzysztof-wloczko",
@@ -111,6 +111,48 @@
       ]
     },
     {
+      "id": "2026-07-31_under_radoslaw-malinowski_vs_mateusz-misiak",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radoslaw Malinowski",
+      "away": "Mateusz Misiak",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_jakub-zochniak_vs_rafal-stapor",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 55,
+      "score": 63,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_over_pawel-kurek_vs_wojciech-wojtaszczyk",
       "date": "2026-07-31",
       "type": "over",
@@ -132,6 +174,27 @@
       ]
     },
     {
+      "id": "2026-07-31_over_michal-minda_vs_kamil-rudomina",
+      "date": "2026-07-31",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-07-31_spread_aleksander-barton_vs_adam-staniczek",
       "date": "2026-07-31",
       "type": "spread",
@@ -143,6 +206,69 @@
       "timeRaw": "1:05 AM",
       "l5": null,
       "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_marian-lebek_vs_michal-paszkiewicz",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Lebek",
+      "away": "Michal Paszkiewicz",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_jakub-skorupa_vs_zbigniew-nocun",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "06:40",
+      "timeRaw": "12:40 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 67,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_spread_jakub-skorupa_vs_zbigniew-nocun",
+      "date": "2026-07-31",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "06:40",
+      "timeRaw": "12:40 AM",
+      "l5": null,
+      "score": 56,
       "pick": "",
       "spread": null,
       "h2h": 15,
@@ -483,27 +609,6 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-07-31_under_jakub-skorupa_vs_zbigniew-nocun",
-      "date": "2026-07-31",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Skorupa",
-      "away": "Zbigniew Nocun",
-      "league": "TT Elite Series",
-      "time": "00:40",
-      "timeRaw": "6:40 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 67,
-      "score": 69,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
