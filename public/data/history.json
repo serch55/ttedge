@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-31T09:01:38.690Z",
+  "generated": "2026-07-31T09:31:35.785Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2405,
-  "todayCount": 8,
+  "totalCount": 2406,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-07-31_under_grzegorz-wichowski_vs_witold-buczynski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "13:05",
+      "timeRaw": "7:05 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-07-31_over_samuel-byrtus_vs_adrian-walek",
       "date": "2026-07-31",
