@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T12:02:01.118Z",
+  "generated": "2026-07-31T12:32:00.873Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-07-31",
-  "totalCount": 2412,
-  "todayCount": 4,
+  "totalCount": 2414,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-07-31_under_martin-olejnik_vs_artur-grela",
@@ -18,6 +18,27 @@
       "pct": 40,
       "l5": 40,
       "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_radoslaw-malinowski_vs_jakub-zochniak",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radoslaw Malinowski",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 33,
+      "l5": 40,
+      "sets3": 73,
       "score": 61,
       "h2h": 15,
       "trend": "falling",
@@ -42,6 +63,27 @@
       "score": 65,
       "h2h": 13,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-07-31_under_oskar-jadach_vs_witold-buczynski",
+      "date": "2026-07-31",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Oskar Jadach",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
