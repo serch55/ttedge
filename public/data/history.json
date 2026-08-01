@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-01T11:31:38.303Z",
+  "generated": "2026-08-01T12:01:42.127Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2490,
-  "todayCount": 5,
+  "totalCount": 2491,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-01_under_lukas-jindrak_vs_erik-mares",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Jindrak",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-01_over_jakub-kosowski_vs_artur-grela",
       "date": "2026-08-01",
