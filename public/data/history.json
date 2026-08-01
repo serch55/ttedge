@@ -1,10 +1,72 @@
 {
-  "generated": "2026-08-01T15:01:52.444Z",
+  "generated": "2026-08-01T15:31:30.193Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2495,
-  "todayCount": 3,
+  "totalCount": 2497,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-01_under_roman-wiza_vs_jakub-michalski",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_spread_roman-wiza_vs_jakub-michalski",
+      "date": "2026-08-01",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_dawid-pyrek_vs_miroslaw-warzecha",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Pyrek",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "18:50",
+      "timeRaw": "12:50 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-01_over_szymon-brud_vs_marcin-marchlewski",
       "date": "2026-08-01",
@@ -644,27 +706,6 @@
       "l5": 80,
       "sets3": 33,
       "score": 73,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-01_under_roman-wiza_vs_jakub-michalski",
-      "date": "2026-08-01",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Roman Wiza",
-      "away": "Jakub Michalski",
-      "league": "TT Elite Series",
-      "time": "03:10",
-      "timeRaw": "9:10 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 53,
-      "score": 65,
       "h2h": 15,
       "trend": "falling",
       "tags": [
