@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-31T23:31:33.505Z",
+  "generated": "2026-08-01T00:01:43.098Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2469,
+  "totalCount": 2471,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-01_over_jakub-kosowski_vs_artur-grela",
+      "date": "2026-08-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kosowski",
+      "away": "Artur Grela",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 93,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_petr-david_vs_artur-daniel",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr David",
+      "away": "Artur Daniel",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-01_over_petr-david_vs_marcin-jadczyk",
       "date": "2026-08-01",
