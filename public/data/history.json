@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01T02:01:41.141Z",
+  "generated": "2026-08-01T02:31:34.806Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2475,
-  "todayCount": 8,
+  "totalCount": 2477,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-01_under_michal-regner_vs_petr-sebera",
@@ -65,6 +65,46 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_dawid-jedrysik_vs_jakub-kaczmarek",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Jedrysik",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 87,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-08-01_over_dawid-poloszczanski_vs_maciej-sinicki",
+      "date": "2026-08-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Poloszczanski",
+      "away": "Maciej Sinicki",
+      "league": "TT Elite Series",
+      "time": "05:50",
+      "timeRaw": "11:50 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
