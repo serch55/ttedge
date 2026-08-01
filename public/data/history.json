@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01T03:31:29.886Z",
+  "generated": "2026-08-01T04:01:41.195Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
   "totalCount": 2477,
-  "todayCount": 7,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-08-01_under_michal-regner_vs_petr-sebera",
@@ -22,7 +22,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
