@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-01T09:31:30.204Z",
+  "generated": "2026-08-01T10:01:43.398Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2487,
-  "todayCount": 2,
+  "totalCount": 2489,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-01_under_vitezslav-bosak_vs_filip-zurek",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vitezslav Bosak",
+      "away": "Filip Zurek",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_mihail-trinta_vs_tomas-regner",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mihail Trinta",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-01_over_tibor-kolenic_vs_david-horak",
       "date": "2026-08-01",
