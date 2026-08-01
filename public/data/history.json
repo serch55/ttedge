@@ -1,10 +1,194 @@
 {
-  "generated": "2026-08-01T21:31:35.083Z",
+  "generated": "2026-08-01T22:01:36.568Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-08-01",
-  "totalCount": 2508,
-  "todayCount": 7,
+  "lastDay": "2026-08-02",
+  "totalCount": 2517,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-02_under_tomas-prosa_vs_martin-huk",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Prosa",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 70,
+      "l5": 60,
+      "sets3": 30,
+      "score": 63,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_dariusz-maszczynski_vs_andriej-fomin",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "04:10",
+      "timeRaw": "10:10 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 58,
+      "score": 72,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_over_michal-zahradka_vs_martin-huk",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Zahradka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_radek-bartunek_vs_tomas-regner",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_jan-steffan_vs_petr-bruzek",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Steffan",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_petr-picek_vs_radek-bartunek",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Picek",
+      "away": "Radek Bartunek",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_over_szymon-brud_vs_marcin-marchlewski",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Brud",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_adam-ruszkiewicz_vs_jakub-michalski",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "00:40",
+      "timeRaw": "6:40 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 40,
+      "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_over_martin-huk_vs_jan-mecl-jr",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Huk",
+      "away": "Jan Mecl Jr",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-01_over_kacper-szurlej_vs_marcin-marchlewski",
       "date": "2026-08-01",
