@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-01T06:01:42.082Z",
+  "generated": "2026-08-01T06:31:27.551Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2481,
+  "totalCount": 2482,
   "todayCount": 4,
   "matches": [
     {
@@ -41,6 +41,27 @@
       "score": 68,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_dawid-jedrysik_vs_kacper-adamus",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Jedrysik",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "09:10",
+      "timeRaw": "3:10 AM",
+      "pct": 54,
+      "l5": 60,
+      "sets3": 77,
+      "score": 60,
+      "h2h": 13,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
