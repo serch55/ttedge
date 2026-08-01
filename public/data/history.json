@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01T08:01:48.013Z",
+  "generated": "2026-08-01T08:31:34.948Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2485,
-  "todayCount": 4,
+  "totalCount": 2486,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-08-01_under_artur-daniel_vs_artur-grela",
@@ -18,9 +18,30 @@
       "pct": 60,
       "l5": 40,
       "sets3": 80,
-      "score": 68,
+      "score": 63,
       "h2h": 15,
-      "trend": "",
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_over_jacek-przewlocki_vs_jaroslaw-rolak",
+      "date": "2026-08-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Przewlocki",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 79,
+      "l5": 60,
+      "sets3": 100,
+      "score": 59,
+      "h2h": 14,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
