@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01T20:01:43.906Z",
+  "generated": "2026-08-01T20:31:34.789Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2506,
-  "todayCount": 10,
+  "totalCount": 2507,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-01_over_kacper-szurlej_vs_marcin-marchlewski",
@@ -877,6 +877,27 @@
       "score": 63,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_under_radek-bartunek_vs_tomas-regner",
+      "date": "2026-08-01",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Tomas Regner",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
