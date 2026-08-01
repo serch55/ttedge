@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-01T23:01:43.128Z",
+  "generated": "2026-08-01T23:31:29.995Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2519,
-  "todayCount": 9,
+  "totalCount": 2520,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-02_under_mariusz-koczyba_vs_kacper-adamus",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_under_dawid-jedrysik_vs_mariusz-adamus",
       "date": "2026-08-02",
