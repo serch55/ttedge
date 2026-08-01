@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01T20:31:34.789Z",
+  "generated": "2026-08-01T21:01:44.525Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-01",
-  "totalCount": 2507,
-  "todayCount": 9,
+  "totalCount": 2508,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-01_over_kacper-szurlej_vs_marcin-marchlewski",
@@ -837,6 +837,26 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-01_over_michal-zahradka_vs_martin-huk",
+      "date": "2026-08-01",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Zahradka",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
