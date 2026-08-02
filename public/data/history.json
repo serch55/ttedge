@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-02T16:01:42.144Z",
+  "generated": "2026-08-02T16:31:59.695Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2553,
+  "totalCount": 2555,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-02_under_krystian-kolodziej_vs_lukasz-pietraszko",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 30,
+      "score": 67,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_over_marcin-marchlewski_vs_kacper-szurlej",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Kacper Szurlej",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_over_pawel-adamus_vs_piotr-przewlocki",
       "date": "2026-08-02",
