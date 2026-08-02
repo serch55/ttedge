@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-02T18:01:42.377Z",
+  "generated": "2026-08-02T18:31:29.249Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2560,
-  "todayCount": 6,
+  "totalCount": 2563,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-02_over_marcin-marchlewski_vs_tomasz-filbrandt",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 100,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-08-02_under_mihail-trinta_vs_tomas-regner",
       "date": "2026-08-02",
@@ -20,6 +40,48 @@
       "sets3": 67,
       "score": 63,
       "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_jaroslaw-badura_vs_michal-paszkiewicz",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaroslaw Badura",
+      "away": "Michal Paszkiewicz",
+      "league": "TT Elite Series",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 44,
+      "l5": 60,
+      "sets3": 78,
+      "score": 62,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_spread_jaroslaw-badura_vs_michal-paszkiewicz",
+      "date": "2026-08-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jaroslaw Badura",
+      "away": "Michal Paszkiewicz",
+      "league": "TT Elite Series",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
       "trend": "",
       "tags": [
         "Fatigue",
