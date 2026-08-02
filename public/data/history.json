@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-02T13:01:39.878Z",
+  "generated": "2026-08-02T13:31:29.252Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2546,
+  "totalCount": 2548,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-02_over_richard-skacelik_vs_daniel-unzeitig",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Daniel Unzeitig",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 77,
+      "l5": 80,
+      "sets3": 85,
+      "score": 60,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_spread_daniel-tuma_vs_viktor-vejvoda",
+      "date": "2026-08-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Daniel Tuma",
+      "away": "Viktor Vejvoda",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_under_josef-medek_vs_jan-zajicek",
       "date": "2026-08-02",
