@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-02T14:01:42.308Z",
+  "generated": "2026-08-02T14:31:27.563Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2548,
-  "todayCount": 6,
+  "totalCount": 2551,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-02_spread_jacek-mitas_vs_krystian-kolodziej",
+      "date": "2026-08-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jacek Mitas",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_lukas-boruvka_vs_jan-zajicek",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Boruvka",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_over_richard-skacelik_vs_daniel-unzeitig",
       "date": "2026-08-02",
@@ -63,6 +104,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_ales-bayer_vs_tomas-vinter",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Tomas Vinter",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
