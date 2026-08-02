@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-02T17:01:47.995Z",
+  "generated": "2026-08-02T17:31:24.336Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2557,
+  "totalCount": 2559,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-02_under_krystian-kolodziej_vs_dawid-kosmal",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 40,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_spread_krystian-kolodziej_vs_dawid-kosmal",
+      "date": "2026-08-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "l5": null,
+      "score": 61,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_under_jakub-levicky_vs_marek-volny",
       "date": "2026-08-02",
