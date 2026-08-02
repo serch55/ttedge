@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-02T14:31:27.563Z",
+  "generated": "2026-08-02T15:02:17.040Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2551,
-  "todayCount": 7,
+  "totalCount": 2552,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-02_under_lukasz-pietraszko_vs_filip-mlynarski",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Pietraszko",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 46,
+      "l5": 40,
+      "sets3": 77,
+      "score": 69,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_spread_jacek-mitas_vs_krystian-kolodziej",
       "date": "2026-08-02",
