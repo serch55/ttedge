@@ -1,10 +1,50 @@
 {
-  "generated": "2026-08-02T02:01:54.552Z",
+  "generated": "2026-08-02T02:31:28.418Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2520,
-  "todayCount": 4,
+  "totalCount": 2522,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-02_over_mariusz-zwolinski_vs_artur-szoltysek",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Zwolinski",
+      "away": "Artur Szoltysek",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_spread_dawid-jedrysik_vs_jakub-kaczmarek",
+      "date": "2026-08-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dawid Jedrysik",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
     {
       "id": "2026-08-02_under_mariusz-koczyba_vs_kacper-adamus",
       "date": "2026-08-02",
