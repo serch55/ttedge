@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-02T22:31:31.343Z",
+  "generated": "2026-08-02T23:01:39.478Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2584,
-  "todayCount": 6,
+  "totalCount": 2586,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -21,6 +21,47 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_michal-minda_vs_przemyslaw-blocho",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Przemyslaw Blocho",
+      "league": "TT Elite Series",
+      "time": "05:40",
+      "timeRaw": "11:40 PM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 64,
+      "score": 62,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_piotr-przewlocki_vs_wojciech-wojtaszczyk",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "05:25",
+      "timeRaw": "11:25 PM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 100,
+      "score": 58,
+      "h2h": 12,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
