@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-02T09:01:34.502Z",
+  "generated": "2026-08-02T09:31:23.341Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2536,
-  "todayCount": 3,
+  "totalCount": 2538,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-02_spread_dawid-poloszczanski_vs_mikolaj-lukaszewski",
+      "date": "2026-08-02",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dawid Poloszczanski",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "13:25",
+      "timeRaw": "7:25 AM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_spread_martin-sobisek_vs_daniel-tuma",
       "date": "2026-08-02",
@@ -21,6 +42,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_jakub-nowak_vs_krzysztof-juszczyk",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "12:40",
+      "timeRaw": "6:40 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
