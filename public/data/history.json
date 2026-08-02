@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-02T08:01:49.080Z",
+  "generated": "2026-08-02T08:31:29.150Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2534,
+  "totalCount": 2535,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-02_over_david-heczko_vs_vaclav-zidek",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "David Heczko",
+      "away": "Vaclav Zidek",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 82,
+      "l5": 100,
+      "sets3": 82,
+      "score": 58,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_over_mariusz-zwolinski_vs_dawid-poloszczanski",
       "date": "2026-08-02",
