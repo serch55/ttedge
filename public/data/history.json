@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-02T12:31:34.431Z",
+  "generated": "2026-08-02T13:01:39.878Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2545,
-  "todayCount": 7,
+  "totalCount": 2546,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-02_under_josef-medek_vs_jan-zajicek",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Josef Medek",
+      "away": "Jan Zajicek",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_under_tomas-vinter_vs_daniel-tuma",
       "date": "2026-08-02",
