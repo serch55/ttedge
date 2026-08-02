@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-02T06:31:31.062Z",
+  "generated": "2026-08-02T07:01:50.687Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2530,
-  "todayCount": 6,
+  "totalCount": 2532,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-02_over_piotr-maruszak_vs_mateusz-woskowicz",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Maruszak",
+      "away": "Mateusz Woskowicz",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 83,
+      "score": 56,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_over_petr-david_vs_jakub-kosowski",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Petr David",
+      "away": "Jakub Kosowski",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_under_jan-pleskot_vs_martin-tacinec",
       "date": "2026-08-02",
