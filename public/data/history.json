@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-02T21:01:39.409Z",
+  "generated": "2026-08-02T21:31:23.059Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2573,
+  "totalCount": 2575,
   "todayCount": 10,
   "matches": [
     {
@@ -13,8 +13,8 @@
       "home": "Tomasz Filbrandt",
       "away": "Jakub Zochniak",
       "league": "TT Elite Series",
-      "time": "23:45",
-      "timeRaw": "5:45 PM",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
       "pct": 80,
       "l5": 80,
       "sets3": 93,
@@ -1072,6 +1072,27 @@
       ]
     },
     {
+      "id": "2026-08-02_under_martin-stefek_vs_lubor-sulava",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Lubor Sulava",
+      "league": "Czech Liga Pro",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-02_under_petr-sebera_vs_michal-regner",
       "date": "2026-08-02",
       "type": "under",
@@ -1207,14 +1228,36 @@
       "league": "TT Elite Series",
       "time": "01:20",
       "timeRaw": "7:20 PM",
-      "pct": 93,
-      "l5": 80,
+      "pct": 87,
+      "l5": 60,
       "sets3": 100,
-      "score": 66,
+      "score": 58,
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue"
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_over_pawel-kurek_vs_wojciech-urban",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 69,
+      "l5": 60,
+      "sets3": 77,
+      "score": 56,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
       ]
     },
     {
@@ -1269,11 +1312,11 @@
       "league": "TT Elite Series",
       "time": "00:25",
       "timeRaw": "6:25 PM",
-      "pct": 44,
-      "l5": 60,
-      "sets3": 78,
-      "score": 62,
-      "h2h": 9,
+      "pct": 50,
+      "l5": 80,
+      "sets3": 70,
+      "score": 64,
+      "h2h": 10,
       "trend": "falling",
       "tags": [
         "Fatigue",
