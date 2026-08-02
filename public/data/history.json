@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-02T11:31:28.727Z",
+  "generated": "2026-08-02T12:01:38.759Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2542,
-  "todayCount": 6,
+  "totalCount": 2543,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-02_under_lukas-boruvka_vs_josef-medek",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukas Boruvka",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 47,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_over_jakub-nowak_vs_piotr-przewlocki",
       "date": "2026-08-02",
