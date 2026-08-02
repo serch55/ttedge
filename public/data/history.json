@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-02T15:02:17.040Z",
+  "generated": "2026-08-02T15:31:48.029Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-02",
-  "totalCount": 2552,
-  "todayCount": 6,
+  "totalCount": 2553,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-02_over_pawel-adamus_vs_piotr-przewlocki",
+      "date": "2026-08-02",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Adamus",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "19:05",
+      "timeRaw": "1:05 PM",
+      "pct": 90,
+      "l5": 80,
+      "sets3": 100,
+      "score": 57,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_under_lukasz-pietraszko_vs_filip-mlynarski",
       "date": "2026-08-02",
@@ -21,6 +42,27 @@
       "score": 69,
       "h2h": 13,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-02_under_jakub-nowak_vs_krzysztof-juszczyk",
+      "date": "2026-08-02",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "18:40",
+      "timeRaw": "12:40 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -64,6 +106,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -84,6 +127,7 @@
       "h2h": 13,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -374,27 +418,6 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-02_under_jakub-nowak_vs_krzysztof-juszczyk",
-      "date": "2026-08-02",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Krzysztof Juszczyk",
-      "league": "TT Elite Series",
-      "time": "12:40",
-      "timeRaw": "6:40 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 47,
-      "score": 62,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
