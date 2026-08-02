@@ -1,10 +1,199 @@
 {
-  "generated": "2026-08-02T21:31:23.059Z",
+  "generated": "2026-08-02T22:01:44.969Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-08-02",
-  "totalCount": 2575,
-  "todayCount": 10,
+  "lastDay": "2026-08-03",
+  "totalCount": 2584,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 93,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_martin-stefek_vs_lubor-sulava",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Lubor Sulava",
+      "league": "Czech Liga Pro",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_petr-sebera_vs_michal-regner",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_dmitro-parhomenko_vs_radim-pavelka",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dmitro Parhomenko",
+      "away": "Radim Pavelka",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_tomasz-filbrandt_vs_marcin-marchlewski",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 100,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_pawel-kurek_vs_wojciech-urban",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 69,
+      "l5": 60,
+      "sets3": 77,
+      "score": 56,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_michal-paszkiewicz_vs_jaroslaw-badura",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Jaroslaw Badura",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 50,
+      "l5": 80,
+      "sets3": 70,
+      "score": 64,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_marcin-marchlewski_vs_szymon-brud",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Szymon Brud",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 59,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_radim-pavelka_vs_richard-krejci",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radim Pavelka",
+      "away": "Richard Krejci",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 70,
+      "l5": 100,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-02_over_tomasz-filbrandt_vs_jakub-zochniak",
       "date": "2026-08-02",
