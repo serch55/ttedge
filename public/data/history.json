@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T11:31:37.237Z",
+  "generated": "2026-08-03T12:01:43.413Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2629,
-  "todayCount": 12,
+  "totalCount": 2632,
+  "todayCount": 15,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -21,6 +21,90 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_piotr-cyrnek_vs_grzegorz-felkel",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_spread_piotr-cyrnek_vs_grzegorz-felkel",
+      "date": "2026-08-03",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_pavel-kulhanek_vs_jaroslav-strnad-1964",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Kulhanek",
+      "away": "Jaroslav Strnad 1964",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_szymon-kolasa_vs_marcin-jadczyk",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Kolasa",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "15:45",
+      "timeRaw": "9:45 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -669,27 +753,6 @@
       "l5": 60,
       "sets3": 60,
       "score": 63,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-03_under_piotr-cyrnek_vs_grzegorz-felkel",
-      "date": "2026-08-03",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Piotr Cyrnek",
-      "away": "Grzegorz Felkel",
-      "league": "TT Elite Series",
-      "time": "09:20",
-      "timeRaw": "3:20 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 53,
-      "score": 65,
       "h2h": 15,
       "trend": "falling",
       "tags": [
