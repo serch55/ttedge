@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T04:01:42.932Z",
+  "generated": "2026-08-03T04:31:27.637Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2593,
-  "todayCount": 4,
+  "totalCount": 2594,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -43,6 +43,27 @@
       "h2h": 10,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_marcin-balcerzak_vs_michal-minda",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "07:35",
+      "timeRaw": "1:35 AM",
+      "pct": 69,
+      "l5": 60,
+      "sets3": 62,
+      "score": 62,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
