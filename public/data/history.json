@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T01:01:54.425Z",
+  "generated": "2026-08-03T01:31:34.951Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2586,
-  "todayCount": 5,
+  "totalCount": 2588,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-08-03_under_dariusz-maszczynski_vs_andriej-fomin",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Maszczynski",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "05:35",
+      "timeRaw": "11:35 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 58,
+      "score": 72,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_over_piotr-przewlocki_vs_wojciech-wojtaszczyk",
       "date": "2026-08-03",
       "type": "over",
@@ -61,6 +82,27 @@
       "sets3": 100,
       "score": 58,
       "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_mariusz-baron_vs_grzegorz-marud",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Grzegorz Marud",
+      "league": "TT Elite Series",
+      "time": "05:05",
+      "timeRaw": "11:05 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
