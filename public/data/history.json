@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T20:31:25.003Z",
+  "generated": "2026-08-03T21:01:57.551Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2657,
-  "todayCount": 7,
+  "totalCount": 2659,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -1504,6 +1504,46 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_david-mutl_vs_stanislav-mazanek",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 50,
+      "score": 75,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_spread_david-mutl_vs_stanislav-mazanek",
+      "date": "2026-08-03",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
