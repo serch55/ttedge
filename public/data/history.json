@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-03T19:31:49.105Z",
+  "generated": "2026-08-03T20:01:45.035Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2654,
+  "totalCount": 2656,
   "todayCount": 8,
   "matches": [
     {
@@ -1508,6 +1508,26 @@
       ]
     },
     {
+      "id": "2026-08-03_under_stanislav-mazanek_vs_ludek-madle",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Stanislav Mazanek",
+      "away": "Ludek Madle",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_marcin-marchlewski",
       "date": "2026-08-03",
       "type": "over",
@@ -1544,6 +1564,27 @@
       "score": 56,
       "h2h": 13,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_tomas-janata_vs_jakub-hradecky",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Janata",
+      "away": "Jakub Hradecky",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 55,
+      "score": 63,
+      "h2h": 11,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
