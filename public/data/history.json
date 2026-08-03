@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-03T09:02:26.486Z",
+  "generated": "2026-08-03T09:31:45.806Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2617,
+  "totalCount": 2618,
   "todayCount": 8,
   "matches": [
     {
@@ -40,6 +40,27 @@
       "l5": 80,
       "sets3": 100,
       "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_grzegorz-wichowski_vs_wojciech-tobiasz",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "13:05",
+      "timeRaw": "7:05 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 33,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
