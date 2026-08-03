@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-03T13:01:53.605Z",
+  "generated": "2026-08-03T13:31:35.977Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2634,
+  "totalCount": 2635,
   "todayCount": 9,
   "matches": [
     {
@@ -27,6 +27,26 @@
       ]
     },
     {
+      "id": "2026-08-03_under_jacek-zelezik_vs_henryk-tkaczyk",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "17:10",
+      "timeRaw": "11:10 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_under_jaroslav-strnad-1964_vs_miroslav-barta",
       "date": "2026-08-03",
       "type": "under",
@@ -41,6 +61,26 @@
       "sets3": 55,
       "score": 70,
       "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_grzegorz-wichowski_vs_wojciech-tobiasz",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "16:45",
+      "timeRaw": "10:45 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 40,
+      "score": 64,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -127,7 +167,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -439,27 +478,6 @@
       "l5": 80,
       "sets3": 100,
       "score": 59,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-03_under_grzegorz-wichowski_vs_wojciech-tobiasz",
-      "date": "2026-08-03",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Grzegorz Wichowski",
-      "away": "Wojciech Tobiasz",
-      "league": "TT Elite Series",
-      "time": "13:05",
-      "timeRaw": "7:05 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 33,
-      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
