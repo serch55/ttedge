@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T11:01:39.381Z",
+  "generated": "2026-08-03T11:31:37.237Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2627,
-  "todayCount": 13,
+  "totalCount": 2629,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -27,6 +27,48 @@
       ]
     },
     {
+      "id": "2026-08-03_under_josef-braun_vs_grzegorz-felkel",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Josef Braun",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_grzegorz-wichowski_vs_grzegorz-jurowicz",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "15:10",
+      "timeRaw": "9:10 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_over_oskar-jadach_vs_mariusz-adamus",
       "date": "2026-08-03",
       "type": "over",
@@ -39,9 +81,9 @@
       "pct": 73,
       "l5": 80,
       "sets3": 87,
-      "score": 60,
+      "score": 62,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
