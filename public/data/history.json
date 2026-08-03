@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T17:01:43.808Z",
+  "generated": "2026-08-03T17:31:30.552Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2644,
-  "todayCount": 3,
+  "totalCount": 2646,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-08-03_over_marcin-kowalczyk_vs_bartlomiej-wisniewski",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Bartlomiej Wisniewski",
+      "league": "TT Elite Series",
+      "time": "21:20",
+      "timeRaw": "3:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_under_zdenek-bilek_vs_josef-medek",
       "date": "2026-08-03",
       "type": "under",
@@ -43,7 +64,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -84,6 +104,48 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_pavel-kulhanek_vs_jaroslav-strnad-1964",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Pavel Kulhanek",
+      "away": "Jaroslav Strnad 1964",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_tadeas-zika_vs_radovan-polasek",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "19:30",
+      "timeRaw": "1:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -334,26 +396,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-03_over_pavel-kulhanek_vs_jaroslav-strnad-1964",
-      "date": "2026-08-03",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Pavel Kulhanek",
-      "away": "Jaroslav Strnad 1964",
-      "league": "Czech Liga Pro",
-      "time": "16:00",
-      "timeRaw": "10:00 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 87,
-      "score": 59,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
