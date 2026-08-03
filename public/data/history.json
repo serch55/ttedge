@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-03T19:02:00.410Z",
+  "generated": "2026-08-03T19:31:49.105Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2652,
+  "totalCount": 2654,
   "todayCount": 8,
   "matches": [
     {
@@ -106,6 +106,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -125,6 +126,27 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_jakub-hradecky_vs_tomas-janata",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Hradecky",
+      "away": "Tomas Janata",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 55,
+      "score": 63,
+      "h2h": 11,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1570,6 +1592,27 @@
       ]
     },
     {
+      "id": "2026-08-03_under_aleksander-barton_vs_miroslaw-warzecha",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_over_radim-pavelka_vs_richard-krejci",
       "date": "2026-08-03",
       "type": "over",
@@ -1607,6 +1650,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
