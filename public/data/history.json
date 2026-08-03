@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T03:31:26.251Z",
+  "generated": "2026-08-03T04:01:42.932Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
   "totalCount": 2593,
-  "todayCount": 8,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -104,6 +104,7 @@
       "h2h": 9,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
