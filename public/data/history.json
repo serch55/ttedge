@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-03T17:31:30.552Z",
+  "generated": "2026-08-03T18:01:47.171Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2646,
+  "totalCount": 2648,
   "todayCount": 6,
   "matches": [
     {
@@ -21,6 +21,47 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_jan-zajicek_vs_josef-medek",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_miroslaw-warzecha_vs_aleksander-barton",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Aleksander Barton",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
