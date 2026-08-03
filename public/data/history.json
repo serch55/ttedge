@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T14:31:39.599Z",
+  "generated": "2026-08-03T15:03:16.797Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2636,
-  "todayCount": 4,
+  "totalCount": 2641,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -20,6 +20,108 @@
       "sets3": 93,
       "score": 62,
       "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_jiri-dedek_vs_tomas-dousa",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Dedek",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_radovan-polasek_vs_tadeas-zika",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_miroslaw-lewczuk_vs_miroslaw-warzecha",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 40,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_spread_miroslaw-lewczuk_vs_miroslaw-warzecha",
+      "date": "2026-08-03",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_lukasz-pietraszko_vs_krystian-kolodziej",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Pietraszko",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 27,
+      "score": 69,
+      "h2h": 11,
       "trend": "falling",
       "tags": [
         "Fatigue",
