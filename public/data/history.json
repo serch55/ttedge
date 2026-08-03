@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T20:01:45.035Z",
+  "generated": "2026-08-03T20:31:25.003Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2656,
-  "todayCount": 8,
+  "totalCount": 2657,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -1508,6 +1508,27 @@
       ]
     },
     {
+      "id": "2026-08-03_under_jakub-glanowski_vs_mateusz-rutkowski",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 57,
+      "l5": 40,
+      "sets3": 71,
+      "score": 60,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-03_under_stanislav-mazanek_vs_ludek-madle",
       "date": "2026-08-03",
       "type": "under",
@@ -1579,11 +1600,11 @@
       "league": "Czech Liga Pro",
       "time": "01:00",
       "timeRaw": "7:00 PM",
-      "pct": 73,
-      "l5": 60,
-      "sets3": 55,
-      "score": 63,
-      "h2h": 11,
+      "pct": 67,
+      "l5": 40,
+      "sets3": 58,
+      "score": 65,
+      "h2h": 12,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -1645,7 +1666,7 @@
       "pct": 80,
       "l5": 80,
       "sets3": 33,
-      "score": 65,
+      "score": 66,
       "h2h": 15,
       "trend": "rising",
       "tags": [
