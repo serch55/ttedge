@@ -1,10 +1,215 @@
 {
-  "generated": "2026-08-03T21:31:33.919Z",
+  "generated": "2026-08-03T22:01:44.795Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-08-03",
-  "totalCount": 2660,
+  "lastDay": "2026-08-04",
+  "totalCount": 2670,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-04_under_ladislav-havel-1956_vs_stanislav-mazanek",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ladislav Havel 1956",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 30,
+      "score": 71,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_david-mutl_vs_jan-potensky",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Jan Potensky",
+      "league": "Czech Liga Pro",
+      "time": "04:00",
+      "timeRaw": "10:00 PM",
+      "pct": 55,
+      "l5": 40,
+      "sets3": 64,
+      "score": 61,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_miroslaw-warzecha_vs_miroslaw-lewczuk",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Miroslaw Lewczuk",
+      "league": "TT Elite Series",
+      "time": "03:45",
+      "timeRaw": "9:45 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_david-mutl_vs_stanislav-mazanek",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 50,
+      "score": 75,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_spread_david-mutl_vs_stanislav-mazanek",
+      "date": "2026-08-04",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "David Mutl",
+      "away": "Stanislav Mazanek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_jakub-glanowski_vs_mateusz-rutkowski",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 57,
+      "l5": 40,
+      "sets3": 71,
+      "score": 60,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_stanislav-mazanek_vs_ludek-madle",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Stanislav Mazanek",
+      "away": "Ludek Madle",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_tomas-janata_vs_jakub-hradecky",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Janata",
+      "away": "Jakub Hradecky",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 58,
+      "score": 65,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_aleksander-barton_vs_miroslaw-warzecha",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Barton",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_spread_ales-bayer_vs_tomas-janata",
+      "date": "2026-08-04",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Ales Bayer",
+      "away": "Tomas Janata",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
       "date": "2026-08-03",
