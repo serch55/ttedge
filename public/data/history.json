@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T12:31:25.144Z",
+  "generated": "2026-08-03T13:01:53.605Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2633,
-  "todayCount": 11,
+  "totalCount": 2634,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -21,6 +21,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_jaroslav-strnad-1964_vs_miroslav-barta",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaroslav Strnad 1964",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 55,
+      "score": 70,
+      "h2h": 11,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
