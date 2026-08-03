@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T10:01:48.301Z",
+  "generated": "2026-08-03T10:31:30.975Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-03",
-  "totalCount": 2618,
-  "todayCount": 7,
+  "totalCount": 2624,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-08-03_over_tomasz-filbrandt_vs_jakub-zochniak",
@@ -23,6 +23,131 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_rafal-skotniczny_vs_grzegorz-wichowski",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Skotniczny",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_karol-wisniewski_vs_miroslav-sklensky",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Miroslav Sklensky",
+      "league": "TT Elite Series",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 33,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_spread_karol-wisniewski_vs_miroslav-sklensky",
+      "date": "2026-08-03",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Miroslav Sklensky",
+      "league": "TT Elite Series",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_over_michal-zahradka_vs_oleksandr-kolisnyk",
+      "date": "2026-08-03",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Zahradka",
+      "away": "Oleksandr Kolisnyk",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_petr-sebera_vs_jakub-tazler",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Jakub Tazler",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 89,
+      "l5": 100,
+      "sets3": 44,
+      "score": 67,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-03_under_michael-sedlacek_vs_jan-szotkowski",
+      "date": "2026-08-03",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
