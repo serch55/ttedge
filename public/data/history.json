@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T04:31:28.218Z",
+  "generated": "2026-08-04T05:01:50.739Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
   "totalCount": 2693,
-  "todayCount": 11,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-04_under_jaroslav-strnad-1964_vs_jiri-svec",
@@ -85,7 +85,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -190,6 +189,7 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
