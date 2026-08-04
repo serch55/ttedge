@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-04T14:01:57.841Z",
+  "generated": "2026-08-04T14:32:01.055Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2712,
+  "totalCount": 2714,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-04_over_jakub-kuzmicz_vs_karol-strowski",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_jerzy-pelka_vs_oskar-jadach",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Pelka",
+      "away": "Oskar Jadach",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_over_marcin-kowalczyk_vs_jaroslaw-rolak",
       "date": "2026-08-04",
