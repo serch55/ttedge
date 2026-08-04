@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-04T19:01:58.796Z",
+  "generated": "2026-08-04T19:31:28.986Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2732,
-  "todayCount": 10,
+  "totalCount": 2734,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-08-04_under_marian-brunner_vs_dariusz-molenda",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Brunner",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 57,
+      "l5": 100,
+      "sets3": 43,
+      "score": 61,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_spread_marian-brunner_vs_dariusz-molenda",
+      "date": "2026-08-04",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Marian Brunner",
+      "away": "Dariusz Molenda",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "l5": null,
+      "score": 62,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_under_mateusz-rutkowski_vs_jakub-kuzmicz",
       "date": "2026-08-04",
@@ -43,6 +85,7 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -147,6 +190,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -167,6 +211,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
