@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T04:01:45.563Z",
+  "generated": "2026-08-04T04:31:28.218Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2692,
-  "todayCount": 12,
+  "totalCount": 2693,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-08-04_under_jaroslav-strnad-1964_vs_jiri-svec",
@@ -63,6 +63,27 @@
       "score": 62,
       "h2h": 13,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_mariusz-baron_vs_jerzy-pelka",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Jerzy Pelka",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
