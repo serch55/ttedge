@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T00:01:41.935Z",
+  "generated": "2026-08-04T00:35:28.591Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2677,
-  "todayCount": 12,
+  "totalCount": 2679,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-08-04_over_petr-david_vs_szymon-kolasa",
@@ -189,6 +189,48 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_adam-staniczek_vs_henryk-tkaczyk",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_pawel-kurek_vs_jakub-pruszkowski",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Kurek",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 44,
+      "score": 61,
+      "h2h": 9,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
