@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T21:01:40.722Z",
+  "generated": "2026-08-04T21:31:35.254Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2736,
-  "todayCount": 5,
+  "totalCount": 2738,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-04_under_marian-brunner_vs_dariusz-molenda",
@@ -1546,6 +1546,48 @@
       "sets3": 58,
       "score": 65,
       "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_kamil-delikatny_vs_zbigniew-nocun",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "00:40",
+      "timeRaw": "6:40 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_mateusz-trela_vs_jaroslaw-rolak",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Trela",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 57,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
