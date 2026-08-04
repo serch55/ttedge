@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-04T01:01:52.983Z",
+  "generated": "2026-08-04T01:31:36.952Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2680,
+  "totalCount": 2683,
   "todayCount": 14,
   "matches": [
+    {
+      "id": "2026-08-04_under_witold-buczynski_vs_wojciech-wojtaszczyk",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Witold Buczynski",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 40,
+      "score": 61,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_under_petr-sudek_vs_jaroslav-strnad-1964",
       "date": "2026-08-04",
@@ -132,6 +153,26 @@
       ]
     },
     {
+      "id": "2026-08-04_under_jakub-zochniak_vs_dawid-kosmal",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 71,
+      "l5": 60,
+      "sets3": 50,
+      "score": 61,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-04_over_andriej-fomin_vs_adam-staniczek",
       "date": "2026-08-04",
       "type": "over",
@@ -188,6 +229,27 @@
       "sets3": 64,
       "score": 61,
       "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_kacper-adamus_vs_jakub-pruszkowski",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "03:55",
+      "timeRaw": "9:55 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 56,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
