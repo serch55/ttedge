@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-04T06:31:40.734Z",
+  "generated": "2026-08-04T07:01:44.628Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2695,
-  "todayCount": 3,
+  "totalCount": 2698,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-04_under_jakub-zochniak_vs_rafal-stapor",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 58,
+      "l5": 40,
+      "sets3": 58,
+      "score": 65,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_jiri-zuzanek_vs_karel-schopf",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Zuzanek",
+      "away": "Karel Schopf",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_spread_piotr-cyrnek_vs_adrian-wiecek",
+      "date": "2026-08-04",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Piotr Cyrnek",
+      "away": "Adrian Wiecek",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_under_radim-pavelka_vs_jiri-plachy",
       "date": "2026-08-04",
