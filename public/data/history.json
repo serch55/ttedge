@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-04T17:01:48.423Z",
+  "generated": "2026-08-04T17:31:49.500Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2722,
+  "totalCount": 2723,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-04_under_kamil-delikatny_vs_henryk-tkaczyk",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_spread_tomas-dousa_vs_yurii-holovatiuk",
       "date": "2026-08-04",
