@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-04T15:31:36.543Z",
+  "generated": "2026-08-04T16:01:41.563Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2719,
-  "todayCount": 8,
+  "totalCount": 2721,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-04_spread_tomas-dousa_vs_yurii-holovatiuk",
+      "date": "2026-08-04",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Tomas Dousa",
+      "away": "Yurii Holovatiuk",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_richard-skacelik_vs_adrian-walek",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Adrian Walek",
+      "league": "Czech Liga Pro",
+      "time": "20:00",
+      "timeRaw": "2:00 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 55,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_over_jakub-kuzmicz_vs_maciej-nowalinski",
       "date": "2026-08-04",
