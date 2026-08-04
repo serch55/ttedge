@@ -1,10 +1,93 @@
 {
-  "generated": "2026-08-04T17:31:49.500Z",
+  "generated": "2026-08-04T18:01:52.876Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2723,
-  "todayCount": 6,
+  "totalCount": 2727,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-04_under_wojciech-pytlas_vs_jakub-kaczmarek",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Pytlas",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "22:20",
+      "timeRaw": "4:20 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_kyryl-darin_vs_tomas-dousa",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kyryl Darin",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_richard-skacelik_vs_dalimil-machander",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Dalimil Machander",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 100,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_karol-strowski_vs_miroslav-sklensky",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Miroslav Sklensky",
+      "league": "TT Elite Series",
+      "time": "21:40",
+      "timeRaw": "3:40 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_under_kamil-delikatny_vs_henryk-tkaczyk",
       "date": "2026-08-04",
