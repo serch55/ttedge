@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T02:01:55.976Z",
+  "generated": "2026-08-04T02:31:40.157Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2685,
-  "todayCount": 14,
+  "totalCount": 2686,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-04_under_witold-buczynski_vs_wojciech-wojtaszczyk",
@@ -63,6 +63,27 @@
       "score": 56,
       "h2h": 13,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_over_adam-ruszkiewicz_vs_mariusz-adamus",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Mariusz Adamus",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 100,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
