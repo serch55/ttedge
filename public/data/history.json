@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-04T10:31:39.402Z",
+  "generated": "2026-08-04T11:01:43.884Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2705,
+  "totalCount": 2706,
   "todayCount": 2,
   "matches": [
+    {
+      "id": "2026-08-04_over_radomir-revay_vs_tadeas-zika",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radomir Revay",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_under_krystian-kolodziej_vs_dawid-kosmal",
       "date": "2026-08-04",
