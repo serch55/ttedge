@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-04T06:01:52.545Z",
+  "generated": "2026-08-04T06:31:40.734Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2694,
-  "todayCount": 5,
+  "totalCount": 2695,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-08-04_under_radim-pavelka_vs_jiri-plachy",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Pavelka",
+      "away": "Jiri Plachy",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_over_kamil-rudomina_vs_artur-sobel",
       "date": "2026-08-04",
