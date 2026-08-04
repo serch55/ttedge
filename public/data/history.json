@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-04T20:02:21.517Z",
+  "generated": "2026-08-04T20:31:41.022Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2735,
-  "todayCount": 11,
+  "totalCount": 2736,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-04_under_marian-brunner_vs_dariusz-molenda",
@@ -1464,6 +1464,27 @@
       "score": 60,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_mateusz-rutkowski_vs_jakub-glanowski",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
