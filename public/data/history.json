@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-04T11:31:27.193Z",
+  "generated": "2026-08-04T12:01:56.443Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-04",
-  "totalCount": 2706,
-  "todayCount": 1,
+  "totalCount": 2708,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-08-04_over_szymon-kolasa_vs_petr-david",
+      "date": "2026-08-04",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Szymon Kolasa",
+      "away": "Petr David",
+      "league": "TT Elite Series",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 86,
+      "l5": 100,
+      "sets3": 86,
+      "score": 59,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-04_under_tomas-dousek_vs_radovan-polasek",
+      "date": "2026-08-04",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Dousek",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-04_over_radomir-revay_vs_tadeas-zika",
       "date": "2026-08-04",
