@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-05T13:01:47.293Z",
+  "generated": "2026-08-05T13:32:13.894Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2790,
-  "todayCount": 8,
+  "totalCount": 2791,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-05_under_grzegorz-jurowicz_vs_kamil-smolka",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Kamil Smolka",
+      "league": "TT Elite Series",
+      "time": "17:05",
+      "timeRaw": "11:05 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_matej-grundel_vs_martin-skotnica",
       "date": "2026-08-05",
