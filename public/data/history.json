@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T20:32:19.314Z",
+  "generated": "2026-08-05T21:01:45.898Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
   "totalCount": 2823,
-  "todayCount": 11,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-05_over_maciej-kolek_vs_patryk-jendrzejewski",
@@ -1670,10 +1670,10 @@
       "league": "TT Elite Series",
       "time": "00:55",
       "timeRaw": "6:55 PM",
-      "pct": 53,
+      "pct": 60,
       "l5": 80,
       "sets3": 53,
-      "score": 60,
+      "score": 61,
       "h2h": 15,
       "trend": "rising",
       "tags": [
