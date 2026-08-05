@@ -1,10 +1,93 @@
 {
-  "generated": "2026-08-05T07:41:41.777Z",
+  "generated": "2026-08-05T08:01:48.705Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2771,
-  "todayCount": 11,
+  "totalCount": 2775,
+  "todayCount": 12,
   "matches": [
+    {
+      "id": "2026-08-05_spread_marcin-balcerzak_vs_dawid-kosmal",
+      "date": "2026-08-05",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Dawid Kosmal",
+      "league": "TT Elite Series",
+      "time": "12:05",
+      "timeRaw": "6:05 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_over_michal-zahradka_vs_radim-urbaniec",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Zahradka",
+      "away": "Radim Urbaniec",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 82,
+      "score": 61,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_lubor-sulava_vs_milan-regner",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lubor Sulava",
+      "away": "Milan Regner",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 60,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_kacper-glazowski_vs_artur-daniel",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Glazowski",
+      "away": "Artur Daniel",
+      "league": "TT Elite Series",
+      "time": "11:45",
+      "timeRaw": "5:45 AM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 57,
+      "score": 63,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_krystian-kolodziej_vs_marcin-jadczyk",
       "date": "2026-08-05",
