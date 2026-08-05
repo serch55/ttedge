@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T22:01:54.916Z",
+  "generated": "2026-08-05T22:32:05.447Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2838,
-  "todayCount": 13,
+  "totalCount": 2839,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-06_under_marcel-pikous_vs_petr-sebera",
@@ -63,6 +63,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_miroslaw-warzecha_vs_aleksander-barton",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Aleksander Barton",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
