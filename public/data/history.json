@@ -1,10 +1,94 @@
 {
-  "generated": "2026-08-05T17:31:35.040Z",
+  "generated": "2026-08-05T18:01:45.110Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2806,
-  "todayCount": 10,
+  "totalCount": 2810,
+  "todayCount": 14,
   "matches": [
+    {
+      "id": "2026-08-05_under_lukasz-pietraszko_vs_mateusz-rutkowski",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Pietraszko",
+      "away": "Mateusz Rutkowski",
+      "league": "TT Elite Series",
+      "time": "22:05",
+      "timeRaw": "4:05 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_mariusz-koczyba_vs_jakub-nowak",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 33,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_lubos-krticka_vs_michal-vedmoch",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lubos Krticka",
+      "away": "Michal Vedmoch",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 56,
+      "score": 62,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_spread_lubos-krticka_vs_michal-vedmoch",
+      "date": "2026-08-05",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Lubos Krticka",
+      "away": "Michal Vedmoch",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_michal-machelski_vs_aleksander-barton",
       "date": "2026-08-05",
