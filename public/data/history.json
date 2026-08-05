@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T19:31:37.245Z",
+  "generated": "2026-08-05T20:01:38.203Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2817,
-  "todayCount": 14,
+  "totalCount": 2821,
+  "todayCount": 17,
   "matches": [
     {
       "id": "2026-08-05_over_maciej-kolek_vs_patryk-jendrzejewski",
@@ -1524,12 +1524,33 @@
       "league": "TT Elite Series",
       "time": "01:45",
       "timeRaw": "7:45 PM",
-      "pct": 60,
+      "pct": 67,
       "l5": 60,
       "sets3": 73,
-      "score": 61,
+      "score": 63,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_spread_mariusz-koczyba_vs_marian-lebek",
+      "date": "2026-08-05",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Mariusz Koczyba",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "01:35",
+      "timeRaw": "7:35 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1549,6 +1570,48 @@
       "score": 59,
       "pick": "",
       "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_petr-sebera_vs_michal-regner",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_over_patryk-jendrzejewski_vs_maciej-kolek",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Patryk Jendrzejewski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 55,
       "h2h": 15,
       "trend": "",
       "tags": [
@@ -1654,6 +1717,27 @@
       "l5": 20,
       "sets3": 80,
       "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_adrian-burkacki_vs_jakub-pruszkowski",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
