@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-05T11:01:36.846Z",
+  "generated": "2026-08-05T11:31:32.994Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2782,
+  "totalCount": 2785,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-05_over_bartosz-sulkowski_vs_michal-minda",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_over_grzegorz-poliniewicz_vs_krzysztof-wloczko",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "15:25",
+      "timeRaw": "9:25 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_marcin-balcerzak_vs_artur-daniel",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Artur Daniel",
+      "league": "TT Elite Series",
+      "time": "15:00",
+      "timeRaw": "9:00 AM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_sebastian-juzek_vs_grzegorz-jurowicz",
       "date": "2026-08-05",
@@ -15,12 +78,12 @@
       "league": "TT Elite Series",
       "time": "14:45",
       "timeRaw": "8:45 AM",
-      "pct": 73,
+      "pct": 80,
       "l5": 80,
-      "sets3": 60,
+      "sets3": 53,
       "score": 76,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
