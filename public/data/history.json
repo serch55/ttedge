@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-05T08:01:48.705Z",
+  "generated": "2026-08-05T08:31:30.839Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2775,
-  "todayCount": 12,
+  "totalCount": 2776,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-05_under_grzegorz-jurowicz_vs_sebastian-juzek",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Sebastian Juzek",
+      "league": "TT Elite Series",
+      "time": "12:20",
+      "timeRaw": "6:20 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_spread_marcin-balcerzak_vs_dawid-kosmal",
       "date": "2026-08-05",
@@ -77,12 +98,12 @@
       "league": "TT Elite Series",
       "time": "11:45",
       "timeRaw": "5:45 AM",
-      "pct": 64,
+      "pct": 60,
       "l5": 60,
-      "sets3": 57,
-      "score": 63,
-      "h2h": 14,
-      "trend": "falling",
+      "sets3": 60,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
