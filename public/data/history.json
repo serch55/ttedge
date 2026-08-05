@@ -1,10 +1,72 @@
 {
-  "generated": "2026-08-05T08:31:30.839Z",
+  "generated": "2026-08-05T09:01:49.034Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2776,
+  "totalCount": 2779,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-05_under_michael-sedlacek_vs_jan-szotkowski",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Jan Szotkowski",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_jakub-kaczmarek_vs_pawel-slosarczyk",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Pawel Slosarczyk",
+      "league": "TT Elite Series",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_jaroslav-strnad-1961_vs_milan-smesny",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaroslav Strnad 1961",
+      "away": "Milan Smesny",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_grzegorz-jurowicz_vs_sebastian-juzek",
       "date": "2026-08-05",
