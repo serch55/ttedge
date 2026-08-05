@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T01:01:44.994Z",
+  "generated": "2026-08-05T01:31:37.748Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2746,
-  "todayCount": 3,
+  "totalCount": 2750,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-05_under_grzegorz-jurowicz_vs_jerzy-pelka",
@@ -48,6 +48,48 @@
       ]
     },
     {
+      "id": "2026-08-05_under_jerzy-michalik_vs_marian-brunner",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Michalik",
+      "away": "Marian Brunner",
+      "league": "TT Elite Series",
+      "time": "05:30",
+      "timeRaw": "11:30 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_jakub-skorupa_vs_kamil-delikatny",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Kamil Delikatny",
+      "league": "TT Elite Series",
+      "time": "05:05",
+      "timeRaw": "11:05 PM",
+      "pct": 55,
+      "l5": 60,
+      "sets3": 55,
+      "score": 61,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-05_under_lukasz-oracz_vs_marian-lebek",
       "date": "2026-08-05",
       "type": "under",
@@ -63,6 +105,48 @@
       "score": 61,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_jakub-skorupa_vs_zbigniew-nocun",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Skorupa",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "03:55",
+      "timeRaw": "9:55 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_kamil-delikatny_vs_henryk-tkaczyk",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 47,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
