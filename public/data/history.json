@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-05T10:31:29.754Z",
+  "generated": "2026-08-05T11:01:36.846Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2780,
-  "todayCount": 4,
+  "totalCount": 2782,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-05_under_sebastian-juzek_vs_grzegorz-jurowicz",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Grzegorz Jurowicz",
+      "league": "TT Elite Series",
+      "time": "14:45",
+      "timeRaw": "8:45 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_kamil-smolka_vs_kacper-adamus",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Smolka",
+      "away": "Kacper Adamus",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 40,
+      "l5": 60,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_spread_sebastian-juzek_vs_rafal-gajda",
       "date": "2026-08-05",
@@ -85,6 +127,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
