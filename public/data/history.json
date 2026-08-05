@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-05T05:01:43.053Z",
+  "generated": "2026-08-05T05:31:36.876Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2760,
-  "todayCount": 10,
+  "totalCount": 2762,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-05_over_jiri-stach_vs_marek-blejchar",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jiri Stach",
+      "away": "Marek Blejchar",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 70,
+      "l5": 100,
+      "sets3": 90,
+      "score": 55,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_artur-daniel_vs_kacper-glazowski",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Daniel",
+      "away": "Kacper Glazowski",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 57,
+      "score": 63,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_petr-david_vs_jan-zandecki",
       "date": "2026-08-05",
