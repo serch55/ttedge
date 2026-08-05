@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-05T12:02:00.026Z",
+  "generated": "2026-08-05T12:31:43.599Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2785,
-  "todayCount": 5,
+  "totalCount": 2788,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-05_over_artur-grela_vs_jan-zandecki",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Grela",
+      "away": "Jan Zandecki",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_vlastimil-kolar_vs_jiri-ruzicka",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vlastimil Kolar",
+      "away": "Jiri Ruzicka",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_over_kacper-glazowski_vs_krzysztof-wloczko",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Glazowski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "16:15",
+      "timeRaw": "10:15 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_over_bartosz-sulkowski_vs_michal-minda",
       "date": "2026-08-05",
