@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T03:01:49.863Z",
+  "generated": "2026-08-05T03:31:33.206Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2752,
-  "todayCount": 6,
+  "totalCount": 2755,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-05_over_jakub-kosowski_vs_artur-grela",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-08-05_under_lukasz-oracz_vs_wojciech-urban",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Oracz",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "07:10",
+      "timeRaw": "1:10 AM",
+      "pct": 40,
+      "l5": 40,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-05_under_artur-grela_vs_artur-daniel",
       "date": "2026-08-05",
       "type": "under",
@@ -62,6 +83,48 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_over_bartosz-sulkowski_vs_krzysztof-kotyl",
+      "date": "2026-08-05",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 57,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_jakub-zochniak_vs_rafal-stapor",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 62,
+      "l5": 60,
+      "sets3": 62,
+      "score": 67,
+      "h2h": 13,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
