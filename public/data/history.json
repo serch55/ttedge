@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-05T16:32:17.422Z",
+  "generated": "2026-08-05T17:01:59.755Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2802,
+  "totalCount": 2803,
   "todayCount": 7,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 62,
       "h2h": 9,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_kamil-delikatny_vs_miroslaw-warzecha",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
