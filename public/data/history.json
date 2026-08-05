@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T18:31:33.981Z",
+  "generated": "2026-08-05T19:01:39.881Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2815,
-  "todayCount": 17,
+  "totalCount": 2816,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-05_over_maciej-kolek_vs_patryk-jendrzejewski",
@@ -1612,6 +1612,27 @@
       "score": 57,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_radek-bartunek_vs_rotislav-hasmanda",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radek Bartunek",
+      "away": "Rotislav Hasmanda",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 60,
+      "l5": 20,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
