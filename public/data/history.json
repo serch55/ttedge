@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-05T00:31:40.089Z",
+  "generated": "2026-08-05T01:01:44.994Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2745,
+  "totalCount": 2746,
   "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-08-05_under_grzegorz-jurowicz_vs_jerzy-pelka",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Jerzy Pelka",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-05_under_artur-grela_vs_artur-daniel",
       "date": "2026-08-05",
