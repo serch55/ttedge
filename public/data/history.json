@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T19:01:39.881Z",
+  "generated": "2026-08-05T19:31:37.245Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-05",
-  "totalCount": 2816,
-  "todayCount": 13,
+  "totalCount": 2817,
+  "todayCount": 14,
   "matches": [
     {
       "id": "2026-08-05_over_maciej-kolek_vs_patryk-jendrzejewski",
@@ -211,6 +211,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -231,6 +232,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -544,27 +546,6 @@
       "h2h": 15,
       "trend": "",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-05_under_zbigniew-nocun_vs_jakub-skorupa",
-      "date": "2026-08-05",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Zbigniew Nocun",
-      "away": "Jakub Skorupa",
-      "league": "TT Elite Series",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 60,
-      "score": 68,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1576,6 +1557,27 @@
       ]
     },
     {
+      "id": "2026-08-05_under_mateusz-rutkowski_vs_lukasz-pietraszko",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-05_under_kamil-delikatny_vs_zbigniew-nocun",
       "date": "2026-08-05",
       "type": "under",
@@ -1589,6 +1591,27 @@
       "l5": 60,
       "sets3": 40,
       "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-05_under_zbigniew-nocun_vs_jakub-skorupa",
+      "date": "2026-08-05",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Jakub Skorupa",
+      "league": "TT Elite Series",
+      "time": "00:35",
+      "timeRaw": "6:35 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 53,
+      "score": 71,
       "h2h": 15,
       "trend": "rising",
       "tags": [
