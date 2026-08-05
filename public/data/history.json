@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T23:01:57.370Z",
+  "generated": "2026-08-05T23:31:25.760Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
   "totalCount": 2842,
-  "todayCount": 13,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-06_under_oliver-vincenec_vs_lukasz-oracz",
@@ -127,6 +127,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
