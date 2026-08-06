@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-06T07:31:45.375Z",
+  "generated": "2026-08-06T08:01:46.059Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2861,
+  "totalCount": 2864,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-06_over_jan-mecl-jr_vs_martin-huk",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Mecl Jr",
+      "away": "Martin Huk",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_petr-sudek_vs_jaroslav-strnad-1964",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sudek",
+      "away": "Jaroslav Strnad 1964",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_rafal-gajda_vs_lukasz-oracz",
       "date": "2026-08-06",
@@ -21,6 +62,27 @@
       "score": 64,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_over_karol-sulkowski_vs_igor-dabrowski",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Sulkowski",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
