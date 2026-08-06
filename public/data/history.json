@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-06T06:32:14.444Z",
+  "generated": "2026-08-06T07:01:51.517Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2859,
+  "totalCount": 2860,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-06_under_rafal-gajda_vs_lukasz-oracz",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_over_jakub-nowak_vs_waldemar-glanowski",
       "date": "2026-08-06",
