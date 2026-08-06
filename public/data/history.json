@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-05T23:31:25.760Z",
+  "generated": "2026-08-06T00:01:48.062Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2842,
-  "todayCount": 10,
+  "totalCount": 2843,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-06_over_tibor-spanik_vs_jakub-kosowski",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tibor Spanik",
+      "away": "Jakub Kosowski",
+      "league": "TT Elite Series",
+      "time": "06:55",
+      "timeRaw": "12:55 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_oliver-vincenec_vs_lukasz-oracz",
       "date": "2026-08-06",
