@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-06T10:31:26.164Z",
+  "generated": "2026-08-06T11:02:14.677Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2869,
-  "todayCount": 4,
+  "totalCount": 2872,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-06_under_krzysztof-schaniel_vs_rafal-skotniczny",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Rafal Skotniczny",
+      "league": "TT Elite Series",
+      "time": "14:45",
+      "timeRaw": "8:45 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_over_oliver-vincenec_vs_sebastian-szostok",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "14:40",
+      "timeRaw": "8:40 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 93,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_over_richard-skacelik_vs_adrian-walek",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Adrian Walek",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_rafal-gajda_vs_lukasz-oracz",
       "date": "2026-08-06",
