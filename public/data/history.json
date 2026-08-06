@@ -1,10 +1,72 @@
 {
-  "generated": "2026-08-06T13:01:56.615Z",
+  "generated": "2026-08-06T13:31:39.426Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2880,
-  "todayCount": 10,
+  "totalCount": 2884,
+  "todayCount": 14,
   "matches": [
+    {
+      "id": "2026-08-06_over_krzysztof-schaniel_vs_jakub-nowak",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_martin-tacinec_vs_jan-pleskot",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Tacinec",
+      "away": "Jan Pleskot",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 60,
+      "score": 69,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_patrik-klos_vs_michal-benes",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patrik Klos",
+      "away": "Michal Benes",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 79,
+      "l5": 60,
+      "sets3": 64,
+      "score": 60,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_zbigniew-nocun_vs_jakub-skorupa",
       "date": "2026-08-06",
@@ -188,6 +250,27 @@
       "score": 60,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_over_adrian-walek_vs_jakub-simecek",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "Jakub Simecek",
+      "league": "Czech Liga Pro",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 71,
+      "l5": 100,
+      "sets3": 86,
+      "score": 58,
+      "h2h": 14,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
