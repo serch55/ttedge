@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-06T11:02:14.677Z",
+  "generated": "2026-08-06T11:31:32.179Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2872,
-  "todayCount": 5,
+  "totalCount": 2874,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-06_over_aleksander-lilien_vs_jakub-glanowski",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_spread_patrik-klos_vs_kacper-glazowski",
+      "date": "2026-08-06",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Patrik Klos",
+      "away": "Kacper Glazowski",
+      "league": "TT Elite Series",
+      "time": "15:25",
+      "timeRaw": "9:25 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_krzysztof-schaniel_vs_rafal-skotniczny",
       "date": "2026-08-06",
