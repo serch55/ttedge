@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-06T10:01:44.730Z",
+  "generated": "2026-08-06T10:31:26.164Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
   "totalCount": 2869,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-06_under_rafal-gajda_vs_lukasz-oracz",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 73,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_radovan-polasek_vs_tadeas-zika",
       "date": "2026-08-06",
@@ -145,27 +166,6 @@
       "score": 61,
       "h2h": 12,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-06_under_rafal-gajda_vs_lukasz-oracz",
-      "date": "2026-08-06",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Rafal Gajda",
-      "away": "Lukasz Oracz",
-      "league": "TT Elite Series",
-      "time": "10:35",
-      "timeRaw": "4:35 AM",
-      "pct": 60,
-      "l5": 80,
-      "sets3": 73,
-      "score": 64,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
