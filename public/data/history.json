@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-06T02:31:32.100Z",
+  "generated": "2026-08-06T03:01:43.574Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2846,
-  "todayCount": 4,
+  "totalCount": 2848,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-06_under_daniel-tyn_vs_alexandr-virag",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Tyn",
+      "away": "Alexandr Virag",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 40,
+      "l5": 40,
+      "sets3": 70,
+      "score": 70,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_artur-grela_vs_krzysztof-wloczko",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Grela",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_over_krzysztof-wloczko_vs_jakub-kosowski",
       "date": "2026-08-06",
