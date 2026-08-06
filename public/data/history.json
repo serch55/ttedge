@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-06T22:31:36.237Z",
+  "generated": "2026-08-06T23:01:42.857Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
   "totalCount": 2916,
-  "todayCount": 11,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -127,6 +127,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
