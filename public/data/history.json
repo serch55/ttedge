@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-06T04:01:51.611Z",
+  "generated": "2026-08-06T04:32:01.752Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2853,
-  "todayCount": 7,
+  "totalCount": 2855,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-06_under_daniel-tyn_vs_alexandr-virag",
@@ -60,6 +60,48 @@
       "l5": 80,
       "sets3": 79,
       "score": 56,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_over_krzysztof-kotyl_vs_bartosz-sulkowski",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Bartosz Sulkowski",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_rafal-stapor_vs_jakub-zochniak",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 57,
+      "score": 69,
       "h2h": 14,
       "trend": "rising",
       "tags": [
