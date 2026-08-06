@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-06T20:31:44.721Z",
+  "generated": "2026-08-06T21:01:50.812Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2901,
-  "todayCount": 11,
+  "totalCount": 2903,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-06_under_adam-staniczek_vs_jerzy-michalik",
@@ -126,27 +126,6 @@
       "spread": null,
       "h2h": 11,
       "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-06_under_marek-tkocz_vs_pawel-slosarczyk",
-      "date": "2026-08-06",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Marek Tkocz",
-      "away": "Pawel Slosarczyk",
-      "league": "TT Elite Series",
-      "time": "20:45",
-      "timeRaw": "2:45 PM",
-      "pct": 67,
-      "l5": 60,
-      "sets3": 47,
-      "score": 66,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1189,6 +1168,68 @@
       "score": 60,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_martin-sobisek_vs_patrik-pycha",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Sobisek",
+      "away": "Patrik Pycha",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_petr-bruzek_vs_martin-stefek",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bruzek",
+      "away": "Martin Stefek",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 80,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_marek-tkocz_vs_pawel-slosarczyk",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Tkocz",
+      "away": "Pawel Slosarczyk",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 67,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
