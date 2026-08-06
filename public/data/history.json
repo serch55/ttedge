@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-06T01:01:47.207Z",
+  "generated": "2026-08-06T01:31:36.825Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2843,
-  "todayCount": 3,
+  "totalCount": 2846,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-06_over_krzysztof-wloczko_vs_jakub-kosowski",
+      "date": "2026-08-06",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Jakub Kosowski",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 79,
+      "score": 56,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_over_tibor-spanik_vs_jakub-kosowski",
       "date": "2026-08-06",
@@ -63,6 +84,48 @@
       "score": 61,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 69,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-06_under_mariusz-baron_vs_marian-lebek",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "03:35",
+      "timeRaw": "9:35 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
