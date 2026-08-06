@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-06T09:31:35.424Z",
+  "generated": "2026-08-06T10:01:44.730Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-06",
-  "totalCount": 2868,
+  "totalCount": 2869,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-06_under_radovan-polasek_vs_tadeas-zika",
+      "date": "2026-08-06",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-06_under_tomas-dousek_vs_radovan-polasek",
       "date": "2026-08-06",
