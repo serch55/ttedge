@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T14:02:16.489Z",
+  "generated": "2026-08-07T14:31:34.477Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2960,
-  "todayCount": 9,
+  "totalCount": 2962,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -23,6 +23,47 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_krzysztof-kotyl_vs_jaroslaw-rolak",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kotyl",
+      "away": "Jaroslaw Rolak",
+      "league": "TT Elite Series",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_cezary-pawlik_vs_michal-wolny",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 33,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
