@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-07T08:31:36.724Z",
+  "generated": "2026-08-07T09:01:40.002Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2945,
+  "totalCount": 2946,
   "todayCount": 7,
   "matches": [
     {
@@ -21,6 +21,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_adrian-spychala_vs_grzegorz-poliniewicz",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Spychala",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "12:55",
+      "timeRaw": "6:55 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 40,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
