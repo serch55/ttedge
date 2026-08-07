@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-06T23:31:58.117Z",
+  "generated": "2026-08-07T00:01:55.826Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2919,
+  "totalCount": 2920,
   "todayCount": 10,
   "matches": [
     {
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-08-07_over_jakub-kaczmarek_vs_mariusz-baron",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Kaczmarek",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-07_under_miroslaw-lewczuk_vs_adam-staniczek",
       "date": "2026-08-07",
       "type": "under",
@@ -41,7 +62,7 @@
       "sets3": 47,
       "score": 75,
       "h2h": 15,
-      "trend": "falling",
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -58,7 +79,7 @@
       "time": "04:10",
       "timeRaw": "10:10 PM",
       "l5": null,
-      "score": 67,
+      "score": 59,
       "pick": "",
       "spread": null,
       "h2h": 15,
