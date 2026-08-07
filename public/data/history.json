@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T19:31:26.837Z",
+  "generated": "2026-08-07T20:01:40.359Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2979,
-  "todayCount": 10,
+  "totalCount": 2981,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -19,6 +19,27 @@
       "l5": 60,
       "sets3": 53,
       "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_cezary-pawlik_vs_michal-wolny",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "23:35",
+      "timeRaw": "5:35 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 33,
+      "score": 66,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -356,26 +377,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-07_under_cezary-pawlik_vs_michal-wolny",
-      "date": "2026-08-07",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Cezary Pawlik",
-      "away": "Michal Wolny",
-      "league": "TT Elite Series",
-      "time": "17:35",
-      "timeRaw": "11:35 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 33,
-      "score": 76,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -1428,6 +1429,27 @@
       ]
     },
     {
+      "id": "2026-08-07_spread_jakub-kuzmicz_vs_marcin-marchlewski",
+      "date": "2026-08-07",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-07_over_witold-stechly_vs_jerzy-michalik",
       "date": "2026-08-07",
       "type": "over",
@@ -1441,6 +1463,27 @@
       "l5": 100,
       "sets3": 87,
       "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_patrik-pycha_vs_martin-sobisek",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patrik Pycha",
+      "away": "Martin Sobisek",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
