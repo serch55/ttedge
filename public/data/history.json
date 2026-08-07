@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T05:01:34.576Z",
+  "generated": "2026-08-07T05:31:32.210Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2937,
-  "todayCount": 13,
+  "totalCount": 2938,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -21,6 +21,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_karol-wisniewski_vs_krzysztof-wloczko",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 64,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
