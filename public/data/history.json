@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T04:02:01.826Z",
+  "generated": "2026-08-07T04:31:28.880Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2933,
-  "todayCount": 11,
+  "totalCount": 2936,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -47,6 +47,27 @@
       ]
     },
     {
+      "id": "2026-08-07_under_radim-urbaniec_vs_petr-saleny",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Petr Saleny",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 85,
+      "l5": 100,
+      "sets3": 46,
+      "score": 73,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-07_under_adrian-spychala_vs_martin-olejnik",
       "date": "2026-08-07",
       "type": "under",
@@ -63,6 +84,28 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_rafal-skotniczny_vs_oliver-vincenec",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Skotniczny",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "08:25",
+      "timeRaw": "2:25 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -80,6 +123,27 @@
       "l5": 100,
       "sets3": 73,
       "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_michal-paszkiewicz_vs_marian-lebek",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 67,
+      "score": 64,
       "h2h": 15,
       "trend": "rising",
       "tags": [
