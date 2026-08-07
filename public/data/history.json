@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-07T22:01:54.010Z",
+  "generated": "2026-08-07T22:31:36.002Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 2998,
+  "totalCount": 3001,
   "todayCount": 10,
   "matches": [
     {
@@ -20,6 +20,27 @@
       "pick": "",
       "spread": null,
       "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_lukasz-oracz_vs_pawel-kurek",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Oracz",
+      "away": "Pawel Kurek",
+      "league": "TT Elite Series",
+      "time": "04:35",
+      "timeRaw": "10:35 PM",
+      "pct": 55,
+      "l5": 60,
+      "sets3": 82,
+      "score": 61,
+      "h2h": 11,
       "trend": "",
       "tags": [
         "Fatigue",
@@ -69,6 +90,27 @@
       ]
     },
     {
+      "id": "2026-08-08_under_jacek-oracz_vs_michal-wolny",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "02:25",
+      "timeRaw": "8:25 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-08_spread_jakub-kuzmicz_vs_marcin-marchlewski",
       "date": "2026-08-08",
       "type": "spread",
@@ -84,6 +126,27 @@
       "spread": null,
       "h2h": 13,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_jakub-kuzmicz_vs_marcin-marchlewski",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Marcin Marchlewski",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 57,
+      "score": 60,
+      "h2h": 14,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
