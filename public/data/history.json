@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T19:02:08.715Z",
+  "generated": "2026-08-07T19:31:26.837Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2975,
-  "todayCount": 8,
+  "totalCount": 2979,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -61,6 +61,48 @@
       "l5": 100,
       "sets3": 80,
       "score": 64,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_jacek-oracz_vs_michal-wolny",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 40,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_spread_jacek-oracz_vs_michal-wolny",
+      "date": "2026-08-07",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
       "h2h": 15,
       "trend": "",
       "tags": [
@@ -1445,6 +1487,46 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_lubor-sulava_vs_vaclav-kosar",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lubor Sulava",
+      "away": "Vaclav Kosar",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 33,
+      "l5": 40,
+      "sets3": 83,
+      "score": 60,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_spread_lubor-sulava_vs_vaclav-kosar",
+      "date": "2026-08-07",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Lubor Sulava",
+      "away": "Vaclav Kosar",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
