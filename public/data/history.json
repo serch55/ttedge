@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T12:01:44.696Z",
+  "generated": "2026-08-07T12:31:34.789Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2955,
-  "todayCount": 7,
+  "totalCount": 2958,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -19,6 +19,27 @@
       "l5": 60,
       "sets3": 53,
       "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_krystian-kolodziej_vs_krzysztof-wloczko",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krystian Kolodziej",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 57,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -111,6 +132,48 @@
       ]
     },
     {
+      "id": "2026-08-07_over_igor-dabrowski_vs_adrian-myszewski",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Adrian Myszewski",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_blazej-warpas_vs_mateusz-misiak",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Blazej Warpas",
+      "away": "Mateusz Misiak",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 57,
+      "l5": 40,
+      "sets3": 64,
+      "score": 60,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-07_under_marcin-jadczyk_vs_krystian-kolodziej",
       "date": "2026-08-07",
       "type": "under",
@@ -126,6 +189,27 @@
       "score": 64,
       "h2h": 13,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_grzegorz-wichowski_vs_witold-buczynski",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "15:10",
+      "timeRaw": "9:10 AM",
+      "pct": 53,
+      "l5": 20,
+      "sets3": 60,
+      "score": 70,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -610,26 +694,6 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-07_under_grzegorz-wichowski_vs_witold-buczynski",
-      "date": "2026-08-07",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Grzegorz Wichowski",
-      "away": "Witold Buczynski",
-      "league": "TT Elite Series",
-      "time": "07:30",
-      "timeRaw": "1:30 AM",
-      "pct": 53,
-      "l5": 20,
-      "sets3": 67,
-      "score": 69,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
