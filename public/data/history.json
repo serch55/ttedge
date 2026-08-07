@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T11:01:43.360Z",
+  "generated": "2026-08-07T11:31:34.295Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2951,
-  "todayCount": 5,
+  "totalCount": 2953,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -21,6 +21,48 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_grzegorz-jurowicz_vs_krzysztof-hetnar",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 71,
+      "l5": 60,
+      "sets3": 71,
+      "score": 63,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_marcin-jadczyk_vs_krystian-kolodziej",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "pct": 46,
+      "l5": 100,
+      "sets3": 92,
+      "score": 64,
+      "h2h": 13,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
