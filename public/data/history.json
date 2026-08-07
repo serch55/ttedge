@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T17:31:32.430Z",
+  "generated": "2026-08-07T18:01:50.430Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2969,
-  "todayCount": 4,
+  "totalCount": 2971,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -23,6 +23,47 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_martin-stefek_vs_petr-bruzek",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Petr Bruzek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_vitezslav-bosak_vs_filip-zurek",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vitezslav Bosak",
+      "away": "Filip Zurek",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
