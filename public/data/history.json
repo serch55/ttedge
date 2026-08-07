@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T00:01:55.826Z",
+  "generated": "2026-08-07T00:31:27.671Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2920,
-  "todayCount": 10,
+  "totalCount": 2923,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -21,6 +21,68 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_grzegorz-wichowski_vs_witold-buczynski",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "07:30",
+      "timeRaw": "1:30 AM",
+      "pct": 53,
+      "l5": 20,
+      "sets3": 67,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_milosz-cesarz_vs_mariusz-baron",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milosz Cesarz",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 90,
+      "score": 64,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_witold-stechly_vs_adam-staniczek",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "07:05",
+      "timeRaw": "1:05 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 44,
+      "score": 60,
+      "h2h": 9,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
