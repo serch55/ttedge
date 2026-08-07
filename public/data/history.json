@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T21:02:08.873Z",
+  "generated": "2026-08-07T21:31:29.765Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2985,
-  "todayCount": 11,
+  "totalCount": 2988,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -1555,6 +1555,27 @@
       ]
     },
     {
+      "id": "2026-08-07_under_dawid-pyrek_vs_michal-wolny",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Pyrek",
+      "away": "Michal Wolny",
+      "league": "TT Elite Series",
+      "time": "01:10",
+      "timeRaw": "7:10 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-07_under_patrik-pycha_vs_martin-sobisek",
       "date": "2026-08-07",
       "type": "under",
@@ -1569,6 +1590,27 @@
       "sets3": 53,
       "score": 62,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_mateusz-trela_vs_kuba-golaszewski",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Trela",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 42,
+      "l5": 40,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 12,
       "trend": "rising",
       "tags": [
         "Fatigue",
@@ -1673,6 +1715,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_robert-szymik_vs_adam-ruszkiewicz",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Adam Ruszkiewicz",
+      "league": "TT Elite Series",
+      "time": "00:20",
+      "timeRaw": "6:20 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
