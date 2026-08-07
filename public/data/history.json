@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T22:31:36.002Z",
+  "generated": "2026-08-07T23:01:50.952Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3001,
-  "todayCount": 10,
+  "totalCount": 3005,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
@@ -69,6 +69,48 @@
       ]
     },
     {
+      "id": "2026-08-08_under_adam-ruszkiewicz_vs_robert-szymik",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Robert Szymik",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 67,
+      "l5": 40,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_cezary-pawlik_vs_dawid-pyrek",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Dawid Pyrek",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 56,
+      "l5": 40,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-08_under_frantisek-briza_vs_lukas-babicka",
       "date": "2026-08-08",
       "type": "under",
@@ -103,6 +145,27 @@
       "l5": 60,
       "sets3": 40,
       "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_over_adrian-fabis_vs_mateusz-trela",
+      "date": "2026-08-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Fabis",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "02:10",
+      "timeRaw": "8:10 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 55,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -147,6 +210,27 @@
       "score": 60,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_adam-ruszkiewicz_vs_jakub-michalski",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 33,
+      "score": 66,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
