@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T15:01:46.350Z",
+  "generated": "2026-08-07T15:31:36.877Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2962,
-  "todayCount": 4,
+  "totalCount": 2965,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -23,6 +23,67 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_marcin-marchlewski_vs_tomasz-filbrandt",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "18:55",
+      "timeRaw": "12:55 PM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 100,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_krzysztof-schaniel_vs_witold-buczynski",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "18:40",
+      "timeRaw": "12:40 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_jacek-oracz_vs_cezary-pawlik",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Cezary Pawlik",
+      "league": "TT Elite Series",
+      "time": "18:25",
+      "timeRaw": "12:25 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
