@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T20:01:40.359Z",
+  "generated": "2026-08-07T20:31:25.809Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2981,
-  "todayCount": 13,
+  "totalCount": 2984,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-08-07_spread_damian-fira_vs_jakub-michalski",
+      "date": "2026-08-07",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-07_under_cezary-pawlik_vs_michal-wolny",
       "date": "2026-08-07",
       "type": "under",
@@ -40,6 +61,27 @@
       "l5": 80,
       "sets3": 33,
       "score": 66,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_adrian-fabis_vs_kuba-golaszewski",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Fabis",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 55,
       "h2h": 15,
       "trend": "rising",
       "tags": [
@@ -1423,6 +1465,27 @@
       "score": 67,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_frantisek-briza_vs_lukas-babicka",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Frantisek Briza",
+      "away": "Lukas Babicka",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 54,
+      "l5": 60,
+      "sets3": 69,
+      "score": 60,
+      "h2h": 13,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
