@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T10:01:44.435Z",
+  "generated": "2026-08-07T10:31:36.560Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-07",
-  "totalCount": 2949,
-  "todayCount": 5,
+  "totalCount": 2951,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-07_under_adam-staniczek_vs_jerzy-michalik",
@@ -21,6 +21,48 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_over_richard-skacelik_vs_adrian-walek",
+      "date": "2026-08-07",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Adrian Walek",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-07_under_petr-saleny_vs_radim-urbaniec",
+      "date": "2026-08-07",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Saleny",
+      "away": "Radim Urbaniec",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 40,
+      "score": 75,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
