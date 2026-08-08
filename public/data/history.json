@@ -1,10 +1,72 @@
 {
-  "generated": "2026-08-08T12:01:42.710Z",
+  "generated": "2026-08-08T12:31:28.425Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3034,
-  "todayCount": 1,
+  "totalCount": 3037,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-08_under_jiri-svec_vs_miroslav-barta",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Svec",
+      "away": "Miroslav Barta",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_zbynek-pagac_vs_marek-holub",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbynek Pagac",
+      "away": "Marek Holub",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_miroslav-barta_vs_miloslav-lubas",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslav Barta",
+      "away": "Miloslav Lubas",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_over_tadeusz-piotrowski_vs_artur-szoltysek",
       "date": "2026-08-08",
