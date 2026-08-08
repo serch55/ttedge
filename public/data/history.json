@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-08T16:31:31.339Z",
+  "generated": "2026-08-08T17:01:43.162Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3048,
-  "todayCount": 5,
+  "totalCount": 3051,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-08_under_radim-urbaniec_vs_robin-pacha",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Robin Pacha",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_wojciech-wojtaszczyk_vs_jakub-michalski",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_spread_cezary-pawlik_vs_andriej-fomin",
+      "date": "2026-08-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Andriej Fomin",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_under_pavel-fojt_vs_milan-kolar",
       "date": "2026-08-08",
