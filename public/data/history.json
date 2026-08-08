@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-08T11:02:16.662Z",
+  "generated": "2026-08-08T11:31:32.332Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
   "totalCount": 3034,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-08_over_tadeusz-piotrowski_vs_artur-szoltysek",
+      "date": "2026-08-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tadeusz Piotrowski",
+      "away": "Artur Szoltysek",
+      "league": "TT Elite Series",
+      "time": "14:40",
+      "timeRaw": "8:40 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 80,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_over_lukas-zeman_vs_erik-mares",
       "date": "2026-08-08",
@@ -188,27 +209,6 @@
       "sets3": 77,
       "score": 61,
       "h2h": 13,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-08_over_tadeusz-piotrowski_vs_artur-szoltysek",
-      "date": "2026-08-08",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Tadeusz Piotrowski",
-      "away": "Artur Szoltysek",
-      "league": "TT Elite Series",
-      "time": "10:35",
-      "timeRaw": "4:35 AM",
-      "pct": 87,
-      "l5": 100,
-      "sets3": 80,
-      "score": 69,
-      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
