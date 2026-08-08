@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-08T19:31:23.722Z",
+  "generated": "2026-08-08T20:01:44.153Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
   "totalCount": 3057,
   "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
+      "date": "2026-08-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_under_roman-wiza_vs_wojciech-wojtaszczyk",
       "date": "2026-08-08",
@@ -124,27 +145,6 @@
       "l5": 100,
       "sets3": 67,
       "score": 61,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-08_under_wojciech-wojtaszczyk_vs_jakub-michalski",
-      "date": "2026-08-08",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Wojciech Wojtaszczyk",
-      "away": "Jakub Michalski",
-      "league": "TT Elite Series",
-      "time": "21:10",
-      "timeRaw": "3:10 PM",
-      "pct": 67,
-      "l5": 100,
-      "sets3": 47,
-      "score": 62,
       "h2h": 15,
       "trend": "falling",
       "tags": [
@@ -970,27 +970,6 @@
       ]
     },
     {
-      "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
-      "date": "2026-08-08",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Damian Fira",
-      "away": "Jakub Michalski",
-      "league": "TT Elite Series",
-      "time": "05:55",
-      "timeRaw": "11:55 PM",
-      "l5": null,
-      "score": 58,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-08-08_over_dariusz-wrobel_vs_jaroslaw-rolak",
       "date": "2026-08-08",
       "type": "over",
@@ -1236,6 +1215,27 @@
       "sets3": 57,
       "score": 60,
       "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_wojciech-wojtaszczyk_vs_jakub-michalski",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
