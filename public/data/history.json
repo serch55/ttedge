@@ -1,10 +1,157 @@
 {
-  "generated": "2026-08-08T21:31:26.910Z",
+  "generated": "2026-08-08T22:01:32.636Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-08-08",
-  "totalCount": 3060,
-  "todayCount": 8,
+  "lastDay": "2026-08-09",
+  "totalCount": 3067,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
+      "date": "2026-08-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_wojciech-wojtaszczyk_vs_jakub-nowak",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "04:20",
+      "timeRaw": "10:20 PM",
+      "pct": 57,
+      "l5": 40,
+      "sets3": 57,
+      "score": 60,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_martin-sychra_vs_petr-sebera",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_spread_miroslaw-lewczuk_vs_piotr-gesiarz",
+      "date": "2026-08-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Piotr Gesiarz",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_spread_roman-wiza_vs_damian-fira",
+      "date": "2026-08-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Damian Fira",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_marcin-marchlewski_vs_filip-mlynarski",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Marchlewski",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_petr-sebera_vs_michal-regner",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 60,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
       "date": "2026-08-08",
