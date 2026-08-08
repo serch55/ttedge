@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-08T21:01:40.052Z",
+  "generated": "2026-08-08T21:31:26.910Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3059,
+  "totalCount": 3060,
   "todayCount": 8,
   "matches": [
     {
@@ -1321,6 +1321,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_spread_roman-wiza_vs_damian-fira",
+      "date": "2026-08-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Roman Wiza",
+      "away": "Damian Fira",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
