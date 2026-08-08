@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-08T08:01:45.339Z",
+  "generated": "2026-08-08T08:31:32.113Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
   "totalCount": 3031,
-  "todayCount": 9,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-08_over_denis-hofman_vs_martin-sychra",
+      "date": "2026-08-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denis Hofman",
+      "away": "Martin Sychra",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_over_erik-mares_vs_zdenek-bilek",
       "date": "2026-08-08",
@@ -145,27 +166,6 @@
       "l5": 100,
       "sets3": 67,
       "score": 60,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-08_over_denis-hofman_vs_martin-sychra",
-      "date": "2026-08-08",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Denis Hofman",
-      "away": "Martin Sychra",
-      "league": "Czech Liga Pro",
-      "time": "10:00",
-      "timeRaw": "4:00 AM",
-      "pct": 80,
-      "l5": 60,
-      "sets3": 80,
-      "score": 59,
       "h2h": 15,
       "trend": "rising",
       "tags": [
