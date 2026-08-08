@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08T22:01:32.636Z",
+  "generated": "2026-08-08T22:31:40.109Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3067,
-  "todayCount": 7,
+  "totalCount": 3069,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -21,6 +21,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_bartlomiej-wisniewski_vs_tadeusz-piotrowski",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Bartlomiej Wisniewski",
+      "away": "Tadeusz Piotrowski",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -84,6 +105,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_over_dawid-kotwica_vs_dawid-poloszczanski",
+      "date": "2026-08-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Kotwica",
+      "away": "Dawid Poloszczanski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 71,
+      "score": 55,
+      "h2h": 14,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
