@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-08T06:31:36.897Z",
+  "generated": "2026-08-08T07:01:43.841Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3024,
-  "todayCount": 10,
+  "totalCount": 3025,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-08_under_tomas-regner_vs_mihail-trinta",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tomas Regner",
+      "away": "Mihail Trinta",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-08_under_krzysztof-juszczyk_vs_oliver-vincenec",
       "date": "2026-08-08",
