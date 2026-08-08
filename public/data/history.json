@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08T20:31:44.248Z",
+  "generated": "2026-08-08T21:01:40.052Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3058,
-  "todayCount": 7,
+  "totalCount": 3059,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
@@ -1048,6 +1048,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_under_martin-sychra_vs_petr-sebera",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
