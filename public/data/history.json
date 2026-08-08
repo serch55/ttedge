@@ -1,31 +1,10 @@
 {
-  "generated": "2026-08-08T01:31:23.395Z",
+  "generated": "2026-08-08T02:01:39.030Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
   "totalCount": 3013,
-  "todayCount": 9,
+  "todayCount": 10,
   "matches": [
-    {
-      "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
-      "date": "2026-08-08",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Damian Fira",
-      "away": "Jakub Michalski",
-      "league": "TT Elite Series",
-      "time": "23:55",
-      "timeRaw": "5:55 PM",
-      "l5": null,
-      "score": 56,
-      "pick": "",
-      "spread": null,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
     {
       "id": "2026-08-08_over_jakub-folwarski_vs_kacper-petas",
       "date": "2026-08-08",
@@ -105,6 +84,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
+      "date": "2026-08-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "05:55",
+      "timeRaw": "11:55 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
