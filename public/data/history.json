@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08T19:01:49.178Z",
+  "generated": "2026-08-08T19:31:23.722Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
   "totalCount": 3057,
-  "todayCount": 10,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-08_under_roman-wiza_vs_wojciech-wojtaszczyk",
@@ -1397,12 +1397,12 @@
       "league": "TT Elite Series",
       "time": "00:10",
       "timeRaw": "6:10 PM",
-      "pct": 80,
+      "pct": 73,
       "l5": 60,
-      "sets3": 47,
-      "score": 72,
+      "sets3": 53,
+      "score": 63,
       "h2h": 15,
-      "trend": "",
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
