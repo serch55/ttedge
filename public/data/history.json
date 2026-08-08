@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07T23:31:41.202Z",
+  "generated": "2026-08-08T00:01:47.462Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
   "totalCount": 3007,
-  "todayCount": 11,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
@@ -123,9 +123,9 @@
       "pct": 67,
       "l5": 40,
       "sets3": 40,
-      "score": 62,
+      "score": 63,
       "h2h": 15,
-      "trend": "rising",
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
