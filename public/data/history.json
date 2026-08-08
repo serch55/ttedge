@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08T20:01:44.153Z",
+  "generated": "2026-08-08T20:31:44.248Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3057,
-  "todayCount": 9,
+  "totalCount": 3058,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
@@ -1110,6 +1110,27 @@
       "sets3": 67,
       "score": 62,
       "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_spread_miroslaw-lewczuk_vs_piotr-gesiarz",
+      "date": "2026-08-08",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Piotr Gesiarz",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
       "trend": "",
       "tags": [
         "Fatigue",
