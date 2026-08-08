@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08T16:01:38.903Z",
+  "generated": "2026-08-08T16:31:31.339Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3047,
-  "todayCount": 4,
+  "totalCount": 3048,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-08-08_under_pavel-fojt_vs_milan-kolar",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-08-08_under_cezary-pawlik_vs_lukasz-pyda",
+      "date": "2026-08-08",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Lukasz Pyda",
+      "league": "TT Elite Series",
+      "time": "19:35",
+      "timeRaw": "1:35 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-08_under_dawid-poloszczanski_vs_blazej-warpas",
       "date": "2026-08-08",
       "type": "under",
@@ -64,6 +85,7 @@
       "h2h": 11,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
