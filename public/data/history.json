@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-08T00:31:35.072Z",
+  "generated": "2026-08-08T01:01:37.517Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-08",
-  "totalCount": 3012,
-  "todayCount": 13,
+  "totalCount": 3013,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-08_spread_damian-fira_vs_jakub-michalski",
@@ -21,6 +21,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-08_over_jakub-folwarski_vs_kacper-petas",
+      "date": "2026-08-08",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Folwarski",
+      "away": "Kacper Petas",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
