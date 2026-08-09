@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T06:01:40.940Z",
+  "generated": "2026-08-09T06:31:30.188Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3082,
-  "todayCount": 8,
+  "totalCount": 3083,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -42,6 +42,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_sebastian-szostok_vs_krzysztof-juszczyk",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Szostok",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "09:35",
+      "timeRaw": "3:35 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
