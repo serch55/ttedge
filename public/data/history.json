@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-09T20:31:28.024Z",
+  "generated": "2026-08-09T21:01:40.025Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3128,
+  "totalCount": 3129,
   "todayCount": 11,
   "matches": [
     {
@@ -1188,6 +1188,27 @@
       "l5": 80,
       "sets3": 67,
       "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_radim-urbaniec_vs_vojtech-svechota",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Vojtech Svechota",
+      "league": "Czech Liga Pro",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 63,
       "h2h": 15,
       "trend": "rising",
       "tags": [
