@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-09T10:01:37.142Z",
+  "generated": "2026-08-09T10:31:35.399Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3090,
+  "totalCount": 3091,
   "todayCount": 4,
   "matches": [
     {
@@ -43,6 +43,27 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_frantisek-pusch_vs_jiri-zuzanek",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Frantisek Pusch",
+      "away": "Jiri Zuzanek",
+      "league": "Czech Liga Pro",
+      "time": "14:00",
+      "timeRaw": "8:00 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 47,
+      "score": 60,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
