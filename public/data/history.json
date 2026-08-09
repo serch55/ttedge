@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T12:02:11.376Z",
+  "generated": "2026-08-09T12:31:36.532Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3094,
-  "todayCount": 5,
+  "totalCount": 3097,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -27,6 +27,69 @@
       ]
     },
     {
+      "id": "2026-08-09_under_sebastian-juzek_vs_witold-buczynski",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "16:40",
+      "timeRaw": "10:40 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_over_maksymilian-miastowski_vs_maciej-nowalinski",
+      "date": "2026-08-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maksymilian Miastowski",
+      "away": "Maciej Nowalinski",
+      "league": "TT Elite Series",
+      "time": "16:35",
+      "timeRaw": "10:35 AM",
+      "pct": 100,
+      "l5": 100,
+      "sets3": 100,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_tadeas-zika_vs_radovan-polasek",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Tadeas Zika",
+      "away": "Radovan Polasek",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 73,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-09_over_milan-regner_vs_vaclav-kosar",
       "date": "2026-08-09",
       "type": "over",
@@ -44,6 +107,26 @@
       "trend": "falling",
       "tags": [
         "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_radoslaw-malinowski_vs_radoslaw-chrzescian",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radoslaw Malinowski",
+      "away": "Radoslaw Chrzescian",
+      "league": "TT Elite Series",
+      "time": "15:50",
+      "timeRaw": "9:50 AM",
+      "pct": 56,
+      "l5": 60,
+      "sets3": 78,
+      "score": 61,
+      "h2h": 9,
+      "trend": "falling",
+      "tags": [
+        "Fatigue"
       ]
     },
     {
@@ -398,27 +481,6 @@
       "score": 69,
       "h2h": 15,
       "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-09_under_sebastian-juzek_vs_witold-buczynski",
-      "date": "2026-08-09",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Sebastian Juzek",
-      "away": "Witold Buczynski",
-      "league": "TT Elite Series",
-      "time": "08:05",
-      "timeRaw": "2:05 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 60,
-      "score": 63,
-      "h2h": 15,
-      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
