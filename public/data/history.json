@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T01:31:36.208Z",
+  "generated": "2026-08-09T02:01:45.490Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3073,
-  "todayCount": 6,
+  "totalCount": 3075,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -27,6 +27,26 @@
       ]
     },
     {
+      "id": "2026-08-09_under_daniel-unzeitig_vs_lukas-martinak",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Daniel Unzeitig",
+      "away": "Lukas Martinak",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 36,
+      "score": 63,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-09_over_kacper-petas_vs_maciej-nowalinski",
       "date": "2026-08-09",
       "type": "over",
@@ -41,6 +61,27 @@
       "sets3": 73,
       "score": 59,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_radoslaw-malinowski_vs_grzegorz-poliniewicz",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radoslaw Malinowski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "06:00",
+      "timeRaw": "12:00 AM",
+      "pct": 54,
+      "l5": 80,
+      "sets3": 77,
+      "score": 61,
+      "h2h": 13,
       "trend": "rising",
       "tags": [
         "Fatigue",
