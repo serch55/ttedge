@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T22:31:22.117Z",
+  "generated": "2026-08-09T23:01:45.008Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3144,
-  "todayCount": 9,
+  "totalCount": 3148,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-08-10_over_wojciech-urban_vs_sebastian-szostok",
@@ -20,6 +20,48 @@
       "sets3": 93,
       "score": 56,
       "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_karol-wisniewski_vs_maciej-kolek",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "05:20",
+      "timeRaw": "11:20 PM",
+      "pct": 55,
+      "l5": 80,
+      "sets3": 64,
+      "score": 61,
+      "h2h": 11,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_spread_karol-wisniewski_vs_maciej-kolek",
+      "date": "2026-08-10",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "05:20",
+      "timeRaw": "11:20 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 11,
       "trend": "",
       "tags": [
         "Fatigue",
@@ -64,6 +106,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -89,6 +132,27 @@
       ]
     },
     {
+      "id": "2026-08-10_under_pawel-slosarczyk_vs_krzysztof-schaniel",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pawel Slosarczyk",
+      "away": "Krzysztof Schaniel",
+      "league": "TT Elite Series",
+      "time": "02:20",
+      "timeRaw": "8:20 PM",
+      "pct": 70,
+      "l5": 60,
+      "sets3": 50,
+      "score": 62,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-10_over_michal-zahradka_vs_radim-urbaniec",
       "date": "2026-08-10",
       "type": "over",
@@ -105,6 +169,27 @@
       "h2h": 14,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_mariusz-baron_vs_wojciech-urban",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "01:55",
+      "timeRaw": "7:55 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
