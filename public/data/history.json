@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T21:01:40.025Z",
+  "generated": "2026-08-09T21:31:39.356Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3129,
-  "todayCount": 11,
+  "totalCount": 3131,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -484,26 +484,6 @@
       "trend": "rising",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-09_under_aleksander-lilien_vs_arkadiusz-mugowski",
-      "date": "2026-08-09",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Aleksander Lilien",
-      "away": "Arkadiusz Mugowski",
-      "league": "TT Elite Series",
-      "time": "17:00",
-      "timeRaw": "11:00 AM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 47,
-      "score": 61,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
         "Volatile"
       ]
     },
@@ -1212,7 +1192,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
@@ -1252,6 +1231,26 @@
       "sets3": 79,
       "score": 59,
       "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_aleksander-lilien_vs_arkadiusz-mugowski",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Arkadiusz Mugowski",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
       "trend": "falling",
       "tags": [
         "Fatigue",
@@ -1295,6 +1294,27 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_over_krzysztof-schaniel_vs_wojciech-urban",
+      "date": "2026-08-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Wojciech Urban",
+      "league": "TT Elite Series",
+      "time": "01:05",
+      "timeRaw": "7:05 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1357,6 +1377,27 @@
       "sets3": 85,
       "score": 61,
       "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_over_arkadiusz-mugowski_vs_jakub-glanowski",
+      "date": "2026-08-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Arkadiusz Mugowski",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "00:15",
+      "timeRaw": "6:15 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 60,
+      "score": 55,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
