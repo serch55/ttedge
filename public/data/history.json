@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T16:31:28.994Z",
+  "generated": "2026-08-09T17:01:42.156Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3114,
-  "todayCount": 7,
+  "totalCount": 3116,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -23,6 +23,47 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_richard-wagner_vs_petr-sebera",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Richard Wagner",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 70,
+      "l5": 100,
+      "sets3": 40,
+      "score": 61,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_over_krzysztof-schaniel_vs_mariusz-baron",
+      "date": "2026-08-09",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
         "Volatile"
       ]
     },
