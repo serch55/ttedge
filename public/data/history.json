@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T02:01:45.490Z",
+  "generated": "2026-08-09T02:31:28.417Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3075,
-  "todayCount": 8,
+  "totalCount": 3076,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -23,6 +23,26 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_sebastian-juzek_vs_witold-buczynski",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Juzek",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
