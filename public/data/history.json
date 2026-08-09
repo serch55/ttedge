@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T03:31:38.590Z",
+  "generated": "2026-08-09T04:31:37.615Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3077,
-  "todayCount": 7,
+  "totalCount": 3078,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -64,6 +64,28 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_mikolaj-lukaszewski_vs_maciej-sinicki",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Maciej Sinicki",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
