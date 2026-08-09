@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T12:31:36.532Z",
+  "generated": "2026-08-09T13:01:33.173Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-09",
-  "totalCount": 3097,
-  "todayCount": 7,
+  "totalCount": 3102,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-09_spread_damian-fira_vs_jakub-michalski",
@@ -23,6 +23,107 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_vaclav-kosar_vs_pavel-berdych",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vaclav Kosar",
+      "away": "Pavel Berdych",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 60,
+      "l5": 40,
+      "sets3": 70,
+      "score": 63,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_martin-biolek_vs_tadeas-zika",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Biolek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_under_aleksander-lilien_vs_arkadiusz-mugowski",
+      "date": "2026-08-09",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Aleksander Lilien",
+      "away": "Arkadiusz Mugowski",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_spread_vaclav-kosar_vs_pavel-berdych",
+      "date": "2026-08-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Vaclav Kosar",
+      "away": "Pavel Berdych",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-09_spread_jiri-grohsgott_vs_milan-regner",
+      "date": "2026-08-09",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Milan Regner",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
