@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09T22:02:14.857Z",
+  "generated": "2026-08-09T22:31:22.117Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3143,
-  "todayCount": 12,
+  "totalCount": 3144,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-10_over_wojciech-urban_vs_sebastian-szostok",
@@ -64,6 +64,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_over_adam-linek_vs_jakub-glanowski",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Jakub Glanowski",
+      "league": "TT Elite Series",
+      "time": "02:35",
+      "timeRaw": "8:35 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 73,
+      "score": 58,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
