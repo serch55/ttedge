@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-10T08:01:50.852Z",
+  "generated": "2026-08-10T08:31:28.529Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3170,
-  "todayCount": 9,
+  "totalCount": 3173,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-10_over_artur-sobel_vs_jakub-zochniak",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Artur Sobel",
+      "away": "Jakub Zochniak",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_over_denis-hofman_vs_petr-sebera",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Denis Hofman",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_marcin-jadczyk_vs_krystian-kolodziej",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "12:25",
+      "timeRaw": "6:25 AM",
+      "pct": 43,
+      "l5": 80,
+      "sets3": 93,
+      "score": 60,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-10_over_kacper-glazowski_vs_maksymilian-miastowski",
       "date": "2026-08-10",
