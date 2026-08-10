@@ -1,10 +1,72 @@
 {
-  "generated": "2026-08-10T13:31:30.797Z",
+  "generated": "2026-08-10T14:01:49.345Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3185,
-  "todayCount": 6,
+  "totalCount": 3188,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-10_under_jakub-cyndera_vs_adam-staniczek",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Cyndera",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_vojtech-koubek_vs_tomas-postelt",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vojtech Koubek",
+      "away": "Tomas Postelt",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_over_karol-strowski_vs_jakub-chmielowski",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Jakub Chmielowski",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-10_under_jacek-zelezik_vs_artur-kubiak",
       "date": "2026-08-10",
