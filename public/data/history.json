@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-10T19:01:47.266Z",
+  "generated": "2026-08-10T19:31:38.273Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3202,
-  "todayCount": 7,
+  "totalCount": 3203,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-10_under_jakub-cyndera_vs_adam-staniczek",
@@ -43,6 +43,7 @@
       "h2h": 12,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -147,6 +148,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1420,6 +1422,27 @@
       "score": 61,
       "h2h": 13,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_lubor-sulava_vs_vaclav-kosar",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lubor Sulava",
+      "away": "Vaclav Kosar",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 39,
+      "l5": 60,
+      "sets3": 77,
+      "score": 61,
+      "h2h": 13,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
