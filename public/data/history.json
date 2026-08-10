@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-10T18:01:42.190Z",
+  "generated": "2026-08-10T18:31:40.229Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3200,
-  "todayCount": 8,
+  "totalCount": 3202,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-10_under_martin-stefek_vs_radek-bartunek",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Stefek",
+      "away": "Radek Bartunek",
+      "league": "Czech Liga Pro",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 58,
+      "score": 62,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_miroslaw-lewczuk_vs_miroslaw-warzecha",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-10_spread_karol-strowski_vs_miroslav-sklensky",
       "date": "2026-08-10",
