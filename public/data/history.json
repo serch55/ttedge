@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-10T06:31:29.838Z",
+  "generated": "2026-08-10T07:01:41.046Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3162,
-  "todayCount": 6,
+  "totalCount": 3163,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-10_spread_zdenek-luksa_vs_josef-toth",
+      "date": "2026-08-10",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Zdenek Luksa",
+      "away": "Josef Toth",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-10_under_petr-sebera_vs_richard-wagner",
       "date": "2026-08-10",
