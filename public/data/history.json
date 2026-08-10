@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-10T19:31:38.273Z",
+  "generated": "2026-08-10T20:01:54.450Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3203,
-  "todayCount": 8,
+  "totalCount": 3205,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-10_under_jakub-cyndera_vs_adam-staniczek",
@@ -1134,27 +1134,6 @@
       ]
     },
     {
-      "id": "2026-08-10_under_karol-wisniewski_vs_maciej-kolek",
-      "date": "2026-08-10",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Karol Wisniewski",
-      "away": "Maciej Kolek",
-      "league": "TT Elite Series",
-      "time": "05:20",
-      "timeRaw": "11:20 PM",
-      "pct": 55,
-      "l5": 80,
-      "sets3": 64,
-      "score": 61,
-      "h2h": 11,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-08-10_spread_karol-wisniewski_vs_maciej-kolek",
       "date": "2026-08-10",
       "type": "spread",
@@ -1323,6 +1302,48 @@
       ]
     },
     {
+      "id": "2026-08-10_over_jan-varcl-jnr_vs_jan-steffan",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Varcl Jnr",
+      "away": "Jan Steffan",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 79,
+      "l5": 80,
+      "sets3": 86,
+      "score": 61,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_spread_jan-pleskot_vs_lubor-sulava",
+      "date": "2026-08-10",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Pleskot",
+      "away": "Lubor Sulava",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-10_under_aleksander-lilien_vs_arkadiusz-mugowski",
       "date": "2026-08-10",
       "type": "under",
@@ -1358,6 +1379,27 @@
       "sets3": 80,
       "score": 59,
       "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_karol-wisniewski_vs_maciej-kolek",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Maciej Kolek",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 58,
+      "l5": 100,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 12,
       "trend": "rising",
       "tags": [
         "Fatigue",
