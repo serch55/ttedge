@@ -1,10 +1,72 @@
 {
-  "generated": "2026-08-10T16:01:46.797Z",
+  "generated": "2026-08-10T16:31:35.451Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3193,
-  "todayCount": 3,
+  "totalCount": 3196,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-10_over_karol-strowski_vs_kacper-glazowski",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Strowski",
+      "away": "Kacper Glazowski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 87,
+      "score": 55,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_over_adrian-fabis_vs_kuba-golaszewski",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Fabis",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_over_milan-fisera_vs_radek-bartunek",
+      "date": "2026-08-10",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Milan Fisera",
+      "away": "Radek Bartunek",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-10_over_radim-urbaniec_vs_ondrej-svacha",
       "date": "2026-08-10",
