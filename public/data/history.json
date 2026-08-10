@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-10T00:31:34.977Z",
+  "generated": "2026-08-10T01:01:46.549Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3150,
-  "todayCount": 7,
+  "totalCount": 3152,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-10_over_wojciech-urban_vs_sebastian-szostok",
@@ -23,6 +23,46 @@
       "trend": "",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_jerzy-pelka_vs_wojciech-tobiasz",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Pelka",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 47,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_spread_jerzy-pelka_vs_wojciech-tobiasz",
+      "date": "2026-08-10",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jerzy Pelka",
+      "away": "Wojciech Tobiasz",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
         "Volatile"
       ]
     },
