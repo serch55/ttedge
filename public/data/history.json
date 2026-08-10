@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-10T20:31:35.598Z",
+  "generated": "2026-08-10T21:01:43.411Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3206,
-  "todayCount": 9,
+  "totalCount": 3207,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-10_under_jakub-cyndera_vs_adam-staniczek",
@@ -1189,6 +1189,27 @@
       "l5": 60,
       "sets3": 73,
       "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-10_under_miroslaw-warzecha_vs_henryk-tkaczyk",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Henryk Tkaczyk",
+      "league": "TT Elite Series",
+      "time": "02:50",
+      "timeRaw": "8:50 PM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 67,
+      "score": 60,
       "h2h": 15,
       "trend": "rising",
       "tags": [
