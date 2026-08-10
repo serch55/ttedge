@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-10T05:31:24.503Z",
+  "generated": "2026-08-10T06:02:26.608Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-10",
-  "totalCount": 3159,
-  "todayCount": 7,
+  "totalCount": 3160,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-10_under_petr-sebera_vs_richard-wagner",
+      "date": "2026-08-10",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Richard Wagner",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 36,
+      "score": 62,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-10_over_witold-buczynski_vs_oliver-vincenec",
       "date": "2026-08-10",
