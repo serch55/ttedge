@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-11T18:31:27.861Z",
+  "generated": "2026-08-11T19:01:59.977Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-11",
   "totalCount": 3279,
-  "todayCount": 11,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-11_over_jakub-chmielowski_vs_karol-wisniewski",
+      "date": "2026-08-11",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Chmielowski",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "23:50",
+      "timeRaw": "5:50 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-11_under_jan-zajicek_vs_vojtech-koubek",
       "date": "2026-08-11",
@@ -1294,27 +1315,6 @@
       "pct": 40,
       "l5": 40,
       "sets3": 60,
-      "score": 60,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-11_over_jakub-chmielowski_vs_karol-wisniewski",
-      "date": "2026-08-11",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Jakub Chmielowski",
-      "away": "Karol Wisniewski",
-      "league": "TT Elite Series",
-      "time": "02:10",
-      "timeRaw": "8:10 PM",
-      "pct": 73,
-      "l5": 80,
-      "sets3": 73,
       "score": 60,
       "h2h": 15,
       "trend": "rising",
