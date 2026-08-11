@@ -1,10 +1,136 @@
 {
-  "generated": "2026-08-11T21:31:25.597Z",
+  "generated": "2026-08-11T22:01:35.115Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-08-11",
-  "totalCount": 3284,
-  "todayCount": 7,
+  "lastDay": "2026-08-12",
+  "totalCount": 3290,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-12_under_michal-syroha_vs_jiri-grohsgott",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Syroha",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_martin-sychra_vs_petr-sebera",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_vladimir-postelt_vs_jiri-plachy",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vladimir Postelt",
+      "away": "Jiri Plachy",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_marek-tkocz_vs_sebastian-krupa",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Tkocz",
+      "away": "Sebastian Krupa",
+      "league": "TT Elite Series",
+      "time": "00:25",
+      "timeRaw": "6:25 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 40,
+      "score": 75,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_jaroslaw-rolak_vs_milosz-piecowski",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Milosz Piecowski",
+      "league": "TT Elite Series",
+      "time": "00:15",
+      "timeRaw": "6:15 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 90,
+      "score": 62,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_adrian-walek_vs_david-heczko",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Adrian Walek",
+      "away": "David Heczko",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 55,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-11_over_jakub-chmielowski_vs_karol-wisniewski",
       "date": "2026-08-11",
