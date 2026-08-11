@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-11T14:01:52.486Z",
+  "generated": "2026-08-11T14:31:46.584Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-11",
   "totalCount": 3263,
-  "todayCount": 8,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-11_under_kacper-slawinski_vs_sebastian-juzek",
+      "date": "2026-08-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Slawinski",
+      "away": "Sebastian Juzek",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 27,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-11_over_mariusz-baron_vs_boguslaw-madej",
       "date": "2026-08-11",
@@ -355,27 +376,6 @@
       "l5": 60,
       "sets3": 87,
       "score": 61,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-11_under_kacper-slawinski_vs_sebastian-juzek",
-      "date": "2026-08-11",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Kacper Slawinski",
-      "away": "Sebastian Juzek",
-      "league": "TT Elite Series",
-      "time": "11:55",
-      "timeRaw": "5:55 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 33,
-      "score": 68,
       "h2h": 15,
       "trend": "falling",
       "tags": [
