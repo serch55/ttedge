@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-11T21:01:38.934Z",
+  "generated": "2026-08-11T21:31:25.597Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-11",
-  "totalCount": 3283,
-  "todayCount": 6,
+  "totalCount": 3284,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-11_over_jakub-chmielowski_vs_karol-wisniewski",
@@ -21,6 +21,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-11_under_jan-zajicek_vs_josef-medek",
+      "date": "2026-08-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Zajicek",
+      "away": "Josef Medek",
+      "league": "Czech Liga Pro",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 67,
+      "l5": 20,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -1505,7 +1526,7 @@
       "timeRaw": "6:25 PM",
       "pct": 80,
       "l5": 100,
-      "sets3": 33,
+      "sets3": 40,
       "score": 75,
       "h2h": 15,
       "trend": "rising",
