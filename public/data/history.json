@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T20:31:27.978Z",
+  "generated": "2026-08-11T21:01:38.934Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-11",
   "totalCount": 3283,
@@ -656,27 +656,6 @@
       ]
     },
     {
-      "id": "2026-08-11_under_martin-sychra_vs_petr-sebera",
-      "date": "2026-08-11",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Martin Sychra",
-      "away": "Petr Sebera",
-      "league": "Czech Liga Pro",
-      "time": "13:00",
-      "timeRaw": "7:00 AM",
-      "pct": 53,
-      "l5": 80,
-      "sets3": 67,
-      "score": 62,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
       "id": "2026-08-11_over_jakub-zochniak_vs_artur-sobel",
       "date": "2026-08-11",
       "type": "over",
@@ -1257,6 +1236,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-11_under_martin-sychra_vs_petr-sebera",
+      "date": "2026-08-11",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
