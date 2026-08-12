@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-12T20:31:25.445Z",
+  "generated": "2026-08-12T21:01:49.411Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3372,
+  "totalCount": 3373,
   "todayCount": 10,
   "matches": [
     {
@@ -1633,6 +1633,27 @@
       "score": 60,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_adam-staniczek_vs_artur-kubiak",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "03:00",
+      "timeRaw": "9:00 PM",
+      "pct": 47,
+      "l5": 20,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
