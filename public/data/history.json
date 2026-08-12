@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-12T01:31:24.348Z",
+  "generated": "2026-08-12T02:01:50.300Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3303,
-  "todayCount": 9,
+  "totalCount": 3304,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-12_under_radovan-polasek_vs_tadeas-zika",
@@ -145,6 +145,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_henryk-tkaczyk_vs_zbigniew-nocun",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Henryk Tkaczyk",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "03:55",
+      "timeRaw": "9:55 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
