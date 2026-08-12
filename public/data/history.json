@@ -1,10 +1,115 @@
 {
-  "generated": "2026-08-12T07:31:44.025Z",
+  "generated": "2026-08-12T08:01:43.973Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3323,
-  "todayCount": 7,
+  "totalCount": 3328,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-12_spread_erik-mares_vs_michal-zahradka",
+      "date": "2026-08-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_krzysztof-wloczko_vs_grzegorz-poliniewicz",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "12:05",
+      "timeRaw": "6:05 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_michael-sedlacek_vs_tomas-dousek",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michael Sedlacek",
+      "away": "Tomas Dousek",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_zbynek-zientek_vs_matyas-kolek",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Zbynek Zientek",
+      "away": "Matyas Kolek",
+      "league": "Czech Liga Pro",
+      "time": "12:00",
+      "timeRaw": "6:00 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 73,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_wojciech-wojtaszczyk_vs_piotr-przewlocki",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "11:50",
+      "timeRaw": "5:50 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 100,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_under_kamil-smolka_vs_kacper-adamus",
       "date": "2026-08-12",
