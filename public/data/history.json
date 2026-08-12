@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-12T08:01:43.973Z",
+  "generated": "2026-08-12T08:31:29.955Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3328,
-  "todayCount": 10,
+  "totalCount": 3332,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-08-12_under_jakub-tazler_vs_denis-hofman",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Tazler",
+      "away": "Denis Hofman",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 64,
+      "score": 63,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_spread_erik-mares_vs_michal-zahradka",
       "date": "2026-08-12",
@@ -21,6 +42,69 @@
       "spread": null,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_erik-mares_vs_michal-zahradka",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 53,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_michal-cabis_vs_tadeas-zika",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Cabis",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_kamil-rudomina_vs_bartosz-sulkowski",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Bartosz Sulkowski",
+      "league": "TT Elite Series",
+      "time": "12:10",
+      "timeRaw": "6:10 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
