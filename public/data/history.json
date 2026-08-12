@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-12T21:01:49.411Z",
+  "generated": "2026-08-12T21:31:25.083Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3373,
-  "todayCount": 10,
+  "totalCount": 3375,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-12_under_mikolaj-lukaszewski_vs_kuba-golaszewski",
@@ -1759,6 +1759,48 @@
       "score": 65,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_mateusz-trela_vs_kuba-golaszewski",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Trela",
+      "away": "Kuba Golaszewski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 36,
+      "l5": 20,
+      "sets3": 71,
+      "score": 61,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_mariusz-baron_vs_marian-lebek",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "00:50",
+      "timeRaw": "6:50 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
