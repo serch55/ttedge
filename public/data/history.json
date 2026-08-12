@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-12T10:31:52.133Z",
+  "generated": "2026-08-12T11:01:39.136Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3339,
-  "todayCount": 9,
+  "totalCount": 3340,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-12_spread_grzegorz-poliniewicz_vs_artur-daniel",
+      "date": "2026-08-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Artur Daniel",
+      "league": "TT Elite Series",
+      "time": "14:35",
+      "timeRaw": "8:35 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_under_kyryl-darin_vs_jan-steffan",
       "date": "2026-08-12",
