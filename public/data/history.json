@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-12T08:31:29.955Z",
+  "generated": "2026-08-12T09:01:50.970Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3332,
+  "totalCount": 3333,
   "todayCount": 11,
   "matches": [
     {
@@ -20,6 +20,27 @@
       "sets3": 64,
       "score": 63,
       "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_michal-kratochvil_vs_erik-mares",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Kratochvil",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "13:00",
+      "timeRaw": "7:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
