@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-12T17:31:29.880Z",
+  "generated": "2026-08-12T18:02:13.277Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3359,
+  "totalCount": 3360,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-12_spread_petr-sebera_vs_sebastian-kasnik",
+      "date": "2026-08-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Sebastian Kasnik",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_under_mariusz-koczyba_vs_rafal-idaczyk",
       "date": "2026-08-12",
