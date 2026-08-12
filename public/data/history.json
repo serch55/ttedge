@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-12T06:01:43.312Z",
+  "generated": "2026-08-12T06:31:38.178Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3318,
+  "totalCount": 3320,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-12_under_michal-minda_vs_marcin-balcerzak",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Marcin Balcerzak",
+      "league": "TT Elite Series",
+      "time": "10:05",
+      "timeRaw": "4:05 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_erik-mares_vs_michal-kratochvil",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Michal Kratochvil",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_jakub-nowak_vs_marian-lebek",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Nowak",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "09:35",
+      "timeRaw": "3:35 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 40,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_spread_michal-zahradka_vs_erik-mares",
       "date": "2026-08-12",
@@ -458,27 +521,6 @@
       "l5": 60,
       "sets3": 47,
       "score": 62,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-12_under_jakub-nowak_vs_marian-lebek",
-      "date": "2026-08-12",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Jakub Nowak",
-      "away": "Marian Lebek",
-      "league": "TT Elite Series",
-      "time": "03:35",
-      "timeRaw": "9:35 PM",
-      "pct": 67,
-      "l5": 80,
-      "sets3": 40,
-      "score": 68,
       "h2h": 15,
       "trend": "falling",
       "tags": [
