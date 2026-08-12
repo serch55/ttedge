@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-12T14:31:48.859Z",
+  "generated": "2026-08-12T15:01:46.227Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3350,
-  "todayCount": 6,
+  "totalCount": 3351,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-12_under_artur-kubiak_vs_zbigniew-nocun",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Kubiak",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "18:15",
+      "timeRaw": "12:15 PM",
+      "pct": 73,
+      "l5": 40,
+      "sets3": 40,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_over_kuba-golaszewski_vs_piotr-strus",
       "date": "2026-08-12",
