@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-12T13:31:50.370Z",
+  "generated": "2026-08-12T14:01:57.260Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3346,
-  "todayCount": 5,
+  "totalCount": 3349,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-12_under_matyas-navedla_vs_ondrej-paril",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Matyas Navedla",
+      "away": "Ondrej Paril",
+      "league": "Czech Liga Pro",
+      "time": "17:30",
+      "timeRaw": "11:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_krzysztof-wloczko_vs_michal-olbrycht",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Michal Olbrycht",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 30,
+      "score": 62,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_under_kamil-smolka_vs_kacper-adamus",
       "date": "2026-08-12",
@@ -42,6 +84,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_richard-wagner_vs_denis-hofman",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Richard Wagner",
+      "away": "Denis Hofman",
+      "league": "Czech Liga Pro",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 64,
+      "score": 61,
+      "h2h": 14,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
