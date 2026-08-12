@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-12T18:02:13.277Z",
+  "generated": "2026-08-12T18:31:30.226Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3360,
+  "totalCount": 3364,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-12_under_mikolaj-lukaszewski_vs_marcin-kowalczyk",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Marcin Kowalczyk",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_rafal-idaczyk_vs_krzysztof-juszczyk",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Idaczyk",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "22:20",
+      "timeRaw": "4:20 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 40,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_kuba-golaszewski_vs_mateusz-trela",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kuba Golaszewski",
+      "away": "Mateusz Trela",
+      "league": "TT Elite Series",
+      "time": "22:05",
+      "timeRaw": "4:05 PM",
+      "pct": 39,
+      "l5": 20,
+      "sets3": 69,
+      "score": 60,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_spread_petr-sebera_vs_sebastian-kasnik",
       "date": "2026-08-12",
@@ -19,6 +82,27 @@
       "score": 56,
       "pick": "",
       "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_mikolaj-lukaszewski_vs_piotr-strus",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Piotr Strus",
+      "league": "TT Elite Series",
+      "time": "20:55",
+      "timeRaw": "2:55 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 60,
       "h2h": 15,
       "trend": "",
       "tags": [
