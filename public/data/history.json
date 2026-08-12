@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-12T02:01:50.300Z",
+  "generated": "2026-08-12T02:31:29.195Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3304,
-  "todayCount": 8,
+  "totalCount": 3306,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-12_under_radovan-polasek_vs_tadeas-zika",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-08-12_over_jakub-zochniak_vs_marcin-balcerzak",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Marcin Balcerzak",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-12_under_piotr-przewlocki_vs_pawel-kurek",
       "date": "2026-08-12",
       "type": "under",
@@ -81,6 +102,27 @@
       "l5": 80,
       "sets3": 73,
       "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_jerzy-michalik_vs_marian-brunner",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jerzy Michalik",
+      "away": "Marian Brunner",
+      "league": "TT Elite Series",
+      "time": "05:30",
+      "timeRaw": "11:30 PM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 80,
+      "score": 61,
       "h2h": 15,
       "trend": "falling",
       "tags": [
