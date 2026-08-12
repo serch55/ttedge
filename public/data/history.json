@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-12T01:01:35.698Z",
+  "generated": "2026-08-12T01:31:24.348Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3301,
-  "todayCount": 8,
+  "totalCount": 3303,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-12_under_radovan-polasek_vs_tadeas-zika",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radovan Polasek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_over_piotr-przewlocki_vs_wojciech-wojtaszczyk",
       "date": "2026-08-12",
@@ -84,6 +105,27 @@
       "h2h": 12,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_marek-tkocz_vs_jakub-nowak",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marek Tkocz",
+      "away": "Jakub Nowak",
+      "league": "TT Elite Series",
+      "time": "04:45",
+      "timeRaw": "10:45 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 53,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
