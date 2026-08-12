@@ -1,10 +1,94 @@
 {
-  "generated": "2026-08-12T18:31:30.226Z",
+  "generated": "2026-08-12T19:01:47.028Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3364,
-  "todayCount": 8,
+  "totalCount": 3369,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-12_under_zbigniew-nocun_vs_grzegorz-mucha",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "pct": 78,
+      "l5": 100,
+      "sets3": 44,
+      "score": 63,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "23:10",
+      "timeRaw": "5:10 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 33,
+      "score": 73,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_spread_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-08-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "23:10",
+      "timeRaw": "5:10 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_mateusz-rutkowski_vs_lukasz-pietraszko",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Lukasz Pietraszko",
+      "league": "TT Elite Series",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-12_under_mikolaj-lukaszewski_vs_marcin-kowalczyk",
       "date": "2026-08-12",
@@ -1675,6 +1759,27 @@
       "score": 55,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_over_mariusz-adamus_vs_mariusz-baron",
+      "date": "2026-08-12",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
