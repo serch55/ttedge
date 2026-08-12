@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-12T04:01:35.966Z",
+  "generated": "2026-08-12T04:32:01.404Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-12",
-  "totalCount": 3310,
-  "todayCount": 8,
+  "totalCount": 3312,
+  "todayCount": 6,
   "matches": [
     {
       "id": "2026-08-12_under_radovan-polasek_vs_tadeas-zika",
@@ -21,6 +21,48 @@
       "score": 62,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_under_jakub-zochniak_vs_rafal-stapor",
+      "date": "2026-08-12",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-12_spread_jakub-zochniak_vs_rafal-stapor",
+      "date": "2026-08-12",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Rafal Stapor",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
