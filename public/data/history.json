@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-13T12:01:47.589Z",
+  "generated": "2026-08-13T12:31:31.058Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3422,
+  "totalCount": 3426,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-13_under_michal-cabis_vs_tadeas-zika",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Cabis",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_bartosz-sulkowski_vs_aleksander-lilien",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Aleksander Lilien",
+      "league": "TT Elite Series",
+      "time": "16:20",
+      "timeRaw": "10:20 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 59,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_michal-benes_vs_grzegorz-felkel",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Benes",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "16:10",
+      "timeRaw": "10:10 AM",
+      "pct": 70,
+      "l5": 60,
+      "sets3": 50,
+      "score": 63,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_radim-pavelka_vs_jiri-plachy",
       "date": "2026-08-13",
@@ -43,6 +106,27 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_jakub-pruszkowski_vs_waldemar-glanowski",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Waldemar Glanowski",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 55,
+      "l5": 60,
+      "sets3": 55,
+      "score": 61,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
