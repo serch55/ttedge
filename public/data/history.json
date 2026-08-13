@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-13T09:31:37.700Z",
+  "generated": "2026-08-13T10:01:48.599Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3408,
-  "todayCount": 3,
+  "totalCount": 3411,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-13_under_amirreza-abbasi_vs_michal-benes",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Amirreza Abbasi",
+      "away": "Michal Benes",
+      "league": "TT Elite Series",
+      "time": "13:40",
+      "timeRaw": "7:40 AM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_martin-sychra_vs_jakub-tazler",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Jakub Tazler",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_spread_martin-sychra_vs_jakub-tazler",
+      "date": "2026-08-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Jakub Tazler",
+      "league": "Czech Liga Pro",
+      "time": "13:30",
+      "timeRaw": "7:30 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_spread_jakub-zochniak_vs_aleksander-lilien",
       "date": "2026-08-13",
