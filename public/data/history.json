@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-13T19:31:26.338Z",
+  "generated": "2026-08-13T20:01:37.907Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3448,
-  "todayCount": 11,
+  "totalCount": 3450,
+  "todayCount": 12,
   "matches": [
     {
       "id": "2026-08-13_over_jaroslaw-rolak_vs_miroslaw-piecowski",
@@ -291,27 +291,6 @@
       "l5": 40,
       "sets3": 73,
       "score": 61,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-13_over_michal-skorski_vs_miroslaw-piecowski",
-      "date": "2026-08-13",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Michal Skorski",
-      "away": "Miroslaw Piecowski",
-      "league": "TT Elite Series",
-      "time": "19:45",
-      "timeRaw": "1:45 PM",
-      "pct": 93,
-      "l5": 100,
-      "sets3": 100,
-      "score": 58,
       "h2h": 15,
       "trend": "",
       "tags": [
@@ -1408,6 +1387,48 @@
       ]
     },
     {
+      "id": "2026-08-13_under_petr-sebera_vs_michal-regner",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 60,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_radim-urbaniec_vs_ondrej-svacha",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Ondrej Svacha",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 93,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-13_under_mateusz-trela_vs_kuba-golaszewski",
       "date": "2026-08-13",
       "type": "under",
@@ -1486,6 +1507,27 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_michal-skorski_vs_miroslaw-piecowski",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "00:15",
+      "timeRaw": "6:15 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
