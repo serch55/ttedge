@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T07:01:46.312Z",
+  "generated": "2026-08-13T07:31:23.238Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3403,
-  "todayCount": 5,
+  "totalCount": 3407,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-13_over_maciej-kolek_vs_dominik-solilo",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Dominik Solilo",
+      "league": "TT Elite Series",
+      "time": "11:25",
+      "timeRaw": "5:25 AM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 90,
+      "score": 57,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_artur-daniel_vs_adrian-spychala",
       "date": "2026-08-13",
@@ -27,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-08-13_over_bartosz-sulkowski_vs_kamil-rudomina",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartosz Sulkowski",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "10:35",
+      "timeRaw": "4:35 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 80,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-13_under_ludek-madle_vs_vaclav-hruska-sr",
       "date": "2026-08-13",
       "type": "under",
@@ -43,6 +85,70 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_mariusz-adamus_vs_marian-lebek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mariusz Adamus",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 53,
+      "l5": 40,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_kacper-slawinski_vs_lukasz-oracz",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kacper Slawinski",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 70,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_maciej-kolek_vs_michal-minda",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Maciej Kolek",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "10:10",
+      "timeRaw": "4:10 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 61,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -353,27 +459,6 @@
       "score": 65,
       "h2h": 13,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-13_under_mariusz-adamus_vs_marian-lebek",
-      "date": "2026-08-13",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Mariusz Adamus",
-      "away": "Marian Lebek",
-      "league": "TT Elite Series",
-      "time": "04:20",
-      "timeRaw": "10:20 PM",
-      "pct": 60,
-      "l5": 60,
-      "sets3": 60,
-      "score": 69,
-      "h2h": 15,
-      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
