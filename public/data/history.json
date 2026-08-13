@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-13T02:31:45.313Z",
+  "generated": "2026-08-13T03:01:37.347Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3395,
-  "todayCount": 9,
+  "totalCount": 3397,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-13_under_samuel-byrtus_vs_vladimir-adamczyk",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Samuel Byrtus",
+      "away": "Vladimir Adamczyk",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_lubor-sulava_vs_ladislav-havel-1956",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lubor Sulava",
+      "away": "Ladislav Havel 1956",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 53,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_spread_jan-pleskot_vs_vaclav-dolezal",
       "date": "2026-08-13",
