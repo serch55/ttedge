@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-13T11:31:37.331Z",
+  "generated": "2026-08-13T12:01:47.589Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3420,
-  "todayCount": 12,
+  "totalCount": 3422,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-13_under_radim-pavelka_vs_jiri-plachy",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Pavelka",
+      "away": "Jiri Plachy",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_jan-dzida_vs_martin-biolek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jan Dzida",
+      "away": "Martin Biolek",
+      "league": "Czech Liga Pro",
+      "time": "16:00",
+      "timeRaw": "10:00 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_josef-braun_vs_grzegorz-felkel",
       "date": "2026-08-13",
