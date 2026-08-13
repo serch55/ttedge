@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T00:31:30.649Z",
+  "generated": "2026-08-13T01:01:39.364Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3386,
-  "todayCount": 6,
+  "totalCount": 3387,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-13_over_sebastian-szostok_vs_jakub-pruszkowski",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Sebastian Szostok",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_amirreza-abbasi_vs_marcin-jadczyk",
       "date": "2026-08-13",
