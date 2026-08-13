@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-13T02:01:51.804Z",
+  "generated": "2026-08-13T02:31:45.313Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3392,
-  "todayCount": 10,
+  "totalCount": 3395,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-13_spread_jan-pleskot_vs_vaclav-dolezal",
@@ -43,6 +43,47 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_adrian-burkacki_vs_marian-lebek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adrian Burkacki",
+      "away": "Marian Lebek",
+      "league": "TT Elite Series",
+      "time": "06:30",
+      "timeRaw": "12:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 40,
+      "score": 73,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_mariusz-baron_vs_jakub-kaczmarek",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Fatigue",
         "Volatile"
       ]
@@ -61,6 +102,27 @@
       "l5": 80,
       "sets3": 47,
       "score": 72,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_kamil-delikatny_vs_miroslaw-warzecha",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Delikatny",
+      "away": "Miroslaw Warzecha",
+      "league": "TT Elite Series",
+      "time": "05:15",
+      "timeRaw": "11:15 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 60,
+      "score": 66,
       "h2h": 15,
       "trend": "rising",
       "tags": [
