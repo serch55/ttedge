@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-13T19:01:52.033Z",
+  "generated": "2026-08-13T19:31:26.338Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3444,
-  "todayCount": 8,
+  "totalCount": 3448,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-08-13_over_jaroslaw-rolak_vs_miroslaw-piecowski",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jaroslaw Rolak",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 69,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_spread_miroslaw-lewczuk_vs_piotr-gesiarz",
+      "date": "2026-08-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Piotr Gesiarz",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_spread_zbigniew-nocun_vs_jerzy-debski",
       "date": "2026-08-13",
@@ -64,6 +106,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -126,6 +169,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -146,6 +190,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -1421,6 +1466,47 @@
       "h2h": 15,
       "trend": "",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_jiri-ruzicka_vs_tomas-franek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Tomas Franek",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_krzysztof-kapik_vs_tomasz-filbrandt",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Tomasz Filbrandt",
+      "league": "TT Elite Series",
+      "time": "00:10",
+      "timeRaw": "6:10 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
