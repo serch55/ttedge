@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-13T06:01:52.675Z",
+  "generated": "2026-08-13T06:31:31.960Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3400,
+  "totalCount": 3402,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-13_under_ludek-madle_vs_vaclav-hruska-sr",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Ludek Madle",
+      "away": "Vaclav Hruska Sr",
+      "league": "Czech Liga Pro",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_zbynek-zientek_vs_michal-kaspar",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbynek Zientek",
+      "away": "Michal Kaspar",
+      "league": "Czech Liga Pro",
+      "time": "10:00",
+      "timeRaw": "4:00 AM",
+      "pct": 71,
+      "l5": 100,
+      "sets3": 71,
+      "score": 64,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_lukasz-oracz_vs_jakub-pruszkowski",
       "date": "2026-08-13",
