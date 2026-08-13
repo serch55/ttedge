@@ -1,10 +1,115 @@
 {
-  "generated": "2026-08-13T10:01:48.599Z",
+  "generated": "2026-08-13T10:31:45.378Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3411,
-  "todayCount": 5,
+  "totalCount": 3416,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-13_under_lukasz-oracz_vs_kacper-slawinski",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Oracz",
+      "away": "Kacper Slawinski",
+      "league": "TT Elite Series",
+      "time": "14:20",
+      "timeRaw": "8:20 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 71,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_jakub-zochniak_vs_dominik-solilo",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Dominik Solilo",
+      "league": "TT Elite Series",
+      "time": "14:15",
+      "timeRaw": "8:15 AM",
+      "pct": 50,
+      "l5": 60,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_grzegorz-poliniewicz_vs_adrian-spychala",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Poliniewicz",
+      "away": "Adrian Spychala",
+      "league": "TT Elite Series",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_jakub-pruszkowski_vs_sebastian-szostok",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "13:55",
+      "timeRaw": "7:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_rafal-stapor_vs_bartosz-sulkowski",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Stapor",
+      "away": "Bartosz Sulkowski",
+      "league": "TT Elite Series",
+      "time": "13:50",
+      "timeRaw": "7:50 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_amirreza-abbasi_vs_michal-benes",
       "date": "2026-08-13",
