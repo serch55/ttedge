@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T06:31:31.960Z",
+  "generated": "2026-08-13T07:01:46.312Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3402,
-  "todayCount": 6,
+  "totalCount": 3403,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-13_under_artur-daniel_vs_adrian-spychala",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Daniel",
+      "away": "Adrian Spychala",
+      "league": "TT Elite Series",
+      "time": "11:20",
+      "timeRaw": "5:20 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 73,
+      "score": 71,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_ludek-madle_vs_vaclav-hruska-sr",
       "date": "2026-08-13",
@@ -63,6 +84,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
