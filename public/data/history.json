@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T13:01:55.649Z",
+  "generated": "2026-08-13T13:31:33.727Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3427,
-  "todayCount": 10,
+  "totalCount": 3428,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-13_under_jakub-pruszkowski_vs_lukasz-oracz",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Pruszkowski",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "17:05",
+      "timeRaw": "11:05 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_jiri-plachy_vs_jakub-stolfa",
       "date": "2026-08-13",
