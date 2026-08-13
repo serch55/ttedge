@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T22:02:16.093Z",
+  "generated": "2026-08-13T22:32:05.277Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3468,
-  "todayCount": 12,
+  "totalCount": 3469,
+  "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-08-14_under_jakub-tazler_vs_petr-sebera",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Tazler",
+      "away": "Petr Sebera",
+      "league": "Czech Liga Pro",
+      "time": "04:30",
+      "timeRaw": "10:30 PM",
+      "pct": 92,
+      "l5": 100,
+      "sets3": 50,
+      "score": 72,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_adam-staniczek_vs_jakub-cyndera",
       "date": "2026-08-14",
