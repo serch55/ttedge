@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T08:01:51.693Z",
+  "generated": "2026-08-13T08:31:25.274Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
   "totalCount": 3407,
-  "todayCount": 8,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-13_under_samuel-byrtus_vs_vladimir-adamczyk",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Samuel Byrtus",
+      "away": "Vladimir Adamczyk",
+      "league": "Czech Liga Pro",
+      "time": "12:30",
+      "timeRaw": "6:30 AM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_over_maciej-kolek_vs_dominik-solilo",
       "date": "2026-08-13",
@@ -211,27 +232,6 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-13_under_samuel-byrtus_vs_vladimir-adamczyk",
-      "date": "2026-08-13",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Samuel Byrtus",
-      "away": "Vladimir Adamczyk",
-      "league": "Czech Liga Pro",
-      "time": "08:30",
-      "timeRaw": "2:30 AM",
-      "pct": 53,
-      "l5": 100,
-      "sets3": 73,
-      "score": 62,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
