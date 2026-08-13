@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-13T21:02:46.173Z",
+  "generated": "2026-08-13T21:31:57.686Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3454,
-  "todayCount": 8,
+  "totalCount": 3456,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-13_over_jaroslaw-rolak_vs_miroslaw-piecowski",
@@ -1366,6 +1366,27 @@
       ]
     },
     {
+      "id": "2026-08-13_under_witold-stechly_vs_adam-staniczek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Witold Stechly",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 70,
+      "l5": 100,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-13_spread_radim-urbaniec_vs_jiri-ruzicka",
       "date": "2026-08-13",
       "type": "spread",
@@ -1506,6 +1527,27 @@
       "score": 61,
       "h2h": 14,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_mikolaj-lukaszewski_vs_miroslaw-piecowski",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 56,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
