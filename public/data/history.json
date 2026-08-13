@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T22:32:05.277Z",
+  "generated": "2026-08-13T23:01:38.668Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3469,
+  "totalCount": 3471,
   "todayCount": 11,
   "matches": [
+    {
+      "id": "2026-08-14_under_adam-staniczek_vs_kamil-delikatny",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Kamil Delikatny",
+      "league": "TT Elite Series",
+      "time": "05:05",
+      "timeRaw": "11:05 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 67,
+      "score": 67,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_jakub-tazler_vs_petr-sebera",
       "date": "2026-08-14",
@@ -42,6 +63,27 @@
       "score": 62,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_under_marian-lebek_vs_jerzy-pelka",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marian Lebek",
+      "away": "Jerzy Pelka",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "pct": 60,
+      "l5": 20,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
