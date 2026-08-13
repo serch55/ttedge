@@ -1,10 +1,114 @@
 {
-  "generated": "2026-08-13T16:01:53.585Z",
+  "generated": "2026-08-13T16:31:37.309Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3431,
-  "todayCount": 2,
+  "totalCount": 3436,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-13_under_miroslaw-lewczuk_vs_adam-staniczek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Lewczuk",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 40,
+      "score": 76,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_tomas-dousa_vs_pavel-fojt",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomas Dousa",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 93,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_jiri-grohsgott_vs_miloslav-lubas",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Grohsgott",
+      "away": "Miloslav Lubas",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_marcin-kowalczyk_vs_miroslaw-piecowski",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Kowalczyk",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 33,
+      "l5": 40,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_over_michal-skorski_vs_miroslaw-piecowski",
+      "date": "2026-08-13",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Skorski",
+      "away": "Miroslaw Piecowski",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 58,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_over_miroslaw-piecowski_vs_jaroslaw-rolak",
       "date": "2026-08-13",
@@ -22,6 +126,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
