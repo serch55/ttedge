@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-13T18:32:18.761Z",
+  "generated": "2026-08-13T19:01:52.033Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3442,
-  "todayCount": 10,
+  "totalCount": 3444,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-13_spread_zbigniew-nocun_vs_jerzy-debski",
+      "date": "2026-08-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Zbigniew Nocun",
+      "away": "Jerzy Debski",
+      "league": "TT Elite Series",
+      "time": "23:20",
+      "timeRaw": "5:20 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_adam-staniczek_vs_kamil-delikatny",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Kamil Delikatny",
+      "league": "TT Elite Series",
+      "time": "23:05",
+      "timeRaw": "5:05 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_milan-kolar_vs_pavel-fojt",
       "date": "2026-08-13",
