@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T14:31:40.842Z",
+  "generated": "2026-08-13T15:01:53.796Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3429,
+  "totalCount": 3430,
   "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-13_spread_jiri-plachy_vs_tomas-janata",
+      "date": "2026-08-13",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jiri Plachy",
+      "away": "Tomas Janata",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_erik-mares_vs_petr-bradach",
       "date": "2026-08-13",
