@@ -1,10 +1,50 @@
 {
-  "generated": "2026-08-13T17:01:56.178Z",
+  "generated": "2026-08-13T17:31:31.254Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-13",
-  "totalCount": 3437,
-  "todayCount": 7,
+  "totalCount": 3439,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-13_under_pavel-fojt_vs_jiri-dedek",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pavel Fojt",
+      "away": "Jiri Dedek",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 40,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-13_under_zbynek-pagac_vs_lukas-kern",
+      "date": "2026-08-13",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Zbynek Pagac",
+      "away": "Lukas Kern",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-13_under_michal-syroha_vs_jiri-grohsgott",
       "date": "2026-08-13",
