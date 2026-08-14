@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-13T23:31:32.850Z",
+  "generated": "2026-08-14T00:01:37.430Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3472,
+  "totalCount": 3474,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-14_under_adam-staniczek_vs_miroslaw-lewczuk",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Miroslaw Lewczuk",
+      "league": "TT Elite Series",
+      "time": "06:20",
+      "timeRaw": "12:20 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 33,
+      "score": 76,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_spread_adam-staniczek_vs_miroslaw-lewczuk",
+      "date": "2026-08-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Adam Staniczek",
+      "away": "Miroslaw Lewczuk",
+      "league": "TT Elite Series",
+      "time": "06:20",
+      "timeRaw": "12:20 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_artur-grela_vs_martin-olejnik",
       "date": "2026-08-14",
