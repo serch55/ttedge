@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-14T05:01:40.128Z",
+  "generated": "2026-08-14T05:31:27.164Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3484,
+  "totalCount": 3486,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-14_under_jaroslav-strnad-1964_vs_jiri-grohsgott",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaroslav Strnad 1964",
+      "away": "Jiri Grohsgott",
+      "league": "Czech Liga Pro",
+      "time": "09:30",
+      "timeRaw": "3:30 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_under_marcin-balcerzak_vs_dominik-solilo",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Dominik Solilo",
+      "league": "TT Elite Series",
+      "time": "09:15",
+      "timeRaw": "3:15 AM",
+      "pct": 77,
+      "l5": 100,
+      "sets3": 39,
+      "score": 65,
+      "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_jiri-svec_vs_milan-chalupnicek",
       "date": "2026-08-14",
