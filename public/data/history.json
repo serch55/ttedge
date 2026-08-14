@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-14T10:31:37.249Z",
+  "generated": "2026-08-14T11:02:06.013Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3497,
-  "todayCount": 3,
+  "totalCount": 3499,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-14_under_grzegorz-jurowicz_vs_grzegorz-wichowski",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "14:40",
+      "timeRaw": "8:40 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 73,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_under_martin-olejnik_vs_grzegorz-felkel",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Olejnik",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_over_krzysztof-wloczko_vs_krystian-kolodziej",
+      "date": "2026-08-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Wloczko",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "14:10",
+      "timeRaw": "8:10 AM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 93,
+      "score": 63,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_grzegorz-jurowicz_vs_krzysztof-hetnar",
       "date": "2026-08-14",
@@ -336,27 +399,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-14_under_grzegorz-jurowicz_vs_grzegorz-wichowski",
-      "date": "2026-08-14",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Grzegorz Jurowicz",
-      "away": "Grzegorz Wichowski",
-      "league": "TT Elite Series",
-      "time": "08:30",
-      "timeRaw": "2:30 AM",
-      "pct": 60,
-      "l5": 100,
-      "sets3": 73,
-      "score": 61,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
