@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-14T01:01:40.081Z",
+  "generated": "2026-08-14T01:31:35.071Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3475,
+  "totalCount": 3476,
   "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-14_spread_michal-cabis_vs_tadeas-zika",
+      "date": "2026-08-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Cabis",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_grzegorz-jurowicz_vs_krzysztof-hetnar",
       "date": "2026-08-14",
