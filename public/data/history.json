@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-14T13:31:30.994Z",
+  "generated": "2026-08-14T14:01:43.335Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3504,
+  "totalCount": 3505,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-14_spread_jan-zandecki_vs_grzegorz-felkel",
+      "date": "2026-08-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jan Zandecki",
+      "away": "Grzegorz Felkel",
+      "league": "TT Elite Series",
+      "time": "17:25",
+      "timeRaw": "11:25 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_over_mikolaj-lukaszewski_vs_wojciech-gluszek",
       "date": "2026-08-14",
