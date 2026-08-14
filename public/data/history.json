@@ -1,10 +1,50 @@
 {
-  "generated": "2026-08-14T02:31:24.916Z",
+  "generated": "2026-08-14T03:01:42.894Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3477,
-  "todayCount": 8,
+  "totalCount": 3479,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-14_over_jan-szotkowski_vs_radomir-revay",
+      "date": "2026-08-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jan Szotkowski",
+      "away": "Radomir Revay",
+      "league": "Czech Liga Pro",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 87,
+      "l5": 80,
+      "sets3": 87,
+      "score": 59,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_under_grzegorz-jurowicz_vs_grzegorz-wichowski",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "08:30",
+      "timeRaw": "2:30 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_spread_michal-cabis_vs_tadeas-zika",
       "date": "2026-08-14",
