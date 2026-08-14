@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-14T00:01:37.430Z",
+  "generated": "2026-08-14T00:31:40.696Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3474,
+  "totalCount": 3475,
   "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-14_under_grzegorz-jurowicz_vs_krzysztof-hetnar",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "07:15",
+      "timeRaw": "1:15 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 67,
+      "score": 65,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_adam-staniczek_vs_miroslaw-lewczuk",
       "date": "2026-08-14",
