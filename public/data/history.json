@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-14T05:31:27.164Z",
+  "generated": "2026-08-14T06:01:56.976Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3486,
-  "todayCount": 8,
+  "totalCount": 3487,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-14_under_grzegorz-jurowicz_vs_maksymilian-rus",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Jurowicz",
+      "away": "Maksymilian Rus",
+      "league": "TT Elite Series",
+      "time": "09:45",
+      "timeRaw": "3:45 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_under_jaroslav-strnad-1964_vs_jiri-grohsgott",
       "date": "2026-08-14",
