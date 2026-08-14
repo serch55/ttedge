@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-14T13:01:56.523Z",
+  "generated": "2026-08-14T13:31:30.994Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3502,
-  "todayCount": 3,
+  "totalCount": 3504,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-08-14_over_mikolaj-lukaszewski_vs_wojciech-gluszek",
@@ -21,6 +21,27 @@
       "score": 56,
       "h2h": 15,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_over_wojciech-tobiasz_vs_jakub-kaczmarek",
+      "date": "2026-08-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Tobiasz",
+      "away": "Jakub Kaczmarek",
+      "league": "TT Elite Series",
+      "time": "16:45",
+      "timeRaw": "10:45 AM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 100,
+      "score": 57,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -64,6 +85,27 @@
       "h2h": 13,
       "trend": "rising",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_spread_marcin-balcerzak_vs_krzysztof-wloczko",
+      "date": "2026-08-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Krzysztof Wloczko",
+      "league": "TT Elite Series",
+      "time": "15:50",
+      "timeRaw": "9:50 AM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
