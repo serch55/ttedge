@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-14T14:01:43.335Z",
+  "generated": "2026-08-14T14:31:31.824Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-14",
-  "totalCount": 3505,
-  "todayCount": 5,
+  "totalCount": 3508,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-14_over_tomasz-filbrandt_vs_karol-strowski",
+      "date": "2026-08-14",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Tomasz Filbrandt",
+      "away": "Karol Strowski",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 57,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_under_pavel-gireth_vs_michal-zahradka",
+      "date": "2026-08-14",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Pavel Gireth",
+      "away": "Michal Zahradka",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 40,
+      "score": 68,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-14_spread_adam-ruszkiewicz_vs_sebastian-szostok",
+      "date": "2026-08-14",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Adam Ruszkiewicz",
+      "away": "Sebastian Szostok",
+      "league": "TT Elite Series",
+      "time": "17:50",
+      "timeRaw": "11:50 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-14_spread_jan-zandecki_vs_grzegorz-felkel",
       "date": "2026-08-14",
