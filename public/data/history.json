@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-14T22:02:06.780Z",
+  "generated": "2026-08-14T22:31:36.498Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3537,
-  "todayCount": 8,
+  "totalCount": 3540,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-15_under_wojciech-urban_vs_krzysztof-juszczyk",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "05:10",
+      "timeRaw": "11:10 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_under_adam-linek_vs_jakub-wozniak",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Adam Linek",
+      "away": "Jakub Wozniak",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 50,
+      "score": 61,
+      "h2h": 10,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-15_under_pawel-kurek_vs_lukasz-oracz",
       "date": "2026-08-15",
@@ -105,6 +147,27 @@
       "score": 61,
       "h2h": 14,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_under_mikolaj-lukaszewski_vs_adrian-fabis",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Adrian Fabis",
+      "league": "TT Elite Series",
+      "time": "00:55",
+      "timeRaw": "6:55 PM",
+      "pct": 40,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
