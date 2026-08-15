@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-15T07:01:49.326Z",
+  "generated": "2026-08-15T07:31:29.718Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3557,
-  "todayCount": 7,
+  "totalCount": 3558,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-15_spread_artur-grela_vs_marcin-jadczyk",
+      "date": "2026-08-15",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Artur Grela",
+      "away": "Marcin Jadczyk",
+      "league": "TT Elite Series",
+      "time": "11:40",
+      "timeRaw": "5:40 AM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-15_under_petr-sebera_vs_jakub-tazler",
       "date": "2026-08-15",
@@ -22,6 +43,7 @@
       "h2h": 13,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
