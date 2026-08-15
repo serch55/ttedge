@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-15T00:01:44.462Z",
+  "generated": "2026-08-15T00:31:29.755Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3540,
-  "todayCount": 5,
+  "totalCount": 3542,
+  "todayCount": 7,
   "matches": [
     {
       "id": "2026-08-15_under_wojciech-urban_vs_krzysztof-juszczyk",
@@ -48,6 +48,27 @@
       ]
     },
     {
+      "id": "2026-08-15_under_robert-szymik_vs_jakub-michalski",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "03:55",
+      "timeRaw": "9:55 PM",
+      "pct": 93,
+      "l5": 80,
+      "sets3": 27,
+      "score": 72,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-15_under_pawel-kurek_vs_lukasz-oracz",
       "date": "2026-08-15",
       "type": "under",
@@ -83,6 +104,27 @@
       "sets3": 69,
       "score": 64,
       "h2h": 13,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_over_cezary-pawlik_vs_jacek-oracz",
+      "date": "2026-08-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Jacek Oracz",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 93,
+      "score": 69,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
