@@ -1,10 +1,30 @@
 {
-  "generated": "2026-08-15T04:01:44.935Z",
+  "generated": "2026-08-15T04:32:55.682Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3550,
+  "totalCount": 3551,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-15_under_petr-sebera_vs_michal-regner",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Michal Regner",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 60,
+      "score": 71,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-15_under_ladislav-novotny_vs_jaroslav-martinek",
       "date": "2026-08-15",
@@ -42,6 +62,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
