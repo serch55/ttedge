@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-15T19:01:42.417Z",
+  "generated": "2026-08-15T19:31:28.054Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3583,
-  "todayCount": 6,
+  "totalCount": 3586,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-15_under_mateusz-misiak_vs_dawid-kotwica",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Misiak",
+      "away": "Dawid Kotwica",
+      "league": "TT Elite Series",
+      "time": "23:30",
+      "timeRaw": "5:30 PM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 7,
+      "score": 76,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_over_kamil-rudomina_vs_adrian-myszewski",
+      "date": "2026-08-15",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Adrian Myszewski",
+      "league": "TT Elite Series",
+      "time": "23:05",
+      "timeRaw": "5:05 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-15_under_miroslaw-lewczuk_vs_dariusz-maszczynski",
       "date": "2026-08-15",
@@ -1065,6 +1107,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_under_jiri-ruzicka_vs_radim-urbaniec",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Ruzicka",
+      "away": "Radim Urbaniec",
+      "league": "Czech Liga Pro",
+      "time": "00:30",
+      "timeRaw": "6:30 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
