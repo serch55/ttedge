@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-15T17:01:36.187Z",
+  "generated": "2026-08-15T17:31:36.675Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3578,
+  "totalCount": 3579,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-15_under_artur-kubiak_vs_zbigniew-nocun",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Kubiak",
+      "away": "Zbigniew Nocun",
+      "league": "TT Elite Series",
+      "time": "21:10",
+      "timeRaw": "3:10 PM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-15_under_alan-wos_vs_filip-mlynarski",
       "date": "2026-08-15",
