@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-15T02:01:37.249Z",
+  "generated": "2026-08-15T02:31:50.155Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3545,
-  "todayCount": 6,
+  "totalCount": 3548,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-15_under_ladislav-novotny_vs_jaroslav-martinek",
@@ -67,6 +67,48 @@
       ]
     },
     {
+      "id": "2026-08-15_under_wojciech-urban_vs_rafal-idaczyk",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Rafal Idaczyk",
+      "league": "TT Elite Series",
+      "time": "06:25",
+      "timeRaw": "12:25 AM",
+      "pct": 70,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_spread_damian-fira_vs_jakub-michalski",
+      "date": "2026-08-15",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Damian Fira",
+      "away": "Jakub Michalski",
+      "league": "TT Elite Series",
+      "time": "05:55",
+      "timeRaw": "11:55 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-15_under_wojciech-urban_vs_krzysztof-juszczyk",
       "date": "2026-08-15",
       "type": "under",
@@ -82,6 +124,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_under_robert-szymik_vs_tomasz-wrzalik",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Robert Szymik",
+      "away": "Tomasz Wrzalik",
+      "league": "TT Elite Series",
+      "time": "05:05",
+      "timeRaw": "11:05 PM",
+      "pct": 60,
+      "l5": 80,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
