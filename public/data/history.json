@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-15T16:01:44.023Z",
+  "generated": "2026-08-15T16:31:28.186Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-15",
-  "totalCount": 3574,
-  "todayCount": 7,
+  "totalCount": 3578,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-15_under_alan-wos_vs_filip-mlynarski",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Alan Wos",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 82,
+      "score": 61,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_under_vladimir-postelt_vs_kyryl-darin",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Vladimir Postelt",
+      "away": "Kyryl Darin",
+      "league": "Czech Liga Pro",
+      "time": "20:30",
+      "timeRaw": "2:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 64,
+      "score": 62,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-15_under_jiri-grohsgott_vs_michal-syroha",
       "date": "2026-08-15",
@@ -47,6 +89,48 @@
       ]
     },
     {
+      "id": "2026-08-15_under_bartosz-kwodawski_vs_dawid-kotwica",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Bartosz Kwodawski",
+      "away": "Dawid Kotwica",
+      "league": "TT Elite Series",
+      "time": "19:45",
+      "timeRaw": "1:45 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 67,
+      "score": 64,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-15_under_cezary-pawlik_vs_lukasz-pyda",
+      "date": "2026-08-15",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Cezary Pawlik",
+      "away": "Lukasz Pyda",
+      "league": "TT Elite Series",
+      "time": "19:35",
+      "timeRaw": "1:35 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 53,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-15_under_adrian-myszewski_vs_mateusz-misiak",
       "date": "2026-08-15",
       "type": "under",
@@ -63,6 +147,7 @@
       "h2h": 11,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -83,6 +168,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
