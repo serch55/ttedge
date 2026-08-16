@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-16T20:31:30.235Z",
+  "generated": "2026-08-16T21:01:34.402Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3640,
-  "todayCount": 11,
+  "totalCount": 3642,
+  "todayCount": 13,
   "matches": [
     {
       "id": "2026-08-16_under_wojciech-urban_vs_mariusz-baron",
@@ -845,6 +845,27 @@
       ]
     },
     {
+      "id": "2026-08-16_over_mateusz-karpiuk_vs_grzegorz-mucha",
+      "date": "2026-08-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Karpiuk",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "03:25",
+      "timeRaw": "9:25 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 86,
+      "score": 55,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-16_under_zbigniew-nocun_vs_artur-kubiak",
       "date": "2026-08-16",
       "type": "under",
@@ -923,6 +944,27 @@
       "score": 64,
       "h2h": 14,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_jaroslav-prokupek_vs_pavel-fojt",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jaroslav Prokupek",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
