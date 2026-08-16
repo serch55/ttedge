@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-16T00:31:27.647Z",
+  "generated": "2026-08-16T01:01:47.428Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3595,
+  "totalCount": 3597,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-16_over_marian-lebek_vs_krzysztof-juszczyk",
+      "date": "2026-08-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marian Lebek",
+      "away": "Krzysztof Juszczyk",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 83,
+      "l5": 100,
+      "sets3": 92,
+      "score": 64,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_erik-mares_vs_lukas-jindrak",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Lukas Jindrak",
+      "league": "Czech Liga Pro",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_over_yurij-fomin_vs_marian-lebek",
       "date": "2026-08-16",
