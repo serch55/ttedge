@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-16T18:31:29.727Z",
+  "generated": "2026-08-16T19:01:34.474Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3628,
+  "totalCount": 3630,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-16_under_michal-machelski_vs_artur-kubiak",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Machelski",
+      "away": "Artur Kubiak",
+      "league": "TT Elite Series",
+      "time": "23:45",
+      "timeRaw": "5:45 PM",
+      "pct": 53,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_lukasz-pietraszko_vs_filip-mlynarski",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Lukasz Pietraszko",
+      "away": "Filip Mlynarski",
+      "league": "TT Elite Series",
+      "time": "23:00",
+      "timeRaw": "5:00 PM",
+      "pct": 40,
+      "l5": 20,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_kyryl-darin_vs_lukas-krok",
       "date": "2026-08-16",
