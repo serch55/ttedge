@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T04:31:36.051Z",
+  "generated": "2026-08-16T05:01:41.936Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
   "totalCount": 3600,
@@ -106,6 +106,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
