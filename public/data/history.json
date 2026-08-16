@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-16T07:01:50.711Z",
+  "generated": "2026-08-16T07:31:28.514Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3602,
-  "todayCount": 2,
+  "totalCount": 3604,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-08-16_spread_filip-witczak_vs_rafal-wojcik",
+      "date": "2026-08-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Filip Witczak",
+      "away": "Rafal Wojcik",
+      "league": "TT Elite Series",
+      "time": "10:45",
+      "timeRaw": "4:45 AM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_over_igor-dabrowski_vs_wojciech-iwasyszyn",
+      "date": "2026-08-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Wojciech Iwasyszyn",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 73,
+      "l5": 100,
+      "sets3": 87,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_julius-didi_vs_martin-tacinec",
       "date": "2026-08-16",
