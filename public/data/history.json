@@ -1,10 +1,115 @@
 {
-  "generated": "2026-08-16T21:31:34.271Z",
+  "generated": "2026-08-16T22:02:17.989Z",
   "tzNote": "hora española (+6h)",
-  "lastDay": "2026-08-16",
-  "totalCount": 3643,
-  "todayCount": 13,
+  "lastDay": "2026-08-17",
+  "totalCount": 3648,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-17_over_jakub-tazler_vs_martin-sychra",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Tazler",
+      "away": "Martin Sychra",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 87,
+      "score": 56,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_mateusz-karpiuk_vs_grzegorz-mucha",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Karpiuk",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "03:25",
+      "timeRaw": "9:25 PM",
+      "pct": 64,
+      "l5": 80,
+      "sets3": 86,
+      "score": 55,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_kacper-kwiatkowski_vs_michal-machelski",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Kwiatkowski",
+      "away": "Michal Machelski",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 78,
+      "score": 61,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_spread_jiri-dedek_vs_pavel-fojt",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jiri Dedek",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_bartlomiej-mleczko_vs_kamil-kostyk",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Bartlomiej Mleczko",
+      "away": "Kamil Kostyk",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 78,
+      "score": 60,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_wojciech-urban_vs_mariusz-baron",
       "date": "2026-08-16",
