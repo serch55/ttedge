@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-16T19:01:34.474Z",
+  "generated": "2026-08-16T19:31:24.057Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3630,
+  "totalCount": 3632,
   "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-16_under_mateusz-rutkowski_vs_dawid-jadam",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Dawid Jadam",
+      "league": "TT Elite Series",
+      "time": "23:50",
+      "timeRaw": "5:50 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 80,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_michal-machelski_vs_artur-kubiak",
       "date": "2026-08-16",
@@ -106,6 +127,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -922,6 +944,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_jiri-louda_vs_sebastian-kasnik",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Louda",
+      "away": "Sebastian Kasnik",
+      "league": "Czech Liga Pro",
+      "time": "00:00",
+      "timeRaw": "6:00 PM",
+      "pct": 53,
+      "l5": 100,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
