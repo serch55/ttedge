@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-16T22:31:29.446Z",
+  "generated": "2026-08-16T23:01:56.881Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3659,
-  "todayCount": 16,
+  "totalCount": 3662,
+  "todayCount": 19,
   "matches": [
+    {
+      "id": "2026-08-17_over_igor-dabrowski_vs_krzysztof-kotyl",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Krzysztof Kotyl",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 100,
+      "score": 67,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_dawid-michna_vs_marcin-balcerzak",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Michna",
+      "away": "Marcin Balcerzak",
+      "league": "TT Elite Series",
+      "time": "05:00",
+      "timeRaw": "11:00 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 53,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_martin-sychra_vs_jiri-louda",
       "date": "2026-08-17",
@@ -132,6 +173,27 @@
       ]
     },
     {
+      "id": "2026-08-17_under_grzegorz-sawicki_vs_rafal-ogon",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Sawicki",
+      "away": "Rafal Ogon",
+      "league": "TT Elite Series",
+      "time": "02:45",
+      "timeRaw": "8:45 PM",
+      "pct": 47,
+      "l5": 80,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-17_under_petr-sebera_vs_jakub-tazler",
       "date": "2026-08-17",
       "type": "under",
@@ -169,6 +231,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
