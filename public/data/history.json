@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-16T19:31:24.057Z",
+  "generated": "2026-08-16T20:01:54.020Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3632,
-  "todayCount": 6,
+  "totalCount": 3637,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-16_under_wojciech-urban_vs_mariusz-baron",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Urban",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "23:55",
+      "timeRaw": "5:55 PM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_mateusz-rutkowski_vs_dawid-jadam",
       "date": "2026-08-16",
@@ -902,6 +923,90 @@
       "score": 62,
       "h2h": 11,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_jiri-dedek_vs_pavel-fojt",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jiri Dedek",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_spread_jiri-dedek_vs_pavel-fojt",
+      "date": "2026-08-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jiri Dedek",
+      "away": "Pavel Fojt",
+      "league": "Czech Liga Pro",
+      "time": "01:30",
+      "timeRaw": "7:30 PM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_jacek-oracz_vs_grzegorz-mucha",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Oracz",
+      "away": "Grzegorz Mucha",
+      "league": "TT Elite Series",
+      "time": "01:20",
+      "timeRaw": "7:20 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_petr-sebera_vs_martin-sychra",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Martin Sychra",
+      "league": "Czech Liga Pro",
+      "time": "01:00",
+      "timeRaw": "7:00 PM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
