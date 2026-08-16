@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-16T09:01:45.376Z",
+  "generated": "2026-08-16T09:31:29.631Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3605,
-  "todayCount": 1,
+  "totalCount": 3607,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-08-16_under_patryk-jedrzejak_vs_rafal-wojcik",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Patryk Jedrzejak",
+      "away": "Rafal Wojcik",
+      "league": "TT Elite Series",
+      "time": "13:05",
+      "timeRaw": "7:05 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_mikolaj-lukaszewski_vs_maciej-sinicki",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mikolaj Lukaszewski",
+      "away": "Maciej Sinicki",
+      "league": "TT Elite Series",
+      "time": "12:35",
+      "timeRaw": "6:35 AM",
+      "pct": 53,
+      "l5": 0,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_jiri-grohsgott_vs_jaroslav-strnad-1964",
       "date": "2026-08-16",
