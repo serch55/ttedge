@@ -1,10 +1,51 @@
 {
-  "generated": "2026-08-16T23:01:56.881Z",
+  "generated": "2026-08-16T23:31:25.692Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3662,
+  "totalCount": 3665,
   "todayCount": 19,
   "matches": [
+    {
+      "id": "2026-08-17_spread_dawid-michna_vs_tibor-spanik",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dawid Michna",
+      "away": "Tibor Spanik",
+      "league": "TT Elite Series",
+      "time": "06:10",
+      "timeRaw": "12:10 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_spread_michal-minda_vs_dominik-solilo",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Dominik Solilo",
+      "league": "TT Elite Series",
+      "time": "05:40",
+      "timeRaw": "11:40 PM",
+      "l5": null,
+      "score": 59,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_over_igor-dabrowski_vs_krzysztof-kotyl",
       "date": "2026-08-17",
@@ -167,6 +208,27 @@
       "score": 55,
       "h2h": 14,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_spread_sebastian-krupa_vs_jakub-jesiek",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Jakub Jesiek",
+      "league": "TT Elite Series",
+      "time": "03:10",
+      "timeRaw": "9:10 PM",
+      "l5": null,
+      "score": 56,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
