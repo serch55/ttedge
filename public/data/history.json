@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-16T10:01:50.846Z",
+  "generated": "2026-08-16T10:31:34.659Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3611,
+  "totalCount": 3612,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-16_over_marcin-jadczyk_vs_michal-gawlas",
+      "date": "2026-08-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Michal Gawlas",
+      "league": "TT Elite Series",
+      "time": "14:05",
+      "timeRaw": "8:05 AM",
+      "pct": 82,
+      "l5": 80,
+      "sets3": 82,
+      "score": 59,
+      "h2h": 11,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_under_jiri-grohsgott_vs_miroslav-vaclavik",
       "date": "2026-08-16",
