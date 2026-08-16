@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-16T14:01:45.627Z",
+  "generated": "2026-08-16T14:31:32.502Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3616,
-  "todayCount": 4,
+  "totalCount": 3619,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-16_spread_frantisek-nadymacek_vs_zbynek-pagac",
+      "date": "2026-08-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Frantisek Nadymacek",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "18:30",
+      "timeRaw": "12:30 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_filip-mlynarski_vs_alan-wos",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 83,
+      "score": 62,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_spread_filip-mlynarski_vs_alan-wos",
+      "date": "2026-08-16",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Filip Mlynarski",
+      "away": "Alan Wos",
+      "league": "TT Elite Series",
+      "time": "18:05",
+      "timeRaw": "12:05 PM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 12,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_over_patryk-jendrzejewski_vs_dawid-jadam",
       "date": "2026-08-16",
