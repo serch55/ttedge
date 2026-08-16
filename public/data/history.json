@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-16T20:01:54.020Z",
+  "generated": "2026-08-16T20:31:30.235Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3637,
-  "todayCount": 10,
+  "totalCount": 3640,
+  "todayCount": 11,
   "matches": [
     {
       "id": "2026-08-16_under_wojciech-urban_vs_mariusz-baron",
@@ -908,6 +908,27 @@
       ]
     },
     {
+      "id": "2026-08-16_under_petr-sebera_vs_jakub-tazler",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Sebera",
+      "away": "Jakub Tazler",
+      "league": "Czech Liga Pro",
+      "time": "02:30",
+      "timeRaw": "8:30 PM",
+      "pct": 79,
+      "l5": 60,
+      "sets3": 57,
+      "score": 64,
+      "h2h": 14,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-16_under_zbigniew-nocun_vs_jerzy-debski",
       "date": "2026-08-16",
       "type": "under",
@@ -923,6 +944,48 @@
       "score": 62,
       "h2h": 11,
       "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_under_martin-sychra_vs_denis-hofman",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Sychra",
+      "away": "Denis Hofman",
+      "league": "Czech Liga Pro",
+      "time": "02:00",
+      "timeRaw": "8:00 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 47,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-16_over_kacper-kwiatkowski_vs_michal-machelski",
+      "date": "2026-08-16",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kacper Kwiatkowski",
+      "away": "Michal Machelski",
+      "league": "TT Elite Series",
+      "time": "01:45",
+      "timeRaw": "7:45 PM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 78,
+      "score": 61,
+      "h2h": 9,
+      "trend": "rising",
       "tags": [
         "Fatigue",
         "Volatile"
