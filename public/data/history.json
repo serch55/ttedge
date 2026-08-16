@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-16T10:31:34.659Z",
+  "generated": "2026-08-16T11:01:35.477Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-16",
-  "totalCount": 3612,
+  "totalCount": 3613,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-16_under_david-szotek_vs_zbynek-pagac",
+      "date": "2026-08-16",
+      "type": "under",
+      "conf": "ultra",
+      "home": "David Szotek",
+      "away": "Zbynek Pagac",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 62,
+      "l5": 60,
+      "sets3": 62,
+      "score": 61,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-16_over_marcin-jadczyk_vs_michal-gawlas",
       "date": "2026-08-16",
@@ -105,6 +126,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
