@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-17T10:31:33.381Z",
+  "generated": "2026-08-17T11:01:41.504Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3691,
-  "todayCount": 8,
+  "totalCount": 3694,
+  "todayCount": 10,
   "matches": [
+    {
+      "id": "2026-08-17_under_yurij-fomin_vs_grzegorz-wichowski",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Yurij Fomin",
+      "away": "Grzegorz Wichowski",
+      "league": "TT Elite Series",
+      "time": "14:45",
+      "timeRaw": "8:45 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_marcin-balcerzak_vs_karol-wisniewski",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Karol Wisniewski",
+      "league": "TT Elite Series",
+      "time": "14:35",
+      "timeRaw": "8:35 AM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_dawid-michna_vs_krystian-kolodziej",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dawid Michna",
+      "away": "Krystian Kolodziej",
+      "league": "TT Elite Series",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 93,
+      "score": 55,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_michal-kaspar_vs_zbynek-zientek",
       "date": "2026-08-17",
@@ -22,6 +85,7 @@
       "h2h": 15,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
