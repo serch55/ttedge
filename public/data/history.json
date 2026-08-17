@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-17T05:01:39.919Z",
+  "generated": "2026-08-17T05:31:30.047Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3675,
-  "todayCount": 7,
+  "totalCount": 3677,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-17_under_krzysztof-kapik_vs_marcin-balcerzak",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Krzysztof Kapik",
+      "away": "Marcin Balcerzak",
+      "league": "TT Elite Series",
+      "time": "09:20",
+      "timeRaw": "3:20 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 60,
+      "score": 62,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_andriej-fomin_vs_dariusz-maszczynski",
       "date": "2026-08-17",
@@ -61,6 +82,27 @@
       "sets3": 78,
       "score": 62,
       "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_igor-dabrowski_vs_kamil-rudomina",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Kamil Rudomina",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 80,
+      "score": 58,
+      "h2h": 15,
       "trend": "rising",
       "tags": [
         "Fatigue",
