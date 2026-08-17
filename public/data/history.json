@@ -1,10 +1,50 @@
 {
-  "generated": "2026-08-17T03:31:33.192Z",
+  "generated": "2026-08-17T04:01:34.118Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3668,
+  "totalCount": 3670,
   "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-17_under_alexander-hejduk_vs_tomas-kucera",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Alexander Hejduk",
+      "away": "Tomas Kucera",
+      "league": "Czech Liga Pro",
+      "time": "09:00",
+      "timeRaw": "3:00 AM",
+      "pct": 71,
+      "l5": 40,
+      "sets3": 64,
+      "score": 65,
+      "h2h": 14,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_mateusz-sikon_vs_jakub-pruszkowski",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mateusz Sikon",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 78,
+      "l5": 100,
+      "sets3": 78,
+      "score": 62,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_over_ivo-taichman_vs_tomas-milkov",
       "date": "2026-08-17",
