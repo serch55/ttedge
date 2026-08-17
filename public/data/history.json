@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-17T17:01:47.240Z",
+  "generated": "2026-08-17T17:31:35.577Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3710,
-  "todayCount": 7,
+  "totalCount": 3711,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-17_under_radim-urbaniec_vs_radek-rose",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Radim Urbaniec",
+      "away": "Radek Rose",
+      "league": "Czech Liga Pro",
+      "time": "21:30",
+      "timeRaw": "3:30 PM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_denis-hofman_vs_sebastian-kasnik",
       "date": "2026-08-17",
@@ -147,6 +168,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
