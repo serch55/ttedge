@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-17T23:02:01.615Z",
+  "generated": "2026-08-17T23:31:24.282Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3730,
-  "todayCount": 7,
+  "totalCount": 3732,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-18_over_jakub-zochniak_vs_artur-sobel",
+      "date": "2026-08-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Zochniak",
+      "away": "Artur Sobel",
+      "league": "TT Elite Series",
+      "time": "05:40",
+      "timeRaw": "11:40 PM",
+      "pct": 87,
+      "l5": 100,
+      "sets3": 87,
+      "score": 68,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-18_over_mateusz-trela_vs_bartlomiej-wisniewski",
       "date": "2026-08-18",
@@ -41,6 +62,27 @@
       "sets3": 67,
       "score": 62,
       "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-18_over_michal-paszkiewicz_vs_pawel-adamus",
+      "date": "2026-08-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Pawel Adamus",
+      "league": "TT Elite Series",
+      "time": "02:50",
+      "timeRaw": "8:50 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 70,
+      "score": 55,
+      "h2h": 10,
       "trend": "falling",
       "tags": [
         "Fatigue",
