@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-17T04:01:34.118Z",
+  "generated": "2026-08-17T04:31:24.451Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3670,
-  "todayCount": 5,
+  "totalCount": 3674,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-17_under_alexander-hejduk_vs_tomas-kucera",
@@ -42,6 +42,7 @@
       "h2h": 9,
       "trend": "rising",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
@@ -67,6 +68,27 @@
       ]
     },
     {
+      "id": "2026-08-17_under_kamil-rudomina_vs_mikolaj-lukaszewski",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Kamil Rudomina",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 53,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-17_under_grzegorz-wichowski_vs_patryk-mecik",
       "date": "2026-08-17",
       "type": "under",
@@ -83,6 +105,69 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_igor-dabrowski_vs_adrian-myszewski",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Igor Dabrowski",
+      "away": "Adrian Myszewski",
+      "league": "TT Elite Series",
+      "time": "07:40",
+      "timeRaw": "1:40 AM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 87,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_michal-minda_vs_przemyslaw-blocho",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Minda",
+      "away": "Przemyslaw Blocho",
+      "league": "TT Elite Series",
+      "time": "06:50",
+      "timeRaw": "12:50 AM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 67,
+      "score": 62,
+      "h2h": 12,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_spread_oliver-vincenec_vs_mariusz-baron",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Oliver Vincenec",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "06:40",
+      "timeRaw": "12:40 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
