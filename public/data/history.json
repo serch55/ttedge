@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-17T20:31:38.692Z",
+  "generated": "2026-08-17T21:02:12.967Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
   "totalCount": 3719,
-  "todayCount": 5,
+  "todayCount": 4,
   "matches": [
+    {
+      "id": "2026-08-17_under_miroslaw-warzecha_vs_adam-staniczek",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "23:35",
+      "timeRaw": "5:35 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 47,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_spread_jakub-kuzmicz_vs_konrad-staszczyk",
       "date": "2026-08-17",
@@ -165,27 +186,6 @@
       "pct": 53,
       "l5": 80,
       "sets3": 67,
-      "score": 61,
-      "h2h": 15,
-      "trend": "rising",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-17_under_denis-hofman_vs_sebastian-kasnik",
-      "date": "2026-08-17",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Denis Hofman",
-      "away": "Sebastian Kasnik",
-      "league": "Czech Liga Pro",
-      "time": "21:00",
-      "timeRaw": "3:00 PM",
-      "pct": 53,
-      "l5": 20,
-      "sets3": 60,
       "score": 61,
       "h2h": 15,
       "trend": "rising",
@@ -377,26 +377,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-17_under_miroslaw-warzecha_vs_adam-staniczek",
-      "date": "2026-08-17",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Miroslaw Warzecha",
-      "away": "Adam Staniczek",
-      "league": "TT Elite Series",
-      "time": "17:35",
-      "timeRaw": "11:35 AM",
-      "pct": 80,
-      "l5": 80,
-      "sets3": 40,
-      "score": 66,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
         "Volatile"
       ]
     },
@@ -1269,6 +1249,27 @@
       "l5": 60,
       "sets3": 67,
       "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_denis-hofman_vs_sebastian-kasnik",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Denis Hofman",
+      "away": "Sebastian Kasnik",
+      "league": "Czech Liga Pro",
+      "time": "03:30",
+      "timeRaw": "9:30 PM",
+      "pct": 53,
+      "l5": 20,
+      "sets3": 67,
+      "score": 62,
       "h2h": 15,
       "trend": "falling",
       "tags": [
