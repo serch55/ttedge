@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-17T11:01:41.504Z",
+  "generated": "2026-08-17T11:31:28.662Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3694,
-  "todayCount": 10,
+  "totalCount": 3695,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-17_spread_tibor-spanik_vs_amirreza-abbasi",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Tibor Spanik",
+      "away": "Amirreza Abbasi",
+      "league": "TT Elite Series",
+      "time": "15:20",
+      "timeRaw": "9:20 AM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 11,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_yurij-fomin_vs_grzegorz-wichowski",
       "date": "2026-08-17",
@@ -17,8 +38,8 @@
       "timeRaw": "8:45 AM",
       "pct": 60,
       "l5": 60,
-      "sets3": 60,
-      "score": 61,
+      "sets3": 67,
+      "score": 62,
       "h2h": 15,
       "trend": "rising",
       "tags": [
