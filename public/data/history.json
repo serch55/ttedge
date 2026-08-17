@@ -1,10 +1,71 @@
 {
-  "generated": "2026-08-17T14:01:40.617Z",
+  "generated": "2026-08-17T14:31:35.710Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3700,
-  "todayCount": 5,
+  "totalCount": 3703,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-17_under_martin-biolek_vs_tadeas-zika",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Martin Biolek",
+      "away": "Tadeas Zika",
+      "league": "Czech Liga Pro",
+      "time": "18:00",
+      "timeRaw": "12:00 PM",
+      "pct": 40,
+      "l5": 20,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_miroslaw-warzecha_vs_adam-staniczek",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 40,
+      "score": 66,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_spread_miroslaw-warzecha_vs_adam-staniczek",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "17:35",
+      "timeRaw": "11:35 AM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_jacek-zelezik_vs_henryk-tkaczyk",
       "date": "2026-08-17",
