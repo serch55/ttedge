@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-17T09:01:38.755Z",
+  "generated": "2026-08-17T09:31:36.519Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3686,
+  "totalCount": 3687,
   "todayCount": 7,
   "matches": [
     {
@@ -84,6 +84,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_artur-sobel_vs_igor-dabrowski",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Artur Sobel",
+      "away": "Igor Dabrowski",
+      "league": "TT Elite Series",
+      "time": "12:10",
+      "timeRaw": "6:10 AM",
+      "pct": 47,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
