@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-17T16:31:31.339Z",
+  "generated": "2026-08-17T17:01:47.240Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3709,
+  "totalCount": 3710,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-17_under_denis-hofman_vs_sebastian-kasnik",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Denis Hofman",
+      "away": "Sebastian Kasnik",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 53,
+      "l5": 20,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_michal-paszkiewicz_vs_lukasz-oracz",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Michal Paszkiewicz",
+      "away": "Lukasz Oracz",
+      "league": "TT Elite Series",
+      "time": "20:45",
+      "timeRaw": "2:45 PM",
+      "pct": 92,
+      "l5": 80,
+      "sets3": 31,
+      "score": 69,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_over_michal-zahradka_vs_radim-urbaniec",
       "date": "2026-08-17",
@@ -1058,27 +1100,6 @@
       "l5": 60,
       "sets3": 67,
       "score": 64,
-      "h2h": 15,
-      "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-17_under_denis-hofman_vs_sebastian-kasnik",
-      "date": "2026-08-17",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Denis Hofman",
-      "away": "Sebastian Kasnik",
-      "league": "Czech Liga Pro",
-      "time": "04:00",
-      "timeRaw": "10:00 PM",
-      "pct": 60,
-      "l5": 20,
-      "sets3": 60,
-      "score": 61,
       "h2h": 15,
       "trend": "falling",
       "tags": [
