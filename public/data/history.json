@@ -1,10 +1,114 @@
 {
-  "generated": "2026-08-17T17:31:35.577Z",
+  "generated": "2026-08-17T19:01:44.961Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3711,
-  "todayCount": 8,
+  "totalCount": 3716,
+  "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-17_spread_jakub-kuzmicz_vs_konrad-staszczyk",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Jakub Kuzmicz",
+      "away": "Konrad Staszczyk",
+      "league": "TT Elite Series",
+      "time": "23:25",
+      "timeRaw": "5:25 PM",
+      "l5": null,
+      "score": 58,
+      "pick": "",
+      "spread": null,
+      "h2h": 9,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_mateusz-rutkowski_vs_jakub-kuzmicz",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Mateusz Rutkowski",
+      "away": "Jakub Kuzmicz",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 67,
+      "l5": 60,
+      "sets3": 80,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_kyryl-darin_vs_tomas-dousa",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Kyryl Darin",
+      "away": "Tomas Dousa",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 80,
+      "score": 63,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_over_richard-skacelik_vs_dalimil-machander",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Richard Skacelik",
+      "away": "Dalimil Machander",
+      "league": "Czech Liga Pro",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 100,
+      "score": 58,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_miroslaw-warzecha_vs_dariusz-maszczynski",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Miroslaw Warzecha",
+      "away": "Dariusz Maszczynski",
+      "league": "TT Elite Series",
+      "time": "22:00",
+      "timeRaw": "4:00 PM",
+      "pct": 60,
+      "l5": 100,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_under_radim-urbaniec_vs_radek-rose",
       "date": "2026-08-17",
