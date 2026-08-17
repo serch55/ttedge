@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-17T07:01:48.776Z",
+  "generated": "2026-08-17T07:31:31.941Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
   "totalCount": 3681,
-  "todayCount": 9,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-17_spread_dawid-michna_vs_tibor-spanik",
+      "date": "2026-08-17",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Dawid Michna",
+      "away": "Tibor Spanik",
+      "league": "TT Elite Series",
+      "time": "11:20",
+      "timeRaw": "5:20 AM",
+      "l5": null,
+      "score": 60,
+      "pick": "",
+      "spread": null,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_over_dawid-michna_vs_krzysztof-kapik",
       "date": "2026-08-17",
@@ -315,26 +336,6 @@
       "trend": "",
       "tags": [
         "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-17_spread_dawid-michna_vs_tibor-spanik",
-      "date": "2026-08-17",
-      "type": "spread",
-      "conf": "ultra",
-      "home": "Dawid Michna",
-      "away": "Tibor Spanik",
-      "league": "TT Elite Series",
-      "time": "06:10",
-      "timeRaw": "12:10 AM",
-      "l5": null,
-      "score": 57,
-      "pick": "",
-      "spread": null,
-      "h2h": 13,
-      "trend": "",
-      "tags": [
         "Volatile"
       ]
     },
