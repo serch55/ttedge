@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-17T11:31:28.662Z",
+  "generated": "2026-08-17T12:01:41.526Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3695,
-  "todayCount": 9,
+  "totalCount": 3697,
+  "todayCount": 8,
   "matches": [
+    {
+      "id": "2026-08-17_over_karol-wisniewski_vs_grzegorz-poliniewicz",
+      "date": "2026-08-17",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Karol Wisniewski",
+      "away": "Grzegorz Poliniewicz",
+      "league": "TT Elite Series",
+      "time": "16:15",
+      "timeRaw": "10:15 AM",
+      "pct": 93,
+      "l5": 100,
+      "sets3": 100,
+      "score": 59,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_marcin-balcerzak_vs_krzysztof-kapik",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Balcerzak",
+      "away": "Krzysztof Kapik",
+      "league": "TT Elite Series",
+      "time": "15:50",
+      "timeRaw": "9:50 AM",
+      "pct": 67,
+      "l5": 80,
+      "sets3": 67,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_spread_tibor-spanik_vs_amirreza-abbasi",
       "date": "2026-08-17",
