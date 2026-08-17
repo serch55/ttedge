@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-17T08:02:23.515Z",
+  "generated": "2026-08-17T08:31:36.140Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3682,
-  "todayCount": 5,
+  "totalCount": 3684,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-17_under_marcin-jadczyk_vs_amirreza-abbasi",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Amirreza Abbasi",
+      "league": "TT Elite Series",
+      "time": "12:25",
+      "timeRaw": "6:25 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 47,
+      "score": 75,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_grzegorz-wichowski_vs_yurij-fomin",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Yurij Fomin",
+      "league": "TT Elite Series",
+      "time": "12:20",
+      "timeRaw": "6:20 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 60,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-17_over_adrian-wiecek_vs_dawid-michna",
       "date": "2026-08-17",
