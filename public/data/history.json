@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-17T19:01:44.961Z",
+  "generated": "2026-08-17T19:31:37.459Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3716,
-  "todayCount": 7,
+  "totalCount": 3718,
+  "todayCount": 8,
   "matches": [
     {
       "id": "2026-08-17_spread_jakub-kuzmicz_vs_konrad-staszczyk",
@@ -27,6 +27,27 @@
       ]
     },
     {
+      "id": "2026-08-17_under_jacek-zelezik_vs_adam-staniczek",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jacek Zelezik",
+      "away": "Adam Staniczek",
+      "league": "TT Elite Series",
+      "time": "22:45",
+      "timeRaw": "4:45 PM",
+      "pct": 40,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
       "id": "2026-08-17_under_mateusz-rutkowski_vs_jakub-kuzmicz",
       "date": "2026-08-17",
       "type": "under",
@@ -42,6 +63,27 @@
       "score": 60,
       "h2h": 15,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_wojciech-gluszek_vs_marcin-kowalczyk",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Gluszek",
+      "away": "Marcin Kowalczyk",
+      "league": "TT Elite Series",
+      "time": "22:30",
+      "timeRaw": "4:30 PM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 67,
+      "score": 66,
+      "h2h": 15,
+      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
@@ -85,6 +127,7 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
