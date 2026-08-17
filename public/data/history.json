@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-17T03:01:50.533Z",
+  "generated": "2026-08-17T03:31:33.192Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-17",
-  "totalCount": 3667,
-  "todayCount": 6,
+  "totalCount": 3668,
+  "todayCount": 5,
   "matches": [
     {
       "id": "2026-08-17_over_ivo-taichman_vs_tomas-milkov",
@@ -23,6 +23,26 @@
       "trend": "falling",
       "tags": [
         "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-17_under_grzegorz-wichowski_vs_patryk-mecik",
+      "date": "2026-08-17",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Grzegorz Wichowski",
+      "away": "Patryk Mecik",
+      "league": "TT Elite Series",
+      "time": "07:55",
+      "timeRaw": "1:55 AM",
+      "pct": 47,
+      "l5": 40,
+      "sets3": 67,
+      "score": 61,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
         "Volatile"
       ]
     },
