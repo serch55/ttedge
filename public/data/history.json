@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-18T12:31:30.951Z",
+  "generated": "2026-08-18T13:01:51.549Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3755,
-  "todayCount": 10,
+  "totalCount": 3756,
+  "todayCount": 9,
   "matches": [
+    {
+      "id": "2026-08-18_over_krzysztof-schaniel_vs_jakub-pruszkowski",
+      "date": "2026-08-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Krzysztof Schaniel",
+      "away": "Jakub Pruszkowski",
+      "league": "TT Elite Series",
+      "time": "17:00",
+      "timeRaw": "11:00 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 87,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-18_under_wojciech-wojtaszczyk_vs_oskar-sokolowski",
       "date": "2026-08-18",
