@@ -1,10 +1,71 @@
 {
-  "generated": "2026-08-18T15:01:47.858Z",
+  "generated": "2026-08-18T15:31:30.921Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3760,
-  "todayCount": 4,
+  "totalCount": 3763,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-18_under_sebastian-krupa_vs_marek-tkocz",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Sebastian Krupa",
+      "away": "Marek Tkocz",
+      "league": "TT Elite Series",
+      "time": "19:10",
+      "timeRaw": "1:10 PM",
+      "pct": 80,
+      "l5": 100,
+      "sets3": 40,
+      "score": 76,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-18_under_piotr-strus_vs_michal-skorski",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Piotr Strus",
+      "away": "Michal Skorski",
+      "league": "TT Elite Series",
+      "time": "18:35",
+      "timeRaw": "12:35 PM",
+      "pct": 69,
+      "l5": 60,
+      "sets3": 46,
+      "score": 61,
+      "h2h": 13,
+      "trend": "falling",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-18_under_rafal-skotniczny_vs_mariusz-baron",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Rafal Skotniczny",
+      "away": "Mariusz Baron",
+      "league": "TT Elite Series",
+      "time": "18:20",
+      "timeRaw": "12:20 PM",
+      "pct": 40,
+      "l5": 60,
+      "sets3": 73,
+      "score": 62,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-18_spread_kacper-adamus_vs_kacper-slawinski",
       "date": "2026-08-18",
