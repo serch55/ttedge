@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-18T14:31:40.502Z",
+  "generated": "2026-08-18T15:01:47.858Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
   "totalCount": 3760,
-  "todayCount": 6,
+  "todayCount": 4,
   "matches": [
     {
       "id": "2026-08-18_spread_kacper-adamus_vs_kacper-slawinski",
@@ -85,7 +85,6 @@
       "h2h": 15,
       "trend": "falling",
       "tags": [
-        "Fatigue",
         "Volatile"
       ]
     },
