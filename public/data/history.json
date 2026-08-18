@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-18T14:01:51.912Z",
+  "generated": "2026-08-18T14:31:40.502Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3759,
-  "todayCount": 10,
+  "totalCount": 3760,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-18_spread_kacper-adamus_vs_kacper-slawinski",
+      "date": "2026-08-18",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Kacper Adamus",
+      "away": "Kacper Slawinski",
+      "league": "TT Elite Series",
+      "time": "17:55",
+      "timeRaw": "11:55 AM",
+      "l5": null,
+      "score": 57,
+      "pick": "",
+      "spread": null,
+      "h2h": 10,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-18_under_wojciech-gluszek_vs_marcin-kowalczyk",
       "date": "2026-08-18",
