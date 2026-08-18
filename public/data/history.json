@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-18T16:03:18.873Z",
+  "generated": "2026-08-18T16:33:14.262Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3763,
-  "todayCount": 4,
+  "totalCount": 3764,
+  "todayCount": 3,
   "matches": [
+    {
+      "id": "2026-08-18_under_petr-bradach_vs_erik-mares",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Petr Bradach",
+      "away": "Erik Mares",
+      "league": "Czech Liga Pro",
+      "time": "21:00",
+      "timeRaw": "3:00 PM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 40,
+      "score": 62,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-18_under_sebastian-krupa_vs_marek-tkocz",
       "date": "2026-08-18",
@@ -42,6 +63,7 @@
       "h2h": 13,
       "trend": "falling",
       "tags": [
+        "Fatigue",
         "Volatile"
       ]
     },
