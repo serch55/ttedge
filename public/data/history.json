@@ -1,10 +1,73 @@
 {
-  "generated": "2026-08-18T07:01:55.211Z",
+  "generated": "2026-08-18T07:31:32.431Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3737,
-  "todayCount": 4,
+  "totalCount": 3740,
+  "todayCount": 5,
   "matches": [
+    {
+      "id": "2026-08-18_under_dawid-kosmal_vs_michal-minda",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Kosmal",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "10:30",
+      "timeRaw": "4:30 AM",
+      "pct": 80,
+      "l5": 80,
+      "sets3": 60,
+      "score": 63,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-18_over_mariusz-baron_vs_boguslaw-madej",
+      "date": "2026-08-18",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Mariusz Baron",
+      "away": "Boguslaw Madej",
+      "league": "TT Elite Series",
+      "time": "10:20",
+      "timeRaw": "4:20 AM",
+      "pct": 90,
+      "l5": 100,
+      "sets3": 90,
+      "score": 59,
+      "h2h": 10,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-18_under_dariusz-wrobel_vs_mikolaj-lukaszewski",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dariusz Wrobel",
+      "away": "Mikolaj Lukaszewski",
+      "league": "TT Elite Series",
+      "time": "10:10",
+      "timeRaw": "4:10 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 73,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-18_under_mateusz-trela_vs_aleksander-lilien",
       "date": "2026-08-18",
