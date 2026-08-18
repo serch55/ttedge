@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-18T13:31:27.326Z",
+  "generated": "2026-08-18T14:01:51.912Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-18",
-  "totalCount": 3758,
-  "todayCount": 9,
+  "totalCount": 3759,
+  "todayCount": 10,
   "matches": [
     {
       "id": "2026-08-18_under_wojciech-gluszek_vs_marcin-kowalczyk",
@@ -189,6 +189,27 @@
       "score": 61,
       "h2h": 15,
       "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-18_under_przemyslaw-blocho_vs_michal-minda",
+      "date": "2026-08-18",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Przemyslaw Blocho",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "15:55",
+      "timeRaw": "9:55 AM",
+      "pct": 64,
+      "l5": 60,
+      "sets3": 71,
+      "score": 61,
+      "h2h": 14,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
