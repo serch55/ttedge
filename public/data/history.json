@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-19T04:01:45.376Z",
+  "generated": "2026-08-19T04:31:35.656Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-19",
-  "totalCount": 3784,
-  "todayCount": 7,
+  "totalCount": 3786,
+  "todayCount": 9,
   "matches": [
     {
       "id": "2026-08-19_over_piotr-przewlocki_vs_wojciech-wojtaszczyk",
@@ -84,6 +84,47 @@
       "score": 63,
       "h2h": 12,
       "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_under_dawid-kotwica_vs_artur-szoltysek",
+      "date": "2026-08-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Dawid Kotwica",
+      "away": "Artur Szoltysek",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 57,
+      "l5": 60,
+      "sets3": 57,
+      "score": 61,
+      "h2h": 14,
+      "trend": "",
+      "tags": [
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_over_jakub-glanowski_vs_michal-minda",
+      "date": "2026-08-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Jakub Glanowski",
+      "away": "Michal Minda",
+      "league": "TT Elite Series",
+      "time": "08:00",
+      "timeRaw": "2:00 AM",
+      "pct": 73,
+      "l5": 60,
+      "sets3": 87,
+      "score": 55,
+      "h2h": 15,
+      "trend": "falling",
       "tags": [
         "Fatigue",
         "Volatile"
