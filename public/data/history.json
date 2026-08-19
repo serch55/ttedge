@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-19T01:31:35.797Z",
+  "generated": "2026-08-19T02:04:09.683Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-19",
-  "totalCount": 3777,
-  "todayCount": 5,
+  "totalCount": 3779,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-19_under_marcin-jadczyk_vs_dmitrij-prokopcov",
+      "date": "2026-08-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Marcin Jadczyk",
+      "away": "Dmitrij Prokopcov",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 85,
+      "l5": 80,
+      "sets3": 54,
+      "score": 66,
+      "h2h": 13,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_under_wojciech-wojtaszczyk_vs_witold-buczynski",
+      "date": "2026-08-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Witold Buczynski",
+      "league": "TT Elite Series",
+      "time": "08:05",
+      "timeRaw": "2:05 AM",
+      "pct": 67,
+      "l5": 100,
+      "sets3": 42,
+      "score": 63,
+      "h2h": 12,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-19_under_grzegorz-felkel_vs_krzysztof-wloczko",
       "date": "2026-08-19",
