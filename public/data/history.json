@@ -1,10 +1,136 @@
 {
-  "generated": "2026-08-19T06:01:47.215Z",
+  "generated": "2026-08-19T12:31:56.039Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-19",
-  "totalCount": 3793,
-  "todayCount": 13,
+  "totalCount": 3797,
+  "todayCount": 6,
   "matches": [
+    {
+      "id": "2026-08-19_over_dominik-oborny_vs_jakub-levicky",
+      "date": "2026-08-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Dominik Oborny",
+      "away": "Jakub Levicky",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 93,
+      "score": 58,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_under_erik-mares_vs_libor-prikasky",
+      "date": "2026-08-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Erik Mares",
+      "away": "Libor Prikasky",
+      "league": "Czech Liga Pro",
+      "time": "16:30",
+      "timeRaw": "10:30 AM",
+      "pct": 78,
+      "l5": 80,
+      "sets3": 44,
+      "score": 62,
+      "h2h": 9,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_over_rafal-gajda_vs_oliver-vincenec",
+      "date": "2026-08-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Rafal Gajda",
+      "away": "Oliver Vincenec",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 73,
+      "l5": 80,
+      "sets3": 87,
+      "score": 55,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_under_witold-buczynski_vs_krzysztof-hetnar",
+      "date": "2026-08-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Witold Buczynski",
+      "away": "Krzysztof Hetnar",
+      "league": "TT Elite Series",
+      "time": "15:30",
+      "timeRaw": "9:30 AM",
+      "pct": 53,
+      "l5": 80,
+      "sets3": 60,
+      "score": 64,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_over_wojciech-wojtaszczyk_vs_piotr-przewlocki",
+      "date": "2026-08-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Wojciech Wojtaszczyk",
+      "away": "Piotr Przewlocki",
+      "league": "TT Elite Series",
+      "time": "15:05",
+      "timeRaw": "9:05 AM",
+      "pct": 87,
+      "l5": 60,
+      "sets3": 100,
+      "score": 65,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_under_jakub-tazler_vs_denis-hofman",
+      "date": "2026-08-19",
+      "type": "under",
+      "conf": "ultra",
+      "home": "Jakub Tazler",
+      "away": "Denis Hofman",
+      "league": "Czech Liga Pro",
+      "time": "14:30",
+      "timeRaw": "8:30 AM",
+      "pct": 60,
+      "l5": 60,
+      "sets3": 67,
+      "score": 60,
+      "h2h": 15,
+      "trend": "falling",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-19_under_pavel-wawrosz_vs_tadeas-zika",
       "date": "2026-08-19",
@@ -21,48 +147,6 @@
       "score": 63,
       "h2h": 15,
       "trend": "falling",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-19_over_rafal-gajda_vs_oliver-vincenec",
-      "date": "2026-08-19",
-      "type": "over",
-      "conf": "ultra",
-      "home": "Rafal Gajda",
-      "away": "Oliver Vincenec",
-      "league": "TT Elite Series",
-      "time": "09:30",
-      "timeRaw": "3:30 AM",
-      "pct": 80,
-      "l5": 100,
-      "sets3": 93,
-      "score": 63,
-      "h2h": 15,
-      "trend": "",
-      "tags": [
-        "Fatigue",
-        "Volatile"
-      ]
-    },
-    {
-      "id": "2026-08-19_under_witold-buczynski_vs_krzysztof-hetnar",
-      "date": "2026-08-19",
-      "type": "under",
-      "conf": "ultra",
-      "home": "Witold Buczynski",
-      "away": "Krzysztof Hetnar",
-      "league": "TT Elite Series",
-      "time": "09:20",
-      "timeRaw": "3:20 AM",
-      "pct": 53,
-      "l5": 80,
-      "sets3": 60,
-      "score": 63,
-      "h2h": 15,
-      "trend": "",
       "tags": [
         "Fatigue",
         "Volatile"
