@@ -1,10 +1,52 @@
 {
-  "generated": "2026-08-19T03:31:30.141Z",
+  "generated": "2026-08-19T04:01:45.376Z",
   "tzNote": "hora española (+6h)",
   "lastDay": "2026-08-19",
-  "totalCount": 3782,
+  "totalCount": 3784,
   "todayCount": 7,
   "matches": [
+    {
+      "id": "2026-08-19_over_piotr-przewlocki_vs_wojciech-wojtaszczyk",
+      "date": "2026-08-19",
+      "type": "over",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "pct": 80,
+      "l5": 60,
+      "sets3": 100,
+      "score": 61,
+      "h2h": 15,
+      "trend": "rising",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
+    {
+      "id": "2026-08-19_spread_piotr-przewlocki_vs_wojciech-wojtaszczyk",
+      "date": "2026-08-19",
+      "type": "spread",
+      "conf": "ultra",
+      "home": "Piotr Przewlocki",
+      "away": "Wojciech Wojtaszczyk",
+      "league": "TT Elite Series",
+      "time": "08:55",
+      "timeRaw": "2:55 AM",
+      "l5": null,
+      "score": 55,
+      "pick": "",
+      "spread": null,
+      "h2h": 15,
+      "trend": "",
+      "tags": [
+        "Fatigue",
+        "Volatile"
+      ]
+    },
     {
       "id": "2026-08-19_under_marcin-jadczyk_vs_dmitrij-prokopcov",
       "date": "2026-08-19",
